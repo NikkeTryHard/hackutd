@@ -1,0 +1,55 @@
+{
+  "projectName": "Stock Port",
+  "tagline": "Comprehensive web app, which helps analyze sentiment for any stock, gives recommendations based on sentiment, and allows users to sell and buy stocks on demand!",
+  "hackathon": "HackUTD VIII",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our inspiration for this project came from being able to utilize existing data on the internet to analyze whether certain stocks are good for purchase/sale. Getting involved in the stock market, is always beneficial for all age groups, and our application aims to get people into investing in the stock market so they can learn how to better manage their money.",
+    "whatItDoes": "This web application mainly provides users an interface through which they can analyze sentiment of any stock and purchase/sell them if they wish to.",
+    "howWeBuiltIt": "We built the backend component of this project using Python and the API endpoints with Flask. The frontend UI was built with React, and we utilized Firebase for the database solution.",
+    "challengesWeRanInto": "We ran into challenges when trying to send API requests , but were ultimately able to pull through and successfully connect all the endpoints",
+    "accomplishmentsWeAreProudOf": "We have a fully connected user authenticated frontend+backend application which is capable of serving multiple users. We analyzed sentiment for over 20+ company stocks with over 100,000+ rows of social media data!",
+    "whatWeLearned": "Learned a lot about integrating the frontend with the backend.",
+    "whatIsNext": "Our next step would be looking towards deployment of the frontend and backend components"
+  },
+  "builtWith": [
+    "auth0",
+    "firebase",
+    "flask",
+    "python",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner General Winners"
+  ],
+  "team": [
+    {
+      "name": "Ashwin Somasundaram",
+      "username": null,
+      "contribution": "I loved working with large datasets in Python for this project! Utilizing a version of BERT model to anazlyze sentiment using NLP was an enriching experience!"
+    },
+    {
+      "name": "hansika sundaresan",
+      "username": null,
+      "contribution": "I loved the experience of creating a full stack application that provided customers with multiple uses (educational, financial, and professional). It was my and my teammates first time working with many of the technologies and I loved the experience!"
+    }
+  ],
+  "likesBy": [
+    "Harsha Srikara"
+  ],
+  "updates": [
+    {
+      "author": "Ashwin Somasundaram",
+      "timestamp": "4 years ago",
+      "content": "Ashwin Somasundaram started this project"
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,269 @@
+{
+  "website": {
+    "name": "Devpost",
+    "header": {
+      "logo": "Devpost",
+      "navigation": [
+        "Join a hackathon",
+        "Host a hackathon",
+        "Resources"
+      ],
+      "userActions": [
+        "Log in",
+        "Sign up"
+      ]
+    },
+    "hackathonPage": {
+      "title": "Axxess Hackathon 2024",
+      "navigationTabs": [
+        {
+          "name": "Overview"
+        },
+        {
+          "name": "My projects"
+        },
+        {
+          "name": "Participants",
+          "count": 184
+        },
+        {
+          "name": "Resources"
+        },
+        {
+          "name": "Rules",
+          "active": true
+        },
+        {
+          "name": "Project gallery"
+        },
+        {
+          "name": "Updates"
+        },
+        {
+          "name": "Discussions"
+        }
+      ],
+      "mainContent": {
+        "hero": {
+          "title": "Axxess Hackathon 2024",
+          "tagline": "Developing innovative solutions for healthcare.",
+          "callToAction": "Start late project",
+          "secondaryActions": [
+            "Find more hackathons",
+            "View the winners"
+          ]
+        },
+        "sidebar": {
+          "participationInfo": {
+            "title": "Who can participate",
+            "rules": [
+              "Ages 18+ only",
+              "Companies/professional organizations excluded from participation",
+              "US only"
+            ],
+            "links": [
+              "View full rules",
+              "View schedule"
+            ]
+          },
+          "eventDetails": {
+            "date": "Feb 17 – 18, 2024",
+            "location": "University of Texas at Dallas",
+            "type": "Public"
+          },
+          "stats": {
+            "prizes": "$1,198 in prizes",
+            "participants": "184 participants"
+          },
+          "host": {
+            "name": "Axxess"
+          },
+          "themes": [
+            "Health",
+            "Open Ended"
+          ]
+        },
+        "overview": {
+          "about": {
+            "title": "About the Axxess Hackathon 2024",
+            "content": "The Axxess Hackathon is a 30-hour weekend event focusing on Healthcare Innovation. This event encourages students to be innovative and think creatively through multiple challenges. Student attendees form teams of up to four members and work on a select challenge. Students are encouraged to build apps, propose new technology approaches and more. Students at all levels and all majors are welcomed and encouraged to attend. The world is run by cross disciplinary teams and students from different backgrounds can find great success through collaboration."
+          },
+          "purpose": {
+            "title": "What's the Purpose?",
+            "content": "Support student experiential learning focusing on Healthcare Innovation. Students will develop CS and non-CS student skills through hacking challenges. It is great practice to work in teams to tackle a problem at this event, as you would as a full-time employee after graduation. Students also have the opportunity to network with company contacts, learn through workshops and showcase their ideas developed throughout the event."
+          },
+          "whyAttend": {
+            "title": "Why attend the Axxess Hackathon?",
+            "content": "The Axxess Hackathon is an opportunity to learn more about the Healthcare Industry and dive into ideas to improve the delivery, data capture, or efficiency of care. Everyone is impacted by our health. The vast healthcare industry is an aggregation and integration of sectors within the economic system that provides goods and services to treat patients with curative, preventive, rehabilitative, and palliative care."
+          },
+          "additionalDetails": {
+            "title": "Additional Details",
+            "content": "Visit our website at https://www.axxess.com/hackathon"
+          },
+          "requirements": {
+            "title": "Requirements",
+            "items": [
+              "A 2 minute (max) minute video demo of the project is required for submission (uploaded on Youtube or any public platform). Video demo needs to just show working product, no need to talk or explain.",
+              "Attach Repository with working code to submission."
+            ]
+          }
+        },
+        "rules": {
+          "sections": [
+            {
+              "title": "Dates",
+              "content": "The 2024 Axxess Hackathon is Saturday, Feburary 17, to Sunday, Feburary 18. The in person event takes place in the Engineering and Computer Science West (ECSW) building at the University of Texas at Dallas. Check in and meals will be on the first floor in the Axxess Atrium."
+            },
+            {
+              "title": "Eligibility",
+              "content": "All participants must be at least 18 years old. All entrants must be on-site at the event, there is no virtual/remote participation."
+            },
+            {
+              "title": "Project and Submission Requirements",
+              "content": "Projects should not be started prior to the Hackathon. All projects must begin at the Axxess Hackathon, but you are welcome to consider project ideas prior to the day of the event. Projects can range from solving personal, social, or business challenges through new, altered, and innovative technologies.\n\nTeams at the Axxess Hackathon can have up to four members. If you do not have a team, you can either work individually or form teams the day of the hackathon by meeting fellow hackers on the Discord or during team building events."
+            }
+          ]
+        },
+        "prizes": {
+          "title": "Prizes",
+          "totalValue": "$1,198 in prizes",
+          "list": [
+            {
+              "category": "Overall Prize - First Place",
+              "winnerCount": "1 winner",
+              "prize": "Beats Studio Pro"
+            },
+            {
+              "category": "Overall Prize - Second Place",
+              "winnerCount": "1 winner",
+              "prize": "Apple AirPods Pro (2nd Gen)"
+            },
+            {
+              "category": "Overall Prize - Third Place",
+              "winnerCount": "1 winner",
+              "prize": "HP 27h Full HD Monitor"
+            },
+            {
+              "category": "Challenge Winner Prize- Artificial Intelligence",
+              "winnerCount": "1 winner",
+              "prize": "INSIGNIA 32-inch Class F20 Series Smart HD 720p Fire TV"
+            },
+            {
+              "category": "Challenge Winner Prize- Mobile",
+              "winnerCount": "1 winner",
+              "prize": "Razer BlackShark V2 Pro Wireless Gaming Headset"
+            },
+            {
+              "category": "Challenge Winner Prize- Wearable Devices",
+              "winnerCount": "1 winner",
+              "prize": "Logitech G PRO Mechanical Gaming Keyboard"
+            }
+          ]
+        },
+        "judges": {
+          "title": "Judges",
+          "list": [
+            {
+              "name": "Arvind Chavan",
+              "title": "Senior Director of Engineering"
+            }
+          ]
+        },
+        "judgingCriteria": {
+          "title": "Judging Criteria",
+          "criteria": [
+            {
+              "name": "Project Concept",
+              "description": "What is the overall idea and how is it innovative?"
+            },
+            {
+              "name": "Technical Execution",
+              "description": "How complex was the technical execution and how well was it done?"
+            },
+            {
+              "name": "Research and Design",
+              "description": "How much research and effort was put into the UI/UX aspects of the project?"
+            },
+            {
+              "name": "Presentation",
+              "description": "How well was the overall idea and execution presented both from a business and technical perspective?"
+            }
+          ]
+        },
+        "contact": {
+          "message": "Questions? Email the hackathon manager"
+        },
+        "recaptchaNotice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+      },
+      "similarHackathons": {
+        "title": "Similar hackathons",
+        "list": [
+          {
+            "name": "natHACKS 2024",
+            "deadline": "10 days left",
+            "location": "Edmonton, Calgary, Lethbridge, Online",
+            "prizes": "$CAD 31,500 in prizes",
+            "participants": "572 participants",
+            "status": "View winners"
+          },
+          {
+            "name": "AI 4 Alzheimer's",
+            "deadline": "about 2 months left",
+            "location": "Online",
+            "prizes": "$111,930 in prizes",
+            "participants": "406 participants"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "columns": [
+        {
+          "title": "Devpost",
+          "links": [
+            "About",
+            "Careers",
+            "Contact",
+            "Help"
+          ]
+        },
+        {
+          "title": "Hackathons",
+          "links": [
+            "Browse hackathons",
+            "Explore projects",
+            "Host a hackathon",
+            "Hackathon guides"
+          ]
+        },
+        {
+          "title": "Portfolio",
+          "links": [
+            "Your projects",
+            "Your hackathons",
+            "Settings"
+          ]
+        },
+        {
+          "title": "Connect",
+          "socials": [
+            "Twitter",
+            "Discord",
+            "Facebook",
+            "LinkedIn"
+          ]
+        }
+      ],
+      "legal": {
+        "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+        "links": [
+          "Community guidelines",
+          "Security",
+          "CA notice",
+          "Privacy policy",
+          "Terms of service"
+        ]
+      }
+    }
+  }
+}

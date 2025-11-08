@@ -1,0 +1,76 @@
+{
+  "projectName": "EstateSense",
+  "tagline": "Intelligent property analytics",
+  "hackathon": "HackUTD X",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "The inspiration for \"EstateSense\" stemmed from the recognition of the critical role that the condition of a property plays in the real estate industry. Understanding that this aspect impacts not only market price but also maintenance costs, environmental factors, and risk exposure, we sought to leverage the power of Artificial Intelligence and Machine Learning to revolutionize how properties are assessed and evaluated.",
+    "whatItDoes": "\"Estate Sense\" is a cutting-edge solution designed to comprehensively manage and assess the condition of properties. Using a combination of computer vision, Generative AI, and ML technologies, it analyzes various factors such as interior and exterior features, age, quality, renovations, defects, property maintenance, location, and market trends. The system generates detailed narratives on the condition of the subject property and provides comparative insights against similar properties in the market. Additionally, it predicts the susceptibility of the property to environmental factors.",
+    "howWeBuiltIt": {
+      "description": "The development of \"Estate Sense\" involved a multidisciplinary approach, bringing together expertise in computer vision, artificial intelligence, and machine learning. We employed state-of-the-art algorithms for image recognition by TensorFlow.js and Generative AI model with the help of OpenAIs API to extract relevant information from property data. Data collection was facilitated through a form that the property inspector fills out. The backend infrastructure was built using robust cloud computing resources to handle the computational demands of the AI models.",
+      "techStack": "Backend: Node Frontend: React Cloud: AWS IaC: Terraform Generative AI: Open AI Object Detection: Tensorflow Wall Crack Detection: Roboflow crack-wall model"
+    },
+    "challengesWeRanInto": "One of the primary challenges we encountered was ensuring the accuracy and reliability of the assessments. Achieving a high level of precision in identifying property conditions required meticulous research of various machine learning models available in the market. Additionally, integrating environmental impact predictions proved to be a complex task, as it involved the incorporation of diverse datasets and specialized algorithms.",
+    "accomplishmentsWeAreProudOf": "We save a lot of time and effort for the property inspector by making a large part of data collection automatic through our object detection model. We also provide a personalized and professional report of our assessment of the property that buyers can go through before making a decision.",
+    "whatWeLearned": "Throughout the development of \"Estate Sense,\" we gained invaluable insights into the intricacies of real estate assessment and the importance of leveraging advanced technologies. We deepened our understanding of integrating APIs, developing a scalable product and the ethical considerations surrounding data privacy in the real estate industry.",
+    "whatIsNext": "The future of \"Estate Sense\" holds exciting possibilities. We plan to further refine our models with our custom dataset to enhance accuracy and coverage. Additionally, we aim to incorporate additional features, such as predictive analytics for property value trends and personalized recommendations for property improvements. Collaborations with industry partners and integration with existing real estate platforms are also on the horizon, as we strive to make \"Estate Sense\" a cornerstone tool for property assessment and valuation in the market."
+  },
+  "builtWith": [
+    "amazon-web-services",
+    "docker",
+    "git",
+    "javascript",
+    "node.js",
+    "openai",
+    "react",
+    "terraform"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "estate-sense-final-demo-1011365489.us-east-1.elb.amazonaws.com",
+      "url": "http://estate-sense-final-demo-1011365489.us-east-1.elb.amazonaws.com"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner CBRE"
+  ],
+  "team": [
+    {
+      "name": "Navaneeth kumar Buddi",
+      "username": null,
+      "contribution": "I have worked on the UI, BE related stuff."
+    },
+    {
+      "name": "Mayukha K",
+      "username": null,
+      "contribution": "Full stack developer"
+    },
+    {
+      "name": "Ajay kaarthic Jeysree",
+      "username": null,
+      "contribution": "Full Stack Developer"
+    },
+    {
+      "name": "Divyam Patro",
+      "username": null,
+      "contribution": "AWS Certified Solutions Architect Associate | Grad student at UT Dallas"
+    }
+  ],
+  "likesBy": [
+    "Divyam Patro",
+    "Navaneeth kumar Buddi"
+  ],
+  "updates": [
+    {
+      "author": "Ajay kaarthic Jeysree",
+      "timestamp": "2 years ago",
+      "content": "Ajay kaarthic Jeysree started this project"
+    }
+  ],
+  "comments": []
+}

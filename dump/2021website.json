@@ -1,0 +1,628 @@
+{
+  "website": "HackUTD",
+  "pages": [
+    {
+      "pageName": "Landing Page (Pre-Sign-In)",
+      "header": {
+        "logo": "HackUTD",
+        "navigation": [
+          "Dashboard",
+          "Schedule",
+          "Speakers",
+          "Sponsors",
+          "About"
+        ],
+        "signInButton": "Sign in"
+      },
+      "hero": {
+        "title": "THANKS FOR JOINING US!",
+        "stats": [
+          {
+            "value": "800+",
+            "label": "participants"
+          },
+          {
+            "value": "24",
+            "label": "hours"
+          },
+          {
+            "value": "34",
+            "label": "events"
+          }
+        ]
+      },
+      "aboutSection": {
+        "title": "About HackUTD",
+        "content": "HackUTD, the largest university hackathon in North Texas, is a weekend long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make."
+      },
+      "footer": {
+        "credits": "Made with 🌃 by ACM Development",
+        "logo": "HACKUTD"
+      }
+    },
+    {
+      "pageName": "Dashboard (Post-Sign-In)",
+      "header": {
+        "logo": "HackUTD",
+        "navigation": [
+          "Dashboard",
+          "Schedule",
+          "Speakers",
+          "Sponsors",
+          "About"
+        ],
+        "signInButton": "Sign in",
+        "userMessage": "Welcome, hacker"
+      },
+      "sidebar": {
+        "title": "HackCenter",
+        "links": [
+          "Scan-In",
+          "HackerPack"
+        ]
+      },
+      "mainContent": {
+        "announcements": [
+          {
+            "message": "Didn’t receive one of those AWESOME HackUTD bucket hats? Don’t worry! We’ll be giving out hats to hackers that haven’t received one yet in the ECSW atrium on Tuesday and Wednesday at 11 AM. Have your QR code ready!",
+            "timestamp": "17:32"
+          },
+          {
+            "message": "Hope you all had a BLAST at HackUTD VIII: BLAST FROM THE PAST! Thanks for coming and see you all next year!",
+            "timestamp": "18:25"
+          },
+          {
+            "message": "If you haven’t gotten your shotglass and coaster from last night, come to the atrium to get them!",
+            "timestamp": "17:48"
+          },
+          {
+            "message": "Closing ceremony starting now in ECSW 1.315!",
+            "timestamp": "16:15"
+          },
+          {
+            "message": "Closing ceremony will start at 4:15 in ECSW 1.315!!!",
+            "timestamp": "15:50"
+          },
+          {
+            "message": "If you didn't get a table earlier, you should have one now. Check the spreadsheet in Discord announcements.",
+            "timestamp": "14:03"
+          },
+          {
+            "message": "All vegetarians your pizza is here in the Atrium!",
+            "timestamp": "13:13"
+          },
+          {
+            "message": "Last call for lunch! Ends in half an hour.",
+            "timestamp": "13:00"
+          },
+          {
+            "message": "You will have until 1:45 to be in your designated spot for judging The project expo will now run from 1:45-3:15 and the closing ceremony will now begin at 3:30",
+            "timestamp": "12:28"
+          },
+          {
+            "message": "Due to some complications with the caterer, non-vegetarian individuals will proceed to receive free birds. If you can't eat meat, pizza will be distributed to you throughout the project expo at your respective table from 1-2:30PM. Sorry for the inconvenience.",
+            "timestamp": "12:12"
+          },
+          {
+            "message": "Submissions have closed. Absolutely no late submissions. Come down to ECSW for swag and lunch!",
+            "timestamp": "12:02"
+          },
+          {
+            "message": "YOU HAVE 5 MINS TO SUBMIT! Once you've submitted, come to the atrium to get swag and food.",
+            "timestamp": "11:56"
+          },
+          {
+            "message": "Project Submissions closing at 12. Lunch At 12. Shirts at 12. Have your QR code ready to scan. You're almost there!",
+            "timestamp": "11:49"
+          },
+          {
+            "message": "JUST 15 MINS UNTIL PROJECT SUBMISSIONS END!! Submit to devpost ASAP, you can edit the submission until 12. GOGOGOGO",
+            "timestamp": "11:45"
+          },
+          {
+            "message": "Lunch will be served at Noon in the atrium! Have your QR code ready to scan, and remember to submit your project before then!",
+            "timestamp": "11:20"
+          },
+          {
+            "message": "1 HOUR UNTIL HACKING ENDS! NO PROJECTS ACCEPTED AFTER 12! NO EXCEPTIONS!",
+            "timestamp": "11:01"
+          },
+          {
+            "message": "BREAKFAST SECONDS ARE BEING SERVED!",
+            "timestamp": "09:17"
+          },
+          {
+            "message": "Good morning hackers! We'll be having breakfast at 9 in the atrium. Make sure to have your QR code ready!",
+            "timestamp": "08:34"
+          },
+          {
+            "message": "Devpost has been fully updated - please make sure to select the projects you are submitting to on the devpost. If you are in-person, you're good to go after this! We'll be giving y'all table numbers once submissions close. If you are online/virtual, you should submit a video, even if you plan to do some form of live judging over discord. All judging for the general prizes will be done with the videos, but sponsors may allow y'all to use in-person judging.",
+            "timestamp": "07:47"
+          },
+          {
+            "message": "GOOOODDD MORNING HACKERS! This is a reminder that all submissions are due by 12 PM SHARP. No exceptions!",
+            "timestamp": "07:12"
+          },
+          {
+            "message": "The booth for shot glasses and coasters closes at 1:30, swing by soon for swag",
+            "timestamp": "01:15"
+          },
+          {
+            "message": "Thanks y'all for coming to the first day of HackUTD! Reminder that registrations are now closed, and we will not be accepting any further registrations on Sunday!",
+            "timestamp": "00:53"
+          },
+          {
+            "message": "There’s some absolutely PIPING “hot” chocolate downstairs in ECSW! We’ll also be having shot glasses and coasters as the next swag item! COME AND GET IT!",
+            "timestamp": "23:40"
+          },
+          {
+            "message": "Hello Hackers! Smash tournament registration link will close in 1 minute! Come down to the Atrium.",
+            "timestamp": "22:38"
+          },
+          {
+            "message": "The Smash Tournament will begin in 2 minutes! Register ASAP to participate here https://acmutd.typeform.com/to/nv4B8ZSZ Prizes will be beats thanks to StateFarm!",
+            "timestamp": "22:29"
+          },
+          {
+            "message": "Smash Tournament begins in 45 minutes. You may bring your own controller, if you want to. Registration will close soon - https://acmutd.typeform.com/to/nv4B8ZSZ",
+            "timestamp": "21:47"
+          },
+          {
+            "message": "Freeplay:PS4 SFV + DB FZ Meta Quest VR Games at ECSW 1.100 right now!",
+            "timestamp": "21:35"
+          },
+          {
+            "message": "We have cookies from Tiff’s Treats thanks to our sponsor, Goldman Sachs! Come to the first floor of ECSW to get some!",
+            "timestamp": "21:06"
+          },
+          {
+            "message": "Dinner seconds are ready! Please get only ONE sandwich, sanitize your hands, and be civil. Limited supply available.",
+            "timestamp": "20:55"
+          },
+          {
+            "message": "Data Visualization with Streamlit by AIS is starting now in Room 3.250!",
+            "timestamp": "20:09"
+          },
+          {
+            "message": "DINNER IN ECSW 1.100 at 7:30! (ALSO please have your QR code ready to scan)",
+            "timestamp": "19:26"
+          },
+          {
+            "message": "Unity Coding Tips and Tricks by SGDA in 5 mins at ECSW 3.210!",
+            "timestamp": "19:10"
+          },
+          {
+            "message": "Github Actions with State Farm starting NOW at ECSW 3.250!",
+            "timestamp": "18:45"
+          },
+          {
+            "message": "Want to win $100? Play Flappy Plane at http://flappy-plane.herokuapp.com/",
+            "timestamp": "18:38"
+          },
+          {
+            "message": "So You Think You Can Fly? with American Airlines at 6:30 PM in ECSW 1.100! (Be there - It’s going to be awesome!)",
+            "timestamp": "18:15"
+          },
+          {
+            "message": "Hey Hackers! Just as a reminder, you can ask organizers questions at hackutd.co/about/questions.",
+            "timestamp": "18:04"
+          },
+          {
+            "message": "Building a Blockchain dApp by UTD Blockchan in ECSW 3.210 in 5 mins!",
+            "timestamp": "17:53"
+          },
+          {
+            "message": "Squid Game 3 in 5 mins at ECSW 1.100!",
+            "timestamp": "17:38"
+          },
+          {
+            "message": "Hey hackers, EOG workshop is in 10 mins at ECSW 3.250!",
+            "timestamp": "17:18"
+          },
+          {
+            "message": "Hey hackers, remember to stay hydrated!",
+            "timestamp": "16:47"
+          },
+          {
+            "message": "Hey Hackers, next workshop in 5 minutes. Head over to ECSW 3.210 for Pitch Perfect by E-Club!",
+            "timestamp": "16:40"
+          },
+          {
+            "message": "Hackers, Gamers, Nintendo Fans, we’re hosting a Smash Tournament tonight at 10:30 (Sign up to participate https://acmutd.typeform.com/to/nv4B8ZSZ). We have a surprise for the un-Beaten champion!",
+            "timestamp": "16:25"
+          },
+          {
+            "message": "Howdy Hackers!. The next workshop is in 5 minutes. Head over to ECSW 3.250 for Understanding Digital Innovation in FinTech: The Effects of Social Media and Cloud Computing by Goldman Sachs",
+            "timestamp": "16:12"
+          },
+          {
+            "message": "Squid Game 2 happening in 1 minute at ECSW 1.100!",
+            "timestamp": "15:45"
+          },
+          {
+            "message": "Hey Hackers! The next workshop of the day will start in 5 minutes! head over to ECSW 3.210 for LinkedIn Workshop by AKPsi!",
+            "timestamp": "15:41"
+          },
+          {
+            "message": "Howdy again Hackers! The next workshop of the day will start in 1 minute! head over to ECSW 3.250 for Full Stack Development with Next.js by American Airlines!",
+            "timestamp": "15:00"
+          },
+          {
+            "message": "Howdy Hackers IEEE Social going on Now! Head over to ECSW 1.355. That is the room next to the Opening Ceremony!",
+            "timestamp": "14:37"
+          },
+          {
+            "message": "Lunch is over! Food trucks are not serving anymore. Dinner is at 7:30 pm!",
+            "timestamp": "14:29"
+          },
+          {
+            "message": "The Waffle O'licious food truck closes at 3:00! If you have a hankering for chicken & waffles, act now!",
+            "timestamp": "14:16"
+          },
+          {
+            "message": "Howdy Hackers, our next workshop event will be starting in 2 minutes in room ECSW 3.210. 7 Steps to Problem-Solving Methodology by 180 Degree Consulting!",
+            "timestamp": "14:14"
+          },
+          {
+            "message": "Food trucks will be going away soon! Come by and check in if you haven't gotten lunch yet!",
+            "timestamp": "13:47"
+          },
+          {
+            "message": "Howdy hackers, Due to unforeseen circumstances Google Developer Student Club will not be able to host their workshop at 1:45pm. Please look forward to our upcoming event at 2:15 pm \"7 Steps to Problem Solving Methodology by 180DC!",
+            "timestamp": "13:43"
+          },
+          {
+            "message": "Squid Game Happening Now at the Atrium near the sponsor booths!",
+            "timestamp": "13:33"
+          },
+          {
+            "message": "Hello hackers! Our first game of the day will be starting in 6 min! Squid Game - Team Ddakji! Head over to the Atrium!! Winner please stick around for surPrize!",
+            "timestamp": "13:26"
+          },
+          {
+            "message": "Hi Everyone! Arduino Crash Course Workshop by UTD MakerSpace will begin in 4 min! Make your way to ECSW 3.210!",
+            "timestamp": "12:57"
+          },
+          {
+            "message": "Team formations will be happening virtually!",
+            "timestamp": "12:08"
+          },
+          {
+            "message": "Challenge descriptions are up on the Dashboard! FYI, you can submit your project to multiple challenges.",
+            "timestamp": "12:02"
+          },
+          {
+            "message": "Another swag item is out! Bucket hats will be distributed after the opening ceremony right outside the auditorium doors. Also, FREE LUNCH in the parking lot next to ECSW at noon! Have your QR code ready so we can get you everything ASAP.",
+            "timestamp": "11:50"
+          },
+          {
+            "message": "Walk-in registration and check-in will be open ALL DAY! We hope to see you :)",
+            "timestamp": "10:43"
+          },
+          {
+            "message": "Keynote starting now at ECSW 1.315! Same place as the opening ceremony, which will be right after!",
+            "timestamp": "10:17"
+          },
+          {
+            "message": "If you are hacking virtually, you don't need to check-in. As long as you have verified on the discord you're set!",
+            "timestamp": "09:12"
+          },
+          {
+            "message": "CHECK IN STARTS IN 30 MINS!",
+            "timestamp": "08:32"
+          },
+          {
+            "message": "Hello everyone! Remember that check in will begin at 9:00 AM TODAY!",
+            "timestamp": "07:41"
+          },
+          {
+            "message": "Welcome everyone! Remember that check in will be at 9 AM. Feel free to explore the HackerPack in the meantime to get an idea of the events that will take place this weekend!",
+            "timestamp": "17:13"
+          }
+        ],
+        "challenges": [
+          {
+            "sponsor": "American Airlines",
+            "title": "American Airlines Challenge - Flight Enhancement",
+            "description": [
+              "Thousands of people fly American each and every day. This awesome responsibility opens the door to incredible opportunities!",
+              "Build something that helps us elevate the customer travel experience, boost operational efficiencies and employee performance (baggage handling, gate agents, etc.), or enhance American’s brand image.",
+              "The American team will provide more details via Discord and Hangar."
+            ],
+            "prizes": [
+              {
+                "place": "1st Place",
+                "award": "75k AAdvantage Miles*"
+              },
+              {
+                "place": "2nd Place",
+                "award": "50k AAdvantage Miles*"
+              }
+            ],
+            "notes": [
+              "* Prize sums represent the total miles per team and the amount will be split evenly between all team members"
+            ]
+          },
+          {
+            "sponsor": "Goldman Sachs",
+            "title": "Goldman Sachs Challenge - Investment Strategy",
+            "description": [
+              {
+                "heading": "Background",
+                "text": "Goldman Sachs provides a wide range of financial services including investment management solutions across all major asset classes to a diverse set of institutional and individual clients. As such, among other things, we focus on a variety of macro, quantitative and research data to identify investment ideas and trends.\nRetail investors have been on rise over the past couple of years. Retail investors are most likely to look beyond traditional stock fundamentals and are increasingly influenced by Social Media activity. Social media chatter and sentiments are significantly connected with stock price movements, retail flows and short selling activity. In fact, recent studies have shown that the majority of institutional investors also use social media as part of their regular work flow. Information obtained through social media has directly influenced an investment recommendation or decision."
+              },
+              {
+                "heading": "Challenge",
+                "text": "The GS Challenge for the Hackathon proposes building co-relation between non-traditional fundamentals like social media chatter and activity, industry leader influences, trends/bubbles created by groups of retail investors etc, and their relation to performance of different types of asset classes including digital/crypto. We would like the participants to develop an investment platform that makes investment recommendations and trading strategy by leveraging data available on historic and current performance of investment products and data available from various outlets on social media activity, sentiment, chatter, influencers etc. You are encouraged to explore beyond the traditional metrics and research different ways this information could be presented as a critical tool, including possibly assigning ‘Social Ratings/Scores’ and tying this research to preferences that users might have based on their own investment history and risk tolerance."
+              }
+            ],
+            "prizes": [
+              {
+                "place": "First Place",
+                "award": "DJI Mini SE Drones"
+              },
+              {
+                "place": "Second Place",
+                "award": "Apple Airpods"
+              },
+              {
+                "place": "Third Place",
+                "award": "Doordash Gift Cards"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "sponsor": "Capital One",
+            "title": "Capital One Challenge - Best Financial Hack",
+            "description": [
+              "Capital One would like to challenge HackUTD to create the best financial hack. Money impacts much of our lives and we would like to promote change for good. The winning team members will be awarded $200 Amazon gift cards. (Prize is not available to international winners)."
+            ],
+            "prizes": [
+              {
+                "place": "1st Place",
+                "award": "$200 Amazon Gift Cards"
+              }
+            ],
+            "notes": [
+              "*If you are submitting a project to the Capital One ‘Best Financial Hack’ challenge, you must submit a 5-minute video to be considered."
+            ]
+          },
+          {
+            "sponsor": "EOG Resources",
+            "title": "EOG Resources Challenge - Operations Optimization",
+            "description": [
+              "EOG wells are constantly producing water and we need to find ways to reduce expenditures, as well as reuse and recycle water whenever possible. Your challenge is to use your creativity to develop an application which can process a steady stream of real-time sensor data to both optimize and visualize the distribution of water for our upstream operations. Oculus Quests will be awarded to the best team for this category. Please come and see the EOG Resources team for more details!"
+            ],
+            "prizes": [
+              {
+                "place": "Best Team",
+                "award": "Oculus Quests"
+              }
+            ],
+            "notes": [
+              "Checkout our github for more info here!",
+              "https://github.com/humflelump/utd-hackathon"
+            ]
+          },
+          {
+            "sponsor": "StateFarm",
+            "title": "StateFarm Challenge - 100-Year Anniversary",
+            "description": [
+              "State Farm’s 100-year anniversary is in 2022. Over the years we have continued to add products to better help our customers. Your challenge is to identify and build out a new tech product or service State Farm could provide to its customers as a “value add”. While State Farm is primarily in the insurance and financial services industry, do not feel limited to those product lines."
+            ],
+            "prizes": [
+              {
+                "place": "1st place",
+                "award": "iPad Air 64 GB"
+              },
+              {
+                "place": "2nd place",
+                "award": "Oculus Quest 2 128 GB"
+              },
+              {
+                "place": "3rd place",
+                "award": "Logitech Mechanical Keyboard"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "sponsor": "Student Government",
+            "title": "Student Government Challenge - Improving Student Life",
+            "description": [
+              "Build for UT Dallas Students: Build an app (either mobile or web) that makes UTD Student life better.",
+              "This challenge will be judged by the Office of Information Technology, with prizes being awarded to UTD students only."
+            ],
+            "prizes": [
+              {
+                "place": "First Place",
+                "award": "10.2 inch iPads"
+              },
+              {
+                "place": "Second Place",
+                "award": "Airpod Pros"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "sponsor": "Project Nebula",
+            "title": "Project Nebula Challenge",
+            "description": [
+              "Project Nebula is an initiative to build tools that help students. We have teams actively developing several projects, including a comprehensive degree planning tool, a personalized guide for UTD students, and the Nebula API⁠—a public API to retrieve UTD data such as course information, degree plan requirements, and historical grade data.",
+              "Your challenge is to build a tool using the Nebula API that helps students during their time in college. Think big: we envision dashboards, interactive planners, and chatbots, but we encourage you to dig deep and build something really cool and creative.",
+              "Only currently enrolled UTD students are eligible to participate in this challenge. All students who submit a project for this challenge will be considered for an interview to join our maintainer team.",
+              "Your project will be evaluated on:",
+              "Student usefulness",
+              "Novelty and creativity",
+              "Project functionality"
+            ],
+            "prizes": [
+              {
+                "place": "Winning Team",
+                "award": "Corsair mechanical keyboards, an honorable mention on our website, and a meeting with us to help grow their idea."
+              }
+            ],
+            "notes": []
+          }
+        ]
+      }
+    },
+    {
+      "pageName": "Schedule",
+      "header": {
+        "logo": "HackUTD",
+        "navigation": [
+          "Dashboard",
+          "Schedule",
+          "Speakers",
+          "Sponsors",
+          "About"
+        ],
+        "signInButton": "Sign in"
+      },
+      "content": {
+        "title": "Day",
+        "note": "The provided text shows a 'Day' title but no further schedule details. The page appears to be part of a 'HackPortal - Dashboard' view."
+      }
+    },
+    {
+      "pageName": "Speakers",
+      "header": {
+        "logo": "HackUTD",
+        "navigation": [
+          "Dashboard",
+          "Schedule",
+          "Speakers",
+          "Sponsors",
+          "About"
+        ],
+        "signInButton": "Sign in"
+      },
+      "speakers": [
+        {
+          "name": "Paul Bailo",
+          "title": "CEO",
+          "company": "PIP Consulting Group",
+          "socialLink": {
+            "platform": "LinkedIn",
+            "text": "Connect on LinkedIn"
+          },
+          "bio": "Paul Bailo is widely recognized by industry thought leaders for his C-level executive skills in Digital Transformation, Marketing and Business Operations. He has earned deep career success in multiple fields, along with an outstanding industry reputation and important executive roles as Digital Innovator, Strategic Thinker, Change Agent, Customer Champion, Industry Author and Creative Entrepreneur. He has built and led top performing teams, start-up entities and world-class organizations. His background in digital transformation, digital communications, emerging payments, operational excellence, data-driven decision-making and ongoing product innovation is unparalleled. His blue-chip background encompasses Google, Apple, ATT, Bank of America, Goldman Sachs, MasterCard, American Express, GE, Citibank, Federal Reserve Bank of New York, NYC Transit Authority and US Department of Transportation."
+        },
+        {
+          "name": "Suresh Thumma",
+          "title": "Managing Director",
+          "company": "Goldman Sachs",
+          "socialLink": {
+            "platform": "LinkedIn",
+            "text": "Connect on LinkedIn"
+          },
+          "bio": "Suresh Thumma is a Managing Director and Tech Fellow at Goldman Sachs. He manages software engineering for cloud enablement, which enables business application deployments on public cloud. Before rejoining Goldman Sachs, Suresh was co-founder and chief executive officer of StackLynx, an online platform for deploying and managing micro services on public cloud. Prior to that, he was a vice president and global head of Cloud Platforms and Platform Automation at Visa. Earlier in his career, Suresh held a variety of roles, including director of Software Engineering for the Investment Research Division at Merrill Lynch and development manager at IBM. He first joined Goldman Sachs in 2008."
+        }
+      ]
+    },
+    {
+      "pageName": "Sponsors",
+      "header": {
+        "logo": "HackUTD",
+        "navigation": [
+          "Dashboard",
+          "Schedule",
+          "Speakers",
+          "Sponsors",
+          "About"
+        ],
+        "signInButton": "Sign in"
+      },
+      "content": {
+        "note": "The website text displays a visual grid of sponsor logos. The following list is inferred from the challenges and other mentions.",
+        "inferredSponsors": [
+          "American Airlines",
+          "Goldman Sachs",
+          "Capital One",
+          "EOG Resources",
+          "StateFarm",
+          "Student Government",
+          "Project Nebula",
+          "Tiff's Treats"
+        ]
+      },
+      "footer": {
+        "eventName": "HackUTD VIII"
+      }
+    },
+    {
+      "pageName": "About / FAQ",
+      "header": {
+        "logo": "HackUTD",
+        "navigation": [
+          "Dashboard",
+          "Schedule",
+          "Speakers",
+          "Sponsors",
+          "About"
+        ],
+        "signInButton": "Sign in"
+      },
+      "content": {
+        "title": "FREQUENTLY ASKED QUESTIONS",
+        "askQuestionButton": "Ask a Question",
+        "faqList": [
+          {
+            "question": "What is a hackathon?",
+            "answer": "A hackathon is a 24-hour competition where you and up to 3 teammates build a software project from scratch and compete against other groups for prizes. Sponsors will also provide workshops, events, and activities throughout the weekend to help you learn more about the field of technology!"
+          },
+          {
+            "question": "Can I participate if I have never hacked?",
+            "answer": "Everyone is welcome to come, and no experience is necessary to attend! We will even be hosting workshops to introduce new hackers to industry programs and technologies."
+          },
+          {
+            "question": "What if I don’t have a team?",
+            "answer": "We will have a teambuilding session at the start of the hackathon for those who need help finding one! You can also choose to work on projects by yourself!"
+          },
+          {
+            "question": "What do I need to bring?",
+            "answer": "You just need to bring a laptop, charger, and a hacking spirit to participate! We will be providing internet connectivity, and we also recommend having a compiler, packages, or any packaging tools ready beforehand."
+          },
+          {
+            "question": "When is HackUTD VIII?",
+            "answer": "November 13th and 14th!"
+          },
+          {
+            "question": "When is registration?",
+            "answer": "Registration began August 12th!"
+          },
+          {
+            "question": "How much does it cost?",
+            "answer": "HackUTD VIII will be completely free to hackers!"
+          },
+          {
+            "question": "Where will it be?",
+            "answer": "HackUTD will be hosted at... You guessed it: UTD!"
+          },
+          {
+            "question": "What are the general rules?",
+            "answer": "Your project must be built entirely over the course of the weekend. No previous projects or code may be used. Have fun!"
+          },
+          {
+            "question": "What should I build?",
+            "answer": "Anything you want! You can try to solve a sponsor challenge or submit a project for the HackUTD awards!"
+          },
+          {
+            "question": "Can I volunteer?",
+            "answer": "Mentor and volunteer applications are open now! Check the home page for the sign-up links!"
+          },
+          {
+            "question": "Free swag? pls?",
+            "answer": "We will have custom HackUTD VIII swag for all participants along with gear provided by our sponsors! And free food!"
+          }
+        ]
+      },
+      "footer": {
+        "eventName": "HackUTD VIII"
+      }
+    }
+  ]
+}

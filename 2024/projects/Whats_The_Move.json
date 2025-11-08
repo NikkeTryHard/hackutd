@@ -1,0 +1,71 @@
+{
+  "projectName": "What's The Move?",
+  "tagline": "A better way to hangout with friends!",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 3,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our friend group lives scattered across DFW, so it can be very time-consuming to decide on a place to meet where the drive isn't too out of the way for one person. This led to us coming up with the idea of WTM. A survey by Eventbrite revealed that 69% of individuals find it difficult to coordinate plans with friends due to varying schedules and locations. We want to ensure that meeting spots can be conveniently decided on without the hassle of checking the distance from everyone.",
+    "whatItDoes": "WTM calculates a user's inverse weighted midpoint between them and their friends and then uses that coordinate to find a point of interest of choice near the midpoint. This ensures everyone has a proportional drive to stay efficient on gas and time.",
+    "howWeBuiltIt": "We used react.js for the frontend, and hosted the website on a serverless backend using express.js and firebase functions. We used a lot of the features from the Google Maps API such as geocoding to get the coordinates, and the query to find locations of interest near a coordinate. We also made our own API to calculate the inverse weighted midpoint formula.",
+    "challenges": "At first, we were using React Native and it gave us a lot of trouble attempting to run the emulators, so we switched to React. After the switch, the Google Places API was giving many errors that took hours to solve. Also, the Pinata API was giving errors with uploading media files near the deadline.",
+    "accomplishments": "We are proud of how the Midpoint API turned out and how the main purpose of the application works. The calculated midpoint is effectively found despite the number of friends entered, and a suitable list of locations is provided too.",
+    "whatWeLearned": "We learned that you can never have enough time and that it's important to figure out the tech stack as early as possible, so any late changes do not happen",
+    "whatsNext": "In the future, we plan to implement group voting, personalized recommendations, and a feature to aid with availability and booking."
+  },
+  "builtWith": [
+    "express.js",
+    "firebase",
+    "google-maps",
+    "pinata",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "hackutd24-whatsthemove.web.app",
+      "url": "http://hackutd24-whatsthemove.web.app"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Most Relatable"
+  ],
+  "team": [
+    {
+      "name": "Faris Shaik",
+      "username": null,
+      "contribution": "Firebase functions + Backend / API development + Hating on Zohaib"
+    },
+    {
+      "name": "Murtaza Khan",
+      "username": null,
+      "contribution": "Google Maps API integration + Front-end + crashing out"
+    },
+    {
+      "name": "Zohaib Saqib",
+      "username": null,
+      "contribution": "Part of frontend + attempting google places api integration + L fufu crashout"
+    },
+    {
+      "name": "Nafiz Labib",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Faris Shaik",
+    "Zohaib Saqib",
+    "Murtaza Khan"
+  ],
+  "updates": [
+    {
+      "author": "Faris Shaik",
+      "timestamp": "12 months ago",
+      "content": "Faris Shaik started this project"
+    }
+  ],
+  "comments": []
+}

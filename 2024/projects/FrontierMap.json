@@ -1,0 +1,98 @@
+{
+  "projectName": "FrontierMap",
+  "tagline": "An AR powered application that allows Frontier users to locate and pinpoint the best locations for their wifi extenders within their house.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 6,
+  "commentsCount": 2,
+  "story": {
+    "inspiration": "Frontier Internet users often struggle with weak Wi-Fi signals in various parts of their homes. We were inspired to create an innovative solution to this problem by leveraging modern AR technology and algorithms. Our goal was to make Wi-Fi optimization simple and accessible to anyone.",
+    "whatItDoes": "FrontierMap is an application that scans a user's home using augmented reality, generating a detailed floor plan. It then analyzes the layout and determines the optimal locations for Wi-Fi extenders, ensuring strong and consistent internet coverage throughout the house. The results are presented in a user-friendly web interface.",
+    "howWeBuiltIt": "Mobile app companion\nWe used RoomPlan with SwiftUI to create the AR scanning feature that allows users to map their home, and output the scan to a reusable format.\n\nBackend\nThe scanned data is then sent to a Python server, which processes the 3D model by flattening it into a 2D floor plan and running algorithms to identify the best locations for a user-defined number of Wi-Fi extenders.\n\nFrontend\nFinally, the analysis results are displayed using a Next.js frontend, providing users with clear and actionable insights.",
+    "challenges": "One of the biggest challenges was accurately flattening the 3D model into a 2D floor plan without losing important details. We also faced difficulties in ensuring our algorithms could adapt to various floor plans and handle irregular layouts effectively. Integrating the AR scan data with our backend and frontend components was another complex task that required precise coordination.",
+    "accomplishments": "We’re proud of successfully integrating AR scanning technology with advanced algorithms to create a seamless user experience. Our application provides accurate and useful recommendations, solving a real-world problem for Frontier Internet users. Additionally, building a multi-platform application with multiple technologies was a significant achievement.",
+    "whatWeLearned": "We gained a deeper understanding of working with RoomPlan and SwiftUI for interactive 3D scanning. We also enhanced our knowledge of Python for processing 3D models and algorithm development. Collaborating across different platforms and technologies improved our ability to work as a cohesive team, tackling challenges from both technical and user experience perspectives.",
+    "whatsNext": "In the future, we plan to enhance FrontierMap by integrating more detailed signal strength analysis using machine learning models. We aim to support multi-story houses and add compatibility with more internet service providers. Additionally, we want to provide real-time recommendations during the AR scanning process, making the application even more intuitive and powerful.",
+    "tryItOutInstructions": "We provided a USDZ file of what a sample house would look like. Download it at our Github under \"usdzsample/MergedRooms.usdz\"\n\nOr\n\nPress this link: USDZ File\n\nhttps://github.com/davidgamingvn/extended-frontier/blob/main/MergedRooms.usdz\nThen go to our website at frontiermap.tech and press \"get started\"\n\nBack-up link:\n\nhttps://extended-frontier.vercel.app\nUpload your the USDZ file\n\nPlace down where your router is on the map\n\nHit \"Done\" at the top\n\nWait for our heatmap of your wifi optimal coverage to generate!"
+  },
+  "builtWith": [
+    "cloudflare",
+    "flask",
+    "nextjs",
+    "pinata",
+    "python",
+    "roomplan",
+    "swift",
+    "tailwind",
+    "uikit"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "frontiermap.tech",
+      "url": "http://frontiermap.tech"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "extended-frontier.vercel.app",
+      "url": "http://extended-frontier.vercel.app"
+    }
+  ],
+  "prizes": [
+    "Winner Frontier"
+  ],
+  "team": [
+    {
+      "name": "Gage Howe",
+      "username": null,
+      "contribution": "I worked on the back-end, specifically the USDZ -> obj conversion, server-side rendering, and router placement algorithms."
+    },
+    {
+      "name": "David Nguyen",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Hussain Alkatheri",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Josh Wu",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Tanmay Adithya",
+    "Bryant Hargreaves",
+    "Private user",
+    "Josh Wu",
+    "Gage Howe",
+    "Trinh Le"
+  ],
+  "updates": [
+    {
+      "author": "David Nguyen",
+      "timestamp": "12 months ago",
+      "content": "David Nguyen started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Joe Malatesta",
+      "username": "joemmalatesta",
+      "timestamp": "12 months ago",
+      "text": "This is a good idea. Also roomplan looks cool as @#$%",
+      "replies": []
+    },
+    {
+      "author": "ledilo ledilo",
+      "username": "ledilo9357",
+      "timestamp": "11 months ago",
+      "text": "Full Setup Download...>>> https://shorturl.at/rEdJy\n.\n.\nFree Setup Download...>>> https://shorturl.at/rEdJy\n.\n.\nLatest Setup Download....>>> https://shorturl.at/rEdJy\n.\n.\nLatest Version Download....>>> https://shorturl.at/rEdJy\n.\n.\nFull Setup Download...>>> https://shorturl.at/rEdJy\n.\n.\nFree Setup Download...>>> https://shorturl.at/rEdJy\n.\n.\nLatest Setup Download....>>> https://shorturl.at/rEdJy\n.\n.\nLatest Version Download....>>> https://shorturl.at/rEdJy",
+      "replies": []
+    }
+  ]
+}

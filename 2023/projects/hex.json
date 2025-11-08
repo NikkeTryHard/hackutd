@@ -1,0 +1,78 @@
+{
+  "projectName": "Hex",
+  "tagline": "Hex is your personal assistant for buying a home.",
+  "hackathon": "HackUTD X",
+  "likes": 7,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "The housing market is tough as it is for new families looking to buy their first house. It just gets tougher if you don't have the right knowledge in your corner. It's extremely important to be informed throughout the home buying process, using all available tools and resources to find your home and make an investment that sets your family up for future financial success.\n\nWith Hex, it's easy to go deeper than what's on the surface of a home listing.\n\nHex aggregates data from numerous sources and utilizes innovative technologies, including computer vision, LiDAR, and generative AI to provide homeowners with the insights needed to find their home.",
+    "whatItDoes": "Hex helps homebuyers track information about houses they tour, first by taking a full 3D scan of the interior using hardware you already have in your pocket. Then, Hex synthesizes this data along with other relevant data about the property, to provide an estimated home value, room count, and fully interactive 3D models of each room's floor plan, making it easy to review and compare homes after tours.",
+    "howWeBuiltIt": "The application is written for iOS devices using SwiftUI. We utilized Apple's RoomPlan SDK, which takes advantage of on-device LiDAR sensors to generate an accurate 3D plan of the interior floor plan and detect other features present within a space such as furniture. We wrote an Express.js web server to facilitate all interactions with external APIs and data sources, so the iOS app only needed to interface with our web server to get all needed data.\n\nWe trained an machine learning model off a dataset of DFW housing prices in the last year in order to accurately estimate home values. Initially, we planned to use TensorFlow and run predictions on a server, but using Create ML and exporting the model as a Core ML package in order to run predictions on-device allowed us to have a better user experience. We used Pandas in a Jupyter Notebook to clean the data before training the model.\n\nFinally, we leveraged the OpenAI API to support the Hex Insights feature.",
+    "challengesWeRanInto": {
+      "macDependency": "Since not all our team members have Macs, we utilized Swift Playgrounds on an iPad to develop some of the views and logic in the mobile app. While this was not ideal, it worked great for our usecase and integrated seamlessly back into our main project.",
+      "mlApplication": "How to apply ML well\nWe spent a lot of time investigating how we could support homeowners with data and provide insights that are truly valuable to the user.",
+      "mixedRealityDesign": "Designing for mixed-reality\nDesigning for the AR room scanning interface was a challenge as none of us had done this before. We wanted to deliver a user experience that felt natural and polished, since this is also a . This required investigating different design patterns and relying on Apple's Human Interface Guidelines to provide an experience that is familiar and intuitive for users.",
+      "learningTechStack": "Learning the tech stack\nAll of us worked with technologies that we weren't as familiar with, so a sizable portion of the hackathon was spent getting familiar with Swift/SwiftUI, the OpenAI API, and machine learning tools."
+    },
+    "whatIsNext": "Better support for multi-room scanning\nAndroid support\nHighlight rooms on the 3D model\nDetect issues with structural integrity and other things which may fly under the radar"
+  },
+  "builtWith": [
+    "adobe-illustrator",
+    "core-ml",
+    "express.js",
+    "figma",
+    "swift"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "www.figma.com",
+      "url": "http://www.figma.com"
+    }
+  ],
+  "prizes": [
+    "Winner Design Track"
+  ],
+  "team": [
+    {
+      "name": "David Launikitis",
+      "username": null,
+      "contribution": "This was my first time using Swift, and I actually found it pretty fun besides having to do at it at 5am. I also worked with OpenAI for the first time and used functions to insert real time data alongside our calls."
+    },
+    {
+      "name": "Jason Antwi-Appah",
+      "username": null,
+      "contribution": "I worked on the home value prediction and helped with building the web server and mobile app."
+    },
+    {
+      "name": "Hilary Nguyen",
+      "username": null,
+      "contribution": "Hi! I'm Jason. I'm a student interested in AV production, software engineering and photography.\nI worked on UI design and branding. It was my first hackathon. The journey was tiring but quite fun. This is my first time developing a design for 3D scans! Very excited to showcase our product"
+    },
+    {
+      "name": "Jake Spann",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Kush Gupta",
+    "Z. Caleb Hernandez",
+    "Dan Nguyen",
+    "Jason Antwi-Appah",
+    "Hilary Nguyen",
+    "David Launikitis",
+    "Shaurya Dwivedi"
+  ],
+  "updates": [
+    {
+      "author": "David Launikitis",
+      "timestamp": "2 years ago",
+      "content": "David Launikitis started this project"
+    }
+  ],
+  "comments": []
+}

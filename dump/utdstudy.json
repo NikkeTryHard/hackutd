@@ -1,0 +1,62 @@
+{
+  "projectName": "UTDStudy",
+  "tagline": "Plan in advance, notify classmates, and study collectively",
+  "hackathon": "HackUTD IX",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired by the problems we faced as college students. We realized there are too many apps for communicating about classwork and exams, so we wanted to include all features of those apps and add unique characteristics, such as a collaborative calendar. Our application will also limit the issue of procrastination because students will be reminding each other about due dates for coursework and exams.",
+    "whatItDoes": "UTDStudy is a prototype for an application that can be a one-stop shop for all studying needs. It encompasses the features of a collaborative calendar, a chat space, scheduled study sessions (video or audio), and a database for uploading study reviews or helpful resources.",
+    "howWeBuiltIt": "Through the use of Javascript, CSS, and HTML we created a presentation site for our project which incorporates a Wix demo site for our app. It also includes the prototype code written in java on the bluej platform.",
+    "challengesWeRanInto": "Throughout the process, a challenge we ran into was navigating the wix site and simple compile errors.",
+    "accomplishmentsWeAreProudOf": "We were proud of the idea that we could code and design the presentation site as well as create a demo site that shows the front-end coding for a user.",
+    "whatWeLearned": "We got more accustomed to using different platforms such as vscode and wix. The process also taught us how to do the back-end coding and also apply it to a front-end demo site.",
+    "whatIsNext": "We hope to design the app entirely with all the features we portrayed in the demo site and the prototype code."
+  },
+  "builtWith": [
+    "bluej",
+    "css",
+    "html",
+    "java",
+    "javascript",
+    "vscode",
+    "wix"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner RingCentral"
+  ],
+  "team": [
+    {
+      "name": "Prisha Sharma",
+      "username": "Prisha Sharma",
+      "contribution": null
+    },
+    {
+      "name": "Poojitha Kommera",
+      "username": "Poojitha Kommera",
+      "contribution": null
+    },
+    {
+      "name": "Afreen Khazi-Syed",
+      "username": "Afreen Khazi-Syed",
+      "contribution": null
+    },
+    {
+      "name": "Pehal Obhan",
+      "username": "Pehal Obhan",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Kayla Tucker"
+  ],
+  "updates": [
+    {
+      "author": "Pehal Obhan",
+      "timestamp": "3 years ago",
+      "content": "Pehal Obhan started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

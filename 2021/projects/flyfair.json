@@ -1,0 +1,75 @@
+{
+  "projectName": "FlyfAIr",
+  "tagline": "Reverse auction for fair compensation of airline crew, ML-powered travel insurance for passengers, reinvest flight earnings with AI-powered stock recommendation engine... FlyFair makes it fair for all",
+  "hackathon": "HackUTD VIII",
+  "likes": 7,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "As the holiday traveling season starts, it's becoming harder and harder to have enough crew members to meet the demands for flights. Airlines often offer bonus salary to those who work during the holiday season, but it can be difficult for both parties to agree on a fair compensation. Our solution is to have a reverse auction system - workers who want to work during the holiday season will place their bid on the minimum bonus they are willing to work for, while the airline company can choose the workers with the minimum bids in the auction to man their aircrafts. Our system will also use a machine learning algorithm to impose a limit on how high the bids can be, therefore ensuring fairness for all parties involved.\n\nTo make sure that the crew members can be even more justly compensated, we have a system to tip the crew members after a flight.\n\nAs the money in crew member's wallet grows, we provide a tool to help them invest their earnings. As r/wallstreetbets repeatedly shocked the market, stocks are more and more influenced by social media. It's never been more important to include social media information in trading decisions. We wish to combine machine learning predictions based on historic stock prices with sentiment analysis on social media posts to give the user the best resources for them to make an informed decision.",
+    "whatItDoes": "Flyfair is a multifunctional app and platform, with several features:\n\n- Flight Crew and Pilots get to choose their own overtime wages per flight, by means of a reverse auction system\n- Each flight has a risk of cancellation calculated into a risk factor, which is used to determine a premium\n- Passengers and Crew get to synchronize ridesharing upon arrival, so rideshare pools are created and users can join or make a rideshare pool with various preferences such as drop off order, gender preference, bags and other factors\n- Passengers have the ability to tip the crew on a flight, this goes into a tipjar which is then disbursed evenly among crew who have individual digital wallets. Each wallet has the ability to hold multiple currencies\n- Crew can choose to invest in various stocks with their wallet funds, and this is aided by an AI driven recommendation engine\n\nReverse Auction\nFlight Insurance\nCrew Member Tipping\nStock Investment\n\nThe final piece of the puzzle is a smart way for crew members to reinvest their earnings in the stock market. First, we use the Yahoo Finance API to get the stock prices. Then, we use our machine learning model hosted on IBM Watson to generate a prediction of the future price, which we use to give the user a recommendation. Then, we scrape r/wallstreetbets on reddit and use sentiment analysis (VADER) to investigate the public opinion about the stock, which we use to calculate a social media score. We also display some highlighted reddit posts about the stock and their sentiments.",
+    "howWeBuiltIt": "We used React and React Native for the frontends, and MongoDB, GCP, and Flask for the backend. We also used VADER for sentiment analysis and PRAW for fetching Reddit information.",
+    "references": "Pitch Deck\nhttps://docs.google.com/presentation/d/1OYzWyvCDBBBB6_KmonCLZtLHMSb0dx29CPvfzR_p-Io/edit?usp=sharing"
+  },
+  "builtWith": [
+    "amazon-web-services",
+    "mongodb",
+    "python",
+    "react-native"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "drive.google.com",
+      "url": "drive.google.com"
+    },
+    {
+      "label": "docs.google.com",
+      "url": "docs.google.com"
+    }
+  ],
+  "prizes": [
+    "Winner American Airlines: Flight Enhancement"
+  ],
+  "team": [
+    {
+      "name": "Ebtesam Haque",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Muntaser Syed",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Steve Han",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Timothy Qin",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "john felipe urrego mejia",
+    "Ebtesam Haque",
+    "Muntaser Syed",
+    "Steve Han",
+    "Erik Rodriguez",
+    "Timothy Qin",
+    "Neil Mitra"
+  ],
+  "updates": [
+    {
+      "author": "Ebtesam Haque",
+      "timestamp": "4 years ago",
+      "content": "Ebtesam Haque started this project"
+    }
+  ],
+  "comments": []
+}

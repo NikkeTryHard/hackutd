@@ -1,0 +1,72 @@
+{
+  "projectName": "Gia (Athena V2.0)",
+  "tagline": "Pill Dispenser with Tamogotchi add on",
+  "hackathon": "Axxess Hackathon 2024",
+  "likes": 6,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Using the information provided in the opening ceremony in-regards to patients not effectively taking in medication and making it more interactive to make the task feel less daunting",
+    "whatItDoes": "An automatic pill dispenser. The purpose of it is to encourage patients to to take their medications by creating an interactive chat bot that uses emotions to determine if patients have taken their medication or not and displaying an emotion based on the info provided.",
+    "howWeBuiltIt": "We created the pill dispenser by 3D printer the parts and using a servo motor and an arduino to remotely dispense the medication. The arduino, plugged into a laptop, calls our backend server to determine when and how many pills should be dispensed.",
+    "challenges": "The major challenges we ran into were getting the 3D printer to print consistently and make the needed parts as well as getting the hardware to communicate effectively with the software.",
+    "accomplishments": "We were able to successful let the hardware components of the dispenser communicate what to do with the software as well as getting the 3D printed prototype to function properly",
+    "whatWeLearned": "With our project being very multi-modal, we learned a variety of different skills in this hackathon. For most of us, it was our first time setting up and using the 3d printer. With the amount of resources read in order to troubleshoot an issue, I can safely say we’ve become experts on the Ender-3 printer. Additionally, we had used numerous different applications in order to convey our project. We learned more about Python’s FastAPI library, React.JS’s customizable components, and plenty of hardware practices.",
+    "whatsNext": "To include facial recognition into the chat bot to better determine if patients have truly taken the medication or not. Putting a screen on the pill dispenser to display the chat bot emotion better and also make taking in medication more interactive to make it more fun"
+  },
+  "builtWith": [
+    "3dprinting",
+    "arduino",
+    "c++",
+    "css",
+    "html",
+    "javascript",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Overall Prize - Third Place"
+  ],
+  "team": [
+    {
+      "name": "Dan Nguyen",
+      "username": null,
+      "contribution": "I worked on the Arduino circuit wiring, attached the servo to the 3D printed dispenser, communication between Python and Arduino, and finally a basic Python program with Tkinter to display Gia's mood from user action fetched from the server"
+    },
+    {
+      "name": "Bukunmi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Bryant Hargreaves",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Jason Antwi-Appah",
+      "username": null,
+      "contribution": "Hi! I'm Jason. I'm a student interested in AV production, software engineering and photography."
+    }
+  ],
+  "likesBy": [
+    "Elena Paul",
+    "Bryant Hargreaves",
+    "Bukunmi",
+    "Shashwati Rajesh",
+    "Timothy Naumov",
+    "Spencer Miller"
+  ],
+  "updates": [
+    {
+      "author": "Jason Antwi-Appah",
+      "timestamp": "2 years ago",
+      "content": "Jason Antwi-Appah started this project"
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,54 @@
+{
+  "projectName": "TerraSync",
+  "tagline": "Using the natural cooling effects of the earth to manage ONT temperature",
+  "hackathon": "HackUTD X",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "challengeSummary": "Your challenge is to improve in any way you can the enclosure that houses our equipment but with special attention to reducing the internal temperature. This improves the longevity of the equipment inside and ensure our service keeps working even in hot Texas summers!",
+    "inspiration": "As a kid I remember playing the backyard and digging little little holes and tunnels and noticing how just a few feet underground it is much cooler then the surface. For the project we aimed to leverage the geothermal techniques in order to cool the ONT unit.",
+    "whatItDoes": "Uses earths natural thermal cooling to manage the temperature of the ONT",
+    "redesign": "Through out the whole process we redesigned or changed the bases of our system several times through the hackathon every time we ran into issues. Going back to the requirements and checking if they meet them.",
+    "challengesWeRanInto": "Our largest challenge was creating a solution that doesn't create other problem. In those cases in becomes a \"Whac-A-Mole\" process that results in a overly complicated unreliable mess. One issues we ran into with the model was it not being to scale requiring the use of estimate values for heat dissipation calculations.",
+    "accomplishmentsWeAreProudOf": "Being able to pivot quickly between concepts",
+    "whatWeLearned": "Heatsink design & Thermal Analysis"
+  },
+  "builtWith": [
+    "shapr3d"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Frontier"
+  ],
+  "team": [
+    {
+      "name": "Hussain Alkatheri",
+      "username": null,
+      "contribution": "Worked to check the viability of our concepts. Thermal conductivity, thermal expansion, life expectancy of components, etc."
+    },
+    {
+      "name": "naser1-1",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Mahdi Hantouli",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Hoai Dinh",
+    "Aarian Ahsan",
+    "Trinh Le",
+    "naser1-1"
+  ],
+  "updates": [
+    {
+      "author": "Hussain Alkatheri",
+      "timestamp": "2 years ago",
+      "content": "Hussain Alkatheri started this project"
+    }
+  ],
+  "comments": []
+}

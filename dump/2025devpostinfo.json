@@ -1,0 +1,322 @@
+{
+  "website": {
+    "brand": "Devpost",
+    "header": {
+      "navigation": [
+        "Join a hackathon",
+        "Host a hackathon",
+        "Resources"
+      ],
+      "userActions": [
+        "Log in",
+        "Sign up"
+      ],
+      "menus": [
+        {
+          "trigger": "Join a hackathon",
+          "title": "Participate in our public hackathons",
+          "links": [
+            "Hackathons",
+            "Projects"
+          ]
+        },
+        {
+          "trigger": "Devpost for Teams",
+          "title": "Access your company's private hackathons",
+          "links": []
+        }
+      ]
+    },
+    "hackathon": {
+      "name": "HackUTD 2025: Lost in the Pages",
+      "subtitle": "Find yourself Lost in the pages...",
+      "callToAction": "Join hackathon",
+      "navigation": [
+        "Overview",
+        "My projects",
+        "Participants (58)",
+        "Resources",
+        "Rules",
+        "Project gallery",
+        "Updates",
+        "Discussions"
+      ],
+      "summary": {
+        "dates": "Nov 8 – 9, 2025",
+        "location": "University of Texas at Dallas - ECSW",
+        "type": "Public",
+        "prizes": "7 non-cash prizes",
+        "participants": 58
+      },
+      "tags": [
+        "hackutd",
+        "Beginner Friendly",
+        "Open Ended",
+        "Social Good"
+      ],
+      "participationInfo": {
+        "title": "Who can participate",
+        "rules": [
+          "Ages 18+ only",
+          "Students only",
+          "All countries/territories, excluding standard exceptions"
+        ],
+        "fullRulesLink": "View full rules"
+      },
+      "submissionStatus": "Submissions open soon",
+      "scheduleLink": "View schedule",
+      "tabs": {
+        "overview": {
+          "description": "Welcome to HackUTD: Lost in the Pages, the largest 24-hour university hackathon in the South! This is a weekend-long event where you have 24 hours to build software, hardware, and more around a problem or idea. You can team up with people you have known forever or people you have just met. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make. Join us for workshops taught by industry leaders, fun events/games, free food, and limited-edition swag items! And, most importantly, an extremely enriching learning experience.",
+          "prizeNote": "Note on prizes: Each member of the winning teams will get a prize",
+          "requirements": {
+            "whatToBuild": {
+              "title": "What to Build",
+              "description": "Build almost anything you want! If you want to win prizes, build something that satisfies sponsor's challenge statements, which you can find a detailed list of on our hackerpack once hacking starts."
+            },
+            "teamRegistration": {
+              "title": "Team Registration",
+              "description": "Your team needs to be registered by 11:00pm on Saturday (11/8). Don’t worry, you do not have to have your whole project done by this time. You will be able to edit your submission after the first submit. This is just to make sure your team is registered on Devpost. You will have until 12:00pm on Sunday to fully submit your project."
+            },
+            "submission": {
+              "title": "Submission",
+              "description": "Your project needs to be finalized by noon (12:00pm) on Sunday! No edits can be made to your project after that time. Make sure you have at least the following:",
+              "items": [
+                "Project Title and Description",
+                "Code Repository or Zip",
+                "Challenges/Tracks you are submitting to",
+                "Demo Video (should ONLY be a demo, maximum of 2 minutes)"
+              ],
+              "note": "You can only submit to a maximum of 2 sponsor challenge statements! (But you can submit to as many non-sponsor tracks as you want). Any challenge with [MLH] at the start does not count towards this limit."
+            }
+          },
+          "prizes": {
+            "summary": "7 non-cash prizes",
+            "categories": [
+              {
+                "name": "General Track",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "Mac M4 16GB" },
+                  { "place": "2nd", "prize": "iPad Air 11\" M3 + Apple Pencil Pro" },
+                  { "place": "3rd", "prize": "Lofree FlowLite 84 Keyboard" }
+                ]
+              },
+              {
+                "name": "Best Startup",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Phillips Hue Light Bar" }]
+              },
+              {
+                "name": "Best Hardware",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "ELEGOO UNO Project Starter Kit" }]
+              },
+              {
+                "name": "Best Design",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Fujifilm Instax Mini SE Instant Camera with Bonus 10 pack Mini Film" }]
+              },
+              {
+                "name": "Best Beginner",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Anker Power Bank" }]
+              },
+              {
+                "name": "Guided Track",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Nord VPN 1 year subscription" }]
+              }
+            ],
+            "sponsorPrizes": {
+              "title": "Sponsor Prizes",
+              "winnerCount": 1,
+              "note": "Check back here after opening ceremony for more information!"
+            }
+          },
+          "judges": {
+            "jury": [
+              { "name": "Jury", "organization": "HackUTD" }
+            ]
+          },
+          "judgingCriteria": [
+            {
+              "name": "Innovation and Creativity",
+              "description": "How unique or original is the project idea? Does it present a new solution to a problem or use technology in an unexpected way?"
+            },
+            {
+              "name": "Technical Complexity",
+              "description": "How technically challenging is the project? Did the team push the boundaries with complex algorithms, integrations, or hardware?"
+            },
+            {
+              "name": "Completeness",
+              "description": "Does the project work as intended? Are there any major bugs or broken features?"
+            },
+            {
+              "name": "Design",
+              "description": "How user-friendly and visually appealing is the project? Is the interface intuitive and easy to navigate?"
+            },
+            {
+              "name": "Impact",
+              "description": "Does the project address a real problem, and could it be used in a real-world context?"
+            },
+            {
+              "name": "Presentation",
+              "description": "How well did the team communicate their project and its purpose? Did they clearly explain the problem, solution, and technical choices?"
+            }
+          ],
+          "contact": {
+            "message": "Questions? Email the hackathon manager"
+          }
+        },
+        "rules": {
+          "dates": {
+            "title": "Dates",
+            "teamRegistrationDeadline": "You must have your team registered on Devpost by 11:00pm on Saturday 11/8. You will be able to edit your post and add your project up until the final deadline.",
+            "finalSubmissionDeadline": "Final Submissions are due at 12:00 PM on Sunday 11/9. Submissions are only through Devpost."
+          },
+          "eligibility": {
+            "title": "Eligibility",
+            "rules": [
+              "We follow the MLH rules, MLH Code of Conduct, and UTD Code of Conduct.",
+              "Directors, Organizers, Volunteers, Mentors, Sponsors, Vendors, and anyone affiliated with operations behind HackUTD are NOT eligible to submit a project.",
+              "All projects must be started at HackUTD. Prior ideas are fine, but no pre-existing projects. Any use of AI to write code will be investigated and are subject to disqualification. AI can aid the creation of your project but you cannot submit a fully AI-generated project.",
+              "Maximum Team Size of 4 for prizes. No exceptions will be made. All Team members must be added to the Devpost submission in order to recieve prizes.",
+              "Projects must be submitted on or before the Sunday, November 9 @ 12:00pm deadline. This is a HARD stop and submissions after this time will NOT be considered."
+            ]
+          },
+          "projectAndSubmissionRules": {
+            "title": "Project and Submission Rules",
+            "intro": "Any violation of these rules will result in immediate disqualification of your team and project",
+            "rules": [
+              "4 hackers maximum per team (anything less including 1 is okay but we encourage finding a full team as you can get a lot more done with 4 people!)",
+              "Only submit to HackUTD — projects that submit to other hackathons will be disqualified",
+              "All code must be uploaded BEFORE the deadline and linked to Devpost — project demos with a working product yet have no code uploaded will be disqualified",
+              "Public frameworks and libraries are allowed, but submitting only copied code will result in project disqualification",
+              "Each hacker is only allowed to be a part of and create one project during this hackathon",
+              "If you use public frameworks or libraries, you must credit them in the README.md file and clearly distinguish your contributions.",
+              "There is no limit on the number of challenges you can submit to, but keep in mind that you should focus on one or a small set of challenges to maximize your chances of winning!",
+              "Anything presented at judging should only be worked on from noon on Saturday to noon on Sunday.",
+              "There should be no coding or building before noon on Saturday.",
+              "However you can ideate beforehand with your team!",
+              "Judging will be in-person expo-style; you must be present at judging to qualify for a prize.",
+              "You can only submit to a maximum of 2 sponsor challenge statements! (But you can submit to as many non-sponsor tracks as you want). Any challenge with [MLH] at the start does not count towards this limit."
+            ]
+          },
+          "prizes": {
+            "title": "Prizes",
+            "rule": "To win prizes you must demo your project during judging and at closing ceremony to accept your prize. If there an extenuating circumstances and one of your team members is not there to demo your project or not present at closing ceremony, we can mail them their prize."
+          },
+          "judging": {
+            "title": "Judging Criteria and Winner Selection",
+            "process": "Judging will be expo/science fair style. Your project will be viewed by 1 or more judges, depending on how many tracks you are submitting to.",
+            "criteriaIntro": "You will be judged on the following criteria:",
+            "criteria": [
+              {
+                "name": "Innovation and Creativity",
+                "description": "How unique or original is the project idea? Does it present a new solution to a problem or use technology in an unexpected way? We will reward creative problem-solving, novel applications of technology, or fresh takes on common issues."
+              },
+              {
+                "name": "Technical Complexity",
+                "description": "How technically challenging is the project? Did the team push the boundaries with complex algorithms, integrations, or hardware? We will consider factors like code structure, technical depth, and ambitious implementations. For beginner hackathons, focus on skills learned rather than pure complexity."
+              },
+              {
+                "name": "Completeness",
+                "description": "Does the project work as intended? Are there any major bugs or broken features?"
+              },
+              {
+                "name": "Design",
+                "description": "How user-friendly and visually appealing is the project? Is the interface intuitive and easy to navigate? Your app should reflect that you put thought into accessibility, layout, visual design, and the intuitiveness of the user journey."
+              },
+              {
+                "name": "Impact",
+                "description": "Does the project address a real problem, and could it be used in a real-world context? How impactful could it be? More points if your project has potential beyond HackUTD. Solve a meaningful problem or have a clear target audience."
+              },
+              {
+                "name": "Presentation",
+                "description": "How well did the team communicate their project and its purpose? Did they clearly explain the problem, solution, and technical choices? Points are awarded for clarity, confidence, and storytelling. Bonus for engaging demos that effectively showcase the project’s functionality and value."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sponsors": {
+      "title": "Hackathon sponsors",
+      "tiers": [
+        {
+          "level": "Title",
+          "sponsors": ["PNC Bank"]
+        },
+        {
+          "level": "Platinum",
+          "sponsors": ["T-Mobile"]
+        },
+        {
+          "level": "Gold",
+          "sponsors": ["Goldman Sachs", "StateFarm", "Northmark", "C2", "EOG Resources", "Toyota Financial Services"]
+        },
+        {
+          "level": "Silver",
+          "sponsors": ["Nvidia", "Capital One", "CBRE"]
+        },
+        {
+          "level": "Bronze",
+          "sponsors": ["Scale", "Cognizant"]
+        }
+      ]
+    },
+    "legalNotice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+    "similarHackathons": [
+      {
+        "name": "Student Innovators Without Borders Hacks",
+        "tags": ["Students", "Open Ended"],
+        "timeLeft": "about 1 month left",
+        "location": "Online",
+        "prizes": "$1,600 in prizes",
+        "participants": 473
+      },
+      {
+        "name": "EY Techathon 6.0",
+        "timeLeft": "7 days left",
+        "location": "Online",
+        "prizes": "₹ 500,000 in prizes",
+        "participants": 66
+      }
+    ],
+    "footer": {
+      "brand": "Devpost",
+      "columns": [
+        {
+          "title": "About",
+          "links": ["Careers", "Contact", "Help"]
+        },
+        {
+          "title": "Hackathons",
+          "links": ["Browse hackathons", "Explore projects", "Host a hackathon", "Hackathon guides"]
+        },
+        {
+          "title": "Portfolio",
+          "links": ["Your projects", "Your hackathons", "Settings"]
+        }
+      ],
+      "connect": {
+        "title": "Connect",
+        "socials": [
+          { "platform": "Twitter" },
+          { "platform": "Discord" },
+          { "platform": "Facebook" },
+          { "platform": "LinkedIn" }
+        ]
+      },
+      "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+      "legalLinks": [
+        "Community guidelines",
+        "Security",
+        "CA notice",
+        "Privacy policy",
+        "Terms of service"
+      ]
+    }
+  }
+}

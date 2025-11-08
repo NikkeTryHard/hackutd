@@ -1,0 +1,66 @@
+{
+  "projectName": "Pulmo for Chronic Obstructive Pulmonary Disease",
+  "tagline": "Introducing Pulmo, industry-first Machine Learning Respiratory Monitor. Leveraging neural networks, we revolutionize respiratory healthcare by providing real-time monitoring and predictive analytics.",
+  "hackathon": "Axxess Hackathon 2024",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "As our world experiences an increase in respiratory and cardiovascular issues, there’s been an increasing need to counter the spread of this epidemic. However, many of these issues, specifically those in minority and elderly communities, lack the resources, time, money, and knowledge to simply track their own health.",
+    "whatItDoes": "Pulmo is an interactive website that allows users to track their respiratory issues like COPD, chronic obstructive pulmonary disease. First, the user is met by the homepage where they may sign up to create an account or log in if they have an existing account. After logging in, they are taken to the dashboard. From their dashboard, they can access their daily Pulmo, a form with questions related to the user’s breathing, quality of life, and physical aptitude. Then, they will be taken to the dashboard where they will be shown a chart with their previous, current, and future predicted scores to make them aware of potential risks before they get in danger. Additionally, the user can access their pill inventory where they can track the number of pills they have taken for each medicine and how many pills they have left. When they start to run low on a certain medication, they are sent a text message informing them to restock if necessary.",
+    "challenges": "We struggled to call APIs that we developed locally on our front end at first, but we came to a solution after researching as a group. We also struggled to fine-tune the ML model and integrate it with the backend.",
+    "accomplishments": "We got our ML model to work with 98% accuracy, and our user interface is highly responsive and easy to use.",
+    "whatWeLearned": "We each have different areas of expertise (front end, back end, machine learning), but in the end, we all ended up dabbling in each field a little bit while focusing on our specialty.",
+    "whatsNext": "We plan to take Pulmo to the next stage by expanding it past just COPD. We hope to offer affordable and quality healthcare to minority and elderly communities."
+  },
+  "builtWith": [
+    "django",
+    "javascript",
+    "neural",
+    "python",
+    "react",
+    "tailwindcss",
+    "tensorflow"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Overall Prize - Second Place"
+  ],
+  "team": [
+    {
+      "name": "Vaishnavi Pasumarthi",
+      "username": null,
+      "contribution": "Designed the ML model behind Pulmo"
+    },
+    {
+      "name": "Anish G",
+      "username": null,
+      "contribution": "I worked on implementing the back-end using Django, wrote APIs using Django REST Framework, and created the database schema."
+    },
+    {
+      "name": "Nikhil Maraboyina",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "TusharW4ni Wani",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Elena Paul"
+  ],
+  "updates": [
+    {
+      "author": "Nikhil Maraboyina",
+      "timestamp": "2 years ago",
+      "content": "Nikhil Maraboyina started this project"
+    }
+  ],
+  "comments": []
+}

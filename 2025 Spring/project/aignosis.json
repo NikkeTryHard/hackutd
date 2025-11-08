@@ -1,0 +1,71 @@
+{
+  "projectName": "AIgnosis",
+  "tagline": "Your AI-powered health check, anytime, anywhere!",
+  "hackathon": "Axxess Hackathon 2025",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "People in hospice and home healthcare often lack constant assistance, and some medical conditions require more extensive care than what is currently available. We understand the value of timely medical support and the importance of ensuring that patients receive the attention they need when they need it.",
+    "whatItDoes": "Our healthcare web application utilizes advanced AI-driven diagnostics to assist users in identifying potential health concerns from images and biometric data. Skin Lesion Analysis – Users can upload an image of their skin to determine whether a lesion is malignant or benign using AI-powered image recognition. Diabetes Risk Assessment – The platform evaluates factors such as blood glucose fluctuations to assess the risk of developing diabetes, helping users take preventive action. Nail & Urine Analysis – By analyzing images of nails or urine samples, the system can provide preliminary diagnoses. Doctor Consultation – To ensure accuracy and reliability, all AI-driven insights are accompanied by the option to consult a medical professional.",
+    "howWeBuiltIt": "We trained five specialized machine learning models, each tailored to detect and assess different health conditions, leveraging AI to provide accurate and early-stage analysis. These models empower users by offering insights into potential risks while ensuring reliable diagnostics. Our web platform features an intuitive and responsive UI built with vanilla HTML, CSS, and JavaScript, creating a seamless user experience. For secure authentication, we integrated Firebase, allowing users to access their data safely. The backend is powered by Flask, enabling smooth communication between the AI models and the front end, ensuring efficient data processing and real-time analysis.",
+    "challengesWeRanInto": "Some obstacles we faced included integrating different software components and finding the perfect dataset, which was crucial for accurate predictions. We also had to augment and clean the data to improve accuracy. Additionally, working with large datasets was challenging due to the extensive training time required. After training, we rigorously tested our models to ensure they performed effectively.",
+    "whatWeLearned": "Throughout this project, we gained valuable insights into the challenges and nuances of developing AI-driven healthcare solutions. We learned the importance of selecting high-quality datasets and how data augmentation and cleaning significantly impact model accuracy. Integrating multiple technologies, such as Firebase for authentication and Flask for backend communication, taught us the importance of seamless interoperability. Additionally, we recognized the trade-offs between model complexity and training time, reinforcing the need for optimization. Most importantly, we learned that AI can be a powerful tool in healthcare, but human expertise remains essential for accurate diagnosis and patient trust.",
+    "whatIsNext": "We hope to improve the capabilities of AIgnosis to greater heights to meet the needs of all patients."
+  },
+  "builtWith": [
+    "css3",
+    "html5",
+    "javascript",
+    "numpy",
+    "pandas",
+    "python",
+    "scikit-learn",
+    "tensorflow"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Overall Prize - Third Place"
+  ],
+  "team": [
+    {
+      "name": "Syed Kabir",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Zainuddin A Mohammed",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Arvindh Kumar Kalainathan",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "MuditUpadhyay04 Upadhyay",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Arvindh Kumar Kalainathan",
+    "MuditUpadhyay04 Upadhyay",
+    "Tagan Ramsey",
+    "See Pdrer",
+    "Duy Pham"
+  ],
+  "updates": [
+    {
+      "author": "Syed Kabir",
+      "timestamp": "9 months ago",
+      "content": "Syed Kabir started this project"
+    }
+  ],
+  "comments": []
+}

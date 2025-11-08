@@ -1,0 +1,59 @@
+{
+  "projectName": "EcoLens",
+  "tagline": "EcoLens helps property managers create sustainable spaces by analyzing room videos to provide eco-friendly suggestions and improve energy efficiency—saving costs and reducing carbon impact.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Introducing sustainability within offices and other properties is crucial to reduce operational costs while minimizing environmental impact. We wanted to develop a solution that optimized resource usage by prioritizing repair and maintenance over frequent replacements.",
+    "whatItDoes": "Our app allows users to upload a video of a space and analyzes the video to detect and classify furniture and assess their condition. It highlights specific signs of wear and tear, including rips or stains, and provides suggestions to sustainably manage and repair any issues.",
+    "howWeBuiltIt": "We built EcoLense using Swift for the frontend to create a smooth, user-friendly interface. The backend integrates advanced APIs for video frame analysis and object detection. Video frames are extracted and securely uploaded to cloud storage services like Pinata. We used the Google Vision API to identify and label furniture in the video frames and LLMs for contextual analysis, delivering tailored sustainability insights. The seamless connection between the frontend and backend ensures accurate data processing and real-time results. This tech stack ensures a robust, scalable, and efficient platform for users.",
+    "challenges": "We faced challenges integrating various APIs, including compatibility issues with Google Cloud and handling the serialization of JSON data. Incorporating Llama for contextual analysis also required fine-tuning and troubleshooting. Ensuring seamless communication between services was a complex process, but we resolved these issues through iterative debugging and testing.",
+    "accomplishments": "We are super proud of learning multiple new technologies throughout the experience, including the Pinata database management system, Google Cloud Vision API, and Llama text to text and image to text models. We are also proud of our collective effort collaborating as a team in order to integrate multiple features within our app.",
+    "whatWeLearned": "We learned how to work with a comprehensive tech stack, including Swift for the frontend, backend integration, and API handling. We gained valuable experience with video processing, object detection using AI, and integrating tools like Llama for contextual analysis. Time management and effective teamwork were crucial as we balanced multiple tasks, debugged issues, and iteratively improved the app. These lessons strengthened our technical and collaboration skills.",
+    "whatsNext": "Next steps for EcoLens include incorporating real time metrics to track conditions as they change for on the spot evaluations. We also would like to include IoT sensors for live tracking of furniture usage and condition over time."
+  },
+  "builtWith": [
+    "googlevisionapi",
+    "llama",
+    "python",
+    "swift"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Best Beginner"
+  ],
+  "team": [
+    {
+      "name": "Tejashree Reddi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Charumitha Yuvaraja",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Arshia Puri",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Pragnasri Vellanki",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "MuditUpadhyay04 Upadhyay"
+  ],
+  "updates": [
+    {
+      "author": "Tejashree Reddi",
+      "timestamp": "12 months ago",
+      "content": "Tejashree Reddi started this project"
+    }
+  ],
+  "comments": []
+}

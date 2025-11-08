@@ -1,0 +1,64 @@
+{
+  "projectName": "Roomie",
+  "tagline": "A web app that takes in data regarding all class times, classroom reservations, and motion detected in a room to display a list of available rooms. Students can use the available rooms for studying.",
+  "hackathon": "HackUTD X",
+  "likes": 3,
+  "commentsCount": 0,
+  "story": {
+    "inspirationAndFunction": "As college students, we are always looking for a place to study. The issue is, that spending so much time looking around buildings for unoccupied rooms is something that is extremely inefficient and tiring. We decided we wanted to put an end to this arduous endeavor by creating an application that takes into account the classes that are currently going on and rooms that are currently taken to reveal rooms that are available to be used for studying immediately.",
+    "howWeBuiltIt": "We used NodeJS to build a REST API backend that interfaces with official Coursebook data, accesses API data from a React frontend, and uses TCP to communicate motion sensor data to the server, and MongoDB Atlas to store room reservations.",
+    "challengesWeRanInto": "Ensuring data checking server side was consistent and deciding on and implementing data structures and formats of class data was also difficult for early React learners. Additionally, some of our hardware came defective from the factory and we didn't have duplicates. We developed the code for a screen that would show what the schedule for a room looked like as you walked by, but it didn't make it into this design. On the plus side, we never would have added the occupancy indicator LED with the screen present in that area of the board. It allows you to see if someone is in a room from a significant physical distance.",
+    "accomplishmentsWeAreProudOf": "Instant communication between server and motion sensor, a React interface that displays all rooms available in the building, and the robustness of the developed REST API.",
+    "whatWeLearned": "API pagination, TCP communication, React, and the integration of motion sensors with Arduinos.",
+    "whatIsNext": "Further flesh out the reservation system, improve the reliability of search results, check values at different times, and add the screen."
+  },
+  "builtWith": [
+    "c++",
+    "esp32",
+    "mongodb",
+    "node.js",
+    "nodemcu",
+    "react",
+    "sensor"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner HackUTD General",
+    "Winner Hardware Track"
+  ],
+  "team": [
+    {
+      "name": "Nicholas Karr",
+      "username": null,
+      "contribution": "I created the Arduino backend, allowing motion data to flow over TCP and WiFi to the backend server. I also added the room presence indicator LED."
+    },
+    {
+      "name": "Bhavya Rayankula",
+      "username": null,
+      "contribution": "I worked on the functionality of the sensor, both the multicontroller and the sensor itself and helped with the arduino backend."
+    },
+    {
+      "name": "Mason Thomas",
+      "username": null,
+      "contribution": "I worked on the backend systems, building the MongoDB database, REST API, connection to Coursebook, and all data handling server side"
+    },
+    {
+      "name": "Devansh A",
+      "username": null,
+      "contribution": "I worked on the frontend and created the logo and overall layout of the page. As my first time working with React, I truly learned a lot."
+    }
+  ],
+  "likesBy": [
+    "Shoaib Huq",
+    "Sean Clarke",
+    "Jason Antwi-Appah"
+  ],
+  "updates": [
+    {
+      "author": "Mason Thomas",
+      "timestamp": "2 years ago",
+      "content": "Mason Thomas started this project"
+    }
+  ],
+  "comments": []
+}

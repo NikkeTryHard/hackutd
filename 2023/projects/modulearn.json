@@ -1,0 +1,67 @@
+{
+  "projectName": "ModuLearn",
+  "tagline": "ModuLearn curates step-by-step interactive learning lessons just for you, transforming the infinite web of knowledge into a focused path that guides you to your learning destination.",
+  "hackathon": "HackUTD X",
+  "likes": 0,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "The internet is overflowing information about a wide variety of topics, but it can often be difficult to pick up a new skill or learn about a new topic objectively as learners have to wade through a wealth of knowledge. Modulearn makes learning any topic you can think of as easy as possible by stripping away the need to compile resources manually and deciding in what form or fashion to teach yourself.",
+    "whatItDoes": "Simply ask Modulearn about a topic or skill that interests you and you want to learn about and Modulearn will generate a comprehensive roadmap that includes individual lesson plans for topics critical to learning that skill or concept. No need to search through Google for lesson plans, crash courses, or resources. Modulearn compiles it all for you by leveraging generative AI in combination with a clean user-friendly Next.js interface. You can even search for roadmaps created by other users for the topic of your choice so you don't have to create one.",
+    "howWeBuiltIt": "The platform is built with Next.js & React.js for the front end, Google Firebase for the backend, and the OpenAI api to leverage the newest generation GPT4 LLM. GPT4 allows us to gather and process information about extremely dense topics and render lessons plans with React almost instantaneously.",
+    "challengesWeRanInto": "Prompt engineering was our biggest challenge. We spent a lot of time designing several prompts for each use case that would provide the most consistent and reliable results. In addition to prompt engineering we contended with reducing latency. Ingesting and processing large amounts of data like we are means long wait times but through some clever api tricks and the magic of GPT4 we reduced the latency in lesson plan generation considerably.",
+    "whatIsNext": "Considering the concept of ModuLearn, our AI-generated learning roadmap web app, there are numerous directions for growth and expansion that could enhance user experience and value proposition. Here's what could be next:\n\nA chrome extension that allows users to highlight content to create lesson plans rather than explicitly ask ing Modulearn\nExpand the community aspect by adding features for learners to connect, collaborate, and form study groups or mentoring relationships.\nIntroduce gamification to motivate users through rewards, badges, leaderboards, and challenges that encourage progress and completion of learning milestones.\nIntegrate predictive analytics to suggest future learning topics or skills users might be interested in, based on industry trends and job market demands.\nIntegrate predictive analytics to suggest future learning topics or skills users might be interested in, based on industry trends and job market demands.\nInvite experts from various fields to contribute to the learning roadmaps, ensuring that the content remains cutting-edge and authoritative.\nAllow users to create and share their own learning modules or roadmaps, fostering a crowdsourced knowledge base."
+  },
+  "builtWith": [
+    "firebase",
+    "next.js",
+    "openai",
+    "react.js"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH – Best Use of Google Cloud"
+  ],
+  "team": [
+    {
+      "name": "Aditya Devas",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Manu Shanbhog",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Paul Chinnam",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Ryan McCord",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Aditya Devas",
+      "timestamp": "2 years ago",
+      "content": "Aditya Devas started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "ChristianG1",
+      "username": "Christian Genco",
+      "timestamp": "2 years ago",
+      "content": "What a cool idea! I love how each lesson is broken down into slides of bite-sized concepts. Also very clever that each of those pages is it's own interactive chat."
+    }
+  ]
+}

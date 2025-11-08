@@ -1,0 +1,65 @@
+{
+  "projectName": "SLAY",
+  "tagline": "Sustainable Local Alternatives for You.",
+  "hackathon": "HackUTD IX",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Over-consumption and consumerism generates pollution and waste that degrade the quality of environmental systems around us. In addition, the pandemic has resulted in nearly 20% of local businesses shutting down because they are unable to deal with the competition from larger corporations. This inspired us to create an app that makes it simple for consumers to see ways in which they can reduce their carbon footprint, as well as support their community by shopping at small businesses.",
+    "whatItDoes": "Our app aims to make it simple for the user to view their own credit/debit card transaction history in Augmented Reality, along with suggestions of local businesses that align with their transaction history that they can support instead of large chains/corporations. In addition, the app also scans itemized receipts and suggests eco-friendly, feasible replacements that the user can easily make.",
+    "howWeBuiltIt": "We built the frontend of this application using CSS and HTML and the backend using Swift.",
+    "challengesWeRanInto": "We ran into a few challenges while building our application. We first had to spend a lot of time testing out some 3D models that we created and making sure that they acted the way we wanted them to so that when we created our app, we could know with certainty that the objects would map to their anchors and act accordingly. Second, we had to make sure that the interactive alternatives that our application offered are feasible, so that we can accurately give advice to the user. Lastly, we had difficulty getting the augmented reality experience to work correctly, but through frequent bug fixes and testing, we were able to streamline the user’s AR experience.",
+    "accomplishmentsWeAreProudOf": "We are proud of being able to create an immersive and interactive augmented reality experience. We are also proud of being able to display credit card transaction history in the form of an interactive augmented reality experience.",
+    "whatWeLearned": "We had to learn how to optimize Swift in order to make the AR models. In addition, we had to learn how to test out 3d models before implementing them into the augmented reality app.",
+    "whatIsNext": "In the future, we want to be able to provide users with sustainable alternatives while they’re shopping instead of only in the credit card statement; preferably through an AR integrated shopping list, or an inventory system that tells them what they have at home, what they need to buy, and where they can buy it so that they can go local and go green."
+  },
+  "builtWith": [
+    "css",
+    "html",
+    "react-native",
+    "swift"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "slay-for-you.netlify.app",
+      "url": "https://slay-for-you.netlify.app"
+    }
+  ],
+  "prizes": [
+    "Winner Best Sustainability Hack sponsored by Avanade [MLH]"
+  ],
+  "team": [
+    {
+      "name": "authencia tio",
+      "username": "authencia tio",
+      "contribution": null
+    },
+    {
+      "name": "Sneha Shrinivas",
+      "username": "Sneha Shrinivas",
+      "contribution": null
+    },
+    {
+      "name": "Khalid Tawohid",
+      "username": "Khalid Tawohid",
+      "contribution": "CS @ UTD"
+    },
+    {
+      "name": "Pavan Govu",
+      "username": "Pavan Govu",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Kayla Tucker",
+    "Prakul Singh"
+  ],
+  "updates": [
+    {
+      "author": "authencia tio",
+      "timestamp": "3 years ago",
+      "content": "authencia tio started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

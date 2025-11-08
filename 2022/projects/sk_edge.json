@@ -1,0 +1,81 @@
+{
+  "projectName": "sk.edge",
+  "tagline": "Take the edge off your sched(ule).",
+  "hackathon": "HackUTD IX",
+  "likes": 27,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "While registering for classes, students often look through professor ratings and grade distributions to get the best possible experience during their future semesters. There are numerous great resources--however, they are scattered around and often difficult to consider all at once.",
+    "whatItDoes": "sk.edge takes these great resources and puts them in a single browser extension and integrates them into the school's registration site when you're browsing through your courses and sections (so far only UTD).",
+    "howWeBuiltIt": "We used the RateMyProfessor API along with the Nebula Labs API to acquire professor and grade data. Our frontend for the extension was made in Javascript and used Bootstrap, while the backend used Python to provide the RMP data.",
+    "challengesWeRanInto": "We ran into multiple challenges, especially with events within browser extensions, integrating numerous systems together, and DevOps when deploying our backend.",
+    "accomplishmentsWeAreProudOf": "We are proud of creating an extension that we see our fellow students using for their registration.",
+    "whatWeLearned": "We learned how to develop browser extensions and improved our knowledge of Bootstrap and REST APIs.",
+    "whatIsNext": "We plan to expand our project to other universities to create a more streamlined registration experience. In the short term, we would like to increase the fetch speed and integrate more platforms."
+  },
+  "builtWith": [
+    "bootstrap",
+    "google-cloud",
+    "javascript",
+    "nebula",
+    "python",
+    "ratemyprofessor"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner HackUTD General"
+  ],
+  "team": [
+    {
+      "name": "Alexis Kaufman",
+      "username": "Alexis Kaufman",
+      "contribution": null
+    },
+    {
+      "name": "Brad Johnson",
+      "username": "Brad Johnson",
+      "contribution": "CS Student at UT Dallas"
+    },
+    {
+      "name": "Adam Szumski",
+      "username": "Adam Szumski",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Brandon Campos",
+    "Niharika Annabhimoju",
+    "Aarian Ahsan",
+    "Shaurya Dwivedi",
+    "Sam Preston",
+    "Kayla Tucker",
+    "Maxwell Ibarra",
+    "Pratik Naik",
+    "Rishabh Vemparala",
+    "Alexis Kaufman",
+    "+ 17 more"
+  ],
+  "updates": [
+    {
+      "author": "Alexis Kaufman",
+      "timestamp": "3 years ago",
+      "content": "I love D.I.R.T.!"
+    },
+    {
+      "author": "Adam Szumski",
+      "timestamp": "3 years ago",
+      "content": "I love Advisor Technologies Inc. !"
+    },
+    {
+      "author": "Adam Szumski",
+      "timestamp": "3 years ago",
+      "content": "Adam Szumski started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

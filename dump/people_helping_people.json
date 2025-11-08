@@ -1,0 +1,108 @@
+{
+  "projectName": "People Helping People",
+  "tagline": "There when you are in need",
+  "hackathon": "HackUTD VII",
+  "likes": 7,
+  "commentsCount": 3,
+  "story": {
+    "inspiration": "The winter storm heavily affected many of our friends. Texting them over the week of the storm, I learned that many of them not only did not have power but also had multiple water pipes burst. Water and electricity are definitely things we took for granted, and losing them for just that short period revealed to us just how important they are to our daily lives. Despite power returning to most homes, many are still reeling from lasting damage. Seeing our friends unable to hire plumbers and repairmen during their time of need led us to want to help create a solution that would allow them - and others - to find the help that they needed.",
+    "whatItDoes": "The project's main purpose is to connect people who want to volunteer with people who need help. This is done mainly through organizations providing locations that have volunteer opportunities, however, users can also submit their own help requests. These requests are then displayed on the app where volunteers can find requests close to their location. The app provides information on the requester, including contact information, job description, and location.",
+    "howTheWebsiteWorks": "The website functions as a landing page for organizations or individuals to interface with our product. Through the website, you will register an account using our forms (that will salt and encrypt your password, so that your data is safe and secure). Once you have created an account, you will be able to create a listing (whether it be to give or receive). In both cases, you will have to specify a short message about the listing, and contact/location information. After this, you can manage your own posts as well as view others' in the Browsing options in the navigation bar, filtering by give/receive postings.",
+    "howTheDatabaseWorks": "The database was created in MySQL and hosted through Google Cloud SQL with an address table, a user table, and an opportunity table. Each of these tables had both primary and foreign keys to link them together so we could not only increase efficiency by having to store account information and addresses only one, but we could also analyze data more easily. To access the database, the machine making the query could either do so via a direct SQL link or through a more secure HTTP request.",
+    "howTheMobileAppWorks": "Upon opening the app, the user is prompted with two buttons that will send the user to either the list of opportunities or the about page. Clicking on the \"See Opportunities\" button will display a page with the list of opportunities. The list of opportunities consists of a GridView of custom Widgets. These Widgets will display a picture from the provider, and also a simple job title. If the volunteer finds an opportunity that interests them, they can tap it in order to pop up a larger window that contains more detailed information about the job such as job description, location, and contact information. Clicking on the \"About Us\" button will send the user to the about page. The about page provides basic about our inspiration for this project.",
+    "howWeBuiltIt": "The mobile app was made using Flutter on Visual Studio Code. The database was made in MySQL and hosted on Google Cloud. The website was made with PHP, CSS, and HTML.",
+    "challengesWeRanInto": {
+      "benInexperience": {
+        "title": "Ben: Inexperience with Flutter",
+        "description": "For me, the biggest challenge was my inexperience. This was my first ever hackathon, and I had never even heard of Flutter before this event. Considering that my contribution to the project was done entirely on Flutter, that meant a lot of learning while coding, and a lot of trial and error. Luckily, the guidance of my partners, who had more experience with hackathons, made the process much easier, and their direction ensured that I was at least going in the right direction."
+      },
+      "ryanNewDatabaseTech": {
+        "title": "Ryan: Using MySQL instead of Firestore",
+        "description": "As an experienced hacker, I was already familiar with a decent chunk of our tech stack, however, I decided to push my boundaries by using an entirely different database technology than I was accustomed to (MySQL instead of Firestore). This was a great learning experience as handling data as MySQL proved to be a breeze and I am confident I have picked up skills that will be needed in any analytics job I may end up in. Also, I ensured that the database was secure and able to be hosted publicly - from our 40 character password to every user's login info being encrypted and salted, our database is incredibly secure."
+      },
+      "calebFrontSeatApproachAndIncompatibilities": {
+        "title": "Caleb: Front-Seat Approach and App Incompatibilities",
+        "description": "I have participated in hackathons before, but this is the first time I've taken a much more front-seat driving approach. I felt like this hackathon was an extremely valuable experience (even though I paid a night's worth of sleep for it) -- I was able to become familiar with PHP (which allowed so many convenient development features, inducing a sort of template for my site markup using php include, allowing global variables to keep track of state, and allowing me to inject information from variables right into what would have otherwise been plain old HTML). I also became familiar with make queries using MySQL, interacting with the backend to retrieve/display data for users. A lot of the challenges faced came from incompatibilities between the different parts of the apps we were trying to assemble (we wanted to maximize accessibility, so we created both a website and an app that would communicate with a database stored using Google Cloud SQL), though it took us a bit of failure and planning to lock our product workflows in place. I am hacking with close friends this time around, so it was very fun and easy to communicate with them and see the product to the end (even though there are still tons of ideas that the time constraints of the hackathon prevented us from seeing through)."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "uniqueness": {
+        "title": "Unique and Innovative Service",
+        "description": "While brainstorming ideas for the project, we all agreed that we wanted to try and make something new as well as innovative. After 24 hours, we are proud to present to you a service that will not only always be in demand, but shines in its uniqueness."
+      }
+    },
+    "whatWeLearned": "Because of the interconnected nature of our delegated portions, we needed to facilitate proper communication. We quickly learned to work efficiently while clearly communicating to each other. For Ben, a ton of learning had to be done in order to get accustomed to the basics of Flutter and the dart language, but it was definitely valuable as he learned a new language that could be used in real life or for future hackathons.",
+    "whatIsNext": "There are many ways our project could be further refined including (but not limited to), using the Google Maps and Places APIs to show the nearest volunteer opportunities, the ability to post images with your requests (base functionality built into the app, but not the server), or even add alternate functionality with the same concept, like finding tutors or even new friends."
+  },
+  "builtWith": [
+    "bootstrap",
+    "css",
+    "flutter",
+    "google-cloud-sql",
+    "html",
+    "mysql",
+    "php5"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner General Hackathon"
+  ],
+  "team": [
+    {
+      "name": "Ryan Radloff",
+      "username": "Ryan Radloff",
+      "contribution": "I created the database, the HTTP requests for PHP and Flutter, and helped teach Ben get started on the UI"
+    },
+    {
+      "name": "caleb park",
+      "username": "caleb park",
+      "contribution": "I built the website component of People Helping People. (fun fact: a large portion of it was built in PHP, which is identical to the initials of our product)! I learned how to interact with HTTP requests and query a MySQL backend hosted on Google Cloud to display data in live web application."
+    },
+    {
+      "name": "Benjamin Xu",
+      "username": "Benjamin Xu",
+      "contribution": "I worked on the front end of the app, which was really challenging because this was not only my first hackathon, but also my first time using Flutter."
+    }
+  ],
+  "likesBy": [
+    "Daikie Angelo Moncion",
+    "Erik Rodriguez",
+    "Helen Fang",
+    "Minh Nguyen",
+    "Benjamin Xu",
+    "caleb park",
+    "Ryan Radloff"
+  ],
+  "updates": [
+    {
+      "author": "caleb park",
+      "timestamp": "5 years ago",
+      "content": "caleb park started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Ryan Radloff",
+      "username": "rjradloff",
+      "timestamp": "5 years ago",
+      "content": "If you want to see our code, feel free to DM me @Radster859:6720 on discord as a previous push had an unsecured MySQL password"
+    },
+    {
+      "author": "Minh Nguyen",
+      "username": "minh120nguyen",
+      "timestamp": "5 years ago",
+      "content": "very awesome !!"
+    },
+    {
+      "author": "Ryan Radloff",
+      "username": "rjradloff",
+      "timestamp": "5 years ago",
+      "content": "Thank you! @minh120nguyen"
+    }
+  ]
+}

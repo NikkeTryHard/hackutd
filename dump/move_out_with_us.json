@@ -1,0 +1,71 @@
+{
+  "projectName": "Move Out With US",
+  "tagline": "Unlock your dream home with our web app! We analyze Fannie Mae data to determine your loan eligibility and provide tailored advice",
+  "hackathon": "HackUTD X",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "title": "Pioneering Innovation: Empowering Your Homeownership Journey",
+    "inspirationalJourney": "When we embarked on this exciting partnership with Fannie Mae, we were filled with enthusiasm to tackle their challenge and leverage their invaluable data. We brainstormed, collaborated, and brought to life innovative solutions to address the significant issue of loan approvals.",
+    "whatItDoes": "Our state-of-the-art web platform is your gateway to homeownership. Using Fannie Mae's metrics, we determine your loan eligibility. If you're approved, you'll explore a dynamic map showcasing available homes and gain direct access to Fannie Mae's resources. For those not approved, our platform offers personalized advice, supported by an AI-powered chatbot.",
+    "howWeBuiltIt": "Static Badge Static BadgeStatic Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge\n\nOur talented team harnessed the power of HTML, CSS, JavaScript, and Tailwind to craft a visually captivating web front-end. For the robust backend, we developed an API using FastAPI, hosted on Google Cloud, which leverages a finely tuned PaLM model to evaluate applicants. We've integrated Google Maps and the Zillow API to enhance the housing search. We also boosted the rule decission process using a Logistic Regression",
+    "challengesWeOvercame": "We faced our fair share of challenges. Integrating FastAPI with our front-end presented hurdles, but our determination led to a successful connection. While working with Zillow data, we encountered obstacles that we turned into opportunities by extracting additional valuable information to better assist users. Managing various operating systems added complexity, but our teamwork and communication skills prevailed.",
+    "ourProudAchievements": "Our proudest moment was seamlessly bridging the gap between front-end and back-end systems. We successfully harnessed the full potential of the Google Cloud Platform, enriching our project with powerful tools.\n\nWe are also proud of our innovative commits related to golden hours in history, moments that had a transcendent impact in humanity",
+    "whatWeLearned": "Beyond technical skills, this journey provided deep insights into the complexities of lending. Collaborating with Fannie Mae granted us an understanding of the intricacies of the lending process. We further honed our expertise in JavaScript, Flask, and Google Cloud.",
+    "whatIsNext": "Our commitment to empowering homebuyers continues. We're dedicated to delivering even more personalized solutions for securing home loans. Our vision extends to expanding our services to encompass credit card payments, car loans, student loans, and more, all aimed at simplifying the path to homeownership. 🌠"
+  },
+  "builtWith": [
+    "css3",
+    "fast-api",
+    "flask",
+    "google-cloud",
+    "google-maps",
+    "html5",
+    "javascript",
+    "palm",
+    "python",
+    "tailwind",
+    "zillow"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner MLH – Best Domain Name from GoDaddy Registry"
+  ],
+  "team": [
+    {
+      "name": "Jon Yashayev",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Abhay Sood",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Adrian Landaverde Nava",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "yash mutnal",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Marek Stój",
+    "Abhay Sood",
+    "Anna B",
+    "Adrian Landaverde Nava",
+    "Jon Yashayev"
+  ],
+  "updates": [
+    {
+      "author": "Adrian Landaverde Nava",
+      "timestamp": "2 years ago",
+      "content": "Adrian Landaverde Nava started this project"
+    }
+  ],
+  "comments": []
+}

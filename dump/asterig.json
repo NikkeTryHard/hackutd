@@ -1,0 +1,61 @@
+{
+  "projectName": "ASTERIG",
+  "tagline": "Drilling. In space. What could go wrong?",
+  "hackathon": "HackUTD IX",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired by EOG's space-themed asteroid drilling challenge!",
+    "whatItDoes": "The user can input hook load, differential pressure, drilling depth, and bit weight and our random forest ensemble model will calculate the drill penetration rate based on the data from the 20 asteroids in the EOG data set. This rate is then used to calculate the cost and total time needed to drill to the given depth using each of the different bits. These numbers can be compared to determine which bit should be used.",
+    "howWeBuiltIt": "We used Velo for our front end and Python for our back end.",
+    "challengesWeRanInto": "We were unable to connect our front and back end this weekend.",
+    "accomplishmentsWeAreProudOf": "The new skills we learned this weekend!",
+    "whatWeLearned": "Jenelle helped Analisa learn about modeling in Python and using Scikit-Learn and Roni learned how to use Velo. We all learned about the engineering processes that go into drilling and how rigs work!",
+    "whatIsNext": "Connecting our front and back end to give our site full functionality.\n\nhttps://github.com/jenellemillison/TheInterstellarAsteroidRush"
+  },
+  "builtWith": [
+    "python",
+    "scikit-learn",
+    "velo"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "happydinochild.wixsite.com",
+      "url": "https://happydinochild.wixsite.com"
+    }
+  ],
+  "prizes": [
+    "Winner EOG Resources"
+  ],
+  "team": [
+    {
+      "name": "Roni Maddox",
+      "username": "Roni Maddox",
+      "contribution": null
+    },
+    {
+      "name": "Jenelle Millison",
+      "username": "Jenelle Millison",
+      "contribution": null
+    },
+    {
+      "name": "Analisa Rojas",
+      "username": "Analisa Rojas",
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Jenelle Millison",
+      "timestamp": "3 years ago",
+      "content": "Presentation link: https://www.canva.com/design/DAFR2tFrD9M/D3bzWGRgsn9ajpQJlKbvXA/view?utm_content=DAFR2tFrD9M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+      "author": "Roni Maddox",
+      "timestamp": "3 years ago",
+      "content": "Roni Maddox started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

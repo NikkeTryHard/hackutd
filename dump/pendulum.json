@@ -1,0 +1,65 @@
+{
+  "projectName": "Pendulum",
+  "tagline": "Lifeline Oscillations. The purpose of the sensors is to notify the driver of suspicious activity around their vehicle. We came about the idea to prevent sex trafficking.",
+  "hackathon": "HackUTD IX",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our inspiration was the current problems that we notice some people facing. For example, we are experiencing daylight savings time, which means that sunset is at 5:30 pm. Before the sun stetted at 8 pm and students would usually be home by that time. However, at 5:30 students are still on campus, and most people are still at work. The fact that it's dark out makes it difficult for people, especially women, to walk alone to their vehicles.",
+    "whatItDoes": "Our goal is to install sensors that are triggered by approximation and pressure. All the sensors will notify the owner/driver of the vehicle through the app. In addition, the sensors will trigger a light to turn on below the door and around its window to make it easier for the driver to look out. For example, the sensors on the lower part of the doors will turn on two strips of led lights. The lights are placed right above the window and another below the door, both facing down. Our sensors will be disabled as the automobile is moving. Our app also features two services. One button sends your location to the emergency contact the user assigns. Our other feature immediately contacts the police if the user needs assistance. Assistance can be anything from escorting the user to her car and inspecting the area where the vehicle is.",
+    "howWeBuiltIt": "We built the website using Wix. We used Wix because although the website is very important, we wanted to focus more on the functions behind it. We used javascript for the functions of all the services. We used HTML and CSS for the design of the website. We used Twilio to send a notification to the user after the sensors are triggered. In addition, we used Arduino and wiring to simulate how the sensors would be triggered by pressure and proximity and their reaction to light.",
+    "challengesWeRanInto": "Trying to incorporate IoT and learning about its specific uses. Connecting software and hardware beyond using conventional wires Programming our piece of hardware on the microprocessor level Connecting our full stack to the hardware piece Learning javascript overnight and understanding the process of debugging.",
+    "accomplishmentsWeAreProudOf": "We are proud of programming with hardware for the first time. As freshmen, we are breaking into the automotive technology industry. We understand the process of software and hardware engineering and working with tools beyond our major.",
+    "whatWeLearned": "We knew nothing about the technology behind cars, so we learned about all the embedded systems and the software surrounding cars. We understood how the machinery of the car affects the software tied to it and how to create the best symbiotic relationship between the two. We learned how difficult and time-consuming it is to actually implement our idea in the real world. We are glad to have broken the barriers within our minds to learn about all the other kinds of engineering such as electrical, mechanical, and control engineering.",
+    "whatIsNext": "We hope to understand more about the IoT of things. We would love to use more advanced hardware technology that is able to connect to the cloud, enabling it to connect sensors to websites."
+  },
+  "builtWith": [
+    "arduino",
+    "css",
+    "html",
+    "javascript",
+    "twilio",
+    "wiring",
+    "wix"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "joannakj2004.wixsite.com",
+      "url": "https://joannakj2004.wixsite.com"
+    }
+  ],
+  "prizes": [
+    "Winner Best Use of Velo by Wix [MLH]"
+  ],
+  "team": [
+    {
+      "name": "Carolina Juarez",
+      "username": "Carolina Juarez",
+      "contribution": null
+    },
+    {
+      "name": "Angelina Abuhilal",
+      "username": "Angelina Abuhilal",
+      "contribution": null
+    },
+    {
+      "name": "joanna jose",
+      "username": "joanna jose",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "joanna jose",
+    "Kayla Tucker",
+    "Carolina Juarez",
+    "usha jose"
+  ],
+  "updates": [
+    {
+      "author": "Carolina Juarez",
+      "timestamp": "3 years ago",
+      "content": "Carolina Juarez started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

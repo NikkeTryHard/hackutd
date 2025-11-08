@@ -1,0 +1,98 @@
+{
+  "projectName": "Monch",
+  "tagline": "Meet Monch – the AI-powered app that uses photos of your food to instantly recognizes ingredients, portion sizes, and calculates complete macro breakdowns.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 1,
+  "commentsCount": 3,
+  "story": {
+    "inspiration": "As people who track our health, we know how tedious it is to track your macros of everything you eat, especially when there aren't written out values for carbs, fats, calories, or even proteins. Additionally, if you do get a macro tracker on your own, there is usually a pay wall for a lot of your features and functionalities. That is why Monch is a website that allows you to just take a photo if you wanted to track your macros.",
+    "whatItDoes": "Our application lets you track your calories, carbohydrates, fats, and proteins for your meals given a picture. You can pull your goals into the website when you sign up so that you can keep track your day to day intake and see if you are meeting your macros! Additionally, we display a graph with your macro totals across different days.",
+    "howWeBuiltIt": "We had to incorporate a bunch of different parts together to get the actual model to display data we need. First, we built a model to classify food from an image using a neural network (not chatgpt requests). Then after we trained the model to classify the food, we had to connect it this to a public data set that stores the amount of calories, carbohydrates, fats, and proteins in the food displayed. After getting all the data we need, we just had to connect that to Pinatas file storage database, which was convenient since we were storing images anyways, and display those images and data on our website.",
+    "challenges": "We realized how hard it is to actually train a model and how long it took. Additionally, it was our first time using pinata as well as our first time using machine learning and AI to build a model.",
+    "accomplishments": "We are proud to have a photo recognition software to correctly classify a hotdog! This is something we were proud of immensely since we had a lot of data to sift through and get everything working.",
+    "whatWeLearned": "We learned how fun it is to build such a fun project! We have gained invaluable experience and knowledge about how to streamline an entire model to a web application! It was a lot of fun getting our project deployed and see our results!",
+    "whatsNext": "Due to our web experience, it made more sense for us to build a web app and just use it on the browser. However, we do know that most people use phones to take photos so we could take it to a mobile application."
+  },
+  "builtWith": [
+    "clerk",
+    "next",
+    "pinata",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "monch.tech",
+      "url": "http://monch.tech"
+    }
+  ],
+  "prizes": [
+    "Winner Pinata"
+  ],
+  "team": [
+    {
+      "name": "Joshua Zhang",
+      "username": null,
+      "contribution": "I'm working on training on the model and potentially creating web visualizations based on user data for our app."
+    },
+    {
+      "name": "Pedro Garcia",
+      "username": null,
+      "contribution": "Applied Mathematics in Computer Science student at Harvard College"
+    },
+    {
+      "name": "Joshua Zhang",
+      "username": null,
+      "contribution": "I like pozole and making projects"
+    },
+    {
+      "name": "Jackson Moody",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "DavidSantosTXUSA Santos"
+  ],
+  "updates": [
+    {
+      "author": "Joshua Zhang",
+      "timestamp": "12 months ago",
+      "content": "If you would like a live demonstration of the video, check out https://youtu.be/PJC2PLYgWgo"
+    },
+    {
+      "author": "Joshua Zhang",
+      "timestamp": "12 months ago",
+      "content": "If you would like to try out this website, check out monch.tech !"
+    },
+    {
+      "author": "Pedro Garcia",
+      "timestamp": "12 months ago",
+      "content": "Pedro Garcia started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Joe Malatesta",
+      "username": "joemmalatesta",
+      "timestamp": "12 months ago",
+      "text": "This is pretty dope and reminds me of a project I made for my first hackathon :D\n\nDo you have a github link or a link to the model you trained?",
+      "replies": [
+        {
+          "author": "Pedro Garcia",
+          "username": "pedro_garcia499",
+          "timestamp": "12 months ago",
+          "text": "Well here is our backend which has our model which we trained in a jupyter notebook. If you want to see how we set up the actual NN, just dm me and ill send you our jupyter notebook..\nhttps://github.com/PerdoGarcia/monch-backend\nOn another note, its crazy we had a similar project, ig great minds think alike i guess :D ... also wait I saw your project and thought cheddarboxd was so funny I actually really liked your project and the fact you did it by yourself omg. So cracked.",
+          "replies": [
+            {
+              "author": "Joe Malatesta",
+              "username": "joemmalatesta",
+              "timestamp": "11 months ago",
+              "text": "Good stuff and thank you :D Training anything for a hackathon is insane. First time I think I've seen it successfully done.",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

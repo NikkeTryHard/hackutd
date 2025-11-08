@@ -1,0 +1,81 @@
+{
+  "projectName": "Drive Advisor",
+  "tagline": "A mobile app that uses an in-house trained machine learning model to recognize and communicate street signs to users to help make the driving experience safer.",
+  "hackathon": "HackUTD IX",
+  "likes": 8,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "There is a large amount of population in the U.S that needs some sort of assistance when it comes to understanding the road conditions that are presented in front of them when they are driving. This includes older aged adults as well as new immigrants to the country that may not fully understand the road conditions yet. This app strives to tackle these issues while making the road safer for everyone.",
+    "whatItDoes": "Drive Advisor specialized in recognizing road signs that are presented using our very meticulously trained CoreML model. Once recognized the application will speak in the driver's preferred language to tell them about the upcoming detected road sign. The application also simultaneously uses the front camera to detect drowsiness and will also notify the user in their own language to wake up.",
+    "howWeBuiltIt": "The CoreML model was trained using CreateML with a dataset that we custom-tailored specifically for the needs of the application. With this model, we are using Apple's vision framework to detect road signs while simultaneously using ARKit in the front camera to detect drowsiness with Apple's eye-tracking models. The ability of the app to communicate in various different languages is thanks to SiriKit.",
+    "challengesWeRanInto": "Training the model took the largest chunk of time and energy out of us because of how tedious CreateML was being when giving us the results we wanted. We had to tailor and train a fairly inadequate dataset that we acquired online and make up to par for the functionality of the app. Good road sign data is surprisingly hard to find publicly. The model is obviously not perfect and cannot detect all signs with 100% accuracy at the moment but with more time to train the model, things definitely could be better.",
+    "accomplishmentsWeAreProudOf": "Training the model to run with our dataset and then also being able to stream video and detect the road signs was a great accomplishment for us. The communication and the look of UI are also something we are very proud of.",
+    "whatWeLearned": "For most of us on this team, it was our first time working with specifically Apple's CoreML framework. It was fun to apply this technology to an application like this and figure out how to solve all the issues that were thrown at us no matter how tedious it was.",
+    "whatIsNext": "In the future, Drive Advisor will support a more extensive lineup of signs and allow for more quality-of-life features like choosing the category of signs that you want the app to communicate. Also having this technology integrated into more cars with the support of more languages is something that we want to eventually happen, replacing the need of using a mobile app and creating a more seamless experience."
+  },
+  "builtWith": [
+    "arkit",
+    "coreml",
+    "createml",
+    "swift",
+    "swiftui",
+    "uikit"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Toyota",
+    "Winner HackUTD General"
+  ],
+  "team": [
+    {
+      "name": "Khang Nguyen",
+      "username": "Khang Nguyen",
+      "contribution": null
+    },
+    {
+      "name": "Jake Spann",
+      "username": "Jake Spann",
+      "contribution": null
+    },
+    {
+      "name": "Shoaib Huq",
+      "username": "Shoaib Huq",
+      "contribution": null
+    },
+    {
+      "name": "Nhi Le",
+      "username": "Nhi Le",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Shrijaa Mohan",
+    "Pramith Prasanna",
+    "Kayla Tucker",
+    "Trí Phạm",
+    "Shaurya Dwivedi",
+    "Adam Szumski",
+    "Aarian Ahsan",
+    "Prakul Singh"
+  ],
+  "updates": [
+    {
+      "author": "Shoaib Huq",
+      "timestamp": "3 years ago",
+      "content": "Shoaib Huq started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Arielle Posadas",
+      "username": "arielle1901",
+      "timestamp": "3 years ago",
+      "content": "nice"
+    }
+  ]
+}

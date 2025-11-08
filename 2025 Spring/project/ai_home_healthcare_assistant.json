@@ -1,0 +1,75 @@
+{
+  "projectName": "AI-powered Home Healthcare Assistant",
+  "tagline": "AI-powered home healthcare: Interpret, Monitor, Alert—Because every second counts.",
+  "hackathon": "Axxess Hackathon 2025",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Millions of homebound patients, like John, receive lab reports but struggle to interpret them without immediate access to a doctor. Many also rely on wearable devices for health tracking but lack a system to analyze trends, generate actionable insights, and send alerts in case of emergencies. Our goal was to bridge this gap with an AI-powered home healthcare assistant that provides structured health guidance and real-time monitoring, ensuring proactive and accessible care.",
+    "whatItDoes": "Our AI-powered home healthcare assistant helps patients understand their lab reports, monitor their vitals in real-time, and receive emergency alerts when necessary. The system: Accepts patient lab report inputs and generates a structured six-section healthcare plan with personalized recommendations. Uses a machine learning model to classify cardiovascular risk and refine health recommendations accordingly. Connects with wearable devices to track vitals like heart rate and oxygen levels, storing this data in AWS and visualizing it through Grafana. Triggers automatic alerts to emergency contacts and healthcare providers when critical health thresholds are breached.",
+    "howWeBuiltIt": {
+      "machineLearningModel": "Trained to classify cardiovascular risk based on patient data.",
+      "streamlitFrontend": "Developed an interactive and user-friendly interface for patients to input their lab report details.",
+      "awsAndGrafana": "Built a backend system to store and visualize wearable health data, allowing real-time monitoring.",
+      "automatedAlertSystem": "Implemented a mechanism that notifies emergency contacts and healthcare providers when vital signs exceed safe thresholds."
+    },
+    "challengesWeRanInto": {
+      "dataAccessibility": "Finding publicly available datasets that accurately reflect real-world patient conditions was challenging.",
+      "wearableDeviceIntegration": "Ensuring seamless synchronization between wearable devices and our backend system required significant optimization.",
+      "thresholdSensitivity": "Balancing the alert system to avoid false positives while ensuring critical issues are detected reliably."
+    },
+    "accomplishmentsWeAreProudOf": {
+      "proactiveAndReactiveSupport": "Successfully built a machine learning-powered healthcare assistant that provides both proactive and reactive healthcare support.",
+      "realTimeMonitoring": "Integrated real-time health monitoring with AWS and Grafana for continuous patient tracking.",
+      "userFriendlyApplication": "Developed a user-friendly Streamlit application designed for accessibility, even for non-technical users.",
+      "emergencyAlertSystem": "Implemented a fully functional emergency alert system to notify caregivers and healthcare providers in case of medical emergencies."
+    },
+    "whatWeLearned": {
+      "healthcareAIApplications": "Gained deeper insights into how AI can be used to enhance home healthcare and bridge gaps in medical accessibility.",
+      "cloudBasedHealthMonitoring": "Learned to build scalable and real-time data processing systems using AWS and Grafana.",
+      "userExperienceInHealthcare": "Understood the importance of designing an intuitive, easy-to-use interface for patients and caregivers."
+    },
+    "whatIsNext": {
+      "expandingMLCapabilities": "Improve the predictive model to assess risks for a broader range of diseases.",
+      "wearableDeviceIntegration": "Expand compatibility to include more health-tracking devices.",
+      "multilingualSupport": "Develop support for multiple languages to enhance accessibility for diverse communities.",
+      "doctorAndCaregiverPortal": "Introduce a dedicated portal for doctors and caregivers to monitor patient data and intervene when necessary."
+    }
+  },
+  "builtWith": [
+    "amazon-web-services",
+    "grafana",
+    "python",
+    "streamlit"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Challenge Winner Prize- AI ML in Home Healthcare"
+  ],
+  "team": [
+    {
+      "name": "Swapnil Banduke",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Mihir Hirave",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Swapnil Banduke",
+      "timestamp": "9 months ago",
+      "content": "Swapnil Banduke started this project"
+    }
+  ],
+  "comments": []
+}

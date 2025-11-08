@@ -1,0 +1,76 @@
+{
+  "projectName": "Financial Atlas",
+  "tagline": "A web game geared at simulating the stresses of living from paycheck to paycheck on a tight budget, while showing the benefits of saving by having checking and savings accounts as a main game mechanic",
+  "hackathon": "HackUTD VII",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "https://www.oecd.org/finance/financial-education/oecdpisafinancialliteracyassessment.htm",
+    "whatItDoes": "Provide a fun way to help kids be financially aware",
+    "howWeBuiltIt": "Designed specifically to mimic the benefits of long term financial planning",
+    "challengesWeRanInto": {
+      "learningNewTechnologies": {
+        "title": "Learning New Technologies",
+        "description": "Learning new technologies, designing a fun experience"
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "finalGame": {
+        "title": "Final Game Quality",
+        "description": "The final game is pretty fun and educational"
+      }
+    },
+    "whatWeLearned": "We learned to work with technologies we had never used before",
+    "whatIsNext": "Have fun playing our own game"
+  },
+  "builtWith": [
+    "react",
+    "springboot"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo 1",
+      "url": null
+    },
+    {
+      "label": "GitHub Repo 2",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Capital One: Best Financial Hack"
+  ],
+  "team": [
+    {
+      "name": "Saenz Jesus",
+      "username": "Saenz Jesus",
+      "contribution": null
+    },
+    {
+      "name": "Christian Jimenez",
+      "username": "Christian Jimenez",
+      "contribution": null
+    },
+    {
+      "name": "Rigre Garciandia",
+      "username": "Rigre Garciandia",
+      "contribution": null
+    },
+    {
+      "name": "Gabriel Flynn",
+      "username": "Gabriel Flynn",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Christian Jimenez"
+  ],
+  "updates": [
+    {
+      "author": "Saenz Jesus",
+      "timestamp": "5 years ago",
+      "content": "Saenz Jesus started this project"
+    }
+  ],
+  "comments": []
+}

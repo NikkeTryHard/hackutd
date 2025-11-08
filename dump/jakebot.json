@@ -1,0 +1,74 @@
+{
+  "projectName": "JakeBot",
+  "tagline": "Providing INSTANT service for small businesses - quotes, information, and more with Jake, our AI powered insurance assistant.",
+  "hackathon": "HackUTD X",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Small businesses are often volatile and require quick response and intervention when something goes away from normal. A broken window, or malfunctioning machinery can be devastating to a small business. We were inspired by conversational models such as GPT and Claude, and tools that take advantage of a multitude of inputs such as documents and photos.",
+    "whatItDoes": "JakeBot is more than a Chat bot. It is an AI insurance assistant that can offer guidance, intervention, and results on any part of the insurance process in a quick manner. It offers natural, human like conversation thanks to Vertex.ai, and services including insurance quotes, claims filing and AI automated approval.",
+    "howWeBuiltIt": "We used Google Cloud's Dialogflow CX to create a virtual assistance agent, and embedded Vertex.AI to generate all responses in a humanlike manner. The kommunicate API was used for webpage integration and for the UI. A highlight of our project was the addition of AI document processing. We gave the example of a user submitting a police report of property damage, so that JakeBot can automatically verify its authenticity and payout for the claim on the spot. We used GitHub's Actions feature to deploy versions to Firebase Hosting. This allowed us to push out final products to our live production build in a matter of minutes. We envision JakeBot to serve as an expandable platform, integrating functionalities such as AI damage detection from photo, NLP report generation, AI generated image detection, and more. State Farm can use AI to automate as many tasks as possible, and JakeBot is the perfect platform to build upon.",
+    "challengesWeRanInto": "API's, especially Flask, and Google Cloud functions.",
+    "accomplishmentsWeAreProudOf": "Having a final product!",
+    "whatWeLearned": "Experience with Google Cloud, and development in an extremely fast paced environment.",
+    "whatIsNext": "Serve as an ever-expandable platform for State Farm to create a true AI assistant that actually saves them time and resources."
+  },
+  "builtWith": [
+    "dialogflow-cx",
+    "firebase",
+    "google-cloud",
+    "nuxt.js",
+    "tailwind.css",
+    "vertex.ai",
+    "vue.js"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "hackutd-statefarmbot.web.app",
+      "url": "http://hackutd-statefarmbot.web.app"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Statefarm"
+  ],
+  "team": [
+    {
+      "name": "Faris Shaik",
+      "username": null,
+      "contribution": "I made the front end, worked with dialogflow and vertexAI to make chatbot, and deployed on firebase"
+    },
+    {
+      "name": "Murtaza Khan",
+      "username": null,
+      "contribution": "I worked on integrating the chatbot into our app through kommunicate"
+    },
+    {
+      "name": "Zohaib Saqib",
+      "username": null,
+      "contribution": "I worked on the integration between DialogFlow and Kommunicate. I also worked on the final presentation."
+    },
+    {
+      "name": "Nafiz Labib",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Shaik Hatim",
+    "Murtaza Khan",
+    "Faris Shaik",
+    "Zohaib Saqib"
+  ],
+  "updates": [
+    {
+      "author": "Faris Shaik",
+      "timestamp": "2 years ago",
+      "content": "Faris Shaik started this project"
+    }
+  ],
+  "comments": []
+}

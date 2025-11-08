@@ -1,0 +1,59 @@
+{
+  "projectName": "Value Proposition Generator",
+  "tagline": "We generate professional value propositions for properties based on our ML algorithm that analyzes various attributes such as condition, age, location, etc.",
+  "hackathon": "HackUTD X",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "whatItDoes": "Our website helps real estate agents by creating value propositions based on various machine learning algorithms that analyze inputs such as photos, the location, age, etc.",
+    "howWeBuiltIt": "For our tech stack, we used Svelte for the frontend to create the website, and used Flask and Python for the backend. We used multiple AI technologies: generative AI, we used OpenAI's completion API to generate the value propositions. We also used visual question answering AI to determine the type of building such as a store, house, apartment, etc. Lastly, we used image classification AI that determined if the building was residential or for commercial purposes.",
+    "challengesWeRanInto": "One of our big challenges was making a project that we could feasibly complete because of our low knowledge in ML/AI. Another big challenge was learning new frameworks in such a short time. While Svelte is similar to React, there were lots of differences that made implementation more difficult. Additionally, none of us had much experience with Python/Flask, so working on backend and integration was a challenge that took a lot of effort to learn. Our biggest challenge was creating/implementing the various ML models. We created our own database and models to train the image classification on while we used a preset model for the visual question answering.",
+    "accomplishmentsWeAreProudOf": "The thing we're most proud of is getting our machine learning algorithms to work and get a decent result from them. Our prior experience with ML/AI was very minimal, so being able to get the different models to work was a big accomplishment for us.",
+    "whatWeLearned": "We learned a lot about Machine learning and the challenges that come along with implementing it into our program. Using a framework that none of us knew meant that we had to learn most of it as we went.",
+    "whatIsNext": "The next steps for our website would be creating an accurate cost prediction, using computer vision for analyzing the condition of the properties, using location to compare to nearby properties, and using environmental impacts in our valuation."
+  },
+  "builtWith": [
+    "machine-learning",
+    "python",
+    "svelte",
+    "typescript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner CBRE"
+  ],
+  "team": [
+    {
+      "name": "Isaac Baldivas",
+      "username": null,
+      "contribution": "I worked on from and backend while also doing research for the different models we used."
+    },
+    {
+      "name": "Leon Zhang",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Justin Yao",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Justin Yao",
+    "Leon Zhang"
+  ],
+  "updates": [
+    {
+      "author": "Leon Zhang",
+      "timestamp": "2 years ago",
+      "content": "Leon Zhang started this project"
+    }
+  ],
+  "comments": []
+}

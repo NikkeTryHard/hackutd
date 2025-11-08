@@ -1,0 +1,109 @@
+{
+  "projectName": "Ocean Watch",
+  "tagline": "Identify. Inform. Impact.",
+  "hackathon": "HackUTD VII",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Ocean water quality sensing is important to identify the impact of human activities on the aquatic environment and ecosystem. It directly impacts our health and economy. An algal bloom, caused by excess nutrients pollution in water, is harmful to aquatic life.",
+    "whatItDoes": {
+      "sensingUnit": {
+        "title": "Ocean Water Quality Sensing Unit",
+        "description": "Here, we developed a hardware system for ocean water quality sensing. Users can view different parameters of water quality such as Air temperature, Air humidity, Water temperature, pH, Turbidity, GPS (location), TDS (total dissolved solids), Water level."
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "description": "Users select points on the map to view parameters including pH, TDS, water temperature, air temperature, humidity, water level, dissolve O2 level."
+      }
+    },
+    "howWeBuiltIt": {
+      "frontend": "Front-end development using html, css, javascript, apex charts and d3.js",
+      "backend": "Back-end development using python",
+      "hardware": "Hardware development using C++ and ESP32"
+    },
+    "sensorsUsed": [
+      "Analog TDS Sensor",
+      "pH Meter with breakout Board",
+      "DHT11",
+      "Waterproof analog temperature probe",
+      "SEN0189 Turbidity Sensor",
+      "Analog Water Level Sensor",
+      "Phone GPS"
+    ],
+    "challengesWeRanInto": {
+      "internationalTeam": {
+        "title": "International Team and Timezones",
+        "description": "We are an international team with 4 timezones, not all developers are awake at the same time. We overcame this by effective planning and communication."
+      },
+      "datasetAccess": {
+        "title": "Satellite Images Dataset Access",
+        "description": "We had trouble accessing the satellite images dataset to identify harmful algae bloom. By the time he had access to it, it was too late to implement it."
+      },
+      "corsPolicy": {
+        "title": "CORS Policy",
+        "description": "Finding workarounds to 'Blocked by CORS policy'"
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "functionalPrototype": {
+        "title": "Functional Prototype",
+        "description": "We built a functional prototype!"
+      }
+    },
+    "whatWeLearned": "We learned a lot about hardware development. It was our first time using D3.js.",
+    "whatIsNext": "Implement Harmful algae bloom detection using satellite images"
+  },
+  "builtWith": [
+    "apex",
+    "c++",
+    "css",
+    "d3.js",
+    "html",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH Best Hardware Hack Sponsored by Digi-Key"
+  ],
+  "team": [
+    {
+      "name": "Ava Chan",
+      "username": "Ava Chan",
+      "contribution": null
+    },
+    {
+      "name": "Shalini Kumari",
+      "username": "Shalini Kumari",
+      "contribution": null
+    },
+    {
+      "name": "Muntaser Syed",
+      "username": "Muntaser Syed",
+      "contribution": null
+    },
+    {
+      "name": "Ebtesam Haque",
+      "username": "Ebtesam Haque",
+      "contribution": "i like to read good food reviews, then eat said good food but im usually broke :("
+    }
+  ],
+  "likesBy": [
+    "Abdirahman Hassan",
+    "Jesus del Valle",
+    "Muntaser Syed",
+    "Sehmim Haque"
+  ],
+  "updates": [
+    {
+      "author": "Ava Chan",
+      "timestamp": "5 years ago",
+      "content": "Ava Chan started this project"
+    }
+  ],
+  "comments": []
+}

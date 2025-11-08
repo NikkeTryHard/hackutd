@@ -1,0 +1,71 @@
+{
+  "projectName": "e-val",
+  "tagline": "Thousands of homes and apartments for rent. How do you find out if it's a good deal? With e-val, we'll help you get there!",
+  "hackathon": "HackUTD IX",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "whatItDoes": "An interactive web-site that ranks zip-code by the fair-price of apartments",
+    "problem": "With the impact of the pandemic still lingering and inflation rising at an all time high, many people in the DFW metroplex struggle to find affordable neighborhoods that they can look for housing in. Our website e-val helps alleviate this by allowing locals to easily visualize what areas of the metroplex has a fair rent price that fits within their budget. The zones on the map are zip code areas, where at a glance you can see with green that a neighborhood is affordable, while the darker red it gets, the more expensive.\n\ne-val also allows you to view prices differences between zip codes and predict the future price of a neighborhood.",
+    "technicalHurdles": "Most of our team has never really done web development or data analytics before, so we learned most of the tech stack that is used over the weekend. We used Google Maps atop of React with Webpack and did data analytics with Python tools like Pandas and Matplotlib.",
+    "uniqueFeatures": "Multi-colored radius of a zip code's range dot the map of the DFW area, easily allowing users to visualize where in the metroplex has a more affordable fair market value.",
+    "nextSteps": "In the future, we plan to make the scope more granular by allowing users to view fair market prices for each address in addition to zip code. We'll also allow for search and saving areas you want to keep track of as favorites. We also plan to expand the area of service beginning with all Texans, so eventually people across the country will be able to find a fair deal when looking for local affordable housing."
+  },
+  "builtWith": [
+    "google-cloud",
+    "google-collab",
+    "google-maps",
+    "matplot",
+    "numpy",
+    "python",
+    "react",
+    "scikit-learn",
+    "seaborn"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "colab.research.google.com",
+      "url": "https://colab.research.google.com"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Capital One"
+  ],
+  "team": [
+    {
+      "name": "Ryan Johnson",
+      "username": "Ryan Johnson",
+      "contribution": null
+    },
+    {
+      "name": "Xavier Moreno",
+      "username": "Xavier Moreno",
+      "contribution": null
+    },
+    {
+      "name": "Abis Naqvi",
+      "username": "Abis Naqvi",
+      "contribution": null
+    },
+    {
+      "name": "Suvel Muttreja",
+      "username": "Suvel Muttreja",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Kayla Tucker"
+  ],
+  "updates": [
+    {
+      "author": "Xavier Moreno",
+      "timestamp": "3 years ago",
+      "content": "Xavier Moreno started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

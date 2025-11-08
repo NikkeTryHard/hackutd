@@ -1,0 +1,78 @@
+{
+  "projectName": "poyo.ed",
+  "tagline": "Smart Poyo for Smarter Learning: Capture, Transcribe, Summarize.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "🚀 Inspiration:\nIn modern academics, students often struggle to keep up with fast-paced lectures and large volumes of content. Briefly displayed slides and spoken details can be hard to capture, especially for auditory learners, impacting comprehension, retention, and academic performance. Our team's creativity was further sparked by a charming Poyo keychain, beloved for its delightful design.",
+    "whatItDoes": "🎉 What It Does:\nReal-time Speech-to-Text Transcription: Converts spoken content into accurate, searchable text during lectures.\nVisual Capture of Lecture Slides: Automatically processes uploaded slides or captured visuals for seamless integration into notes.\nExport and Note Generation: Generates structured notes that can be exported as text files or PDFs for later review.\nDigestable Notes: Implemented large language models (LLMs) to condense lecture content into easily understandable summaries.",
+    "howWeBuiltIt": "🛠️ How We Built It:\nFrontend: Developed with Next.js for a responsive and performant user interface, styled using Tailwind CSS for sleek, modern aesthetics.\nBackend: Built with Node.js, leveraging scalable cloud services to process requests and manage data.\nDatabase: Implemented a SQLite database to store lecture content and user data for efficient retrieval and scalability.\nAPIs: Integrated the SambaNova Cloud API for advanced transcription capabilities, Pinata File API for secure storage and retrieval of visual content and react-speech-navigation for real-time speech transcription.",
+    "challenges": "🚧 Challenges We Ran Into:\nSpeech-to-Text accuracy: Ensuring reliable transcription in noisy environments and with varying accents required extensive tuning and testing.\nSlide Capture Integration: Aligning slide visuals with transcriptions in real time presented synchronization challenges.\nLearning Curve: Exploring and effectively utilizing the SambaNova Cloud API and Pinata File API under time constraints.\nDissecting Poyo: Retrofitting the Poyo keychain with a camera was a meticulous task. We spent considerable time carefully disassembling, equipping with the camera, and then reassembling Poyo, ensuring it maintained its charm.",
+    "accomplishments": "🏆 Accomplishments That We're Proud Of:\nSuccessfully implemented real-time transcription and visual processing features within the hackathon timeframe.\nAchieved seamless integration of diverse tools and technologies for a cohesive user experience.\nCreated an intuitive and visually appealing interface that simplifies note-taking for students.",
+    "whatWeLearned": "📚 What We Learned:\nThe importance of clear and well-structured API documentation for rapid development.\nTechniques for optimizing performance in real-time applications like transcription and slide processing.\nHow to adapt to new technologies and collaborate effectively in a high-pressure environment.\nThe importance of thorough initial planning for maintaining a flexible and extendable codebase.",
+    "whatsNext": "🔮 What's Next for poyo.ed\nAI Tutoring Chat Bot: Enhance learning with a personalized assistant that can answer questions based on lecture content.\nNative Mobile App: Develop mobile applications to enable students to use poyo.ed on the go, with offline capabilities for transcription and note management.\nMultilingual Support: Expand transcription capabilities to support multiple languages and improve accessibility.\nBigger Poyo: We plan to enlarge Poyo to accommodate a better camera, enhancing its image capture quality and functionality.",
+    "techStack": "💻 Tech Stack:\nFrontend: Next.js, Typescript, TailwindCSS, Materials UI\nBackend: SQLite, Pinata SDK\nAPIs/Tools: Pinata File API, SambaNova Cloud API, Clerk Auth, React Speech Navigation, Groq API"
+  },
+  "builtWith": [
+    "clerk",
+    "groq",
+    "materials",
+    "next.js",
+    "pinata",
+    "react-speech-navigation",
+    "sambanova",
+    "tailwind.css",
+    "typescript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Poyo's Prize"
+  ],
+  "team": [
+    {
+      "name": "sarahlee1tamu Lee",
+      "username": "sarahlee1tamu",
+      "contribution": "Pinata and camera integration"
+    },
+    {
+      "name": "Koki Shin",
+      "username": null,
+      "contribution": "frontend & plushie dissection"
+    },
+    {
+      "name": "David Roh",
+      "username": null,
+      "contribution": "backend and middleware"
+    },
+    {
+      "name": "Nathan Hartojo",
+      "username": null,
+      "contribution": "guh\nfull stack and api integrations"
+    }
+  ],
+  "likesBy": [
+    "David Martinez",
+    "sarahlee1tamu Lee",
+    "Anant Dadhich",
+    "Meerthika SR"
+  ],
+  "updates": [
+    {
+      "author": "David Roh",
+      "timestamp": "12 months ago",
+      "content": "Big News from HackUTD 2024!\n\nWe’re thrilled to share that poyo.ed won the Poyo Grand Prize, recognized as the most prestigious award at HackUTD, the 2nd largest hackathon in the U.S.\n\nThis prize represents the highest honor of the competition, awarded to the project rated above all others among 1,100 participants and 279 teams. We’re incredibly proud of what we accomplished and deeply grateful for this recognition.\n\nHuge thanks to Salman, the Director of HackUTD, for clarifying the significance of this award!"
+    },
+    {
+      "author": "Koki Shin",
+      "timestamp": "12 months ago",
+      "content": "Koki Shin started this project"
+    }
+  ],
+  "comments": []
+}

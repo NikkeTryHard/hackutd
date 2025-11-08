@@ -1,0 +1,66 @@
+{
+  "projectName": "Ambient",
+  "tagline": "Analyze customer service calls to get an overview of your service quality and effectiveness.",
+  "hackathon": "HackUTD IX",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our project was inspired by the emotion analysis videos gaining popularity today. We wanted to find a way to bring this emotional analysis to the customer service industry, and came up with the idea to monitor audio during customer service calls to analyze emotion.",
+    "whatItDoes": "ambient analyzes audio recordings from phone calls or conversations and generates reports interpreting the sentiment of customers. These reports can be used to determine how your customers feel about your services and find ways to improve the customer experience for your business.",
+    "howWeBuiltIt": "ambient was built using flask for the backend, and react.js for the user interface. Our own machine learning model samples voice recordings and periodically determines the emotional context of the conversation.",
+    "challengesWeRanInto": "We had initially planned to develop our backend using Express.js, but after developing the machine learning model in python, we switched to flask for compatability.\n\nDuring development, we also ran into compatibility issues between different operating systems. We ultimately decided to deploy our application in a docker container to resolve the compatability issues.",
+    "accomplishmentsWeAreProudOf": "We are proud of the machine learning model that powers ambient and is capable of interpreting 8 different human emotions: happy, sad, fear, angrer calm, disgust, suprise, and neutrality. This model allows more in-depth understanding of conversations than the standard negative-neutral-positive model.",
+    "whatWeLearned": "We learned more about the interworkings of audio files and convertions. We also gained a more comprehensive understanding of machine learning models and applying existing technology to new and innovative solutions.",
+    "whatIsNext": "In the future, we hope to add more features to ambient to provide more in-depth analysis' which take more samples from each recording and analyze the conversation for keywords and expressions. We would also like to add insight into sentiment trends across different recordings over time so users can see how their conversations change with time."
+  },
+  "builtWith": [
+    "docker",
+    "flask",
+    "node.js",
+    "react",
+    "tensorflow"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner CBRE"
+  ],
+  "team": [
+    {
+      "name": "Kevin Ge",
+      "username": "Kevin Ge",
+      "contribution": null
+    },
+    {
+      "name": "Mia Tran",
+      "username": "Mia Tran",
+      "contribution": null
+    },
+    {
+      "name": "Camden Thomson",
+      "username": "Camden Thomson",
+      "contribution": null
+    },
+    {
+      "name": "ahad j",
+      "username": "ahad j",
+      "contribution": "I like to build cool things!"
+    }
+  ],
+  "likesBy": [
+    "Camden Thomson",
+    "ahad j"
+  ],
+  "updates": [
+    {
+      "author": "Kevin Ge",
+      "timestamp": "3 years ago",
+      "content": "Kevin Ge started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

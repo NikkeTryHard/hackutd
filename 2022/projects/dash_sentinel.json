@@ -1,0 +1,71 @@
+{
+  "projectName": "Dash Sentinel",
+  "tagline": "Machine learning to detect cars mentioned in amber alerts from dashcam footage, tracked in an interface that segregates tracked sightings by proximity to alerts.",
+  "hackathon": "HackUTD IX",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "2300 children are reported missing every day in the US, teenagers being the most common age group. However, 99% of abductions are conducted by someone the victim knows, often a non-custodial parent or relative. These abductions, though they may seem less \"scary\" than abductions by a stranger, can have lasting impacts on the victims' wellbeing and mental health, as well as the trust in the community.\n\nThe first 3 hours after an abduction is the most crucial time. During this period, many measures implemented by law enforcement are the most effective. One of the most successful technologies for this purpose is the AMBER alert system. For abductions that are not resolved within the critical time period, AMBER helps return an immense percentage of children home alive. In 2022 alone, AMBER was the main reason 123 children were saved.\n\nAMBER alerts are effective because they empower bystanders with knowledge about active cases and make it impossible for kidnappers to stay anonymous in public. However, many abductions are complicated by perpetrators driving for long distances from the original location. They can remain anonymous within their vehicles because it is harder to identify. AMBER responded by providing vehicle data in alerts, but reports based on vehicle still lack.",
+    "whatItDoes": "To address this problem, we created Dash Sentinel, a dash cam that detects vehicles involved in abductions. AMBER alerts are powerful, but it can be difficult to remember the details of a report hours after reading it. Dash Sentinel is a passive camera that compares cars on the road to their descriptions in active AMBER alerts. When it finds a match, it alerts the user and takes geo-tagged pictures of the car in question, encouraging the user to upload the picture to a database accessible by local authorities.",
+    "howWeBuiltIt": "The project is separated into the two main parts: the dash cam and the web API. The POC dash cam runs on a Raspberry Pi, pulling video from the camera and running it through a ML-based vehicle detection algorithm. Once vehicles are isolated, they are scanned for attributes such as color, make, and model. These attributes are compared against a local database of AMBER alerts for matches. If a match is found, the user is notified and encouraged to report the sighting.\n\nIf the user chooses to report, the pictures and location is uploaded to our API. The sightings are logged in a PostgreSQL database. A map of sightings compared to active amber alerts is available to local authorities. Ideally, with many cars running our dash cam, multiple sightings would create a trail of markers that is easier for law enforcement to follow.",
+    "challengesWeRanInto": "When setting up the Raspberry Pi, we had several issues with corrupted or slow SD cards. Luckily, after finding an SD card that didin't fail, we managed to pull through despite the slow speed.\nWe had been using a phone hotspot to provide internet connection to the Pi and in order to transfer files to the Pi, but we didn't realize this was the reason connection was extremely slow and waited large amounts of time for system updates.\nWe had several setbacks with the Poetry Python development enviroment (such as dependency version mismatches, issues with caching downloads failing). After using a more stable network connection and modifying the code to not require certain dependencies, we solved these issues\nWe had difficulty finding a reliable method to detect colors of vehicles, but we eventually found python-haishoku, which generates color palletes from images. Although it isn't perfect (especially in images with bright reflections), it appears reasonably accurate for demonstration purposes\nWe had a large number of false positives with our computer vision algorithm to detect cars in images, generating lots of noisy data. With a better set of training data and some more careful analysis, this problem could be improved.\nOverall, the time constraint was a huge challenge, particularly due to the amount of time we needed to wait for slow networks, slow storage, model training, etc.",
+    "accomplishmentsWeAreProudOf": "We built this entire application from the ground up in 24 hours - we saw the sponsor challenges, came up with something that matched prompts we found inspiring, and got to work. We're really proud of how much we managed to accomplish in this short timeframe.\n\nWe came up with a working interactive interface, built without any frontend frameworks, that works smoothly and looks pretty.\n\nAfter struggling quite a bit, we managed to achieve 98% test accuracy on the machine learning model.\n\nAfter attempting to fit the whole project in a python monorepo, we realized each of us are more experienced in different technologies, and made the project work using three different languages split into individual repositories.",
+    "whatWeLearned": "Several new tools, including Poetry, OpenCV, PostGIS, Parcel, and the Raspberry Pi Camera.\nHow feature extraction from images using histogram of oriented gradients (HOG) works.\nHow to effectively divide tasks among team members with varied specializations.\nMost importantly, we learned that we cannot use hyphens in python filenames, or else they will fail to be imported for some unclear reason.",
+    "whatIsNext": "We envisioned Dash Sentinel as a fully-integrated community experience, but we were only able to implement the main functionality within the constraints of the hackathon. If we had more time with this project, we would like to see a couple of features implemented.\n\nPush notification for alerting the user of a match.\nMore ways to match cars against AMBER alerts, such as license plate analysis.\nA cohesive image view for authorities.\nA way for users to see their reports."
+  },
+  "builtWith": [
+    "flask",
+    "node.js",
+    "opencv",
+    "postgresql",
+    "python",
+    "rocket",
+    "rust",
+    "scikit-learn"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner State Farm"
+  ],
+  "team": [
+    {
+      "name": "Charlie Mahana",
+      "username": "Charlie Mahana",
+      "contribution": null
+    },
+    {
+      "name": "Private user",
+      "username": "Private user",
+      "contribution": null
+    },
+    {
+      "name": "Timothy Sweet",
+      "username": "Timothy Sweet",
+      "contribution": null
+    },
+    {
+      "name": "Amrit Rathie",
+      "username": "Amrit Rathie",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Colette Atupulazi",
+    "Kayla Tucker",
+    "Shaurya Dwivedi",
+    "Adam Szumski"
+  ],
+  "updates": [
+    {
+      "author": "Private user",
+      "timestamp": "3 years ago",
+      "content": "Private user started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,79 @@
+{
+  "projectName": "CrowdAdvisor",
+  "tagline": "Investment in the Age of Social Media",
+  "hackathon": "HackUTD VIII",
+  "likes": 6,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "People are involved in the stock markets and social media more than ever. That's why we created a resource that fuses both worlds to provide investors with information that presents the market with the sentiment from social media.",
+    "whatItDoes": "Our web app presents social media sentiment, most popular news, tweets, and financial information to the user in order to make more informed decisions about investing in stocks and cryptocurrency.",
+    "howWeBuiltIt": "Our project uses gatsby.js and react for the front-end and node.js for the back-end. We utilized the Twitter API for sourcing popular tweets and Finnhub API for general stock and crypto information. Our web app runs on Google Firebase Hosting, while our database runs on Firestore. We run the back-end on Google Functions in order to periodically update our database and run search queries.",
+    "challengesWeRanInto": "We had some issues displaying the historical stock info chart in react and getting tweets that we wanted from Twitter. With enough time, patience, and Sprites, we have persevered through these challenges and implemented all of the features we had in mind for our minimum viable product.",
+    "accomplishmentsWeAreProudOf": "We take pride in building our front-end from scratch and creating our project in a very limited amount of time, with a rather limited knowledge of react.",
+    "whatWeLearned": "This project was a great learning experience, especially on the front-end. Implementing the historical data chart involved plenty of problem-solving in react which turned out to be a great learning moment. On the back-end, we polished up our Google Firebase knowledge and skills for deploying apps and managing databases.",
+    "whatIsNext": "This is just the beginning. We plan to implement many more features such as sentiment analysis and news from other social media platforms, beautifying our front-end for that modern look, and adding more stock and crypto information to our dashboard."
+  },
+  "builtWith": [
+    "finnhub-api",
+    "firebase",
+    "firebase-hosting",
+    "firestore",
+    "gatsby",
+    "google",
+    "google-functions",
+    "node.js",
+    "react",
+    "twitter"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "financial-analyzer.web.app",
+      "url": "financial-analyzer.web.app"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Capital One: Best Financial Hack"
+  ],
+  "team": [
+    {
+      "name": "Adam Szumski",
+      "username": null,
+      "contribution": "I worked on the back-end to populate our database and provide search functionality. I also did some graphic design and contributed to the devpost submission."
+    },
+    {
+      "name": "Brad Johnson",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Kerby Kaska",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Max Hogan",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Shivanischal Anand",
+    "Kerby Kaska",
+    "Jasmin Khan",
+    "Alexis Kaufman",
+    "Adam Szumski",
+    "Brad Johnson"
+  ],
+  "updates": [
+    {
+      "author": "Adam Szumski",
+      "timestamp": "4 years ago",
+      "content": "Adam Szumski started this project"
+    }
+  ],
+  "comments": []
+}

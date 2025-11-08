@@ -1,0 +1,559 @@
+{
+  "website": {
+    "title": "HackUTD X: Golden Hour",
+    "header": {
+      "eventName": "HackUTD X",
+      "eventTheme": "Golden Hour",
+      "navigation": [
+        {
+          "text": "Sign in",
+          "link": null
+        },
+        {
+          "text": "Home",
+          "link": null
+        },
+        {
+          "text": "Dashboard",
+          "link": null
+        },
+        {
+          "text": "Schedule",
+          "link": null
+        }
+      ]
+    },
+    "mainContent": {
+      "heroSection": {
+        "mlhSeason": "Major League Hacking 2023 Hackathon Season",
+        "backgroundImagePlaceholder": "ecsw",
+        "status": "THE EVENT HAS STARTED!",
+        "date": "NOVEMBER 4 - 5",
+        "callToAction": {
+          "text": "REGISTER",
+          "link": null
+        },
+        "tagline": "THE LARGEST HACKATHON IN TEXAS"
+      },
+      "aboutSection": {
+        "title": "About HackUTD",
+        "description": "HackUTD, the largest university hackathon in Texas, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds from universities all over the US come together, form teams around a problem or idea, and collaboratively build a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make!",
+        "statistics": [
+          {
+            "value": "24",
+            "label": "Hours"
+          },
+          {
+            "value": "1200",
+            "label": "Hackers"
+          },
+          {
+            "value": "200",
+            "label": "Projects"
+          },
+          {
+            "value": "$50,000",
+            "label": "In Prizes"
+          }
+        ]
+      },
+      "challengesSection": {
+        "title": "CHALLENGES",
+        "imagePlaceholder": "ecsw",
+        "grandPrizes": {
+          "title": "Grand Prizes",
+          "description": "Every project submitted will be automatically eligible for the grand prize running. You can submit to as many company challenges and tracks as you want. Present your project to the judge for 3-5 minutes about your app, how you built it, your challenges, and a demo. You will present your project to multiple judges one after another, please do not leave after presenting once. For more information on submission and judging, check out the general hackerpack.",
+          "judgingCriteria": {
+            "title": "Judging Criteria",
+            "criteria": [
+              {
+                "name": "Idea",
+                "description": "Does it solve a necessary and prevalent issue?"
+              },
+              {
+                "name": "Technology",
+                "description": "How difficult was the hack?"
+              },
+              {
+                "name": "Design",
+                "description": "How was the user experience?"
+              },
+              {
+                "name": "Learning",
+                "description": "Have you worked on something similar or is this new?"
+              },
+              {
+                "name": "Completion",
+                "description": "Does it work?"
+              }
+            ]
+          },
+          "prizes": [
+            {
+              "place": "1st Place Prize",
+              "item": "LG 4k Smart TV",
+              "note": "(1 per team member)"
+            },
+            {
+              "place": "2nd Place Prize",
+              "item": "Airpod Pros 2nd Gen",
+              "note": "(1 per team member)"
+            },
+            {
+              "place": "3rd Place Prize",
+              "item": "Samsung Gaming Monitor",
+              "note": "(1 per team member)"
+            }
+          ],
+          "selectionNote": "Note: 1st place winners can pick any prize, 2nd place gets to pick one out of the remaining prizes, and 3rd place gets the remaining prize."
+        },
+        "tracks": {
+          "title": "Tracks",
+          "items": [
+            {
+              "name": "Best Beginner",
+              "prize": "12 month subscription to each: NordVPN, NordPass, Incogni",
+              "note": "(1 per team member)"
+            },
+            {
+              "name": "Best Design",
+              "prize": "FijiFilm Mini 7 Polaroid Camera",
+              "note": "(1 per team member)"
+            },
+            {
+              "name": "Best Hardware",
+              "prize": "JBL Flip 6",
+              "note": "(1 per team member)"
+            }
+          ]
+        },
+        "companyChallenges": [
+          {
+            "presentedBy": "Goldman Sachs",
+            "summary": {
+              "challengeTitle": "AI based Algorithmic Earnings Forecasting Challenge",
+              "prizes": [
+                "1st: Apple AirPods Max (1 per team member)",
+                "2nd: Apple TV (1 per team member)",
+                "3rd: Gift Cards (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "Goldman Sachs",
+              "companyDescription": "At Goldman Sachs, our engineers don't just make things - we make things possible. Build innovations that drive our business and financial markets worldwide. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. Stop by our booth during the hackathon to learn more!",
+              "challengeTitle": "AI based Algorithmic Earnings Forecasting Challenge",
+              "challengeDescription": "Develop an AI application combining outputs of open source generative AI models and openly available market and economic data that predicts company earnings and financial performance using alternative data sources, like news sentiment and social media trends.",
+              "technologyTrends": "GenAI, Natural language processing, sentiment analysis, and machine learning for financial forecasting.",
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "Apple AirPods Max",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "Apple TV",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "3rd Place Prize",
+                  "item": "Gift Cards",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "Toyota",
+            "summary": {
+              "challengeTitle": "Toyota Challenge",
+              "prizes": [
+                "1st: Harman JBL Tour Pro 2, Harman JBL Flip 6, $100 Amazon Gift Card, 12-Month SXM Streaming Subscription, SXM T-Shirt (Bundle per team member)",
+                "2nd: Harman JBL CLIP 4, Cisco Backpack with Swag, Cisco Meraki Desk Shield Charger, 9-Month SXM Streaming Subscription, SXM T-Shirt (Bundle per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "Toyota",
+              "companyDescription": "At Toyota, we work hard to create some of the highest quality vehicles on the road. But there is more to our story. We’re also finding innovative ways to advance society with cutting edge technology, and our commitment to creating a positive impact on people, local communities, and the environment. We're creating the future of mobility where everyone has the freedom to move. In addition, an important part of the Toyota family is Toyota Financial Services (TFS), the finance and insurance brand for Toyota and Lexus in North America. While TFS is a separate business entity, it is an essential part of this world-changing company – delivering on Toyota’s vision to move people beyond what’s possible. Across Toyota, we’re actively recruiting for computer science, data science, AI/automation, product management, software engineering, electrical engineering, and many more!",
+              "challengeTitle": "Toyota Challenge",
+              "challengeDescription": "Toyota’s global vision is to lead the future of mobility, enriching lives around the world with the safest and most responsible ways of moving people. Through our commitment to quality, ceaseless innovation, and respect for the planet, we strive to exceed expectations, and be rewarded with a smile.\n\nYour challenge is to build a mobile app or in-cabin experience (e.g., driver, passenger, back seat, etc.) that leverages industry trends such as Electric Vehicle (EV), Generative AI, or Cyber Security, to optimize the driving experience.",
+              "tagline": "Start Your Impossible.",
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "Harman JBL Tour Pro 2, Harman JBL Flip 6, $100 Amazon Gift Card, 12-Month SXM Streaming Subscription, SXM T-Shirt",
+                  "note": "(Bundle per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "Harman JBL CLIP 4, Cisco Backpack with Swag, Cisco Meraki Desk Shield Charger, 9-Month SXM Streaming Subscription, SXM T-Shirt",
+                  "note": "(Bundle per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "Fidelity",
+            "summary": {
+              "challengeTitle": "Fidelity Challenge",
+              "prizes": [
+                "1st: Apple Airpod Pros and Powerbank (1 per team member)",
+                "2nd: Arduino Starter Kit (1 per team member)",
+                "3rd: Winners Choose (1) Experience: Six Flags Day Pass | Dallas World Aquarium | Meow Wolf | Visit Dallas – City Pass (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "Fidelity",
+              "companyDescription": "Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money. At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees’ Choice Award, we have been recognized by our employees as a Best Place to Work in 2023. By investing $2.5B annually in game-changing tech platforms, Fidelity encourages our technologists to help reinvent the way we deliver financial services to our customers. Join us!",
+              "challengeTitle": "Fidelity Challenge",
+              "challengeDescription": "At Fidelity, Diversity, Equity, and Inclusion are viewed as major keys to the success of our business, which is why we are challenging you to come up with innovative ways to create forward-thinking financial tech that promotes equality for all people! We want you to use your hacking skills to find and build solutions that put financial opportunities and resources within reach for all communities, creating accessible, sustainable, and/or inclusive solutions.",
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "Apple Airpod Pros and Powerbank",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "Arduino Starter Kit",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "3rd Place Prize",
+                  "item": "Winners Choose (1) Experience: Six Flags Day Pass | Dallas World Aquarium | Meow Wolf | Visit Dallas – City Pass",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "StateFarm",
+            "summary": {
+              "challengeTitle": "StateFarm Challenge",
+              "prizes": [
+                "1st: PlayStation 5 (1 per team member)",
+                "2nd: 3D Printers (1 per team member)",
+                "3rd: Beats Studio 3 (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "StateFarm",
+              "companyDescription": "Our vision for the future is to be the customer's first and best choice in the products and services we provide. We will continue to be the leader in the insurance industry and we will become a leader in the financial services arena. Our customers' needs will determine our path. Our values will guide us.",
+              "videoLink": "https://youtu.be/k9tHe1W0rVE",
+              "challengeTitle": "StateFarm Challenge",
+              "challengeDescription": "State Farm doesn’t just have auto and home insurance, we also have small business insurance. Design a solution to enhance the small business insurance experience with State Farm.",
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "PlayStation 5",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "3D Printers",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "3rd Place Prize",
+                  "item": "Beats Studio 3",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "CBRE",
+            "summary": {
+              "challengeTitle": "AI/ML Powered Real Estate Property Solution Challenge",
+              "prizes": [
+                "1st: $250 Amazon Gift Card (1 per team member)",
+                "2nd: $150 Amazon Gift Card (1 per team member)",
+                "3rd: $75 Amazon Gift Card (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "CBRE",
+              "companyDescription": "Be part of a global technology team, at a prestigious Fortune 136 company, that’s disrupting the future of commercial real estate. Our tech team (Digital & Technology) sits at the heart of CBRE where engineers across the globe collaborate as ‘One Team’ to produce innovative product solutions leveraging cutting-edge technologies in Cloud powered by AI. As part of our team, you’ll be able to learn from the industry’s most innovative engineers, designers, and product managers, while solving tough problems that will drive our company forward into the future.\n\nCBRE Digital & Technology offers full-time, entry-level positions, in addition to summer internships – right here in Richardson, Texas.",
+              "internshipInfo": {
+                "text": "Summer 2024 internship applications are open NOW through November 10th.",
+                "link": "https://careers.cbre.com/en_US/careers/JobDetail/Digital-Technology-Intern-Summer-2024-Richardson-TX/135583"
+              },
+              "challengeTitle": "AI/ML Powered Real Estate Property Solution Challenge",
+              "challengeDescription": "Develop & present an innovative solution leveraging the power of AI & ML to enhance the value proposition and customer experience of real estate properties.\nTo manage & assess the condition of RE Properties\nGenerate narratives\nPredict Environmental Impacts",
+              "challengeLink": {
+                "text": "Read the full challenge statement and read more information here",
+                "link": null
+              },
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "$250 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "$150 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "3rd Place Prize",
+                  "item": "$75 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "EOG Resources",
+            "summary": {
+              "challengeTitle": "Leak Detection Challenge",
+              "prizes": [
+                "1st: Nintendo Switch Mario Kart Bundle (1 per team member)",
+                "2nd: NuPhy Halo65 Mechanical Keyboards (Gateron Red Switch) (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "EOG Resources",
+              "companyDescription": "EOG Resources, Inc. (NYSE: EOG) is one of the largest crude oil and natural gas exploration and production companies in the United States. The company is focused on being among the lowest cost, highest return, and lowest emissions producers, playing a significant role in the long-term future of energy.\n\nEOG strives to maintain the lowest possible operating cost structure through continued innovation that drives down operating and capital costs while maximizing reserve recoveries and lowering finding and development costs.",
+              "challengeTitle": "Leak Detection Challenge",
+              "challengeDescription": "Continuous monitoring at oil and gas production facilities enables the detection of unintended methane leaks from equipment, and a swift response to minimize the impact. These operations are supported by sophisticated sensor networks and data analysis.\n\nHere, your hackathon journey takes you to a single production facility that is equipped with stationary methane and weather sensors. Develop a solution that utilizes the trends in the sensor data, and wind direction and speed to identify the locations of methane leaks that occurred during a 2-hour timeframe. A list of possible leak points at the facility is provided.\n\nWork together to build a user interface, e.g., web app, mobile app, dashboard, that provides an intuitive and informative way for facility operators to understand the severity and extent of the detected leaks. Teams can earn bonus points by visualizing moving leak plumes across the facility.",
+              "datasetLink": {
+                "text": "View the dataset here",
+                "link": null
+              },
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "Nintendo Switch Mario Kart Bundle",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "NuPhy Halo65 Mechanical Keyboards (Gateron Red Switch)",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "Frontier",
+            "summary": {
+              "challengeTitle": "Frontier Challenge",
+              "prizes": [
+                "1st: $200 Amazon Gift Card + 'day in the life' job shadow with our Fiber Innovation Labs team (1 per team member)",
+                "2nd: $100 Amazon Gift Card (1 per team member)",
+                "3rd: $50 Amazon Gift Card (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "Frontier",
+              "companyDescription": "At Frontier, we believe in the power of technology to change lives. As the largest pure-play fiber provider in the U.S., we deliver blazing-fast broadband connectivity that unlocks the potential of millions of consumers and businesses. Everything we do comes down to our purpose: Building Gigabit America. These three words capture the unique value of what we do, the product and innovation we’re bringing, and the scale of our ambition. Working at Frontier will inspire you to expand your thinking beyond the typical early career or internship. This is your opportunity to lead and innovate in a transformative environment. We offer opportunities across our business where you can approach work with an entrepreneurial mindset—think a “start-up” within a large company. If want the opportunity to shape the future, Frontier is the place for you. Come Build Gigabit America with us!",
+              "careersLink": "https://frontier-careers.com/",
+              "challengeTitle": "Frontier Challenge",
+              "challengeTracks": [
+                {
+                  "name": "Software",
+                  "description": "Our customers depend on us to deliver blazing-fast, reliable internet. We’re looking for ways to solve connectivity problems before our customers even know they have them.\n\nYour challenge is to help us predict when a customer may be having a bad experience and call us or need us to visit them for a support call.\n\nThis will include using AI and applying data from our network, along with any other data you think is valuable."
+                },
+                {
+                  "name": "Hardware",
+                  "description": "We are committed to sustainability in our technology. That means our equipment must work in all kinds of environments and situations.\n\nYour challenge is to help us design an enclosure that keeps our equipment cool during hot Texas summers.\n\nThe best design will be inexpensive, self-powered, and have few moving parts. Your design can be built with real materials or in the CAD software of your choosing."
+                }
+              ],
+              "challengeLink": {
+                "text": "View detailed description of challenge statements here.",
+                "link": null
+              },
+              "prizeNote": "*1st, 2nd, and 3rd place will be chosen for each of the software and hardware tracks (a total of 6 teams will be awarded)",
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "$200 Amazon Gift Card + 'day in the life' job shadow with our Fiber Innovation Labs team",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "$100 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "3rd Place Prize",
+                  "item": "$50 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "Fannie Mae",
+            "summary": {
+              "challengeTitle": "Fannie Mae Challenge",
+              "prizes": [
+                "1st: $125 Amazon Gift Card (1 per team member)",
+                "2nd: $75 Amazon Gift Card (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "Fannie Mae",
+              "companyDescription": "What if your internship exceeded expectations? Working at Fannie Mae means being part of a supportive, inclusive company where you can forge your own path, but you’re never on your own. You’ll find encouragement through mentorship and early career training programs, plus our industry-leading benefits — including a student loan repayment program and lifestyle spending account. Fannie Mae employees help make housing more accessible, equitable, and attainable. It’s a big job that brings people working in technology, analytics, finance, and business together to collaborate on projects that make a real difference for millions of people. Our award-winning internship and early career roles offer the perfect opportunities to realize your full potential. Learn more about our student programs and current openings on our website.",
+              "challengeTitle": "Fannie Mae Challenge",
+              "challengeDescription": "Understanding what it takes to purchase a home has always been challenging. The paperwork can be extremely confusing and dense, and it is hard to figure out if you have the necessary means to complete the purchase. What steps can you take to improve your ability to purchase a home?\n\nIn this challenge we are presenting you with a list of potential homebuyers and some relevant data for each of them. The goal of this challenge is two-fold.\n\nEvaluate the potential homebuyer data and determine if they are ready to buy a home.\nIf they are not – offer meaningful suggestions about steps that they can take to improve their position.\n\nThe data and decision factors we are presenting here represent a simplified version of the information and how the process works in the real world, however the data represents some of the real-world factors or information used to make home buying eligibility decisions.",
+              "challengeLinks": [
+                {
+                  "text": "View the dataset here",
+                  "link": null
+                },
+                {
+                  "text": "and the detailed challenge statement on GitHub",
+                  "link": null
+                }
+              ],
+              "prizeNote": "*Winners also receive a tour of Plano Fannie Mae Office Facility, lunch with Executive Leader Thomas Jacob and presenting the winning solutions to the Leadership Team",
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "$125 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                },
+                {
+                  "place": "2nd Place Prize",
+                  "item": "$75 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          },
+          {
+            "presentedBy": "PRHI",
+            "summary": {
+              "challengeTitle": "PRHI Challenge",
+              "prizes": [
+                "1st: $250 Amazon Gift Card (1 per team member)"
+              ]
+            },
+            "details": {
+              "companyName": "PRHI",
+              "companyDescription": "The Pittsburgh Regional Health Initiative (PRHI) is one of the nation's first regional collaboratives of medical, business, and civic leaders organized to address healthcare safety and quality improvements. Since its founding in 1998, PRHI has approached quality improvement as both a social and a business imperative. Its core mission is to show that an unwavering focus on meeting patient needs, and on achieving optimal care outcomes, along with simultaneous dedication to efficiency and zero defects, will create maximum value for the patient and for society. One of the newest initiatives under PRHI is the Patient Safety Technology Challenge which is designed to fuel the engagement of innovators in creating solutions to reduce preventable deaths and disabilities from medical errors and harmful events and reimagine a vastly safer healthcare system. The initiative injects patient safety awards into existing competitions to help increase awareness of this crisis and supports budding innovations.",
+              "challengeTitle": "PRHI Challenge",
+              "challengeDescription": "We’re in search of bold new thinking. This is an invitation to solve the problem of medical error that harms millions of U.S. patients, kills approximately 250,000 patients, and costs billions of dollars every year. We’re calling on HackUTD teams to envision the best technology-enabled patient safety solution that has the potential to avert patient harm and save lives. The best team will be awarded $1,000. In order to be eligible to win your hack must align with one of the following five leading patient safety challenges facing health care across the continuum of care: Medication errors, procedural/surgical errors, errors during routine patient care (e.g. pressure ulcers, blood clots, falls), infections and diagnostic safety.",
+              "challengeLink": {
+                "text": "Learn more about the problem and get access to resources to help your hack here",
+                "link": null
+              },
+              "prizes": [
+                {
+                  "place": "1st Place Prize",
+                  "item": "$250 Amazon Gift Card",
+                  "note": "(1 per team member)"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "faqSection": {
+        "title": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "Does HackUTD accept walk-ins?",
+            "answer": "We will still be allowing walk-ins on a first-come, first-served basis on the day of the event. Walk-in ticketing starts at 7:00 AM on Saturday, November 4th. Spots are limited, so be sure to arrive early to secure your place. We will be giving out walk-in tickets starting at 7:00 AM. At 10:30 AM, we will start calling ticket numbers to be let in, so make sure you’re back at ECSW at that time!"
+          },
+          {
+            "question": "What is a hackathon?",
+            "answer": "A hackathon is a 24-hour competition where you and up to 3 teammates build a software project from scratch and compete against other groups for prizes. Sponsors will also provide workshops, events, and activities throughout the weekend to help you learn more about the field of technology!"
+          },
+          {
+            "question": "Can I participate if I have never hacked?",
+            "answer": "Everyone is welcome to come, and no experience is necessary to attend! We will even be hosting workshops to introduce new hackers to industry programs and technologies."
+          },
+          {
+            "question": "What if I don’t have a team?",
+            "answer": "We will have a teambuilding session at the start of the hackathon for those who need help finding one! You can also choose to work on projects by yourself."
+          },
+          {
+            "question": "What do I need to bring?",
+            "answer": "You just need to bring a laptop, charger, and a hacking spirit to participate! We also recommend having a compiler, packages, or any packaging tools ready beforehand. We will be providing internet connectivity, and will also have free food throughout the event!"
+          },
+          {
+            "question": "When is HackUTD X?",
+            "answer": "November 4th and 5th!"
+          },
+          {
+            "question": "When is registration?",
+            "answer": "Registration has opened! Sign up to start your registration."
+          },
+          {
+            "question": "How much does it cost?",
+            "answer": "HackUTD X will be completely free to hackers!"
+          },
+          {
+            "question": "Where will it be?",
+            "answer": "HackUTD will be hosted at... You guessed it: UT Dallas! Parking and other logistical details for attendees will be provided closer to the hackathon date."
+          },
+          {
+            "question": "What are the general rules?",
+            "answer": "Your project must be built entirely over the course of the weekend. No previous projects or code may be used. Have fun! Your behavior at this event is subject to the MLH Code of Conduct as well as any applicable UT Dallas guidelines."
+          },
+          {
+            "question": "What should I build?",
+            "answer": "Anything you want! You can try to solve a sponsor challenge or submit a project for the HackUTD awards!"
+          },
+          {
+            "question": "Can I volunteer?",
+            "answer": "Mentor and volunteer applications will be opening soon! Follow us on social media to be notified when applications open."
+          },
+          {
+            "question": "Free swag? pls?",
+            "answer": "We will have custom HackUTD X swag for all participants along with gear provided by our sponsors! And free food!"
+          }
+        ]
+      }
+    },
+    "sponsorsSection": {
+      "title": "THANK YOU TO OUR SPONSORS",
+      "sponsors": [
+        "GoldmanSachs",
+        "Toyota",
+        "Fidelity",
+        "StateFarm",
+        "EOGResources",
+        "CBRE",
+        "Frontier",
+        "FannieMae",
+        "JPMC",
+        "Geico",
+        "PHRI",
+        "Axxess",
+        "CoreLogic"
+      ],
+      "specialThanks": {
+        "title": "SPECIAL THANKS TO",
+        "supporters": [
+          "StandOutStickers",
+          "Modern Market Eatery",
+          "StickerMule",
+          "NordVPN",
+          "NordPass",
+          "Incogni"
+        ]
+      }
+    },
+    "footer": {
+      "organizerWebsite": {
+        "text": "Checkout HackUTD's Organizer website",
+        "link": null
+      },
+      "credits": "Designed by HackUTD | HackPortal developed with <3 by HackUTD and ACM Development",
+      "links": [
+        {
+          "text": "Contact Us",
+          "link": null
+        },
+        {
+          "text": "Code of Conduct",
+          "link": null
+        }
+      ]
+    }
+  }
+}

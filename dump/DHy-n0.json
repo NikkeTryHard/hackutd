@@ -1,0 +1,85 @@
+{
+  "projectName": "DHy-n0",
+  "tagline": "We submitted this project for the EOG Resources Challenge. It analyzes data and infers when hydrate buildups are happening based on anomalies in the data.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We wanted to create a hydrate detection tool that gives the user the best experience possible. We implemented viewing features that we thought would be helpful to us if we were the ones doing the job of lease operator.",
+    "whatItDoes": "It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.",
+    "howWeBuiltIt": "Our tech stack includes Flask, Pandas, and React.",
+    "challenges": "There were a lot of challenges we faced on frontend due to the fact we were all new to React. We decided to challenge ourselves to code the frontend in React anyway. We also felt challenged while implementing Recharts because it was a new library we hadn't used before, so we had to struggle through filling it out.\n\nAnalyzing and inferencing data was the main challenge on the backend. We also struggled with the uploading files feature as well as the API design for integrating our backend and frontend.",
+    "accomplishments": "We're proud of the marketing we did for this product. We wanted to find a creative way to promote our product, so we made a silly video that displayed our website in a light-hearted way. We also created an original mascot for our project. We thought branding and design is often overlooked in tech applications, so we wanted to go against the grain and create an identity for our application.\n\nWe're also extremely proud of taking a small idea and turning it into an actual product that can solve real-world issues. Going from ideas to code was extremely difficult at times, but we managed to create a product we're all proud of.",
+    "whatWeLearned": "We all learned a lot more about the tech stack we used and how to overcome problems in coding with creative solutions.\n\nMore specifically, we learned how to use callbacks in React (and in fact all of us were new to React, especially in a major project), how to communicate and collaborate on time-sensitive work, how to use Pandas and its data frame model, how to adapt to changing requirements, and how to create friendly UI.",
+    "whatsNext": "We would love to see how it handles more data, especially from the real world where anomalies might not necessarily indicate hydrate, but some other contributing factor.\n\nWe also want to see how these techniques we used can be applied to other projects."
+  },
+  "builtWith": [
+    "flask",
+    "pandas",
+    "python",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "www.canva.com",
+      "url": "http://www.canva.com"
+    },
+    {
+      "label": "youtu.be",
+      "url": "http://youtu.be"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "dhy-n0.tech",
+      "url": "http://dhy-n0.tech"
+    },
+    {
+      "label": "www.youtube.com",
+      "url": "http://www.youtube.com"
+    }
+  ],
+  "prizes": [
+    "Winner EOG Resources",
+    "Winner [MLH] Best .Tech Domain Name"
+  ],
+  "team": [
+    {
+      "name": "Zeke Stephens",
+      "username": null,
+      "contribution": "I worked on integrating both backend and frontend. It was a challenge to work with React/Recharts to plot data coming from the backend. Handling file uploads was another technical challenge."
+    },
+    {
+      "name": "Z. Caleb Hernandez",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Lilian Zeng",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "s0ph0n42",
+      "username": "s0ph0n42",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Nur Mahi",
+    "s0ph0n42",
+    "Lilian Zeng",
+    "Zeke Stephens",
+    "Z. Caleb Hernandez"
+  ],
+  "updates": [
+    {
+      "author": "Z. Caleb Hernandez",
+      "timestamp": "12 months ago",
+      "content": "Z. Caleb Hernandez started this project"
+    }
+  ],
+  "comments": []
+}

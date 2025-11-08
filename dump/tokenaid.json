@@ -1,0 +1,65 @@
+{
+  "projectName": "TokenAid",
+  "tagline": "In just the last year, over $1 Billion have been stolen due to a variance of crypto token frauds. Therefore, through a blockchain-based fraud detection tool, we inform the public of fraudulent tokens.",
+  "hackathon": "HackUTD IX",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Investing in Ethereum-based Defi tokens is risky but extremely lucrative. However, due to the general publics' lack of basic blockchain knowledge, this high-opportunity industry is often overlooked. Therefore, noticing the high barrier to entry related to Investing in Ethereum-based Defi tokens, we aim to provide educational resources, and fraud detection tools in order to promote learning about blockchain technology and bring trust to risky projects.",
+    "whatItDoes": "Here at TokenAid, we aim to eliminate the negative stigma associated with cryptocurrencies through education and risk management.\n\nFrom in-depth tutorials to easy-to-understand translations of complex buzzwords, we provide educational resources in order to explain the blockchain ecosystem and functions, with a focus on Decentralized Finance. Providing individuals with the knowledge needed to make educated and informed decisions when it comes to Blockchain technology.\n\nFinally, to safeguard users from fake tokens, we created a fully autonomous scam detection program. This fraud detection tool constantly scrapes the blockchain to find newly generated tokens and then puts them through a rigorous test in order to determine whether they are scams. When a new scam is discovered, our website shows/teaches the user why that particular project is a hoax.",
+    "howWeBuiltIt": "As a team, we split up the work to where one works on the website while the other works on the scam detection tool. The website was built using WIX.com, and the automated scam detection tool was built in Node.js with the use of many different APIs.(More information on the website) This tool was then connected to a google cloud SQL Database to store the token information and results so that the website can easily access the data.",
+    "challengesWeRanInto": "The majority of our challenges stemmed from working with WIX Velero. When attempting to connect a database to our Wix website, we ran into countless errors. The UI was difficult to understand and use. Additionally, due to many bugs, integrating the TokenAid scam detection tool proved difficult.",
+    "whatWeLearned": "We learned a lot about the different types of scams and vulnerabilities when it comes to Ethereum-based Defi tokens and the prevention and detection of fraudulent investments. We also learned a lot about the various buzzwords constantly being used around blockchain. We also learned a lot about what it takes for a token to be successful in this market.",
+    "whatIsNext": "Next, we plan to use the data collected to create an embedded AI to fine-turn the pass-through rates for liquidity, cybersecurity checks, number of holders, trade history, etc. This AI will be built using a supervised learning algorithm to automatically be able to make decisions on whether a new token is a good token or a bad token.\n\nEventually, we would like to use this tool to automatically trade these tokens as soon as they are deployed. As many times a good project will increase in value by over 10,000% within the first couple of weeks."
+  },
+  "builtWith": [
+    "bscscan",
+    "css",
+    "etherscan",
+    "google-cloud",
+    "html",
+    "javascript",
+    "json",
+    "node.js",
+    "pancakeswap"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "sadhanache.wixsite.com",
+      "url": "https://sadhanache.wixsite.com"
+    }
+  ],
+  "prizes": [
+    "Winner Goldman Sachs"
+  ],
+  "team": [
+    {
+      "name": "Suvanch Cheemalamarri",
+      "username": "Suvanch Cheemalamarri",
+      "contribution": null
+    },
+    {
+      "name": "Sadhana Cheemalamarri",
+      "username": "Sadhana Cheemalamarri",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Sadhana Cheemalamarri",
+    "Sadhana Cheemal",
+    "Trinh Le",
+    "Kayla Tucker"
+  ],
+  "updates": [
+    {
+      "author": "Suvanch Cheemalamarri",
+      "timestamp": "3 years ago",
+      "content": "Suvanch Cheemalamarri started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

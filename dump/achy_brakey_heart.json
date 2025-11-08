@@ -1,0 +1,69 @@
+{
+  "projectName": "Achy Brakey Heart",
+  "tagline": "We aimed to measure impact force of braking on the brakes to reduce roadway injuries and fatalities, prevent spontaneous maintenance, and reduce car emissions.",
+  "hackathon": "HackUTD IX",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Annually, there are 131,000 injuries and fatalities due to brake failure. We are measuring the impact force of braking on the brakes to reduce roadway injuries and fatalities, prevent spontaneous maintenance, and reduce car emissions. We were inspired by Toyota's challenge to improve the end-to-end vehicle experience and State Farm's challenge to solve a problem our community (fellow drivers) faces. We feel that our application increases the quality of one's driving experience by reducing the chance of needing surprise maintenance or brake failure.",
+    "whatItDoes": "Our project essentially uses a accelerometer to estimate someone's current break health and the amount of time before their breaks must be replaced. Then, it displays this information and various other information to the user's screen.",
+    "howWeBuiltIt": "We used an accelerometer attached to a RaspberryPi which was then attached to a RC car to simulate the user's car. We then intended to process this information through our Django API. Then, we developed the front-end that the user would see in their vehicle. We used Android Studio with the intention of using Android Automotive.",
+    "challengesWeRanInto": "We ran into a multitude of challenges for this project. Our two greatest problems were with the backend server and with the RaspberryPi. The RaspberryPi was over 7 years out of date. It was so out of date that the normal update process was not even possible since the compatibility was discontinued. This meant we had to manually update the version of the OS. The second hurdle we faced was with establishing a Django API server which we were going to have the RaspberryPi connect to feed in the database information to our app created using Android Studios.",
+    "accomplishmentsWeAreProudOf": "This was our first time using a legacy system. We successfully figured out how to update the RaspberryPi despite the lack of updates on their website. We are also proud of the fact we were able to gather the force information out of the RaspberryPi after all the difficulties we faced. This was all of our first time using any sort of hardware. Our frontend developer Gabe also experienced a lot of self-growth this weekend. It was his first time developing and he learned lots about front-end in Android Studio.",
+    "whatWeLearned": "We learned copious amounts of skills: Google Cloud, Django, front-end development, RaspberryPi, planning a project (the concept of MVP), and how to persevere through extreme challenges.",
+    "whatIsNext": "The next step is to take this project beyond the MVP stage and implement all of our \"wants\". Specifically, we would like to integrate all levels of our project to offer a realtime response for users. Idealistically, we would eventually like to deploy this technology to Toyota."
+  },
+  "builtWith": [
+    "android",
+    "android-studio",
+    "django",
+    "figma",
+    "hardware",
+    "java",
+    "python",
+    "raspberry-pi"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Hardware Track"
+  ],
+  "team": [
+    {
+      "name": "Laura Barnes",
+      "username": "Laura Barnes",
+      "contribution": "I worked on a combination of front-end at the beginning and then the back-end of the RaspberryPi for the rest of the Hackathon. Getting the RaspberryPi to update properly was very tough! I also made the devpost."
+    },
+    {
+      "name": "Adittya Das",
+      "username": "Adittya Das",
+      "contribution": "I worked on establishing a Django API server using Google Cloud Services to connect the RaspberryPi with the front end Android Automotive. Learnt a lot about setting up Virtual Machine environments on Linux and working on setting up an API."
+    },
+    {
+      "name": "Elijah Moya",
+      "username": "Elijah Moya",
+      "contribution": "I worked with the Raspberry Pi and assisted in processing the information related the force vectors associated with our project. As well, I helped develop the Django APIs to be used for sending and further processing our data for user viewability."
+    },
+    {
+      "name": "vinfercent Ferrer",
+      "username": "vinfercent Ferrer",
+      "contribution": "I worked on the front-end design. This was a challenge for me because this was my first time developing for front-end. I also helped focus our group's project by providing design suggestions and feedback."
+    }
+  ],
+  "likesBy": [
+    "Kayla Tucker",
+    "Zaquariah Holland"
+  ],
+  "updates": [
+    {
+      "author": "Laura Barnes",
+      "timestamp": "3 years ago",
+      "content": "Laura Barnes started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

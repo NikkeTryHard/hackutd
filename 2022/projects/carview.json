@@ -1,0 +1,72 @@
+{
+  "projectName": "CarView",
+  "tagline": "CarView combines innovative technology with interactive augmented reality to forge the future of transportation.",
+  "hackathon": "HackUTD IX",
+  "likes": 3,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "Toyota's challenge statement to improve the end-to-end user experience sparked our enthusiasm in this project. Furthermore, the Toyota Supra presented by Toyota at our campus aided us in bringing our idea to life!",
+    "functionality": "We are advocating for the inclusion of CarView as a technical feature in cars all around the world. The concept entails placing augmented reality (AR) screens on the passenger and backseat windows of cars so that passengers can have various controls regardless of how short or lengthy the travel is.",
+    "process": "The car we chose for the showcase is a 2022 Toyota Supra, so we started by creating a 3D model of it in Blender. We took photographs and videos of the interior before creating a working model of the Supra that would serve as the backdrop for the AR. Then we started designing UI components for each of the aspects we had planned. These components were imported into Blender, tweaked to fit our specifications, and exported as .glb files before being converted to .usdz files. We then used Reality Composer to merge all of the pieces and add animations and responses to each button to create a realistic portrayal of what a fully developed CarView might look like on a Toyota Supra.",
+    "challenges": "We faced several challenges, including a general lack of experience with AR products, accurately recreating a Toyota Supra, designing UI elements that would be informative and appealing to users, coming up with a frame and UI design for a window for which we had no source of inspiration, and scaling and orienting all of the moving parts (of which there are over 30) in 3D space.\n\nDriver safety was another issue we dealt with because some UI elements could restrict drivers' usage of side mirrors. However, we soon found a straightforward solution to this problem: mounting a button on the steering wheel to regulate the appearance of the user interface.",
+    "accomplishments": "We entered this project with little to no prior understanding of augmented reality, blender, and reality composer; yet, throughout the last 24 hours, we not only learned a lot, but we also created a fairly awesome and fully interactive product.\n\nThe demo is highly immersive and a good representation of our initial idea, which makes us delighted as well.",
+    "learnings": "We gained knowledge about how to operate programs like Blender and Reality Composer, how to work with files and objects in 3D space, and of course how to stay up all night. :)",
+    "futureProspects": "CarView Terrain Mapping, CarView Live Mode, CarView Smart Parking, and much more!"
+  },
+  "builtWith": [
+    "3d-modeling",
+    "animation",
+    "augmented-reality",
+    "blender",
+    "composer",
+    "reality",
+    "reality-converter",
+    "ui/ux"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Toyota"
+  ],
+  "team": [
+    {
+      "name": "Prakul Singh",
+      "username": "Prakul Singh",
+      "contribution": null
+    },
+    {
+      "name": "Gaurang Goel",
+      "username": "Gaurang Goel",
+      "contribution": null
+    },
+    {
+      "name": "Aryaman Dubey",
+      "username": "Aryaman Dubey",
+      "contribution": null
+    },
+    {
+      "name": "Prateek Mishra",
+      "username": "Prateek Mishra",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "authencia tio",
+    "Kayla Tucker",
+    "Shoaib Huq"
+  ],
+  "updates": [
+    {
+      "author": "Prakul Singh",
+      "timestamp": "3 years ago",
+      "content": "Prakul Singh started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Prateek Mishra",
+      "username": "pikuaja",
+      "timestamp": "3 years ago",
+      "content": "Nice project!!!"
+    }
+  ]
+}

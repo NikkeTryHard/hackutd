@@ -1,0 +1,64 @@
+{
+  "projectName": "Promising Products",
+  "tagline": "Envision a landscape where you can consistently identify products that bring, satisfaction, facilitated by data from individuals with comparable preferences, our solution is Promising Products.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "The inspiration for the Promising-Products project stemmed from the need to create a robust and innovative platform that could leverage advanced technologies to provide personalized product recommendations. The collaboration between Frontier and Piñata presented a unique opportunity to combine strengths in telecommunications and tenant engagement, ultimately aiming to enhance the rental experience for users. Frontier’s vast infrastructure in telecommunications and Piñata’s focus on improving rental experiences inspired us to think of ways to integrate these capabilities. We envisioned a system that could not only recommend the best internet and tech solutions but also enrich tenants' lives through smart home technologies and seamless connectivity.",
+    "whatItDoes": "The problems that we are trying to address are not easily addressed by the documentation because they require a greater understanding of the customer's needs and the various products that we offer. For example, the customer may not know which product to use to solve their problem, or they may not know how to use the product to solve their problem. It will be used to provide solutions to common problems faced by customers!",
+    "howWeBuiltIt": "React.js: frontend & backend\nPython (pandas framework): Machine Learning Model",
+    "challenges": "1. Pinata documentation was outdated.\n2. Determing, logically, machine learning model to incorporate.",
+    "accomplishments": "Implementing the functionality utilizing machine learning was a big desire for us in our endeavor.",
+    "whatWeLearned": "This detailed journey highlights not only the technical advancements but also the collaborative efforts and learning experiences that went into building the Promising-Products project. Feel free to ask if you need more information on any specific part of the project!",
+    "whatsNext": "The future of Promising Products is highly promising. We are dedicated to enhancing our recommendation algorithm to improve accuracy and personalization. Furthermore, we are actively working on expanding our user base to encompass a broader range of product categories, including niche hobbies and everyday essentials. We also intend to incorporate social features that will facilitate user connections, enable the sharing of favorite products, and allow for direct feedback within the platform. Our objective is to foster a vibrant community in which users can discover and share their preferred products, thereby ensuring that Promising Products continues to be the premier service for personalized recommendations."
+  },
+  "builtWith": [
+    "frontier",
+    "javascript",
+    "react.js"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Frontier"
+  ],
+  "team": [
+    {
+      "name": "Joshua Ludolf",
+      "username": null,
+      "contribution": "I worked on preparing the dataset for the machine learning application. Utilizing pandas framework (dataframes), additionally, cleaned the dataset from duplicates and missing values. Furthermore, I created the main documentation(s)."
+    },
+    {
+      "name": "Julian Spindola",
+      "username": null,
+      "contribution": "I created and built the React + TS + Tailwind frontend and our Supabase backend, integrating authentication, API calls, and the processing of our Machine Learning results."
+    },
+    {
+      "name": "J72003 Kahlon",
+      "username": "J72003",
+      "contribution": "I worked on the Machine Learning aspect of this application. Based off of Amazon's recommendation system, I researched Collaborative Filtering to make a hybrid model based on Memory and Model algorithms."
+    },
+    {
+      "name": "JonathonDavis Davis",
+      "username": "JonathonDavis",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "J72003 Kahlon",
+    "AndrewG4404 Gonzalez"
+  ],
+  "updates": [
+    {
+      "author": "Joshua Ludolf",
+      "timestamp": "12 months ago",
+      "content": "Joshua Ludolf started this project"
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,73 @@
+{
+  "projectName": "Scrutiny for CBRE",
+  "tagline": "Scrutiny for CBRE is an ML/AI powered analytical dashboard that provides suitable recommendations on the basis of comments and reviews for an improved Customer Experience (CX) for the users.",
+  "hackathon": "HackUTD IX",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "To say that Customer Satisfaction is an understatement. Studies have shown that 80% of marketers view Customer Satisfaction as the main competition area. We are trying to make it more convenient for CBRE to improve Products and Services, monitor brand reputation and decrease churn by using Machine Learning to understand the impact of reviews and comments.",
+    "whatItDoes": "It uses Machine Learning to extract insights from the public data (surveys, contact centers, and social media) to suggest ideas to improve services, Customer Experience, and maintain brand reputation.",
+    "howWeBuiltIt": "We considered a real-world CBRE reviews and processed them by running ML algorithms on them to gauge customer sentiment and recommend better ways to enhance customer experience.",
+    "challengesWeRanInto": "One of the key challenges was to process data i,e. remove noise, perform feature-engineering, and tune it as per the required needs of the model.",
+    "accomplishmentsWeAreProudOf": "We were able to conceive this model from scratch using real-time data all the way to production abstractly within a short time bound.",
+    "whatWeLearned": "Firstly, we learnt a great deal about the impact of Machine Learning and the way CBRE implements it in their day to day operations to ensure good customer experience and satisfaction.",
+    "whatIsNext": "To facilitate working with real-time more complex dynamic data\nIntegrate Scrutiny for CBRE with more convoluted models, such as BERT.\nFurnish more insights for a set of given data."
+  },
+  "builtWith": [
+    "canvas",
+    "css3",
+    "git",
+    "github",
+    "html5",
+    "javascript",
+    "machine-learning",
+    "natural-language-processing",
+    "python",
+    "rapidapi"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "sanatan-shrivastava.github.io",
+      "url": "https://sanatan-shrivastava.github.io"
+    }
+  ],
+  "prizes": [
+    "Winner CBRE"
+  ],
+  "team": [
+    {
+      "name": "Sanatan Shrivastava",
+      "username": "Sanatan Shrivastava",
+      "contribution": null
+    },
+    {
+      "name": "Fnu Pratyush",
+      "username": "Fnu Pratyush",
+      "contribution": null
+    },
+    {
+      "name": "Srivardhini Reddy Subbagari",
+      "username": "Srivardhini Reddy Subbagari",
+      "contribution": null
+    },
+    {
+      "name": "Prachi Kane",
+      "username": "Prachi Kane",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Sanatan Shrivastava",
+    "Prachi Kane",
+    "Srivardhini Reddy Subbagari",
+    "Michael Higley"
+  ],
+  "updates": [
+    {
+      "author": "Sanatan Shrivastava",
+      "timestamp": "3 years ago",
+      "content": "Sanatan Shrivastava started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

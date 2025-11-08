@@ -1,0 +1,56 @@
+{
+  "projectName": "EcoLens",
+  "tagline": "A sustainability project to help manage buildings from afar!",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "What it does",
+    "whatItDoes": "Sustainabilty dash board",
+    "howWeBuiltIt": null,
+    "challenges": null,
+    "accomplishments": null,
+    "whatWeLearned": null,
+    "whatsNext": null
+  },
+  "builtWith": [
+    "flask",
+    "python",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Veolia"
+  ],
+  "team": [
+    {
+      "name": "aryav rastogi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rithvik Ijju",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Sami",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "aryav rastogi",
+      "timestamp": "12 months ago",
+      "content": "aryav rastogi started this project"
+    }
+  ],
+  "comments": []
+}

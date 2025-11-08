@@ -1,0 +1,78 @@
+{
+  "projectName": "Rate My Drivers",
+  "tagline": "Introducing Rate My Drivers, an application that helps minimize auto insurance costs for both drivers and businesses, as well as improving driver experience.",
+  "hackathon": "HackUTD X",
+  "likes": 4,
+  "commentsCount": 2,
+  "story": {
+    "inspiration": "We know that it can be hard to make ends meet sometimes, so our application helps minimize costs for drivers and businesses when it comes to auto insurance.",
+    "whatItDoes": "By utilizing a beacon/camera device placed in the dashboard of the car, we can record the driver and monitor the driver's eye motions and facial behaviors throughout the trip using Python and OpenCV. A grade is then calculated for the trip using the data from our image recognition model.\n\nThis is then sent to a MongoDB, which keeps track of the history of each driver's grades for each of their deliveries. To effectively display this information to employers, we created an application using Next.JS to display the grades of each driver and the average.",
+    "howWeBuiltIt": "By utilizing a beacon/camera device placed in the dashboard of the car, we can record the driver and monitor the driver's eye motions and facial behaviors throughout the trip using Python and OpenCV. A grade is then calculated for the trip using the data from our image recognition model.\n\nThis is then sent to a MongoDB, which keeps track of the history of each driver's grades for each of their deliveries. To effectively display this information to both the drivers and employers if businesses were to use this product, we created an application using Next.JS to display the grades of each driver and the average.",
+    "challengesWeRanInto": "Sending Open CV information to mongoDB.",
+    "accomplishmentsWeAreProudOf": "Successfully built image/behavior-recognizing model",
+    "whatWeLearned": "Gained more expertise in machine learning, databases, and Next JS",
+    "whatIsNext": "There are many drivers with slightly misaligned eyes and impaired vision, and we hope to one day be able to fairly and accurately serve those with these physical disabilities."
+  },
+  "builtWith": [
+    "css",
+    "html",
+    "java",
+    "javascript",
+    "python",
+    "swift",
+    "typescript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "rate-my-drivers-git-master-nmaraboyina.vercel.app",
+      "url": "https://rate-my-drivers-git-master-nmaraboyina.vercel.app"
+    }
+  ],
+  "prizes": [
+    "Winner Statefarm"
+  ],
+  "team": [
+    {
+      "name": "Nikhil Maraboyina",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Yashas Raghavendra",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Sushant Ganji",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Dabes Felix",
+    "Yashas Raghavendra",
+    "Nikhil Maraboyina",
+    "Sushant Ganji"
+  ],
+  "updates": [
+    {
+      "author": "Yashas Raghavendra",
+      "timestamp": "2 years ago",
+      "content": "Yashas Raghavendra started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "maraboy65",
+      "username": "Nikhil Maraboyina",
+      "timestamp": "2 years ago",
+      "content": "So cool!"
+    },
+    {
+      "author": "yash05rag2",
+      "username": "Yashas Raghavendra",
+      "timestamp": "2 years ago",
+      "content": "Thanks mate!"
+    }
+  ]
+}

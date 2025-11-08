@@ -1,0 +1,64 @@
+{
+  "projectName": "Calculate",
+  "tagline": "An application that empowers people in abusive situations through the power of financial management. Hidden behind a calculator we know there is power in numbers.",
+  "hackathon": "HackUTD X",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "inspirationAndWhatItDoes": "Victims of Abuse stuck in abusive situations need means to get out of those situations. Our app gives them the opportunity to escape those situations by planning their financial future.\nThe program allows our users to be able to learn how to become Financially Responsible, as well as resume help and different job opportunities. Moreover, the program is able to conceal itself as a calculator when we know our users may live in abusive homes.",
+    "howWeBuiltIt": "Our team developed the idea by viewing different situations that some of our users may be dealing with such as empathizing with our clientele. We then defined the problem we wanted to solve and started creating different solutions via Figma and sketching out our app. After we thought of how we wanted our app to look we created our prototype via GitHub and Android Studio.",
+    "challengesWeRanInto": "Challenges our team faced were environment setups, bugs in our program, and the following of the links.",
+    "accomplishmentsWeAreProudOf": "Our team is quite proud of the pie graph that we were able to create, as it changed the amount when our users would implement a different amount of money they had saved.",
+    "whatWeLearned": "A few things that we learned about were using the app Figma, learning how to",
+    "whatIsNext": "What's next for HACK-UTD - Hopefully our team wins the Fidelity Challenge as it was a great opportunity to explore our ideas and innovation!"
+  },
+  "builtWith": [
+    "android-studio",
+    "canva",
+    "figma",
+    "github",
+    "google-docs",
+    "other"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Fidelity"
+  ],
+  "team": [
+    {
+      "name": "Jaresi Nunez",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Tobioguntase Oguntuase",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "MelNunez02 Nunez",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "mariana-m23 lozano",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Jacob Reeves",
+    "Devh06 Hilgenfeld",
+    "Jaresi Nunez",
+    "MelNunez02 Nunez",
+    "mariana-m23 lozano"
+  ],
+  "updates": [
+    {
+      "author": "Jaresi Nunez",
+      "timestamp": "2 years ago",
+      "content": "Jaresi Nunez started this project"
+    }
+  ],
+  "comments": []
+}

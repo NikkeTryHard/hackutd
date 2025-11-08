@@ -1,0 +1,104 @@
+{
+  "projectName": "Tob Drocsid",
+  "tagline": "Do you wish class group chats were more organized? Do you miss talking and working with your classmates? Tob is a discord bot to help you do all this and more!",
+  "hackathon": "HackUTD VII",
+  "likes": 7,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "At UTD, most class group chats are created in GroupMe. Unfortunately, it isn’t very organized, and it can be hard to have conversations, discuss questions or plan study groups. Since Discord is becoming more and more popular for both classes and socialization, we decided to create a Discord bot to help facilitate interaction between students and help them stay engaged during online classes.",
+    "whatItDoes": {
+      "introduction": "Our bot has four main features:",
+      "createAssignments": {
+        "title": "Create Assignments",
+        "description": "want an easy way for students to be reminded of and track submitted and upcoming assignments? By creating assignments with our bot or website students can get notified when assignments are posted and reminded near the submission date about it. Channels can also be automatically made for discussion about each one to help organize discussion."
+      },
+      "anonymousQuestions": {
+        "title": "Anonymous Questions",
+        "description": "Students may not speak up during class and not get the help they need or you might get redundant questions in emails. Many students may not want to speak up during class or when working on assignments and not get the help they need. You may also get redundant questions from emails so this will let you showcase frequently asked questions and the answer in one place."
+      },
+      "studyGroups": {
+        "title": "Study Groups",
+        "description": "Sometimes the best people to help students understand are students Many students choose to study together especially when they do not have access to the professor. You can make it more efficient for students to meet up to study as well as let students in the class mingle with each other."
+      },
+      "createMultipurposeQueues": {
+        "title": "Create Multipurpose Queues",
+        "description": "Bring back structure to demos, office hours, asking questions, and more! There are many uses to create a list of users. You can use it to answer student questions during a lecture or about one, to create the order for demos for projects, and to answer questions during officer hours as well."
+      }
+    },
+    "howWeBuiltIt": "Tob was built using node.js and Discord.js with a Firebase database. The supplementary website was built in React.js and a firebase database.",
+    "challengesWeRanInto": {
+      "systemInconsistency": {
+        "title": "Discord Bot System Inconsistency",
+        "description": "A lot of the times, the Discord bot would work on one person’s system and not on another person’s. We spent a lot of time figuring out why that was the case and solving the issue."
+      },
+      "dataPulling": {
+        "title": "Pulling Data from Firebase",
+        "description": "Another challenge we ran into was pulling data from our Firebase database into our bot and website since not many of us have experience with doing so."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "firstDiscordBot": {
+        "title": "First Functional Discord Bot with Database Integration",
+        "description": "This was our first time creating a Discord bot so we are proud that we are able to create a bot that is functional with practical features and are able to connect it to a database using Firebase."
+      }
+    },
+    "whatWeLearned": "We learned how to make a Discord bot for the first time and how to pull data from our Firebase database into our application and our website.",
+    "whatIsNext": "We want to fully implement the ability to ask anonymous questions. We definitely want to integrate with Blackboard so there will be less redundant work for what platform already exists."
+  },
+  "builtWith": [
+    "firebase",
+    "javascript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "discord.gg",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner UTD Student Government Challenge"
+  ],
+  "team": [
+    {
+      "name": "Megan Tran",
+      "username": "Megan Tran",
+      "contribution": null
+    },
+    {
+      "name": "Reshmi Ranjith",
+      "username": "Reshmi Ranjith",
+      "contribution": null
+    },
+    {
+      "name": "Saloni S",
+      "username": "Saloni S",
+      "contribution": null
+    },
+    {
+      "name": "Vincent Vu",
+      "username": "Vincent Vu",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Vignesh Vasan",
+    "Kevin T",
+    "Aruna Sadarangani",
+    "Saloni S",
+    "Harsha Srikara",
+    "Willie Chalmers III",
+    "Vincent Vu"
+  ],
+  "updates": [
+    {
+      "author": "Megan Tran",
+      "timestamp": "5 years ago",
+      "content": "Megan Tran started this project"
+    }
+  ],
+  "comments": []
+}

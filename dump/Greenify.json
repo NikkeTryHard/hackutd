@@ -1,0 +1,84 @@
+{
+  "projectName": "Greenify",
+  "tagline": "A Sustainability Platform for a Greener Future",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired to address a pressing challenge: how to make office spaces more sustainable and environmentally friendly. With CBRE being a leader in the real estate sector, we saw an opportunity to leverage AI and technology to support property managers in their sustainability efforts. Our vision was to create a platform that combines actionable insights with user-friendly tools to drive meaningful environmental change.",
+    "whatItDoes": "Greenify is an all-in-one platform designed to provide businesses with comprehensive insights into their sustainability practices. Its key features include:\n\nEmissions Calculator: A real-time tool that quantifies emissions and generates a customized ‘Sustainability Score.’\nCustom AI Chatbot: Powered by GPT-4, the chatbot offers instant, tailored advice for improving emissions across various scenarios.\nInteractive Emissions Map: Utilizing LLaMA 3 algorithms, it visualizes emissions scores for CBRE locations nationwide, offering detailed breakdowns and predictive insights. Together, these features provide businesses with a clear path to sustainability, from understanding their current footprint to actionable strategies for improvement.",
+    "howWeBuiltIt": "Greenify was developed using a robust technology stack: The frontend was designed with next.js and tailwind.css, emphasizing a clean and responsive user interface for optimal user experience. The backend integrates real-time algorithms for the emissions calculator and predictive analytics powered by LLaMA 3. Our custom AI chatbot leverages the GPT-4 model to provide dynamic, context-sensitive responses. The data layer sources information from state emissions reports, CBRE’s internal data, and custom APIs, ensuring accuracy and relevance. Finally, the map visualization utilizes libraries like Leaflet, combined with predictive analytics, for an engaging and insightful user experience.",
+    "challenges": "One challenge we ran into was cleaning the data and storing it in a vectorized form. We were able to solve this issue using a multiple step process, that includes generating pdfs of CBRE’s environmental reports, processing them, parsing them using Llama, and finally uploading them in vectorized form to Pinecone.\n\nAnother challenge was fine tuning the GPT4 model to produce proper responses. It required a lot of fine tuning and adjustments before it finally spoke in a natural way.",
+    "accomplishments": "We’re proud of the fact that we were able to integrate cutting edge technologies, such as LLaMA-3 and GPT4, to help solve an important issue like environmental impact. Our ability to develop most of the features we set out to do at the beginning is another thing we are proud of. We truly feel that this website has the potential to make a difference in the fight against climate change.",
+    "whatWeLearned": "Developing the AI chatbot required us to train machine learning models to understand and answer sustainability-related questions accurately. We explored techniques for natural language processing (NLP) to ensure the chatbot could provide contextual and meaningful responses. We gained a deeper understanding of sustainability metrics and their practical application in office property management, such as energy efficiency, carbon emissions, and water conservation. We learned how to combine technologies like Leaflet.js for maps, AI models for the chatbot, and React.js for an engaging front-end interface into a seamless and user-friendly experience.",
+    "whatsNext": "Greenify has the potential to scale and evolve in exciting ways. In the future, we aim to: Integrate more detailed AI analysis for customized recommendations. Expand the platform to include additional metrics, like renewable energy usage and waste recycling rates. Provide benchmarking tools so users can compare their scores against industry standards. Collaborate with sustainability experts to ensure the platform stays aligned with best practices. Greenify isn’t just a tool—it’s a step toward a greener future, and we’re excited to see how it can help offices worldwide make a lasting environmental impact."
+  },
+  "builtWith": [
+    "chart.js",
+    "d3.js",
+    "flask",
+    "framer-motion",
+    "google-maps",
+    "gpt-4",
+    "llama-3",
+    "mongodb",
+    "next.js",
+    "pinecone",
+    "python",
+    "rag",
+    "react.js",
+    "tailwind",
+    "three.js",
+    "typescript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner CBRE"
+  ],
+  "team": [
+    {
+      "name": "Omar Ahmad",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "saad makda",
+      "username": null,
+      "contribution": "CS Student at UT Dallas"
+    },
+    {
+      "name": "Yusuf Shaikh",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Omer A.",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Yusuf Shaikh"
+  ],
+  "updates": [
+    {
+      "author": "Omar Ahmad",
+      "timestamp": "12 months ago",
+      "content": "Omar Ahmad started this project"
+    }
+  ],
+  "comments": []
+}

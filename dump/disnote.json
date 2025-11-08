@@ -1,0 +1,99 @@
+{
+  "projectName": "DisNote",
+  "tagline": "DisNote is a Discord bot designed to help students study for class. With features such as shared notes, practice quizzes, and reminders, DisNote is an excellent addition to any class server.",
+  "hackathon": "HackUTD VII",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "With the advent of online schooling, many students have difficulty studying for classes. We wanted to make something that encourages studying and helping peers study and DisNote was our solution.",
+    "whatItDoes": {
+      "introduction": "DisNote is a general study help Discord bot with an array of features.",
+      "noteSharing": {
+        "title": "Note-sharing",
+        "description": "DisNote can hold note files of any type in a database through CockroachDB, making it easy to share notes among everyone in a server."
+      },
+      "quizzes": {
+        "title": "Quizzes",
+        "description": "DisNote users can create custom timed quizzes and send them to a server. After the time is up, DisNote will review everyone's answers and give feedback on if they were right or not."
+      },
+      "reminders": {
+        "title": "Reminders",
+        "description": "DisNote users can schedule reminders for specific times and dates. When that time comes, DisNote will remind everyone in the server about what the reminder was for - an excellent way to schedule warnings on due dates."
+      },
+      "studyMotivation": {
+        "title": "Study Motivation",
+        "description": "DisNote users can clock in to study hours and compete with other people on the server for most time spent studying on a leaderboard."
+      }
+    },
+    "howWeBuiltIt": "We used JavaScript as the backbone of DisNote, connected it to Discord with Discord.js, and set up a database for notes with CockroachDB.",
+    "challengesWeRanInto": {
+      "debugging": {
+        "title": "Debugging under Tight Deadline",
+        "description": "Because DisNote was made in 24 hours, debugging issues was significantly more stressful than normal. Getting stuck on one error could halt the production of the entire program."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "featureImplementation": {
+        "title": "Implementing All Envisioned Features",
+        "description": "We implemented every feature that we envisioned for DisNote, pushing our programming abilities to the limit in the limited time we had."
+      }
+    },
+    "whatWeLearned": "Programming with a tight deadline is thrilling - in both a good way and a bad way. Solving problem after problem with the help of a small team is amazing, but maintaining the focus required through the early hours of the morning is stressful."
+  },
+  "builtWith": [
+    "cockroachdb",
+    "discord.js",
+    "google-compute-engine",
+    "javascript",
+    "node.js",
+    "sql"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "disnote.schobbish.com",
+      "url": null
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "discord.gg",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH Best Use of CockroachDB"
+  ],
+  "team": [
+    {
+      "name": "Houston Holman",
+      "username": "Houston Holman",
+      "contribution": "I implemented the family of \"study\" commands, which allows users to track their time studied and compete on a leaderboard."
+    },
+    {
+      "name": "Hyrum Moses",
+      "username": "Hyrum Moses",
+      "contribution": "Programmer of the remind feature."
+    },
+    {
+      "name": "Nathaniel Adam",
+      "username": "Nathaniel Adam",
+      "contribution": "I worked on the quiz feature."
+    },
+    {
+      "name": "Jacob Wiedemeier",
+      "username": "Jacob Wiedemeier",
+      "contribution": "Programmer for DisNote's note-sharing features, which use CockroachDB to store information in a SQL database."
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Nathaniel Adam",
+      "timestamp": "5 years ago",
+      "content": "Nathaniel Adam started this project"
+    }
+  ],
+  "comments": []
+}

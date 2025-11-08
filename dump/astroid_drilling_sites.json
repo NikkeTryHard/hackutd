@@ -1,0 +1,74 @@
+{
+  "projectName": "Astroid Drilling Sites",
+  "tagline": "Our goal for this project is look at multiple asteroid drilling site looking for correlations and cost that allow for AstroDrillers to make meaningful business solutions.",
+  "hackathon": "HackUTD IX",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our Insparation came from the movie Armegedon where Bruce Willis team attemped to drill an asteroid heading to earth.",
+    "whatItDoes": "What we do is present multile use cases of the cost per asteroid as well as analytics that look at rates and predict the drill bit used for certain attributes.",
+    "howWeBuiltIt": "Google cloud to host. Attempted freedomainname.com( we were waitlisted), EJS. and Python",
+    "challengesWeRanInto": "Time and looking throught the data to make proper decisions.",
+    "accomplishmentsWeAreProudOf": "We got the website running, with the Data for the User experience and we were able to calculate the cost accordingly",
+    "whatWeLearned": "Space drilling is very expensive and time consumin. Understanding the data and how they are related.",
+    "whatIsNext": "We would like to start making accurate ML and AI prediction for future asteroid that share similar attributes."
+  },
+  "builtWith": [
+    "cloud",
+    "css3",
+    "express.js",
+    "google",
+    "html",
+    "javascript",
+    "jupyter",
+    "matplot",
+    "multinomial",
+    "node.js",
+    "numpy",
+    "pandas",
+    "svc"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "colab.research.google.com",
+      "url": "https://colab.research.google.com"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "34.125.191.86",
+      "url": "http://34.125.191.86"
+    }
+  ],
+  "prizes": [
+    "Winner Best use of Google Cloud [MLH]"
+  ],
+  "team": [
+    {
+      "name": "Sebastian Rodriguez",
+      "username": "Sebastian Rodriguez",
+      "contribution": "I worked on hosting to google cloud by making an public vm instance. Helped out with data analytic and front-end development."
+    },
+    {
+      "name": "arty-aj Corona",
+      "username": "arty-aj Corona",
+      "contribution": "I worked on the front end and making the connections to all the pages."
+    },
+    {
+      "name": "juanegarcia18 Garcia",
+      "username": "juanegarcia18 Garcia",
+      "contribution": "I explored the data anlytics using multiple ml models to look for patterns and predict drill bit usage rates and cost."
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "juanegarcia18 Garcia",
+      "timestamp": "3 years ago",
+      "content": "juanegarcia18 Garcia started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

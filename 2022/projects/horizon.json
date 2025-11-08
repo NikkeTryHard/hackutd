@@ -1,0 +1,85 @@
+{
+  "projectName": "Horizon",
+  "tagline": "Bringing enterprise-grade risk management solutions to consumers around the world. Introducing Horizon, risk management at your fingertips.",
+  "hackathon": "HackUTD IX",
+  "likes": 6,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Investing can be complicated and intimidating. After all, nobody wants to lose their money, and there are so many macroeconomic and government factors that affect the price of a stock. Large professional finance institutions may have it all figured out, but that leaves casual investors to figure it out on their own.\n\nBy leveraging financial concepts I learned in a financial modeling lab, my group and I saw an opportunity to help consumer investors feel more confident in their investment choices. We want to help investors successfully manage their risk by diversifying their portfolios.",
+    "whatItDoes": "Invest With Confidence\n\nHorizon analyzes an investor's stock portfolio, savings, and treasury bond portfolio to determine the overall risk of the portfolio for the next year. Then, it allows the investor to pick a risk level that they are comfortable with, and recommends how the investor should allocate their capital between stocks, bonds, and savings to maximize their annual expected return for their chosen level of risk. Horizon's recommendations are based on the influence of key macroeconomic factors in the United States: the stock market, treasury bonds, inflation, and sector performance.\n\nIn essence, Horizon is meant to optimize a portfolio of assets so that investors feel comfortable with the level of risk they are taking on while getting the highest expected return possible.",
+    "howWeBuiltIt": {
+      "stockAnalysis": "First, Horizon gets the stock portfolio of the investor. Using the Ticker Symbol of each stock, Horizon requests from Alpha Vantage API to get the high and low stock price of each month for the past 10 years. From these high and low stock prices, a monthly percent change (A.K.A percent return) can be calculated. The mean of every monthly percent return is used as the future expected return, and the month-to-month standard deviation of the percent returns is used as a measure of risk. Additionally, we use a correlation matrix to determine the correlations between stocks within the portfolio.\n\nThen, by using all the data points computed from Alpha Vantage API, Horizon computes a covariance matrix for the portfolio and performs matrix multiplication with each stock's relative weight in the portfolio. The final result of this is the variance of the stock portfolio. We can take the square root of the variance to get the standard deviation for the portfolio, which is our chosen measure of risk.\n\nIt is important to note that no matter which stocks are contained within the investor's portfolio, the S&P500 (SPY) and an ETF in the same industry are automatically included in the portfolio calculations. This is done to include two large macroeconomic concepts: the company's correlation to the market and to the industry.",
+      "bondAnalysis": "Treasury bonds are often considered \"risk-free\" due to the improbability of the US government collapsing. As such, we decided to use these as a baseline for the risk-free rate and gave them a risk of 0. Our analysis of treasury bond rates is based on Alpha Vantage API's Treasury Bond data.",
+      "savingAnalysis": "For the savings analysis, we used the rate of return that is congruent with the Goldman Sach's Marcus platform.",
+      "assetPortfolioRiskAndReturn": "The relative portfolio risk and return are calculated by multiplying the risk or return of the asset and multiplying it by the weight. Repeat this for each asset class and sum them all.",
+      "optimization": "Our optimization formula uses a non-linear regression to find the maximum return for a given level of risk."
+    },
+    "challengesWeRanInto": {
+      "linearAlgebra": "Linear Algebra (especially with matrix’s)\n\nUnfortunately the community for Go hasn't rallied around data science nearly as much as it has for other languages such as Python with Pandas and Numpy. This created a few headaches for us when dealing with matrixes such as memory safety and data races during last call optimizations.",
+      "largeDatasets": "Large Datasets\n\nUnfortunately the API (Alpha Vantage) we chose did not give us option to select how much data we wanted forcing us to receive massive JSON payloads increase our API response time and decreasing overall experience. In order to combat this we made as many optimizations within the routes that we could by reducing re-slicing and making other optimizations.",
+      "apiRateLimit": "API Rate Limit\n\nThis was by far the biggest hurdle we faced on the backend as we didn't really know about it until it was too late to change courses. Initially we tried to get around the rate limit by building our own caching mechanism to prevent recently made API requests from occurring again but this solution wasn't great as it still didn't solve the problem of requests with greater than 5 Ticker Symbols and thus never made it into our production environment.",
+      "ciCd": "CI/CD\n\nCI/CD was a challenge for us as it really hasn't been something any of us had very much experience in, if you take a look at the github you will see the dozens of failed github actions scripts with very few actually working however we were able to successfully get a few images deployed to DockerHub.",
+      "k3s": "K3s\n\nOur primary issue we ran into with K3s was actually deploying the Docker Hub image. Nearing the end of the project our team was too busy to fully deploy a proper manifest file to K3s so while the app got deployed we were unable to access it as it was missing critical features such as opening ports and an Nginx RP."
+    },
+    "accomplishmentsWeAreProudOf": "We are proud of how we successfully melded finances and computer modeling. Additionally, I think that our team did a great job cooperating with each other and building relationships.",
+    "whatIsNext": "In the future, we hope to be able to leverage Marcus in a more official capacity to further integrate their cloud utilization with ours. Additionally, we hope to be able to use a more accessible data set where we can pull more frequently without such a low rate limit."
+  },
+  "builtWith": [
+    "go",
+    "javascript",
+    "vuejs"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "hackutd.raajpatel.dev",
+      "url": "https://hackutd.raajpatel.dev"
+    }
+  ],
+  "prizes": [
+    "Winner Goldman Sachs",
+    "Winner HackUTD General"
+  ],
+  "team": [
+    {
+      "name": "Raaj Patel",
+      "username": "Raaj Patel",
+      "contribution": "I built the backend, and the coded our algorithm implementation using Go + Gin. I also deployed the application to Hetzner Cloud."
+    },
+    {
+      "name": "Anthony Abubakar",
+      "username": "Anthony Abubakar",
+      "contribution": "I worked on the front end using VueJS. It was my first time and so it was a bit intimidating. I did the login screen and Andrew helped me out a lot."
+    },
+    {
+      "name": "Andrew Melbourne",
+      "username": "Andrew Melbourne",
+      "contribution": "I flushed out the front end styling and state management."
+    },
+    {
+      "name": "Nate Stelling",
+      "username": "Nate Stelling",
+      "contribution": "I conceptualized the project inspired by a financial modeling exercise from a class I took at SMU. Specifically, I determined how to accurately evaluate and improve portfolio risk/return using Modern Portfolio Theory and Linear Algebra."
+    }
+  ],
+  "likesBy": [
+    "Pelumi Adegoke",
+    "Bemnet Merkebu",
+    "Kayla Tucker",
+    "Nate Stelling",
+    "Raaj Patel",
+    "Andrew Melbourne"
+  ],
+  "updates": [
+    {
+      "author": "Raaj Patel",
+      "timestamp": "3 years ago",
+      "content": "https://github.com/Raajheer1/hackutd-ix/\n\nForgot to post this!"
+    },
+    {
+      "author": "Raaj Patel",
+      "timestamp": "3 years ago",
+      "content": "Raaj Patel started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

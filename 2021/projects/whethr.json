@@ -1,0 +1,66 @@
+{
+  "projectName": "WhethR",
+  "tagline": "WhethR the weather, we are there!",
+  "hackathon": "HackUTD VIII",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Weather is commonly the most difficult to prepare for, since people often do not have prior experience with weather conditions like extremely hard rain, hurricanes, or driving on icy roads. In 2020, there were $95 billion in damages due to natural disasters, and weather is one of the top 5 causes of car accidents. People around the world are frequently unprepared for natural disasters due to lack of information and knowledge regarding the proper steps to take.",
+    "whatItDoes": "WhethR allows users to get real time information about the weather, saving them time and money as they are prepared for natural disasters. By grouping weather conditions into risk categories and providing information on how to prepare for this weather, we aim to educate people and reduce the overall loss of life and property. We use OpenWeatherAPI to query for live weather updates and display those in an easy to use interface for notifying users about weather conditions that could be risky for themselves or their property. We also display local disaster shelters in case staying at home is too dangerous. Although the insurance claim process is specific to State Farm customers, everyone is able to use the other features of the website like weather monitoring/notifications and shelter location search.",
+    "howWeBuiltIt": "We utilized NodeJS for the backend, and integrated the app with the OpenWeatherAPI, Esri Rest API, and the Google Maps API to receive real-time weather information and show users where they could potentially take shelter.",
+    "challengesWeRanInto": "We had trouble properly formatting the information retrieved from the WeatherAPIs and displaying real-time notifications based on the state of the weather. Additionally, there was limited documentation for the APIs that we were using, so there was a lot of trial and error involved.",
+    "whatIsNext": "In the future, we plan to scale WhethR to include computer vision models to automate claims based on disaster type, which will be expedited based on geographic location based on the app. For example, if there's property damage after a disaster, WhethR will allow you to upload a picture for a more automated claims process if it sees that you were affected by the disaster. Additionally, WhethR can be extended to a mobile app to track disasters in real-time in order to implement shelter routing and disaster avoidance so that you are safe whenever a disaster is near."
+  },
+  "builtWith": [
+    "express.js",
+    "google-maps",
+    "node.js",
+    "openweathermapapi",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner General Winners"
+  ],
+  "team": [
+    {
+      "name": "Raghav Sriram",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Bryant Hou",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Kendra Huang",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Nick Baker",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Varun-Poondi",
+    "Sunny Guan",
+    "Jake Spann",
+    "Jenny Tan"
+  ],
+  "updates": [
+    {
+      "author": "Raghav Sriram",
+      "timestamp": "4 years ago",
+      "content": "Raghav Sriram started this project"
+    }
+  ],
+  "comments": []
+}

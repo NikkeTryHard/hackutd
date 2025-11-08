@@ -1,0 +1,67 @@
+{
+  "projectName": "Reludehcs Scheduler",
+  "tagline": "The one stop shop for scheduling classes using data from the Nebula API and RateMyProfessor.",
+  "hackathon": "HackUTD VIII",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "After another confusing, stressful week of registering for classes, we decided to create a tool to inform students of the best professors at the touch of a button.",
+    "whatItDoes": "Reludechs asks the user for the list of classes they plan to take next semester and returns to them a list of the best professors according to ratings on RateMyProfessor.com along with details about their class such as the location, time, and section number",
+    "howWeBuiltIt": "We created our site using React with the Next.js framework. We gather class data using the Nebula API and scrape professor rating data from RateMyProfessor.com",
+    "challengesWeRanInto": "Implementing the web scraper to gather data from RateMyProfessor was a serious challenge that we were not able to complete in the allotted time. Another challenge was dealing with pesky CORS issues when trying to receive data from the Nebula API.",
+    "accomplishmentsWeAreProudOf": "We are proud of finally discovering how to implement the RateMyProfessor web scraper running out of time to implement it. We are also proud of overcoming the issues that arose when using the Nebula API, allowing us to create a successful schedule app.",
+    "whatWeLearned": "We learned that by dividing tasks among ourselves, we were able to successfully create a useful tool.",
+    "whatIsNext": "We plan to finish implementation of the RateMyProfessor web scraper through the use of an external server to run the python script required. We also plan to add a proper calendar for users to be able to view the generated schedule."
+  },
+  "builtWith": [
+    "chakra",
+    "css",
+    "javascript",
+    "nebula",
+    "next.js",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner UTD Student Government: Improving Student Life"
+  ],
+  "team": [
+    {
+      "name": "Houston Holman",
+      "username": null,
+      "contribution": "I worked on the back end implementing the Nebula API to provide the user with information about each of their planned classes."
+    },
+    {
+      "name": "Hyrum Moses",
+      "username": null,
+      "contribution": "I worked on back-end using python to build a web scraper to pull the data from ratemyprofessor. Although we were unable to implement a server to run the script from our program, I learned a lot about APIs and web scraping."
+    },
+    {
+      "name": "Rishi Bhojwani",
+      "username": null,
+      "contribution": "I worked on the front-end development of the website. Specifically, I designed the home page and assisted with the results page when my help was needed."
+    },
+    {
+      "name": "Ritvik Chilakamarthy",
+      "username": null,
+      "contribution": "I worked on the front-end development of the website. I was primarily responsible for the creation of the results page and planning the overall design of the website."
+    }
+  ],
+  "likesBy": [
+    "Ritvik Chilakamarthy",
+    "Rishi Bhojwani"
+  ],
+  "updates": [
+    {
+      "author": "Houston Holman",
+      "timestamp": "4 years ago",
+      "content": "Houston Holman started this project"
+    }
+  ],
+  "comments": []
+}

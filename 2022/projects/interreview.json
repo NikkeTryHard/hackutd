@@ -1,0 +1,67 @@
+{
+  "projectName": "InterReview",
+  "tagline": "Helping people overcome stress from public speaking.",
+  "hackathon": "HackUTD IX",
+  "likes": 6,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Having experienced the stress that comes up before interviewing and public speaking, and researching the scale of the issue, we chose to pursue this solution.",
+    "whatItDoes": "InterReview allows the user to upload video answers of prompts from interviews or any kind of public speaking topics and receive valuable, constructive feedback regarding their answers by other members of the community and professionals. In turn, the user critiques the answers of other people.",
+    "howWeBuiltIt": "We built the app using the React framework with the help of the FireBase database for video storage and retrieval. Also, we used Amazon Web Services (AWS) for our server-less backend.",
+    "challengesWeRanInto": "Retrieving data from the S3 buckets database of Amazon Web Services\nLearning new technologies such as React and understanding the working of AWS backend services\nWorking with version-control.",
+    "accomplishmentsWeAreProudOf": "We're able to deliver an MVP\nOvercoming our challenges",
+    "whatWeLearned": "New technologies like S3 Storage, video-capture, and React",
+    "whatIsNext": "We would like to add a user-generated question sets and a resource that includes actual past-interview questions from companies. It would be great to also include ratings for each critique so that it is ensured that no one fakes their comments. We would also like to introduce a premium feature that helps people practice mock interviews with professionals from the industry."
+  },
+  "builtWith": [
+    "amazon-web-services",
+    "css",
+    "firebase",
+    "html",
+    "javascript",
+    "json",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner RingCentral"
+  ],
+  "team": [
+    {
+      "name": "Shaurya Dwivedi",
+      "username": "Shaurya Dwivedi",
+      "contribution": null
+    },
+    {
+      "name": "Michael Ugochukwu",
+      "username": "hack a thon",
+      "contribution": null
+    },
+    {
+      "name": "Arrio Gonsalves",
+      "username": "Arrio Gonsalves",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Arrio Gonsalves",
+    "Michael Ugochukwu",
+    "Shaurya Dwivedi",
+    "Jack Myrick",
+    "Maxwell Ibarra",
+    "Frank Gao"
+  ],
+  "updates": [
+    {
+      "author": "Shaurya Dwivedi",
+      "timestamp": "3 years ago",
+      "content": "Shaurya Dwivedi started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,489 @@
+{
+  "eventName": "HackUTD 2024",
+  "dates": "November 16 - 17, 2024",
+  "location": "The University of Texas at Dallas (UTD)",
+  "contact": {
+    "email": "hello@hackutd.co"
+  },
+  "about": {
+    "description": "HackUTD, the largest university hackathon in Texas, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds from universities all over the US come together, form teams around a problem or idea, and collaboratively build a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make!",
+    "statistics": {
+      "hackers": "1,000+",
+      "durationHours": 24,
+      "prizesValue": "$120,000",
+      "projects": "200+"
+    }
+  },
+  "keynoteSpeaker": {
+    "name": "Gen Fukunaga",
+    "title": "Founder of Funimation",
+    "bio": "Gen Fukunaga, a pioneering Japanese-American entrepreneur, founded Funimation and brought anime hits like Dragon Ball and My Hero Academia to North America, transforming the anime landscape. He stepped down as president and chairman in 2019, leaving a lasting legacy."
+  },
+  "schedule": [
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "8:00am",
+      "name": "Hacker Check-in",
+      "type": "Required",
+      "location": "ECSW Front Door"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "8:00am",
+      "name": "Sponsor Fair",
+      "type": "Sponsor",
+      "location": "ECSW Atrium"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "10:45am",
+      "name": "Opening Ceremony",
+      "type": "Required",
+      "location": "SSA Auditorium"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "12:00pm",
+      "name": "Lunch",
+      "type": "Meal",
+      "location": "ECSW Courtyard"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "12:00pm",
+      "name": "Hacking Starts",
+      "type": "Required",
+      "location": "UTD"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "12:30pm",
+      "name": "Team Building",
+      "type": "Social",
+      "location": "ECSW 1.355"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "1:00pm",
+      "name": "PNC Workshop: Boring knows data is brilliant.",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "2:15pm",
+      "name": "Pinata Workshop: File Uploads Made Easy With Pinata",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "3:30pm",
+      "name": "EOG Workshop: Introduction to Mobile Development in Swift",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "4:30pm",
+      "name": "CBRE Workshop: Building the Cloud: Unpacking the Tech Behind Modern Systems",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "5:30pm",
+      "name": "Infosys Workshop: \"Generative AI Workshop: Agent Frameworks\"",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "6:30pm",
+      "name": "Goldman Workshop: Goldman Sachs Quantitative Strategist Insights – Semi-Liquid Fund Modeling",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "7:30pm",
+      "name": "Dinner",
+      "type": "Meal",
+      "location": "ECSW Atrium"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "8:30pm",
+      "name": "MLH Workshop",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "9:30pm",
+      "name": "WEHack x TechTogether Meetup",
+      "type": "Workshop",
+      "location": "ECSW 1.355"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "10:00pm",
+      "name": "Dev Hours",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "10:30pm",
+      "name": "Hackathon Organizer Meetup",
+      "type": "Social",
+      "location": "ECSW 1.365"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "11:00pm",
+      "name": "Register your team on Devpost",
+      "type": "Required",
+      "location": "Devpost"
+    },
+    {
+      "day": 1,
+      "dayName": "Saturday",
+      "time": "11:30pm",
+      "name": "Midnight Snack",
+      "type": "Meal",
+      "location": "ECSW Atrium"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "12:00am",
+      "name": "Midnight Event",
+      "type": "Social",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "9:00am",
+      "name": "Breakfast",
+      "type": "Meal",
+      "location": "ECSW Atrium"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "10:00am",
+      "name": "Pitching Workshop",
+      "type": "Workshop",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "12:00pm",
+      "name": "Project Submission Deadline",
+      "type": "Required",
+      "location": "Devpost"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "12:00pm",
+      "name": "Lunch",
+      "type": "Meal",
+      "location": "ECSW Atrium"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "1:00pm",
+      "name": "Project Expo",
+      "type": "Required",
+      "location": "ECSW 1.315"
+    },
+    {
+      "day": 2,
+      "dayName": "Sunday",
+      "time": "5:00pm",
+      "name": "Closing Ceremony",
+      "type": "Required",
+      "location": "SSA Auditorium"
+    }
+  ],
+  "prizesAndTracks": {
+    "mainPrizes": [
+      {
+        "title": "Mascot Prize",
+        "prize": "Macbook Air"
+      },
+      {
+        "title": "First Place Software",
+        "prize": "BenQ Monitor"
+      },
+      {
+        "title": "Second Place Software",
+        "prize": "Oculus 3S"
+      },
+      {
+        "title": "Third Place Software",
+        "prize": "Ninja Creami"
+      }
+    ],
+    "challengeTracks": [
+      {
+        "title": "Frontier Challenge Track",
+        "presentedBy": "Frontier",
+        "prizes": {
+          "first": "Apple TV + Digital Gift Card $100 per team member",
+          "second": "Apple TV per team member",
+          "third": "Digital Gift Card $50 per team member"
+        },
+        "description": "Our customers enjoy our blazing-fast, reliable internet but from time to time have issues that can be fixed easily or would likely benefit from other value-added services we provide. We’re looking for ways to intelligently recommend products to our customers. Your challenge is to develop an app that helps recommend products the customer could benefit from. Want to take it to the next level? Include an augmented reality or Generative AI (GenAI) component! We will provide data and a data dictionary to gain insights on customer behavior such as number of devices, bandwidth utilization and power drops as well as Frontier’s product catalog to create product recommendations."
+      },
+      {
+        "title": "Infosys Challenge Track",
+        "presentedBy": "Infosys",
+        "prizes": {
+          "first": "Airpods Pro 2 Fast-Track consideration for Infosys InStep Summer Internship in Richardson, TX (internship valued at $8000.)"
+        },
+        "description": "Infosys is on the cutting-edge of leveraging Generative AI to create innovative products and solutions. Develop a RAG-based intelligent smart knowledge assistant for the financial services industry. Solutions should use the agentic framework and should be capable of autonomously retrieving updated and contextually relevant information from multiple sources and generate concise, accurate responses."
+      },
+      {
+        "title": "Pinata Challenge Track",
+        "presentedBy": "Pinata",
+        "prizes": {
+          "first": "AirPods Max",
+          "second": "Apple Watch Series 10",
+          "third": "Apple HomePod Mini"
+        },
+        "description": "Pinata makes file storage and retrieval incredibly simple, freeing you from wrestling with complex AWS S3 setups and tricky IAM policies. We’re challenging teams to unleash their creativity and build the most unique, game-changing full-stack application using only Pinata—no external databases allowed. Show us how you can push boundaries and create something that truly stands out!"
+      },
+      {
+        "title": "Samba Nova Challenge Track",
+        "presentedBy": "Samba Nova",
+        "prizes": {
+          "first": "$300 Amazon Gift Cards",
+          "second": "$200 Amazon Gift Cards",
+          "third": "$100 Amazon Gift Cards"
+        },
+        "description": "Build an app that instills these values of speed and efficiency to improve human and/or machine productivity. Be sure to use our SambaNova Cloud API to qualify for competition and potentially win a prize."
+      },
+      {
+        "title": "Veolia Challenge Track",
+        "presentedBy": "Veolia",
+        "prizes": {
+          "first": "Airpods Pro 2",
+          "second": "EPOMAKER Ajazz AK820 Pro 75% Mechanical Keyboard"
+        },
+        "description": "Over the next 24 hours, your team is tasked with designing and prototyping a solution that addresses issues such as smart water conservation, renewable energy integration, energy efficiency in buildings, the interdependency between water and energy, or decentralized renewable energy systems. Use your creativity and technological expertise to develop a solution that makes a significant impact on sustainability and contributes to a more sustainable future for all"
+      },
+      {
+        "title": "Best Hardware",
+        "presentedBy": "HackUTD",
+        "prizes": {
+          "first": "Anker Power Bank"
+        },
+        "description": null
+      },
+      {
+        "title": "Toyota Challenge Track",
+        "presentedBy": "Toyota",
+        "prizes": {
+          "first": "$500",
+          "second": "$300",
+          "third": "$150"
+        },
+        "description": "Build an app that helps Toyota employees analyze vehicle fuel economy data for the years 2021-2025"
+      },
+      {
+        "title": "Goldman Sachs Challenge Track",
+        "presentedBy": "Goldman Sachs",
+        "prizes": {
+          "first": "Apple AirPod Max",
+          "second": "Apple TV Device",
+          "third": "Gift Card"
+        },
+        "description": "Challenge: Create an app (or website) that can provide financial services to individuals with limited access to traditional banks. Some examples of services that could be included are banking, payments, investment opportunities, and fraud detection. Technology Trends: Mobile banking, Digital wallets, AI, Blockchain"
+      },
+      {
+        "title": "Hydrate Detection Challenge",
+        "presentedBy": "EOG Resources",
+        "prizes": {
+          "first": "Nintendo Switch",
+          "second": "Mechanical Keyboards"
+        },
+        "description": "Imagine you are a lease operator at EOG, tasked with ensuring optimal production from a group of wells. One of the challenges you face is the formation of hydrates (ice-like solids made of frozen natural gas) that can form inside pipelines and block the injection of gas. This blockage can significantly reduce oil production and potentially lead to costly well shutdowns. As a lease operator, your goal is to efficiently monitor these wells and quickly identify any instances of hydrate formation. You have access to data streams that include the current gas injection volume, target gas injection volume, and valve open percentage. Your challenge is to develop a solution that makes it easy and quick to detect when a hydrate occurs, allowing the lease operator to take swift action to minimize production loss. Extension: With an additional day of data, enhance your solution by predicting when a hydrate is likely to form. Github Link: https://github.com/nihaal419/HackUTD-RippleEffect"
+      },
+      {
+        "title": "CBRE Challenge Track",
+        "presentedBy": "CBRE",
+        "prizes": {
+          "first": "$250 per team member",
+          "second": "$150 per team member",
+          "third": "$75 per team member"
+        },
+        "description": "For this year's challenge, hackers are asked to build a web or mobile application that assists our U.S. property managers operate more sustainable office buildings for our tenants, resulting in cost savings & reduced carbon impact."
+      },
+      {
+        "title": "Design Track",
+        "presentedBy": "HackUTD",
+        "prizes": {
+          "first": "FujiFilm Instax Mini 11 Instant Camera"
+        },
+        "description": "Everyone loves a pretty interface, but apps and ideas are often created with little thinking in regards to their users. This track will be judged not only on how good your project submission looks from a UI perspective, but also on how much the design of the application showcases your thought behind the UX (user experience)."
+      },
+      {
+        "title": "PNC Challenge Track",
+        "presentedBy": "PNC",
+        "prizes": {
+          "first": "Nintendo Switch Bundles",
+          "second": "Airpods",
+          "third": "JBL speakers"
+        },
+        "description": "As organizations increasingly rely on data to drive decision-making, ensuring a clear understanding of how data is created, accessed, moved, and used is critical for security, performance, and governance. Yet, many organizations struggle to maintain visibility into these data flows, leading to inefficiencies, security risks, and compliance challenges. We challenge you to design an innovative solution that enhances the observability of data patterns throughout its lifecycle. Your solution should allow organizations to monitor and analyze how data is created, accessed, moved, and used – with business context."
+      },
+      {
+        "title": "Beginner Track",
+        "presentedBy": "HackUTD",
+        "prizes": {
+          "first": "Bambu Lab A1 Mini 3D Printer"
+        },
+        "description": null
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Where will it be?",
+      "answer": "HackUTD will be hosted at... You guessed it: UT Dallas! Parking and other logistical details for attendees will be provided closer to the hackathon date."
+    },
+    {
+      "question": "Free swag? pls?",
+      "answer": "We will have custom HackUTD 2024 swag for all participants along with gear provided by our sponsors! And free food!"
+    },
+    {
+      "question": "When is HackUTD 2024?",
+      "answer": "November 16th and 17th!"
+    },
+    {
+      "question": "How much does it cost?",
+      "answer": "HackUTD 2024 will be completely free to hackers!"
+    },
+    {
+      "question": "What are the general rules?",
+      "answer": "Your project must be built entirely over the course of the weekend. No previous projects or code may be used. Have fun! Your behavior at this event is subject to the MLH Code of Conduct as well as any applicable UT Dallas guidelines."
+    },
+    {
+      "question": "Can I participate if I have never hacked?",
+      "answer": "Everyone is welcome to come, and no experience is necessary to attend! We will even be hosting workshops to introduce new hackers to industry programs and technologies."
+    },
+    {
+      "question": "Does HackUTD cover travel?",
+      "answer": "HackUTD does do travel reimbursement! Check our policies here!"
+    },
+    {
+      "question": "What do I need to bring?",
+      "answer": "You just need to bring a laptop, charger, and a hacking spirit to participate! We also recommend having a compiler, packages, or any packaging tools ready beforehand. We will be providing internet connectivity, and will also have free food throughout the event!"
+    },
+    {
+      "question": "Does HackUTD accept walk-ins?",
+      "answer": "Historically HackUTD has taken limited walk-ins. We anticipate to take walk-ins again this year but will be subject to venue capacity!"
+    },
+    {
+      "question": "When do applications open?",
+      "answer": "Applications are OPEN now! Click Apply at the top of the page!"
+    },
+    {
+      "question": "What if I don’t have a team?",
+      "answer": "We will have a teambuilding session at the start of the hackathon for those who need help finding one! You can also choose to work on projects by yourself."
+    },
+    {
+      "question": "What is a hackathon?",
+      "answer": "A hackathon is a 24-hour competition where you and up to 3 teammates build a software project from scratch and compete against other groups for prizes. Sponsors will also provide workshops, events, and activities throughout the weekend to help you learn more about the field of technology!"
+    },
+    {
+      "question": "Can I volunteer?",
+      "answer": "Mentor and volunteer applications will be opening soon! Follow us on social media to be notified when applications open."
+    },
+    {
+      "question": "What should I build?",
+      "answer": "Anything you want! You can try to solve a sponsor challenge or submit a project for the HackUTD awards!"
+    }
+  ],
+  "sponsors": {
+    "sponsorshipInquiry": "If you would like to sponsor HackUTD, please reach out to us at hello@hackutd.co",
+    "tiers": {
+      "title": [
+        "PNC"
+      ],
+      "platinum": [
+        "Pinata"
+      ],
+      "gold": [
+        "Goldman Sachs",
+        "Infosys",
+        "CBRE",
+        "EOG Resources"
+      ],
+      "silver": [
+        "Veolia",
+        "SambaNova",
+        "Toyota",
+        "Frontier"
+      ],
+      "bronze": [
+        "Stand-Out Stickers",
+        "Saily",
+        "Incogni",
+        "NordPass",
+        "SF",
+        "BenQ",
+        "NordVPN"
+      ]
+    },
+    "note": "and more to come!"
+  },
+  "meta": {
+    "socials": [
+      "Instagram",
+      "LinkedIn",
+      "Email"
+    ],
+    "relatedHackathons": [
+      "WEHack",
+      "HackTX",
+      "TAMUHack",
+      "HackUTA",
+      "HackUNT",
+      "RowdyHacks"
+    ],
+    "credits": [
+      "Designed by HackUTD",
+      "HackPortal developed with <3 HackUTD and ACM Development"
+    ],
+    "links": [
+      "Organizer Website",
+      "Source Code",
+      "Newsletter"
+    ]
+  }
+}

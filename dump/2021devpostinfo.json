@@ -1,0 +1,330 @@
+{
+  "website": "Devpost",
+  "header": {
+    "logo": "Devpost logo",
+    "primaryNav": [
+      "Join a hackathon",
+      "Hackathons",
+      "Projects"
+    ],
+    "teamsNav": {
+      "title": "Devpost for Teams",
+      "description": "Access your company's private hackathons"
+    },
+    "userActions": [
+      "Login",
+      "Host a hackathon",
+      "Resources",
+      "Log in",
+      "Sign up"
+    ]
+  },
+  "mainContent": {
+    "hackathon": {
+      "title": "HackUTD VIII",
+      "navigation": [
+        "Overview",
+        "My projects",
+        {
+          "label": "Participants",
+          "count": 458
+        },
+        "Rules",
+        "Project gallery",
+        "Updates",
+        "Discussions"
+      ],
+      "banner": {
+        "title": "HackUTD VIII",
+        "tagline": "Retro back into style at HackUTD VIII",
+        "status": "This hackathon has ended",
+        "actions": [
+          "Find more hackathons",
+          "View the winners"
+        ]
+      },
+      "details": {
+        "participationCriteria": {
+          "title": "Who can participate",
+          "criteria": [
+            "Above legal age of majority in country of residence",
+            "College students only",
+            "All countries/territories, excluding standard exceptions"
+          ],
+          "links": [
+            "View full rules",
+            "View schedule"
+          ]
+        },
+        "eventInfo": {
+          "date": "Nov 13 – 14, 2021",
+          "location": "Dallas, TX",
+          "type": "Public",
+          "prizes": "$34,926 in prizes",
+          "participants": "458 participants"
+        },
+        "tags": [
+          "hackutd",
+          "Open Ended",
+          "Social Good",
+          "Mobile"
+        ]
+      },
+      "description": "HackUTD, the largest university hackathon in North Texas, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make.",
+      "requirements": "Every Sponsor prize a hacker wants to be judged on must be tagged in the devpost submission.",
+      "prizes": {
+        "totalValue": "$34,926 in prizes",
+        "categories": [
+          {
+            "sponsor": "American Airlines",
+            "title": "Flight Enhancement",
+            "winnerCount": 2,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "75k AAdvantage Miles"
+              },
+              {
+                "place": "Second Place",
+                "reward": "50k AAdvantage Miles"
+              }
+            ]
+          },
+          {
+            "sponsor": "Goldman Sachs",
+            "title": "Investment Strategy",
+            "winnerCount": 3,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "DJ Mini SE Drones"
+              },
+              {
+                "place": "Second Place",
+                "reward": "Apple Airpods"
+              },
+              {
+                "place": "Third Place",
+                "reward": "Doordash Gift Cards"
+              }
+            ]
+          },
+          {
+            "sponsor": "State Farm",
+            "title": "100-Year Anniversary",
+            "winnerCount": 3,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "iPad Air 64 GB"
+              },
+              {
+                "place": "Second Place",
+                "reward": "Oculus Quest 2 128 GB"
+              },
+              {
+                "place": "Third Place",
+                "reward": "Logitech Mechanical Keyboard"
+              }
+            ]
+          },
+          {
+            "sponsor": "EOG Resources",
+            "title": "Operations Optimization",
+            "winnerCount": 1,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "Oculus Quests"
+              }
+            ]
+          },
+          {
+            "sponsor": "Capital One",
+            "title": "Best Financial Hack",
+            "winnerCount": 1,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "$200 Amazon Gift Cards"
+              }
+            ]
+          },
+          {
+            "sponsor": "UTD Student Government",
+            "title": "Improving Student Life",
+            "winnerCount": 2,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "10.2 inch iPads"
+              },
+              {
+                "place": "Second Place",
+                "reward": "Airpod Pros"
+              }
+            ]
+          },
+          {
+            "sponsor": "ACM",
+            "title": "Project Nebula Challenge",
+            "winnerCount": 1,
+            "details": "For more information, please refer to our Hacker Pack (https://hackutd.co/dashboard)",
+            "placements": [
+              {
+                "place": "First Place",
+                "reward": "Logitech Mechanical Gaming Keyboard, an honorable mention on our website, and a meeting with us to help grow their idea"
+              }
+            ]
+          },
+          {
+            "sponsor": "General Winners",
+            "title": null,
+            "winnerCount": 3,
+            "details": "3 winners.",
+            "placements": [
+              {
+                "place": "1st Place",
+                "reward": "Gaming monitor"
+              },
+              {
+                "place": "2nd Place",
+                "reward": "Airpods"
+              },
+              {
+                "place": "3rd Place",
+                "reward": "Gaming mouse"
+              }
+            ]
+          }
+        ]
+      },
+      "judges": [
+        {
+          "name": "Harsha Srikara"
+        }
+      ],
+      "judgingCriteria": {
+        "criteria": [
+          {
+            "name": "Technology",
+            "question": "How difficult is the hack?"
+          },
+          {
+            "name": "Design",
+            "question": "How was the user experience?"
+          },
+          {
+            "name": "Learning",
+            "question": "Have you worked something similar or is this new?"
+          },
+          {
+            "name": "Completion",
+            "question": "Does it work?"
+          }
+        ],
+        "process": {
+          "icon": "Gavel",
+          "description": "For general judging, present your project to the judge for 3-5 minutes about your app, how you built it, your challenges, and a demo"
+        },
+        "contact": "Questions? Email the hackathon manager"
+      },
+      "sponsors": [
+        "American Airlines",
+        "Goldman Sachs",
+        "State Farm",
+        "EOG Resources",
+        "Capital One"
+      ],
+      "recaptchaNotice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "rules": {
+        "content": [
+          "We follow the MLH rules, MLH Code of Conduct, and UTD Code of Conduct.",
+          "Directors, Organizers, Volunteers, Mentors, Sponsors, Vendors, and anyone affiliated with operations behind HackUTD are NOT eligible to submit a project.",
+          "All projects must be started at HackUTD. Prior ideas are fine, but no pre-existing projects.",
+          "Maximum Team Size of 4 for prizes.",
+          "All Team members must be added to the Devpost submission.",
+          "Must be submitted before the 12 pm deadline. This is a HARD stop and submissions after this time will NOT be considered."
+        ]
+      }
+    }
+  },
+  "similarHackathons": {
+    "title": "Similar hackathons",
+    "list": [
+      {
+        "title": "(extended) UI UX Tech Club: Short Design Sprint Workshop!",
+        "status": "2 days left",
+        "location": "Talley Student Union Room 3210",
+        "prizes": "1 non-cash prizes",
+        "participants": "18 participants",
+        "tags": [
+          "Featured"
+        ]
+      },
+      {
+        "title": "The AI Champion Ship",
+        "status": "about 1 month left",
+        "location": "Online",
+        "prizes": "$36,500 in prizes",
+        "participants": "1673 participants",
+        "tags": []
+      }
+    ]
+  },
+  "footer": {
+    "navigation": {
+      "devpost": {
+        "title": "Devpost",
+        "links": [
+          "About",
+          "Careers",
+          "Contact",
+          "Help"
+        ]
+      },
+      "hackathons": {
+        "title": "Hackathons",
+        "links": [
+          "Browse hackathons",
+          "Explore projects",
+          "Host a hackathon",
+          "Hackathon guides"
+        ]
+      },
+      "portfolio": {
+        "title": "Portfolio",
+        "links": [
+          "Your projects",
+          "Your hackathons",
+          "Settings"
+        ]
+      }
+    },
+    "connect": {
+      "title": "Connect",
+      "socials": [
+        "Twitter",
+        "Discord",
+        "Facebook",
+        "LinkedIn"
+      ]
+    },
+    "legal": {
+      "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+      "links": [
+        "Community guidelines",
+        "Security",
+        "CA notice",
+        "Privacy policy",
+        "Terms of service"
+      ]
+    }
+  }
+}

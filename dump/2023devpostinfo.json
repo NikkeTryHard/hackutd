@@ -1,0 +1,420 @@
+{
+  "website": {
+    "brand": "Devpost",
+    "header": {
+      "navigation": [
+        "Join a hackathon",
+        "Host a hackathon",
+        "Resources"
+      ],
+      "userActions": [
+        "Log in",
+        "Sign up"
+      ]
+    },
+    "hackathon": {
+      "name": "HackUTD X",
+      "statusTags": [
+        "Golden Hour",
+        "Start late project"
+      ],
+      "actions": {
+        "findMore": "Find more hackathons",
+        "viewWinners": "View the winners"
+      },
+      "navigation": [
+        {
+          "name": "Overview",
+          "active": true
+        },
+        {
+          "name": "My projects"
+        },
+        {
+          "name": "Participants",
+          "count": 877
+        },
+        {
+          "name": "Resources"
+        },
+        {
+          "name": "Rules"
+        },
+        {
+          "name": "Project gallery"
+        },
+        {
+          "name": "Updates"
+        },
+        {
+          "name": "Discussions"
+        }
+      ],
+      "summary": {
+        "participation": {
+          "title": "Who can participate",
+          "criteria": [
+            "Above legal age of majority in country of residence",
+            "College students only",
+            "All countries/territories, excluding standard exceptions"
+          ],
+          "links": [
+            "View full rules",
+            "View schedule"
+          ]
+        },
+        "eventInfo": {
+          "date": "Nov 4 – 5, 2023",
+          "location": "ECSW @ UT Dallas",
+          "type": "Public"
+        },
+        "stats": {
+          "prizes": "$69,190 in prizes",
+          "participants": 877
+        },
+        "organizer": "hackutd",
+        "tags": [
+          "Beginner Friendly",
+          "Open Ended",
+          "Social Good"
+        ]
+      },
+      "details": {
+        "description": "HackUTD, the 3rd largest 24-hour university hackathon in the US, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make.",
+        "prizeNote": "Note on Prizes: Each member of the winning teams will get a prize",
+        "requirements": {
+          "teamRegistration": {
+            "title": "Team Registration",
+            "description": "Your team needs to be registered by 11:30pm on Saturday (11/4). Don’t worry, you do not have to have your whole project done by this time. This is just to make sure your team is registered on Devpost. You will have until 12:00pm on Sunday to fully submit your project."
+          },
+          "submission": {
+            "title": "Submission",
+            "description": "Your project needs to be finalized by noon on Sunday! No edits should be made to your project after that time. Make sure you have at least the following:",
+            "items": [
+              "Project Title and Description",
+              "Challenges/Tracks you are submitting to",
+              "Demo Video (should ONLY be a demo, maximum of 2 minutes)"
+            ]
+          }
+        },
+        "rules": {
+          "title": "Submission Rules",
+          "disqualificationWarning": "Any violation of these rules will result in immediate disqualification of your team and project",
+          "mainRules": [
+            "4 hackers maximum per team (anything less including 1 is okay but we encourage finding a full team as you can get a lot more done with 4 people!)",
+            "Only submit to HackUTD — projects that submit to other hackathons will be disqualified",
+            "All code must be uploaded BEFORE the deadline and linked to Devpost — project demos with a working product yet have no code uploaded will be disqualified",
+            "Public frameworks and libraries are allowed, but submitting only copied code will result in project disqualification",
+            "Each hacker is only allowed to be a part of and create one project during this hackathon",
+            "There is no limit on the number of challenges you can submit to, but keep in mind that you should focus on one or a small set of challenges to maximize your chances of winning!",
+            "Anything presented at judging should only be worked on from noon on Saturday to noon on Sunday.",
+            "There should be no coding or building before noon on Saturday.",
+            "However you can ideate beforehand with your team!",
+            "Judging will be in-person expo-style; you must be present at judging to qualify for a prize."
+          ],
+          "additionalRules": [
+            "If you use public frameworks or libraries, you must credit them in the README.md file and clearly distinguish your contributions.",
+            "You must have your team registered on Devpost by 11:59pm on Saturday 11/4.",
+            "You will be able to edit your post and add your project up until the final deadline.",
+            "We follow the MLH rules, MLH Code of Conduct, and UTD Code of Conduct.",
+            "Directors, Organizers, Volunteers, Mentors, Sponsors, Vendors, and anyone affiliated with operations behind HackUTD are NOT eligible to submit a project.",
+            "All projects must be started at HackUTD. Prior ideas are fine, but no pre-existing projects. Any use of AI to write code will be investigated and are subject to disqualification.",
+            "Maximum Team Size of 4 for prizes. No exceptions will be made.",
+            "All Team members must be added to the Devpost submission in order to recieve prizes.",
+            "Projects must be submitted before the Sunday 11/5 12 pm deadline. This is a HARD stop and submissions after this time will NOT be considered."
+          ]
+        },
+        "resources": {
+          "hackerpackLink": "https://hackutd.notion.site/Hackerpack-39b7dc396a3847749cf25303101022db#ec1f6e64388b4289b1166e4261bfd0ff"
+        }
+      },
+      "prizes": {
+        "totalValue": "$69,190 in prizes",
+        "categories": [
+          {
+            "name": "HackUTD General",
+            "winnerCount": 3,
+            "prizes": [
+              { "place": "1st Place", "item": "LG 4K Smart TV" },
+              { "place": "2nd Place", "item": "Apple Airpod Pros 2nd Gen" },
+              { "place": "3rd Place", "item": "Samsung Gaming Monitor" }
+            ],
+            "note": "1st place winners can pick any prize, 2nd place gets to pick one out of the remaining prizes, and 3rd place gets the remaining prize."
+          },
+          {
+            "sponsor": "Goldman Sachs",
+            "winnerCount": 3,
+            "prizes": [
+              { "place": "1st Place", "item": "Apple AirPods Max" },
+              { "place": "2nd Place", "item": "Apple TV" },
+              { "place": "3rd Place", "item": "Giftcards" }
+            ]
+          },
+          {
+            "sponsor": "Toyota",
+            "winnerCount": 2,
+            "prizes": [
+              { "place": "1st Place", "item": "Harman JBL Tour Pro 2 + Harman JBL Flip 6 + $100 Amazon Gift Card + 12-Month SXM Streaming Subscription + SXM T-Shirt" },
+              { "place": "2nd Place", "item": "Harman JBL CLIP 4 + Cisco Backpack with Swag + Cisco Meraki Desk Shield Charger + 9-Month SXM Streaming Subscription + SXM T-Shirt" }
+            ]
+          },
+          {
+            "sponsor": "Statefarm",
+            "winnerCount": 3,
+            "prizes": [
+              { "place": "1st Place", "item": "Playstation 5" },
+              { "place": "2nd Place", "item": "3D Printers" },
+              { "place": "3rd Place", "item": "Beats Studio 3" }
+            ]
+          },
+          {
+            "sponsor": "Fidelity",
+            "winnerCount": 3,
+            "prizes": [
+              { "place": "1st Place", "item": "Apple Airpod Pros + Powerbank" },
+              { "place": "2nd Place", "item": "Arduino Starter Kit" },
+              { "place": "3rd Place", "item": "Choose 1 (Six Flags Day Pass, Dallas World Aquarium, Meow Wolf, Visit Dallas - City Pass)" }
+            ]
+          },
+          {
+            "sponsor": "CBRE",
+            "winnerCount": 3,
+            "prizes": [
+              { "place": "1st Place", "item": "$250 Amazon Gift Card" },
+              { "place": "2nd Place", "item": "$150 Amazon Gift Card" },
+              { "place": "3rd Place", "item": "$75 Amazon Gift Card" }
+            ]
+          },
+          {
+            "sponsor": "EOG Resources",
+            "winnerCount": 2,
+            "prizes": [
+              { "place": "1st Place", "item": "Nintendo Switch Mario Kart Bundle" },
+              { "place": "2nd Place", "item": "NuPhy Halo65 Mechanical Keyboards (Gateron Red Switch)" }
+            ]
+          },
+          {
+            "sponsor": "Frontier",
+            "winnerCount": 6,
+            "prizes": [
+              { "place": "1st Place", "item": "$200 Amazon Gift Card + “day in the life” job shadow with our Fiber Innovation Labs team" },
+              { "place": "2nd Place", "item": "$100 Amazon Gift Card" },
+              { "place": "3rd Place", "item": "$50 Amazon Gift Card" }
+            ]
+          },
+          {
+            "sponsor": "Fannie Mae",
+            "winnerCount": 3,
+            "prizes": [
+              { "place": "1st Place", "item": "$125 Amazon Gift Card" },
+              { "place": "2nd Place", "item": "$75 Amazon Gift Card" }
+            ],
+            "note": "Both will get a Tour of the Plano Fannie Mae Office Facility + Lunch with Executive Leader Thomas Jacob + Present the winning solutions to the Fannie Mae Leadership Team"
+          },
+          {
+            "sponsor": "PRHI",
+            "winnerCount": 1,
+            "prizes": [
+              { "place": "1st Place", "item": "$250 Amazon Giftcard" }
+            ]
+          },
+          {
+            "name": "Beginner Track",
+            "winnerCount": 1,
+            "prizes": [
+              { "place": "1st Place", "item": "12-month subscription of NordVPN, NordPass and Incogni" }
+            ]
+          },
+          {
+            "name": "Design Track",
+            "winnerCount": 1,
+            "prizes": [
+              { "place": "1st Place", "item": "FijiFilm Mini 7 Polaroid Camera" }
+            ]
+          },
+          {
+            "name": "Hardware Track",
+            "winnerCount": 1,
+            "prizes": [
+              { "place": "1st Place", "item": "JBL Flip 6" }
+            ]
+          },
+          {
+            "name": "Best Solo Hack",
+            "winnerCount": 1,
+            "prizes": [
+              { "place": "1st Place", "item": "Gaming Mouse" }
+            ]
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Use of Google Cloud",
+            "winnerCount": 1,
+            "description": "Build your hackathon project with a suite of secure storage, powerful compute, and integrated data analytics products provided by Google Cloud. See full list of products here: g.co/cloud. Each winning team member will receive a Patagonia Google branded backpack"
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Use of MongoDB Atlas",
+            "winnerCount": 1,
+            "description": "MongoDB Atlas takes the leading modern database and makes it accessible in the cloud! Get started with a $50 credit for students or sign up for the Atlas free forever tier (no credit card required). Along with a suite of services and functionalities, you'll have everything you need to manage all of your data! Build a hack using MongoDB Atlas for a chance to win a M5GO IoT Starter Kit for you and each member of your team."
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Most Creative Use of GitHub",
+            "winnerCount": 1,
+            "description": "GitHub is one of the best ways to collaborate, push code, get feedback, and show the world what you’ve built during a hackathon. To take it a step further, GitHub is now offering you access to industry tools, events & learning resources through something called GitHub Global Campus. Win this weekend’s Most Creative Use of GitHub prize category, first by signing up for GitHub Global Campus and second by using a GitHub repository to host your hackathon project’s code! Make sure your use of GitHub stands out with a detailed ReadMe page, meaningful pull requests and collaboration history, and even a GitHub pages deployment!"
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Domain Name from GoDaddy Registry",
+            "winnerCount": 1,
+            "description": "GoDaddy Registry is giving you everything you need to be the best hacker no matter where you are. Register your domain name with GoDaddy Registry for a chance to win a Hack from Home Kit! Each Kit contains wireless earbuds, blue light glasses, selfie ring light and a pouch for easy transport"
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Use of Auth0",
+            "winnerCount": 1,
+            "description": "Auth0 wants your applications to be secure! Use any of the Auth0 APIs for a chance to win some exclusive swag, including an Auth0 branded Rocketbook and Rubiks Cube! Why spend hours building features like social sign-in, Multi-Factor Authentication, and passwordless log-in when you can enable them through Auth0 straight out of the box? Save some time on your hack and set yourself up for a big win. It doesn't take much to get started. Auth0 is free to try, no credit card required, with up to 7,000 free active users and unlimited log-ins. Make your new account today!"
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Use of MATLAB",
+            "winnerCount": 1,
+            "description": "MATLAB and Simulink are computational tools used at over 100,000 businesses, government and university sites in over 190 countries. Use MATLAB and/or Simulink exclusively or integrate them into another tool for your next hack to win an exclusive MathWorks branded Wireless YoYo Speaker! You can also claim a free MATLAB software license to get started."
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Use of Kintone",
+            "winnerCount": 1,
+            "description": "Still not sure what backend to use in your hack? Kintone is a low-code web database that lets you set up your backend in minutes. It's beginner friendly, allowing you to customize your Kintone app using nothing but JavaScript and HTML. If you're interested in IoT, your team can snag a FREE microcontroller by signing up for Kintone. If you use Kintone in your hackathon project, you'll have a chance to win a breadboard IoT kit to power up the hardware hacking for each member of your team!"
+          },
+          {
+            "sponsor": "MLH",
+            "name": "Best Use of Circle",
+            "winnerCount": 1,
+            "description": "With Circle, you can embed secure wallets into your app in just minutes. Circle Web3 wallets are compatible with multiple blockchains and are supported by over a dozen programming language SDKs. Circle’s programmable wallets will enable you to add secure transactions to your hackathon project using RESTful APIs, with options for both user and developer controlled transactions. If your hackathon idea involves in-app purchases, user to user payments, app to user payments, or all of the above, integrating Circle programmable wallets to your Web2 or Web3 tech-stack may be the perfect solution. Sign up for a developer account and start using Circle’s APIs today, for a chance to win a Circle Branded Hardware Wallet for you and each of your teammates!"
+          }
+        ]
+      },
+      "judging": {
+        "judges": [
+          "Jury",
+          "Jury"
+        ],
+        "criteria": [
+          {
+            "name": "Technology",
+            "question": "How difficult is the hack?"
+          },
+          {
+            "name": "Design",
+            "question": "How was the user experience?"
+          },
+          {
+            "name": "Learning",
+            "question": "Have you worked something similar or is this new?"
+          },
+          {
+            "name": "Completion",
+            "question": "Does it work?"
+          }
+        ],
+        "process": "For general judging, present your project to the judge(s) for 3-5 minutes about your app, how you built it, your challenges, and a demo",
+        "contact": "Questions? Email the hackathon manager"
+      },
+      "sponsors": {
+        "title": "Hackathon sponsors",
+        "list": [
+          "Goldman Sachs",
+          "Toyota",
+          "State Farm",
+          "Fidelity Investments",
+          "CBRE",
+          "EOG Resources",
+          "Frontier",
+          "Fannie Mae",
+          "PRHI",
+          "JPMorgan Chase & Co.",
+          "Geico",
+          "CoreLogic",
+          "Axxess",
+          "MLH",
+          "NordVPN"
+        ]
+      },
+      "securityNotice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+    },
+    "similarHackathons": {
+      "title": "Similar hackathons",
+      "listings": [
+        {
+          "name": "Student Innovators Without Borders Hacks",
+          "tags": [
+            "Students",
+            "Open Ended"
+          ],
+          "deadline": "about 1 month left",
+          "location": "Online",
+          "prizes": "$1,600 in prizes",
+          "participants": 469
+        },
+        {
+          "name": "EY Techathon 6.0",
+          "deadline": "8 days left",
+          "location": "Online",
+          "prizes": "₹ 500,000 in prizes",
+          "participants": 66
+        }
+      ]
+    },
+    "footer": {
+      "sections": [
+        {
+          "title": "Devpost",
+          "links": [
+            "About",
+            "Careers",
+            "Contact",
+            "Help"
+          ]
+        },
+        {
+          "title": "Hackathons",
+          "links": [
+            "Browse hackathons",
+            "Explore projects",
+            "Host a hackathon",
+            "Hackathon guides"
+          ]
+        },
+        {
+          "title": "Portfolio",
+          "links": [
+            "Your projects",
+            "Your hackathons",
+            "Settings"
+          ]
+        }
+      ],
+      "connect": {
+        "title": "Connect",
+        "socials": [
+          "Twitter",
+          "Discord",
+          "Facebook",
+          "LinkedIn"
+        ]
+      },
+      "legal": {
+        "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+        "links": [
+          "Community guidelines",
+          "Security",
+          "CA notice",
+          "Privacy policy",
+          "Terms of service"
+        ]
+      }
+    }
+  }
+}

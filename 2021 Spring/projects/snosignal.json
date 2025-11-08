@@ -1,0 +1,75 @@
+{
+  "projectName": "sNoSignal",
+  "tagline": "A decentralized non-internet dependent communication and assistance app for natural disasters",
+  "hackathon": "HackUTD VII",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "During the winter storm, one of the things I found on the r/Dallas subreddit was people helping each other. People who had electricity were giving out warm food and opening their homes to people who did not have heat. It was really amazing to see strangers helping each other, but one thing that I noticed was how people without internet or access to wireless internet couldn't get help even though they probably need it the most..That’s why we have created sNoSignal.",
+    "whatItDoes": "sNoSignal connects people who can help with people who needs help without the use of the internet. A user who needs help would text the SMSnet number through their app. The app inserts important information like GPS location into the message which allows the Twilio + backend server to determine the closest people in the area who might be able to help. They are then alerted in the app and have the option of either declining, responding, or forwarding to someone who can respond. When a user declines, the app sends another ping to the closest people that were pinged the first time. This eventually would be adapted to a completely decentralized network using bluetooth or wifi. Once a helper accepts a ping and the original user confirms, their contact information would be shared between each other, allowing them to coordinate outside of the app.",
+    "howWeBuiltIt": "We used Twilio for 2 way automated messaging and CockroachDB/CockroachCloud to store the messages. When messages are received, Twilio hits a Python/Flask endpoint which updates the database and sends respective texts. The frontend is written in React Native and also interfaces with the server.",
+    "challengesWeRanInto": {
+      "cockroachDBSetup": {
+        "title": "Setting up CockroachDB/SQL",
+        "description": "Setting up CockroachDB was new, since we both don’t have experience with SQL."
+      },
+      "ideaDetails": {
+        "title": "Working through Idea Details",
+        "description": "We also spent a lot of time working through the details of how the idea would work."
+      },
+      "interfaceCreation": {
+        "title": "Creating Interfaces",
+        "description": "Creating the interfaces between Twilio, CockroachDB, Flask, React Native, and SMS was also challenging."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "newSkillsLearned": {
+        "title": "New Skills Learned",
+        "description": "We are very proud of the new skills we had learned. Neither of us had experience with Twilio, SQL, or SMS development in general, and we are very happy with how this idea took shape as sNoSignal. Before this project we had only heard of peer-to-peer networking but now we realize its effectiveness and potential to be an important area of computer science in the future."
+      }
+    },
+    "whatIsNext": "One feature we did not have time to implement was Wifi-based and Bluetooth-based peer to peer communication. This would eliminate the need for an SMS middleman, creating a decentralized network of devices communicating together in a method similar to Apple AirDrop. However, some challenges would have to be addressed, mainly the relatively low range of Wifi and Bluetooth. Another future step to take is expanding to IoT devices, which would decrease the chances of holes/dead sports in a Wifi/Bluetooth network and improve the overall strength of the network.",
+    "domainSubmissions": [
+      "theres-no-wifi-in.space",
+      "utdallas-better-than-texas.tech"
+    ]
+  },
+  "builtWith": [
+    "cockroachcloud",
+    "cockroachdb",
+    "flask",
+    "python",
+    "react-native",
+    "twilio"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH Best Domain Registered"
+  ],
+  "team": [
+    {
+      "name": "Supratik Pochampally",
+      "username": "Supratik Pochampally",
+      "contribution": null
+    },
+    {
+      "name": "Bryant Hou",
+      "username": "Bryant Hou",
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Bryant Hou",
+      "timestamp": "5 years ago",
+      "content": "Bryant Hou started this project"
+    }
+  ],
+  "comments": []
+}

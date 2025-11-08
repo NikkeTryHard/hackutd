@@ -1,0 +1,77 @@
+{
+  "projectName": "Home Oversight",
+  "tagline": "State Farm's proactive approach to climate change.",
+  "hackathon": "HackUTD VIII",
+  "likes": 6,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "Lockheed Martin has teamed up with the U.S. Department of Agriculture Forest Service and the Colorado Division of Fire Prevention & Control (DFPC) to combat one of the U.S.'s greatest threats. Sudden uncontrollable wildfires have caused over $20 billion in damages throughout 2020. Using NVIDIA OMNIVERSE, scientists have been able to actively map and predict the movement of sudden wildfires using state-of-the-art technology and an end-to-end AI-driven platform. Home Oversight outlines the plans for the implementation of State Farm's newest addition to their toolset.",
+    "whatItDoes": "Home Oversight was built with two goals in mind: -Inform State Farm customers of potential threats as a result of climate change, provide emergency guidance/preparation to avoid fires before they arrive, and in the unfortunate event of a disaster, affected State Farm customers will be forwarded the best course of action for insurance claims, as recommended by State Farm's own professionals. -Provide State Farm with an invaluable customer support service. As the wildfire tracking software develops, State Farm customers living in areas with a low risk of wildfires can be offered discounts for fire-damage-related insurance, maximizing potential profits for State Farm and providing low-risk customers with a great deal.",
+    "howWeBuiltIt": "Home Oversight was built on Google's UI toolkit, Flutter SDK. Our first-generation fire simulator was built off Google Maps and Google Places.",
+    "challengesWeRanInto": "This hackathon was our team's first time developing with the Flutter SDK. Converting code from Java to Kotlin proved to be a major challenge, as well as app development with computing resources in mind. Memory usage was high, but we see this issue resolving itself with the implementation of more time-efficient code. Overcoming the Java -> Kotlin issue required a lot of intercommunication within our team to find the optimal solution.",
+    "accomplishmentsWeAreProudOf": "Starting from the absolute bottom, in terms of knowledge of the Flutter SDK, to a fully functioning mobile app is an achievement our entire team is proud of. Implementing the fire generator was also a very difficult task to accomplish.",
+    "whatWeLearned": "While being thrown into a high-stress competition with no knowledge of the UI was an achievable challenge, learning one framework to develop applications on would allow our team to focus on refining our MVP to something more similar to a production-level application. Hackathons are a place to learn, but competing with a unified set of skills would help us to implement more complex ideas to a higher degree of accuracy.",
+    "whatIsNext": "Since the technology developed by NVIDIA and Lockheed Martin is only 5 days old, letting both our mobile app and the AI-driven fire predictor mature would allow for successful integration. We would like to implement our ideas on to Amazon Alexa to better notify user on the possible incoming natural disaster."
+  },
+  "builtWith": [
+    "flutter",
+    "google-maps",
+    "google-places",
+    "java",
+    "kotlin"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner State Farm: 100-Year Anniversary"
+  ],
+  "team": [
+    {
+      "name": "Matthew Pham",
+      "username": null,
+      "contribution": "I worked on the front-end. It was my first time using a flutter and my first time using a front-end language in general. Learning a new language in only a couple hours was quite challenging, but I was able to help develop a mobile app interface with popups, a navigation bar, and other features."
+    },
+    {
+      "name": "WillowArk Chin",
+      "username": null,
+      "contribution": "I worked on back-end, implementing Google Maps API. Created algorithms, custom markers, and used multithreaded timers to simulate the breakout of wildfires."
+    },
+    {
+      "name": "Bryan Nguyen",
+      "username": null,
+      "contribution": "I worked on the front-end. It was my first time using Flutter SDK and dart. It was fun to learn, but difficult to implement. I helped design the mobile interface and with the creation, of the top-bar, card, and other widgets"
+    },
+    {
+      "name": "Trenton Ornelas",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Ryan Radloff",
+    "WillowArk Chin",
+    "Bryan Nguyen",
+    "Matthew Pham",
+    "Roman Hauksson",
+    "Jacob Dong"
+  ],
+  "updates": [
+    {
+      "author": "WillowArk Chin",
+      "timestamp": "4 years ago",
+      "content": "WillowArk Chin started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Roman Hauksson",
+      "username": "RomanHN",
+      "timestamp": "4 years ago",
+      "content": "Looks neat!"
+    }
+  ]
+}

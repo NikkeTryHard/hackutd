@@ -1,0 +1,69 @@
+{
+  "projectName": "TrendSent",
+  "tagline": "TrendSent the way you forecast company fiscal performance.",
+  "hackathon": "HackUTD X",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "In an increasingly capitalistic society, having financial knowledge is more important than ever. Being able to value and compare companies is very useful knowledge for those who are interested in investing and learning more about company performance. Team submission",
+    "whatItDoes": "TrendSent uses a Machine Learning Model to project the DCF of a chosen company as well as the company's competitors in the industry. This allows for a comparison of the company valuation and the average valuation in the industry. It simultaneously uses sentiment analysis to analyze news articles from various sources to give an insight on the company's reputation.",
+    "howWeBuiltIt": "We began by using an API to get company financial statements from SEC filings, which were then used to calculate the DCF of the chosen company.",
+    "challengesWeRanInto": "Obtaining enough data points to increase the accuracy of our machine-learning model was one challenge we ran into.",
+    "accomplishmentsWeAreProudOf": "We were proud of learning machine learning models, learning sentiment analysis, DCF valuation models, and learning how to use an LLM to accurately analyze forecasted data.",
+    "whatWeLearned": "We learned how to effectively cache data, how to train sentiment analysis models, how to accurately represent financial data (DCF).",
+    "whatIsNext": "Using the machine learning model to forecast more information about the financials of a company. This includes any value found on the balance sheet, as well as anything that can be calculated using values on the balance sheet. This includes the important financial ratios such as P/E ratio, EPS, Quick Ratio, etc."
+  },
+  "builtWith": [
+    "flask",
+    "genai",
+    "mysql",
+    "next",
+    "python",
+    "react",
+    "sentimentanalysis",
+    "sql"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Goldman Sachs"
+  ],
+  "team": [
+    {
+      "name": "Adith Gangalakunta",
+      "username": null,
+      "contribution": "I worked on the ML model to forecast DCF values as well as the NLP to analyze the effect of sentiment on these forecasted values."
+    },
+    {
+      "name": "Mithun Balasubramanian",
+      "username": null,
+      "contribution": "I worked on the sentiment analysis, the data visualization, parts of the front end and the backend API."
+    },
+    {
+      "name": "Sree Bommisetty",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Aishwarya Sudarshan",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Sree Bommisetty",
+    "Mithun Balasubramanian"
+  ],
+  "updates": [
+    {
+      "author": "Mithun Balasubramanian",
+      "timestamp": "2 years ago",
+      "content": "Mithun Balasubramanian started this project"
+    }
+  ],
+  "comments": []
+}

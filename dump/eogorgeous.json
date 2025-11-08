@@ -1,0 +1,58 @@
+{
+  "projectName": "EOGorgeous",
+  "tagline": "This project optimizes the distribution of wastewater from oil drilling among multiple operations, and displays the resulting revenue and history data in a convenient, intuitive web interface.",
+  "hackathon": "HackUTD VIII",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Produced water is a byproduct of oil drilling that represents a new opportunity for recycling and reuse of fresh water, as well as a largely untapped revenue stream. In this project, we developed an algorithm to optimize the expenditure of produced water among different uses, and display the generated revenue and gallons distributed in a user-friendly interface.",
+    "whatItDoes": "EOGorgeous reads sensor data online from EOG, then optimizes the distribution of water to maximize profit. It supports storing some water in pits if none of the options for sales look promising, giving EOG more water to sell on days when the prices are more favorable. The algorithm we made is anywhere from two to ten times more profitable than the initially provided algorithm. Best of all, EOGorgeous displays all of this through a single screen of beautiful, easy-to-understand graphs. All the information you could need about its operations are right there at your fingertips!",
+    "howWeBuiltIt": "We built off of the framework provided by EOG, but expanded it greatly in the graphics department. We integrated the craco framework as part of our visual overhaul and built our optimization algorithm to meet every goal that EOG set out for us for this challenge.",
+    "challengesWeRanInto": "Only one of our group members had ever worked with TypeScript or React before, so everything we did was a learning experience. We also had to learn to relinquish some control that we're used to, as we can't edit the server code - we've always had total control of our projects in the past.",
+    "accomplishmentsWeAreProudOf": "EOGorgeous is the single most polished, visually stunning hackathon project we have ever had the pleasure of completing. We had time to meet all of the targets for the project, fine-tune our algorithm, and refactor and thoroughly comment our code."
+  },
+  "builtWith": [
+    "react",
+    "typescript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner EOG Resources: Operations Optimization"
+  ],
+  "team": [
+    {
+      "name": "Jacob Wiedemeier",
+      "username": null,
+      "contribution": "I worked on the backend with Haley. It was our first time working with React and with TypeScript, so it was a pretty fun experience!"
+    },
+    {
+      "name": "Travis Dula",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Haley Wheatley",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Jane Luo",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Haley Wheatley",
+      "timestamp": "4 years ago",
+      "content": "Haley Wheatley started this project"
+    }
+  ],
+  "comments": []
+}

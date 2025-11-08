@@ -1,0 +1,70 @@
+{
+  "projectName": "Coppington Investments",
+  "tagline": "Are you eager to venture into the world of investing but find yourself short on capital or uncertain about how to cop and maximize your profits?",
+  "hackathon": "HackUTD X",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Knowing how people, including us, have the desire to venture and have the opportunity to explore the investment world, some of us do not know or have the capital to invest. Coppington Investments alleviates this issue by providing people insights, advices, tools, and resources for opportunities to gain knowledge about investing and having some opportunities to start the process of investing and improve from there.\n\nP.S.: The mascot, Sir Floppington, inspired us in naming our project Coppington Investments.",
+    "whatItDoes": "Coppington Investments specializes in making investment opportunities accessible and profitable for everyone. Our tailored strategies and expert advice are designed to help you grow your wealth, regardless of your initial investment size. With us, you'll have the tools, resources, and knowledge to turn your financial dreams into reality.",
+    "howWeBuiltIt": "For the frontend, we used React and JavaScript. Our backend consisted of Python, Flask, MongoDB, Keras ML, Circle, and Ethereum Smart Contracts.",
+    "challengesWeRanInto": "Training the ML model took a long time to understand and implement. We encountered some difficulties when connecting the database to our backend, mainly due to connection and authentication issues. Designing and coding the frontend was also time-consuming task, particularly for team members who were new to the process.",
+    "accomplishmentsWeAreProudOf": "Establishing a meaningful application that has real-world impact and potential to give people their first step into investing.",
+    "whatWeLearned": "We learned the importance the time to brainstorm an innovative idea instead of jumping straight into coding. We also learned responsive design as well as how to train and test a model in ML.",
+    "whatIsNext": "We would like to expand to more markets for investment, such as Esports, equity, and small businesses."
+  },
+  "builtWith": [
+    "flask",
+    "javascript",
+    "ml",
+    "mongodb",
+    "python",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH – Best Use of Circle"
+  ],
+  "team": [
+    {
+      "name": "Manish Mallik",
+      "username": null,
+      "contribution": "I designed and implemented the chatbot in our frontend, and I helped out on training an ML model to predict an investment score for each property."
+    },
+    {
+      "name": "Sathvik Kesireddy",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Aditya Udyavar",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rohan Dave",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Eric Shields",
+    "Manish Mallik",
+    "Sathvik Kesireddy",
+    "Rohan Dave",
+    "Aditya Udyavar"
+  ],
+  "updates": [
+    {
+      "author": "Sathvik Kesireddy",
+      "timestamp": "2 years ago",
+      "content": "Sathvik Kesireddy started this project"
+    }
+  ],
+  "comments": []
+}

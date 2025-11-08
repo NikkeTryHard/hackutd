@@ -1,0 +1,84 @@
+{
+  "projectName": "Get Them Greens!",
+  "tagline": "Building a Garden for Good",
+  "hackathon": "HackUTD VII",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "The Texas winter storm devastated several households and families. Many of our neighbors were left with no running water and food. Houses were burned down and lives were displaced. However, our spirits weren't broken, and the storm kindled a strong philanthropic spirit among us. In an attempt to help local families who have been affected by dire food shortages in the area, we came up with a simple but effective solution.",
+    "whatItDoes": "Our web application, \"Get Them Greens\" creates a personalized set up produce and crops to grow in our very backgrounds. It simplifies the process of finding the best plants to grow for the individual's needs and takes into account experience with gardening, length of time willing to dedicate to growing produce, space available and even the option to pick plants specific to certain seasons. This will encourage people to grow home grown vegetables and food that they can donate to local food banks (a variety of local food banks are also given to the user based on their zipcode, further simplifying the process!). Once they grow their produce, they can then pick a local foodbank and donate fresh, healthy and tasty vegetables to help their community bounce back and GET THEM GREENS!",
+    "howWeBuiltIt": "We built it using Python for the backend and StreamLit for the frontend.",
+    "challengesWeRanInto": {
+      "techStackSwitch": {
+        "title": "Switching from React to StreamLit",
+        "description": "We couldn't use React correctly so had to switch our tech stack midway through the project."
+      },
+      "manualDataInput": {
+        "title": "Manual Data Input for Plants",
+        "description": "In addition, we had difficulty figuring out which plants were best suited for harvest in Texas, and we had to manually input the USDA zones for each of our 89 plants. We also had to input plants that were compatible and incompatible with each specific crop manually, proving a lengthy and tiring process."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "customGardenKit": {
+        "title": "Custom Community Garden Starter Kit",
+        "description": "We are so proud of creating this web application that users can use to create their own custom needs community garden starter kit!"
+      },
+      "frontendAndUX": {
+        "title": "Frontend Development and User Experience",
+        "description": "We are most proud of figuring out the front end and learning how to use react when we had minimal experience using such front end programs. In addition, we figured out how to make a website visually pleasing for the user through a cute handmade logo and a simple and easy to use website. We have experience with backend coding and development, and we are proud that we were able to navigate the world of user experience despite not being well versed in the subject."
+      }
+    },
+    "whatWeLearned": "We learned how to build a full-stack web application, integrating it with external APIs. We learned how to use React to make a web application and how to take the psychology of the user into account when creating the frontend portion. We learned how to analyze web applications and how users navigate them the easiest, creating the simple interface we made. We also learned how much cooperation and teamwork goes into such projects as we had to unite backend, frontend and even graphics to put together what we created. We stepped out of our comfort zone and into areas of unfamiliarity such as user psychology and graphic design to create Get Them Greens.",
+    "whatIsNext": "We hope to expand our initiative from helping people affected by the storm to helping those who are affected by poverty and hunger. So many people have to eat fast food and unhealthy produce because they cannot afford organic produce. Our inititiave helps people affected by poverty access healthy, organic produce from Food Banks and we hope to expand our userbase and the amount of people donating produce to homeless shelters, supermarkets and continue donating to foodbanks."
+  },
+  "builtWith": [
+    "colab",
+    "ebay",
+    "google-maps",
+    "python",
+    "streamlit"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner eBay"
+  ],
+  "team": [
+    {
+      "name": "Shreya Balamurali",
+      "username": "Shreya Balamurali",
+      "contribution": null
+    },
+    {
+      "name": "Sruthi Suresh",
+      "username": "Sruthi Suresh",
+      "contribution": null
+    },
+    {
+      "name": "Vidhi Mehta",
+      "username": "Vidhi Mehta",
+      "contribution": null
+    },
+    {
+      "name": "Arunima Mittra",
+      "username": "Arunima Mittra",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Arunima Mittra",
+    "Vu Nguyen"
+  ],
+  "updates": [
+    {
+      "author": "Sruthi Suresh",
+      "timestamp": "5 years ago",
+      "content": "Sruthi Suresh started this project"
+    }
+  ],
+  "comments": []
+}

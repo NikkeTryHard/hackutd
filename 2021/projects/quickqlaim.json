@@ -1,0 +1,66 @@
+{
+  "projectName": "QuickQlaim",
+  "tagline": "Now making insurance claims is as fast as 1-2-3!",
+  "hackathon": "HackUTD VIII",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Over all 5 million accidents take place in the US each year, that is a lot of insurance claims to handle!",
+    "whatItDoes": "QuickQlaims aims to simplify this process for the user by providing a one stop shop for submitting an insurance claim. Our app works with the OBD modules in your car to detect when an accident takes place and sends you a message with a unique link to the guide. Then, you can follow the steps and before you know it, a agent has access to all the information they need to process your claim!",
+    "howWeBuiltIt": "We used Flutter to create a web app that sends data to a backend server that processes data.",
+    "challengesWeRanInto": "Configuring the mic and camera modules in flutter was a challenge as no one on our time had any experience building such modules.",
+    "accomplishmentsWeAreProudOf": "Developing and Integrating an API from scratch that stored and processed image and sound data is something that we are proud of. Having our custom API gave us the flexibility to create and deploy our custom commands for integration with our web app.",
+    "whatWeLearned": "I think the biggest learning aspect for this project was creating a full fledged web app. In the past we have developed mobile apps, but we understand that in the face of an accident the user wants the simplest functionality and our web app aims to deliver that",
+    "whatIsNext": "We want integrate this service with StateFarm's Drive Safe and Save application. We believe that this would allow for additional functionality and information for the user. We also want add the ability to record and send videos of the scene."
+  },
+  "builtWith": [
+    "backend",
+    "camera",
+    "dio",
+    "flutter",
+    "voice-delivery-system"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner State Farm: 100-Year Anniversary"
+  ],
+  "team": [
+    {
+      "name": "Rajmeet Juneja",
+      "username": null,
+      "contribution": "I worked on the camera module for the application. I was hesitant at first since I had never developed a function like this, but the documentation helped me understand the full implementation of this feature."
+    },
+    {
+      "name": "Tejas Bogguram Vasudev",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Sridhar Karumuri",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Tarun Rex",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Rajmeet Juneja",
+    "Erik Rodriguez"
+  ],
+  "updates": [
+    {
+      "author": "Rajmeet Juneja",
+      "timestamp": "4 years ago",
+      "content": "Rajmeet Juneja started this project"
+    }
+  ],
+  "comments": []
+}

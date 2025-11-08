@@ -1,0 +1,260 @@
+{
+  "website": {
+    "platform": "Devpost",
+    "header": {
+      "brand": "Devpost",
+      "navigation": [
+        "Join a hackathon",
+        "Host a hackathon",
+        "Resources"
+      ],
+      "userActions": [
+        "Log in",
+        "Sign up"
+      ]
+    },
+    "hackathon": {
+      "title": "Axxess Hackathon 2025",
+      "subtitle": "Developing innovative solutions for healthcare.",
+      "actions": [
+        "Start late project"
+      ],
+      "links": [
+        "Find more hackathons",
+        "View the winners"
+      ],
+      "navigation": [
+        {
+          "name": "Overview"
+        },
+        {
+          "name": "My projects"
+        },
+        {
+          "name": "Participants",
+          "count": 202
+        },
+        {
+          "name": "Rules"
+        },
+        {
+          "name": "Project gallery"
+        },
+        {
+          "name": "Updates"
+        },
+        {
+          "name": "Discussions"
+        }
+      ],
+      "summary": {
+        "participation": {
+          "title": "Who can participate",
+          "ageRequirement": "Above legal age of majority in country of residence",
+          "locationRequirement": "All countries/territories, excluding standard exceptions",
+          "links": [
+            "View full rules",
+            "View schedule"
+          ]
+        },
+        "eventInfo": {
+          "dates": "Feb 22 – 23, 2025",
+          "location": "University of Texas at Dallas",
+          "type": "Public"
+        },
+        "stats": {
+          "prizes": "6 non-cash prizes",
+          "participants": 202
+        },
+        "organizer": "Axxess",
+        "tags": [
+          "Health",
+          "Social Good",
+          "Web"
+        ]
+      },
+      "details": {
+        "about": {
+          "title": "About the Axxess hackathon 2025",
+          "description": "The Axxess Hackathon is a 24-hour weekend event focusing on Healthcare Innovation. This event encourages students to be innovative and think creatively through multiple challenges. Student attendees form teams of up to four members and work on a select challenge. Students are encouraged to build apps, propose new technology approaches and more. Students at all levels and all majors are welcomed and encouraged to attend. The world is run by cross disciplinary teams and students from different backgrounds can find great success through collaboration."
+        },
+        "purpose": {
+          "title": "What's the purpose?",
+          "description": "Support student experiential learning focusing on Healthcare Innovation. Students will develop CS and non-CS student skills through hacking challenges. It is great practice to work in teams to tackle a problem at this event, as you would as a full-time employee after graduation. Students also have the opportunity to network with company contacts, learn through workshops and showcase their ideas developed throughout the event."
+        },
+        "whyAttend": {
+          "title": "Why attend the axxess hackthon?",
+          "description": "The Axxess Hackathon is an opportunity to learn more about the Healthcare Industry and dive into ideas to improve the delivery, data capture, or efficiency of care. Everyone is impacted by our health. The vast healthcare industry is an aggregation and integration of sectors within the economic system that provides goods and services to treat patients with curative, preventive, rehabilitative, and palliative care."
+        },
+        "additionalInfo": {
+          "title": "Additional details",
+          "website": "https://www.axxess.com/hackathon"
+        }
+      },
+      "requirements": {
+        "title": "Requirements",
+        "items": [
+          "A 2 minute (max) minute video demo of the project is required for submission (uploaded on Youtube or any public platform). Video demo needs to just show working product, no need to talk or explain.",
+          "Attach Repository with working code to submission."
+        ]
+      },
+      "prizes": {
+        "title": "Prizes",
+        "summary": "6 non-cash prizes",
+        "prizeList": [
+          {
+            "category": "Overall Prize - First Place",
+            "winnerCount": 1,
+            "prizeItem": "Beats Studio Pro"
+          },
+          {
+            "category": "Overall Prize - Second Place",
+            "winnerCount": 1,
+            "prizeItem": "Apple AirPods Pro (2nd Gen)"
+          },
+          {
+            "category": "Overall Prize - Third Place",
+            "winnerCount": 1,
+            "prizeItem": "HP 27h Full HD Monitor"
+          },
+          {
+            "category": "Challenge Winner Prize- Streamlining Documentation and Inventory Management",
+            "winnerCount": 1,
+            "prizeItem": "INSIGNIA 32-inch Class F20 Series Smart HD 720p Fire TV",
+            "description": "Develop a solution to streamline documentation and inventory management by leveraging technology. For documentation, design a system that uses centralized repositories, standardized templates, and automation to ensure consistency and efficiency. For inventory management, create a system that integrates specialized software, barcode/RFID tracking, and automated reordering to maintain accurate stock levels. Ensure both solutions incorporate regular reviews and audits to uphold accuracy and relevance."
+          },
+          {
+            "category": "Challenge Winner Prize- AI ML in Home Healthcare",
+            "winnerCount": 1,
+            "prizeItem": "Razer BlackShark V2 Pro Wireless Gaming Headset",
+            "description": "Develop AI and ML solutions for home healthcare that analyze data to predict health issues, personalize care plans, and enhance remote monitoring. Showcase how these technologies enable timely interventions, optimize caregiver tasks, and improve overall efficiency, making home healthcare more proactive and patient-centered."
+          },
+          {
+            "category": "Challenge Winner Prize- Patient Engagement",
+            "winnerCount": 1,
+            "prizeItem": "Logitech G PRO Mechanical Gaming Keyboard",
+            "description": "Develop innovative solutions to enhance patient engagement in home healthcare. Focus on effective communication, personalized care, and technology-driven empowerment. Your solution should educate patients, ensure consistent follow-ups, and encourage active participation in their care. Demonstrate how these strategies improve health outcomes and overall patient experience."
+          }
+        ]
+      },
+      "judges": {
+        "title": "Judges",
+        "judgesList": [
+          {
+            "name": "Arvind Chavan",
+            "title": "Senior Director of Engineering"
+          }
+        ]
+      },
+      "judgingCriteria": {
+        "title": "Judging Criteria",
+        "criteriaList": [
+          {
+            "criterion": "Project Concept",
+            "description": "What is the overall idea and how is it innovative?"
+          },
+          {
+            "criterion": "Technical Execution",
+            "description": "How complex was the technical execution and how well was it done?"
+          },
+          {
+            "criterion": "Research and Design",
+            "description": "How much research and effort was put into the UI/UX aspects of the project?"
+          },
+          {
+            "criterion": "Presentation",
+            "description": "How well was the overall idea and execution presented both from a business and technical perspective?"
+          }
+        ]
+      },
+      "rules": {
+        "dates": {
+          "title": "Dates",
+          "description": "The 2025 Axxess Hackathon is Saturday, Feburary 22, to Sunday, Feburary 23. The in person event takes place in the Engineering and Computer Science West (ECSW) building at the University of Texas at Dallas. Check in and meals will be on the first floor in the Axxess Atrium."
+        },
+        "eligibility": {
+          "title": "Eligibility",
+          "description": "All participants must be at least 18 years old. All entrants must be on-site at the event, there is no virtual/remote participation."
+        },
+        "projectAndSubmissionRequirements": {
+          "title": "Project and Submission Requirements",
+          "description": "Projects should not be started prior to the Hackathon. All projects must begin at the Axxess Hackathon, but you are welcome to consider project ideas prior to the day of the event. Projects can range from solving personal, social, or business challenges through new, altered, and innovative technologies. Teams at the Axxess Hackathon can have up to four members. If you do not have a team, you can either work individually or form teams the day of the hackathon by meeting fellow hackers on the Discord or during team building events."
+        }
+      },
+      "contact": {
+        "text": "Questions? Email the hackathon manager"
+      }
+    },
+    "similarHackathons": {
+      "title": "Similar hackathons",
+      "hackathonsList": [
+        {
+          "name": "DevIgnite",
+          "timeLeft": "10 days left",
+          "location": "Online",
+          "prizes": "$0 in prizes",
+          "participants": 299
+        },
+        {
+          "name": "HackPrinceton Fall 2025",
+          "timeLeft": "1 day left",
+          "location": "Princeton University - Friend Center",
+          "prizes": "$15,300 in prizes",
+          "participants": 150
+        }
+      ]
+    },
+    "footer": {
+      "brand": "Devpost",
+      "sections": [
+        {
+          "title": "About",
+          "links": [
+            "Careers",
+            "Contact",
+            "Help"
+          ]
+        },
+        {
+          "title": "Hackathons",
+          "links": [
+            "Browse hackathons",
+            "Explore projects",
+            "Host a hackathon",
+            "Hackathon guides"
+          ]
+        },
+        {
+          "title": "Portfolio",
+          "links": [
+            "Your projects",
+            "Your hackathons",
+            "Settings"
+          ]
+        }
+      ],
+      "connect": {
+        "title": "Connect",
+        "socials": [
+          "Twitter",
+          "Discord",
+          "Facebook",
+          "LinkedIn"
+        ]
+      },
+      "legal": {
+        "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+        "links": [
+          "Community guidelines",
+          "Security",
+          "CA notice",
+          "Privacy policy",
+          "Terms of service"
+        ]
+      },
+      "recaptchaNotice": {
+        "text": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+      }
+    }
+  }
+}

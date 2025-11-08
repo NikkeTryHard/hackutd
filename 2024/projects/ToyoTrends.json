@@ -1,0 +1,122 @@
+{
+  "projectName": "ToyoTrends",
+  "tagline": "ToyoTrends is a powerful web application designed for Toyota engineers to visualize and interpret fuel efficiency and carbon emissions data for both Toyota vehicles and competitor vehicles.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "description": "ToyoTrends is a powerful web application designed for Toyota engineers to visualize and interpret fuel efficiency and carbon emissions data for both Toyota vehicles and competitor vehicles. This tool provides actionable insights, helping engineers gain a competitive edge in the automotive industry.",
+    "keyFeatures": [
+      "Immersive Intro Animation: Engages users with a visually appealing introduction.",
+      "Reactive Web Components: Ensures a dynamic and responsive user experience.",
+      "Data Analysis on Large Datasets: Processes vast amounts of data efficiently for actionable insights.",
+      "Comparison Tools: Enables side-by-side analysis of multiple vehicles.",
+      "Future Predictive Algorithms: Offers forecasts based on historical data trends.",
+      "AI Navigation and Information Assistance: Utilizes SambaNova's AI API for a chatbot to streamline user interactions."
+    ],
+    "librariesAndTechnologies": {
+      "React.js": "Framework for building the user interface.",
+      "Chart.js": "For advanced data visualization.",
+      "queryString": "Simplifies data processing and URL parameter manipulation.",
+      "CarsXE": "Generates accurate and high-quality vehicle images.",
+      "SambaNova AI": "Provides AI-driven chatbot assistance for seamless navigation."
+    },
+    "examplesOfDataProcessing": {
+      "Large Dataset Management": "Organizes extensive datasets to enable quick access and computation.",
+      "String Manipulation": "Processes and formats vehicle data to gather and present images effectively."
+    },
+    "codeStructure": "The project is organized as follows:\n\ntoyota-analytics-app\n|-- public\n|   |-- data\n|       |-- carImages\n|       |   |-- Toyota_CAMRY.png\n|       |   |-- Toyota_COROLLA.png\n|       |-- manufacturers\n|       |   |-- Toyota\n|       |       |-- CAMRY\n|       |       |-- COROLLA\n|       |-- filter.py\n|       |-- uniqueCars.py\n|-- src\n|   |-- assets\n|   |-- components\n|   |   |-- charts\n|   |   |-- tables\n|   |-- features\n|   |   |-- services\n|   |   |-- carComparison\n|   |   |-- dataProcessing\n|   |-- hooks\n|   |-- pages\n|   |-- utils\n|   |-- App.js\n|   |-- App.css\n|   |-- index.js\n|   |-- index.css\n|-- .env\n|-- .gitignore\n|-- README.md",
+    "keyFilesAndDirectories": {
+      "public/data": "Stores vehicle images and manufacturer-specific data.",
+      "filter.py": "Script to filter dataset information.",
+      "uniqueCars.py": "Script to identify unique vehicle entries.",
+      "src/assets": "Contains static assets.",
+      "src/components": "Includes reusable UI components like charts and tables.",
+      "src/features": "Houses core application features like car comparison and data processing.",
+      "src/hooks": "Custom React hooks for managing app state.",
+      "src/utils": "Utility functions for common operations."
+    },
+    "developmentTimeline": "The entire project was completed in under 24 hours as part of HackUTD XI.",
+    "contributors": [
+      {
+        "name": "Brandon Robertiello",
+        "email": "br@ou.edu",
+        "linkedin": "LinkedIn"
+      },
+      {
+        "name": "Melissa Ng",
+        "email": "melissa.j.ng-1@ou.edu",
+        "linkedin": "LinkedIn"
+      },
+      {
+        "name": "Lucas Ho",
+        "email": "lucas.ho-1@ou.edu",
+        "linkedin": "LinkedIn"
+      },
+      {
+        "name": "Bryan Ho",
+        "email": "bryan.v.ho-1@ou.edu",
+        "linkedin": "LinkedIn"
+      }
+    ],
+    "installationAndSetup": "Clone the Repository:\n\ngit clone https://github.com/your-repo/toyota-analytics-app.git\ncd toyota-analytics-app\nInstall Dependencies:\n\nnpm install\nEnvironment Variables: Create a .env file in the root directory and populate it with necessary API keys and configurations (e.g., CarsXE and SambaNova).\n\nRun the Application:\n\nnpm start\nAccess the app at http://localhost:3000.",
+    "futureImprovements": [
+      "Enhanced predictive analytics for carbon emissions trends.",
+      "Integration with more AI tools for advanced insights.",
+      "Expansion to include more competitor data."
+    ],
+    "license": "This project is open-source and available under the MIT License. Feel free to fork and contribute!",
+    "contact": "For more information, reach out to any of the contributors or submit an issue on the GitHub repository."
+  },
+  "builtWith": [
+    "carsxe",
+    "chart.js",
+    "css",
+    "html",
+    "javascript",
+    "openai",
+    "react",
+    "sambanova"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Toyota"
+  ],
+  "team": [
+    {
+      "name": "hutizaki Ho",
+      "username": "hutizaki",
+      "contribution": "Created several app outlines designed to be feature-rich and tailored to specific career needs. Designed and drew out the visual contents for the UI of the webapp. Created visual drafts of the animations for the UI design."
+    },
+    {
+      "name": "Brandon Robertiello",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Lucas Ho",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Melissa Ng",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Hung Hoang",
+    "vinczong",
+    "Lucas Ho",
+    "Melissa Ng",
+    "Brandon Robertiello"
+  ],
+  "updates": [
+    {
+      "author": "Brandon Robertiello",
+      "timestamp": "12 months ago",
+      "content": "Brandon Robertiello started this project"
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,72 @@
+{
+  "projectName": "Cheddarboxd",
+  "tagline": "It's Letterboxd for cheese",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 2,
+  "commentsCount": 3,
+  "story": {
+    "inspiration": "The play on words was too good not to...",
+    "whatItDoes": "It's a social cheese rating and sharing website. Users can share their taste in cheeses and see what other people are trying as well.",
+    "howWeBuiltIt": "SvelteKit, Tailwind, Pinata. Simple enough.",
+    "challenges": "Pinata is more confusing than initially assumed and the docs are missing a fair bit of context. That said, their docs context that you pass into cursor made the responses far better",
+    "accomplishments": "Finishing the entire project by myself with the time and tech constraints. I impressed myself by what I accomplished",
+    "whatWeLearned": "I learned to use Pinata mainly. Also deal with some cookies stuff when moving from localhost to a PWA hosted on a local network.",
+    "whatsNext": "Cheddarboxd is going nation wide.. 10m DAU and 100k MRR by weeks end."
+  },
+  "builtWith": [
+    "pinata",
+    "sveltekit",
+    "tailwind"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Pinata",
+    "Winner Best Solo Hack"
+  ],
+  "team": [
+    {
+      "name": "Joe Malatesta",
+      "username": null,
+      "contribution": "I worked on the cheese and the box"
+    }
+  ],
+  "likesBy": [
+    "Pedro Garcia",
+    "Jacob Reeves"
+  ],
+  "updates": [
+    {
+      "author": "Joe Malatesta",
+      "timestamp": "12 months ago",
+      "content": "Joe Malatesta started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Pedro Garcia",
+      "username": "pedro_garcia499",
+      "timestamp": "12 months ago",
+      "text": "Such a fun project, and by yourself! What a legend!",
+      "replies": []
+    },
+    {
+      "author": "Hung Que Dang",
+      "username": "hungqdang0510",
+      "timestamp": "12 months ago",
+      "text": "W cheese connoisseur heaven",
+      "replies": []
+    },
+    {
+      "author": "rChwiecko Chwiecko",
+      "username": "rChwiecko",
+      "timestamp": "12 months ago",
+      "text": "Super sick!",
+      "replies": []
+    }
+  ]
+}

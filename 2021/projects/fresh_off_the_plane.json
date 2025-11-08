@@ -1,0 +1,108 @@
+{
+  "projectName": "Fresh Off The Plane",
+  "tagline": "Fresh Off The Plane includes a wealth of information for international students. The main feature includes a course finder based on industry of interest, as well as position in the industry.",
+  "hackathon": "HackUTD VIII",
+  "likes": 12,
+  "commentsCount": 5,
+  "story": {
+    "inspiration": "We were inspired by the daily struggles international students go through here at UT Dallas. Critical information for these students is not easily accessible, and as a result, acclimating to a new environment like UTD can be particularly challenging.",
+    "whatItDoes": "Fresh Off The Plane is a flutter application that compiles to both iOS and Android. Our application hosts a wealth of important information pertinent to international students such as links to key financial and academic resources as well as a course picker that takes previous student outcomes into account.",
+    "howWeBuiltIt": "We used Flutter to build our app, as it is a great way to quickly deploy apps on both iOS and Android. We utilized FastAPI and Python scripts to create the backend, which connects our frontend with our Postgres database hosted on Azure and the Project Nebula API.",
+    "challengesWeRanInto": "The main challenge we ran into was an open issue with Flutter's http rest API call through a localhost. This is a persistent issue, with the issue existing in the dart sdk github for over 8 years (https://github.com/dart-lang/sdk/issues/12693). This unfortunately resulted in us being unable to marry our front and backend together as it prevented us from making a calls to the right port.",
+    "accomplishmentsWeAreProudOf": "We are most proud of the amount of information in our app that could actually be useful for UT Dallas students. We ran a focus group and talked to 10+ international students who gave us real implementable feedback that we listened to and added to our app, including resources for financial literacy, insurance, and course suggestions.",
+    "whatWeLearned": "We learned how to set up Flutter environments (as it was one of our teammates' first hackathon!), as well as implementing the Nebula API. We built a smooth navigable app that was easy and intuitive to use and jam-packed with tons of helpful information.",
+    "whatIsNext": "Ideally, Fresh Off The Plane would be implemented into the UT Dallas mobile app, with a user's NetID login and password to further personalize the information. We also had some stretch goals such as pulling more information about courses like professors and meeting times and adding in course maps to provide recommendations based on classes previously taken. We believe that the course recommendation piece could also be used internally at UT Dallas to determine new course sequences for students pursuing a specific professional outcome."
+  },
+  "builtWith": [
+    "android",
+    "api",
+    "azure",
+    "fastapi",
+    "flutter",
+    "java",
+    "kotlin",
+    "nebula",
+    "studio"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner ACM: Project Nebula Challenge"
+  ],
+  "team": [
+    {
+      "name": "Roman Hauksson",
+      "username": null,
+      "contribution": "Helped design and develop the front-end interface with Jacob. This was my first hackathon, first experience with Android development, and first time using Flutter!"
+    },
+    {
+      "name": "Jacob Dong",
+      "username": null,
+      "contribution": "I worked on the frontend (built the Homepage, Links, Insurance, Financial Literacy Learner, as well as the app button navigation). I also helped on the devpost as well as the powerpoint. Finally, I mentored Roman through his first hackathon :)"
+    },
+    {
+      "name": "Ryan Radloff",
+      "username": null,
+      "contribution": "I worked on creating the Postgres instance in Azure and assisted Raj with implementing the backend."
+    },
+    {
+      "name": "Shreyas Raj Singh",
+      "username": null,
+      "contribution": "Designed and Implemented the Backend API using FastAPI with Ryan, as well as wrote a Python Script to interact with Nebula API."
+    }
+  ],
+  "likesBy": [
+    "Daikie Angelo Moncion",
+    "Dhruvi Sonani",
+    "Ethan Conner",
+    "Trenton Ornelas",
+    "WillowArk Chin",
+    "Shreyas Raj Singh",
+    "Bryan Nguyen",
+    "Ryan Radloff",
+    "Jacob Dong"
+  ],
+  "updates": [
+    {
+      "author": "Jacob Dong",
+      "timestamp": "4 years ago",
+      "content": "Jacob Dong started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Jacob Dong",
+      "username": "jacobjdong",
+      "timestamp": "4 years ago",
+      "content": "I loved working on this project!"
+    },
+    {
+      "author": "Roman Hauksson",
+      "username": "RomanHN",
+      "timestamp": "4 years ago",
+      "content": "That was a great experience, and I look forward to attending more hackathons in the future!"
+    },
+    {
+      "author": "Trenton Ornelas",
+      "username": "trentonornelas",
+      "timestamp": "4 years ago",
+      "content": "Looks great! Can't wait to see more!"
+    },
+    {
+      "author": "WillowArk Chin",
+      "username": "WillowArk",
+      "timestamp": "4 years ago",
+      "content": "That's awesome!"
+    },
+    {
+      "author": "Shreyas Raj Singh",
+      "username": "ShreyasRajSingh",
+      "timestamp": "4 years ago",
+      "content": "I had a great time working on the project!!"
+    }
+  ]
+}

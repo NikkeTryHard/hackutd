@@ -1,0 +1,296 @@
+{
+  "hackathon_name": "HackUTD 2024: Ripple Effect",
+  "tagline": "Start a ripple, shape the future.",
+  "organizer": "hackutd",
+  "description": "Welcome to HackUTD: Ripple Effect, the 2nd largest 24-hour university hackathon in the US! This is a weekend-long event where you have 24 hours to build software, hardware, and more around a problem or idea. You can team up with people you have known forever or people you just met. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make. Join us for workshops taught by industry leaders, fun events/games, free food, and limited-edition swag items! And, most importantly, an extremely enriching learning experience.",
+  "event_details": {
+    "dates": "Nov 16 – 17, 2024",
+    "location": "ECSW @ UT Dallas",
+    "type": "Public",
+    "themes": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Social Good"
+    ],
+    "participant_count": 1036,
+    "total_prizes_value": "$120,810"
+  },
+  "participation_rules": {
+    "eligibility": {
+      "age": "Above legal age of majority in country of residence",
+      "audience": "College students only",
+      "geography": "All countries/territories, excluding standard exceptions",
+      "ineligible": "Directors, Organizers, Volunteers, Mentors, Sponsors, Vendors, and anyone affiliated with operations behind HackUTD are NOT eligible to submit a project."
+    },
+    "team_size": {
+      "max": 4,
+      "min": 1,
+      "note": "We encourage finding a full team as you can get a lot more done with 4 people! All Team members must be added to the Devpost submission in order to recieve prizes."
+    },
+    "governing_rules": [
+      "MLH rules",
+      "MLH Code of Conduct",
+      "UTD Code of Conduct"
+    ]
+  },
+  "schedule_and_deadlines": {
+    "hacking_period": "Starts noon on Saturday (11/16), ends noon on Sunday (11/17).",
+    "team_registration_deadline": "Saturday, November 16, 11:00 PM. Teams must be registered on Devpost. Submissions can be edited after this time.",
+    "project_submission_deadline": "Sunday, November 17, 12:00 PM (noon). This is a HARD stop. No edits can be made after this time."
+  },
+  "project_requirements": {
+    "what_to_build": "Build almost anything you want! To win prizes, build something that satisfies sponsor's challenge statements, which will be detailed in the hackerpack once hacking starts.",
+    "originality": "All projects must be started at HackUTD. Prior ideas are fine, but no pre-existing projects. No coding or building before noon on Saturday, but ideation is allowed.",
+    "ai_policy": "Any use of AI to write code will be investigated and are subject to disqualification. AI can aid the creation of your project but you cannot submit a fully AI-generated project.",
+    "code_and_libraries": {
+      "rule": "Public frameworks and libraries are allowed, but submitting only copied code will result in project disqualification.",
+      "crediting": "If you use public frameworks or libraries, you must credit them in the README.md file and clearly distinguish your contributions.",
+      "code_upload": "All code must be uploaded BEFORE the deadline and linked to Devpost. Project demos with a working product yet have no code uploaded will be disqualified."
+    },
+    "submission_platform": "Devpost",
+    "submission_content": [
+      "Project Title and Description",
+      "Code Repository or Zip",
+      "Challenges/Tracks you are submitting to",
+      "Demo Video (maximum of 2 minutes, should ONLY be a demo)"
+    ],
+    "submission_rules": {
+      "exclusivity": "Only submit to HackUTD — projects that submit to other hackathons will be disqualified.",
+      "one_project_per_hacker": "Each hacker is only allowed to be a part of and create one project during this hackathon.",
+      "challenge_limits": "You can only submit to a maximum of 2 sponsor challenge statements. You can submit to as many non-sponsor tracks as you want. Any challenge with [MLH] at the start does not count towards this limit."
+    }
+  },
+  "judging": {
+    "platform": "Jury",
+    "process": "Judging will be in-person, expo/science fair style. You will demo your project for 3-5 minutes to one or more judges, depending on how many tracks you applied to. You must be present at judging to qualify for a prize.",
+    "judges": "Some judges will be sponsors (for sponsor tracks). Others could be professors or hackathon veterans.",
+    "criteria": [
+      {
+        "name": "Innovation & Creativity",
+        "description": "How unique or original is the project idea? Does it present a new solution to a problem or use technology in an unexpected way? We will reward creative problem-solving, novel applications of technology, or fresh takes on common issues."
+      },
+      {
+        "name": "Technical Complexity",
+        "description": "How technically challenging is the project? Did the team push the boundaries with complex algorithms, integrations, or hardware? We will consider factors like code structure, technical depth, and ambitious implementations. For beginner hackathons, focus on skills learned rather than pure complexity."
+      },
+      {
+        "name": "Completeness",
+        "description": "Does the project work as intended? Are there any major bugs or broken features?"
+      },
+      {
+        "name": "Design",
+        "description": "How user-friendly and visually appealing is the project? Is the interface intuitive and easy to navigate? Your app should reflect that you put thought into accessibility, layout, visual design, and the intuitiveness of the user journey."
+      },
+      {
+        "name": "Impact",
+        "description": "Does the project address a real problem, and could it be used in a real-world context? How impactful could it be? More points if your project has potential beyond HackUTD. Solve a meaningful problem or have a clear target audience."
+      },
+      {
+        "name": "Presentation",
+        "description": "How well did the team communicate their project and its purpose? Did they clearly explain the problem, solution, and technical choices? Points are awarded for clarity, confidence, and storytelling. Bonus for engaging demos that effectively showcase the project’s functionality and value."
+      }
+    ]
+  },
+  "prizes": {
+    "general_note": "Each member of the winning teams will get a prize. To win, you must demo your project during judging and be present at the closing ceremony to accept your prize. In extenuating circumstances, prizes can be mailed.",
+    "categories": [
+      {
+        "sponsor": "PNC Bank",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "Nintendo Switch Bundles"},
+          {"place": "2nd", "prize": "Airpods"},
+          {"place": "3rd", "prize": "JBL speakers"}
+        ]
+      },
+      {
+        "sponsor": "Pinata",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "AirPods Max"},
+          {"place": "2nd", "prize": "Apple Watch Series 10"},
+          {"place": "3rd", "prize": "Apple HomePod Mini"}
+        ]
+      },
+      {
+        "sponsor": "EOG Resources",
+        "winners": 2,
+        "placements": [
+          {"place": "1st", "prize": "Nintendo Switch"},
+          {"place": "2nd", "prize": "Mechanical Keyboards"}
+        ]
+      },
+      {
+        "sponsor": "CBRE",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "$250 Amazon Gift Card"},
+          {"place": "2nd", "prize": "$150 Amazon Gift Card"},
+          {"place": "3rd", "prize": "$75 Amazon Gift Card"}
+        ]
+      },
+      {
+        "sponsor": "Infosys",
+        "winners": 1,
+        "placements": [
+          {"place": "1st", "prize": "Apple Airpods Pro 2 + Fast-Track consideration for Infosys InStep Summer Internship in Richardson, Texas (Internships valued at 8,000)"}
+        ]
+      },
+      {
+        "sponsor": "Goldman Sachs",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "Apple AirPod Max"},
+          {"place": "2nd", "prize": "Apple TV Device"},
+          {"place": "3rd", "prize": "Gift Card"}
+        ]
+      },
+      {
+        "sponsor": "Frontier",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "Apple TV + $100 Digital Gift Card"},
+          {"place": "2nd", "prize": "Apple TV"},
+          {"place": "3rd", "prize": "$50 Digital Gift Card"}
+        ]
+      },
+      {
+        "sponsor": "Toyota",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "$500 gift card"},
+          {"place": "2nd", "prize": "$300 gift card"},
+          {"place": "3rd", "prize": "$150 gift card"}
+        ]
+      },
+      {
+        "sponsor": "Samba Nova",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "$300 Amazon Gift Card"},
+          {"place": "2nd", "prize": "$200 Amazon Gift Card"},
+          {"place": "3rd", "prize": "$100 Amazon Gift Card"}
+        ]
+      },
+      {
+        "sponsor": "Veolia",
+        "winners": 2,
+        "placements": [
+          {"place": "1st", "prize": "Airpods Pros 2"},
+          {"place": "2nd", "prize": "EPOMAKER Ajazz AK820 Pro 75% Mechanical Keyboard"}
+        ]
+      },
+      {
+        "category": "Poyo's Prize",
+        "winners": 1,
+        "placements": [
+          {"place": "1st", "prize": "Macbook Air M2"}
+        ]
+      },
+      {
+        "category": "General",
+        "winners": 3,
+        "placements": [
+          {"place": "1st", "prize": "BenQ Programming Monitor"},
+          {"place": "2nd", "prize": "Oculus Quest 3"},
+          {"place": "3rd", "prize": "Ninja CREAMi"}
+        ]
+      },
+      {
+        "category": "Best Design",
+        "winners": 1,
+        "description": "Everyone loves a pretty interface, but apps and ideas are often created with little thinking in regards to their users. This track will be judged not only on how good your project submission looks from a UI perspective, but also on how much the design of the application showcases your thought behind the UX (user experience).",
+        "placements": [
+          {"place": "1st", "prize": "FujiFilm Instax Mini 11 Instant Camera"}
+        ]
+      },
+      {
+        "category": "Hardware",
+        "winners": 1,
+        "placements": [
+          {"place": "1st", "prize": "Anker Power Bank"}
+        ]
+      },
+      {
+        "category": "Best Beginner",
+        "winners": 1,
+        "placements": [
+          {"place": "1st", "prize": "Bambu Lab A1 mini 3D Printer"}
+        ]
+      },
+      {
+        "category": "[MLH] Best Use of Streamlit",
+        "winners": 1,
+        "description": "Want to take your Python skills to the next level? Streamlit(https://mlh.link/streamlit) is an open-source Python library that makes it easy to share and build custom web apps for machine learning, data science, and more. Instead of writing Python scripts without a UI, you can create a beautiful web app, complete with widgets and data visualizations, and deploy it for free to the Streamlit Community Cloud(https://hackp.ac/streamlit-deploy). You can even build a fully functional LLM-powered app with just 25 lines of code! Hack with Streamlit this weekend for your chance to win an Arduino Tiny ML Kit for you and each member of your team.",
+        "placements": [
+          {"place": "1st", "prize": "Arduino Tiny ML Kit"}
+        ]
+      },
+      {
+        "category": "[MLH] Best .Tech Domain Name",
+        "winners": 1,
+        "description": "Make your Team's Achievements timeless: Win a .Tech Domain Name for up to 10 years to Showcase and Expand Your Project, Plus 4 Blue Snowball Mics for Effortless Collaboration on Zoom, empowering you to build even more cool things together!",
+        "placements": [
+          {"place": "1st", "prize": "Blue Snowball Microphone & a Free .Tech Domain Name for up to 10 years!"}
+        ]
+      },
+      {
+        "category": "[MLH] Best AI Application Built with Cloudflare",
+        "winners": 1,
+        "description": "Cloudflare is one of the world’s largest networks enabling hackers like you to build, deploy, and deliver trusted applications, no matter where you are! With Cloudflare, you’ll have all the building blocks to create a full-stack application; from C3 (create Cloudflare command line) instance deployment to object storage. You can even run GenAI (LLMs, text to image, Voice to text etc..) in the cloud and leverage your AI functionality via API requests using Cloudlfare’s Workers AI! Enjoy Cloudflare’s generous free tier to get started at no cost! This weekend, we want you to build an AI Application utilizing Cloudflare’s numerous services for a chance to win Arduino Kits for you and your team!",
+        "placements": [
+          {"place": "1st", "prize": "Arduino Kit"}
+        ]
+      },
+      {
+        "category": "[MLH] Best Use of Terraform",
+        "winners": 1,
+        "description": "HashiCorp Terraform is a source available infrastructure as code (IaC) tool that makes building, deploying, and managing your projects even easier! Whether you’re working in the cloud or using local resources, Terraform can make managing and configuring your application simple and organized. From deploying Machine Learning models to spinning up virtual containers for your web applications, Terraform supports a wide array of cloud providers and services, taking the guesswork out of your next hackathon project. Dive into the documentation(https://mlh.link/terraform-docs) and discover all the ways Terraform can take the way you hack to the next level! Terraform’s community edition(https://mlh.link/hashicorp-signup) is free to use with no credit card required! Utilize Terraform in your hackathon project this weekend for a chance to win some awesome Hashicorp prizes for you and each of your teammates!",
+        "placements": [
+          {"place": "1st", "prize": "Keychron K8 Wireless Keyboard"}
+        ]
+      },
+      {
+        "category": "[MLH] Sauce Labs Hot Sauce Raffle",
+        "winners": 1,
+        "description": "Sauce Labs(https://mlh.link/saucelabs-docs) empowers you to develop, test, and deliver top-tier web and mobile apps quickly and efficiently. Their unified platform makes automated testing and error monitoring easy to do, enabling you to save time building your hackathon project! Let Sauce Labs help resolve any issues with your code so you can get back to building an award winning hack. Make sure your project is hackathon-tested by signing up for a Sauce Labs account! To spice things up even more, we're running the Sauce Labs Hot Sauce naming raffle and selecting up to 4 individual winners at this event. To qualify come up with a cool hot sauce name and submit it to the Sauce Labs raffle form(https://mlh.link/SauceRaffle) for a chance to win some awesome swag including a backpack, beanie, and a bottle of Sauce Labs hot sauce!",
+        "placements": [
+          {"place": "Winner", "prize": "Sauce Labs Swag Bag (Backpack, Beanie, bottle of hot sauce)"}
+        ],
+        "note": "You must be present at closing ceremony to win, or a new raffle winner will be chosen."
+      },
+      {
+        "category": "Guided Track",
+        "winners": 1,
+        "placements": [
+          {"place": "1st", "prize": "1 Year Subscription of NordVPN + NordPass"}
+        ]
+      },
+      {
+        "category": "Best Devpost",
+        "winners": 1,
+        "placements": [{"prize": "Not specified"}]
+      },
+      {
+        "category": "Most Relatable",
+        "winners": 1,
+        "placements": [{"prize": "Not specified"}]
+      },
+      {
+        "category": "Best Solo Hack",
+        "winners": 1,
+        "placements": [{"prize": "Not specified"}]
+      }
+    ]
+  },
+  "sponsors": {
+    "title": ["PNC Bank"],
+    "platinum": ["Pinata"],
+    "gold": ["Goldman Sachs", "EOG Resources", "CBRE", "Infosys"],
+    "silver": ["Frontier", "Toyota Financial Services", "Samba Nova", "Veolia"],
+    "bronze": ["Statefarm", "NordVPN", "BenQ"]
+  },
+  "contact": {
+    "email": "Email the hackathon manager (email not provided on page)"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "website": {
+    "brand": "Devpost",
+    "header": {
+      "navigation": [
+        "Join a hackathon",
+        "Host a hackathon",
+        "Resources"
+      ],
+      "userActions": [
+        "Log in",
+        "Sign up"
+      ]
+    },
+    "hackathon": {
+      "name": "HackUTD VII",
+      "navigation": [
+        "Overview",
+        "My projects",
+        "Participants (336)",
+        "Rules",
+        "Project gallery",
+        "Updates",
+        "Discussions"
+      ],
+      "overview": {
+        "title": "HackUTD VII",
+        "subtitle": "The 7th iteration of HackUTD!",
+        "status": "This hackathon has ended",
+        "actions": [
+          "Find more hackathons",
+          "View the winners"
+        ],
+        "links": [
+          "View full rules",
+          "View schedule"
+        ],
+        "summary": {
+          "dates": "Feb 26 – 28, 2021",
+          "location": "Online",
+          "audience": "Public",
+          "prizesTotal": "$0 in prizes",
+          "participantCount": 336
+        },
+        "tags": [
+          "hackutd",
+          "Education",
+          "E-commerce/Retail",
+          "Social Good"
+        ],
+        "tagline": "Hack the VII Seas!",
+        "description": "Let your ideas run wild and join us for 24 hours of building, breaking, and testing apps and hardware at HackUTD! Whether you're a seasoned hacker or just getting started, we'd love to see where your creativity takes you."
+      },
+      "rules": {
+        "eligibility": [
+          "Directors, Organizers, Volunteers, Mentors, Sponsors, Vendors, and anyone affiliated with operations behind HackUTD are NOT eligible to submit a project.",
+          "All projects must be started at HackUTD. Prior ideas are fine, but no pre-existing projects.",
+          "Maximum Team Size of 4 for prizes",
+          "All Team members must be added to the Devpost submission",
+          "Must be submitted before 11am on Feb 28th"
+        ],
+        "requirements": [
+          "Every Sponsor prize a hacker wants to be judged on must be tagged in the devpost submission."
+        ],
+        "codeOfConduct": "We follow the MLH rules and Code of Conduct"
+      },
+      "prizes": {
+        "summary": "11 non-cash prizes",
+        "categories": [
+          {
+            "name": "General Hackathon",
+            "winnerCount": 3,
+            "items": [
+              { "rank": 1, "description": "Frameless 1440p 144Hz 1ms IPS Gaming monitor" },
+              { "rank": 2, "description": "Sony WH-1000XM3 Noise Cancelling Headphones" },
+              { "rank": 3, "description": "Polaroid Camera" }
+            ]
+          },
+          {
+            "name": "MLH Best Domain Registered",
+            "winnerCount": 2,
+            "items": [
+              { "description": "PowerSquare Qi Wireless Phone Charger & Domain.com Backpack" }
+            ]
+          },
+          {
+            "name": "MLH Best use of Google Cloud",
+            "winnerCount": 2,
+            "items": [
+              { "description": "Google Branded Parkland Academy Backpack" },
+              { "description": "Google Cloud Swag Bag or Backpack" }
+            ]
+          },
+          {
+            "name": "MLH Best Hardware Hack Sponsored by Digi-Key",
+            "winnerCount": 2,
+            "items": [
+              { "description": "Grove Beginner Kit" }
+            ]
+          },
+          {
+            "name": "MLH Best Use of CockroachDB",
+            "winnerCount": 1,
+            "items": [
+              { "description": "3D printing pen" }
+            ]
+          },
+          {
+            "name": "Statefarm",
+            "winnerCount": 3,
+            "items": [
+              { "rank": 1, "description": "Oculus Quest" },
+              { "rank": 2, "description": "Nintendo Switch Lite" },
+              { "rank": 3, "description": "Raspberry Pi 4" }
+            ]
+          },
+          {
+            "name": "eBay",
+            "winnerCount": 3,
+            "note": "3 Categories",
+            "items": [
+              { "description": "$200 eBay gift card for each winning member" }
+            ]
+          },
+          {
+            "name": "UTD Student Government Challenge",
+            "winnerCount": 2,
+            "eligibility": "Only UTD Participants can participate",
+            "items": [
+              { "rank": 1, "description": "Nintendo Switch(the acutal one with joycons)" },
+              { "rank": 2, "description": "Megaboom 3 Speaker" }
+            ]
+          },
+          {
+            "name": "UTD Office of Sustainability",
+            "winnerCount": 2,
+            "eligibility": "Only UTD Participants can participate",
+            "items": [
+              { "rank": 1, "description": "Ipad Eight Gen + Apple Pen" },
+              { "rank": 2, "description": "Solar Power Charger" }
+            ]
+          },
+          {
+            "name": "Capital One: Best Financial Hack",
+            "winnerCount": 1,
+            "items": [
+              { "description": "$250 for each member of the winning team" }
+            ]
+          },
+          {
+            "name": "SignaPay",
+            "winnerCount": 1,
+            "items": [
+              { "description": "Shortlist for internship interviews and networking opportunities" }
+            ]
+          }
+        ]
+      },
+      "judges": [
+        { "name": "Chander Dhall", "title": "CEO of Cazton" },
+        { "name": "Rajesh Nagarajan", "title": "VP of IT at The Mosaic Company" },
+        { "name": "Arjun Degul", "title": "CTO of Capital One" },
+        { "name": "Spencer Whitney", "title": "Technology Director at Statefarm" },
+        { "name": "Sanyam Satia", "title": "Tech lead for the Data Infrastructure team at Robinhood" },
+        { "name": "Jorge Hinojosa", "title": "Software Engineer at Match.com" },
+        { "name": "Vu Nguyen", "title": "Software Engineer at Match.com" },
+        { "name": "John Cole", "title": "CS Professor at UTD" },
+        { "name": "Gopal Gupta", "title": "CS Professor at UTD" },
+        { "name": "Chida Anjum", "title": "CS Professor at UTD" },
+        { "name": "Chung Hwan Kim", "title": "CS Professor at UTD" },
+        { "name": "Klyne Smith", "title": "CS Professor at UTD" },
+        { "name": "Maria Dunning", "title": "Former Director of HackUTD" },
+        { "name": "Shareem Bahadur", "title": null },
+        { "name": "Sid Devic", "title": null },
+        { "name": "Eduardo Herida", "title": null },
+        { "name": "Hasini Sunderasan", "title": null },
+        { "name": "Sumyia Islam", "title": null },
+        { "name": "Rupika Dikkala", "title": null },
+        { "name": "Shreyans Khunteta", "title": null },
+        { "name": "Eduardo Robles", "title": null },
+        { "name": "Maggie Tija", "title": null },
+        { "name": "Valerie Marks", "title": null },
+        { "name": "Arleigh Atkinson", "title": null },
+        { "name": "Sonia Camacho", "title": null },
+        { "name": "Chelsea Anlin Li", "title": null },
+        { "name": "Nikita Vasilev", "title": null }
+      ],
+      "judgingCriteria": {
+        "icon": "Gavel",
+        "description": "For general judging, present your project to the judge for 3-5 minutes about your app, how you built it, your challenges, and a demo"
+      },
+      "contact": "Questions? Email the hackathon manager",
+      "sponsors": [
+        "Statefarm",
+        "Match.com",
+        "Capital One",
+        "SignaPay",
+        "eBay"
+      ],
+      "legalNotice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+    },
+    "similarHackathons": {
+      "title": "Similar hackathons",
+      "items": [
+        {
+          "name": "MiSpace Hackathon 2025",
+          "timeLeft": "10 days left",
+          "location": "Online",
+          "prizes": "$30,000 in prizes",
+          "participants": 87
+        },
+        {
+          "name": "DevIgnite",
+          "timeLeft": "10 days left",
+          "location": "Online",
+          "prizes": "$0 in prizes",
+          "participants": 298
+        }
+      ]
+    },
+    "footer": {
+      "brand": "Devpost",
+      "sections": [
+        {
+          "title": "About",
+          "links": ["Careers", "Contact", "Help"]
+        },
+        {
+          "title": "Hackathons",
+          "links": ["Browse hackathons", "Explore projects", "Host a hackathon", "Hackathon guides"]
+        },
+        {
+          "title": "Portfolio",
+          "links": ["Your projects", "Your hackathons", "Settings"]
+        }
+      ],
+      "connect": {
+        "title": "Connect",
+        "platforms": ["Twitter", "Discord", "Facebook", "LinkedIn"]
+      },
+      "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+      "legalLinks": [
+        "Community guidelines",
+        "Security",
+        "CA notice",
+        "Privacy policy",
+        "Terms of service"
+      ]
+    }
+  }
+}

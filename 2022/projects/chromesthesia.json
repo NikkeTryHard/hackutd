@@ -1,0 +1,88 @@
+{
+  "projectName": "Chromesthesia",
+  "tagline": "A real-time audio visualizer app for music.",
+  "hackathon": "HackUTD IX",
+  "likes": 6,
+  "commentsCount": 4,
+  "story": {
+    "inspiration": "We were inspired by the music visualizations on various streaming platforms and would like to make a web app for users to better experience music and express themselves through a mix of senses.",
+    "whatItDoes": "Users may select songs, view statistics, and see visualizations of the songs.",
+    "howWeBuiltIt": "TypeScript, React, Next.js, Node.js, Auth0.",
+    "challengesWeRanInto": "Due to copyright limitations, Spotify API only provides a 30-second preview mp3, making it difficult to analyze the music and generate the visualizations on the fly.\nThe authentication feature was challenging to set up as many different services were involved.",
+    "accomplishmentsWeAreProudOf": "Designed and implemented a user-friendly interface.\nConnected Spotify with Auth0 to allow possible future integrations.",
+    "whatWeLearned": "How a website authenticates a user.\nVisual rendering in browser.",
+    "whatIsNext": "Further integration and customization options with streaming platforms like Apple Music, Spotify, and YouTube Music.\nGenerate music visualization dynamically using Three.js.\nAllow users to share songs and visualizations with friends."
+  },
+  "builtWith": [
+    "auth0",
+    "react",
+    "spotify"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Best Domain Name from Domain.com [MLH]"
+  ],
+  "team": [
+    {
+      "name": "Private user",
+      "username": "Private user",
+      "contribution": null
+    },
+    {
+      "name": "Jane Wang",
+      "username": "Jane Wang",
+      "contribution": null
+    },
+    {
+      "name": "Alfredo Gutierrez",
+      "username": "Alfredo Gutierrez",
+      "contribution": null
+    },
+    {
+      "name": "Gabriel Lira",
+      "username": "Gabriel Lira",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Xavier Moreno",
+    "Joshua Chong",
+    "Trinh Le",
+    "Hoai Dinh",
+    "Long Nguyen",
+    "Ryan Johnson"
+  ],
+  "updates": [
+    {
+      "author": "Private user",
+      "timestamp": "3 years ago",
+      "content": "Private user started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Pranav Balu",
+      "username": "My-Name-Ae-Jeffv1",
+      "timestamp": "3 years ago",
+      "content": "i want it"
+    },
+    {
+      "author": "Pranav Balu",
+      "username": "My-Name-Ae-Jeffv1",
+      "timestamp": "3 years ago",
+      "content": "deploy it please"
+    },
+    {
+      "author": "Private user",
+      "username": "Private user",
+      "timestamp": "3 years ago",
+      "content": "Hi! Thanks for your interest ❤️ It's currently still a bit rough on the edges, but I'll let you know asap when it's public!"
+    },
+    {
+      "author": "Private user",
+      "username": "Private user",
+      "timestamp": "3 years ago",
+      "content": "In the mean time, the GitHub repository is currently public at least via https://github.com/neoncitylights/hackUTD-project"
+    }
+  ]
+}

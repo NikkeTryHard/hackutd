@@ -1,0 +1,257 @@
+{
+  "website": {
+    "title": "Axxess Hackathon",
+    "header": {
+      "navigation": [
+        {
+          "text": "About",
+          "link": "#about"
+        },
+        {
+          "text": "Schedule",
+          "link": "#schedule"
+        },
+        {
+          "text": "FAQs",
+          "link": "#faqs"
+        }
+      ]
+    },
+    "heroSection": {
+      "title": "axxess hackathon",
+      "date": "February 22, 2025",
+      "location": "University of Texas at Dallas",
+      "countdown": {
+        "days": {
+          "value": 106,
+          "label": "Days"
+        },
+        "hours": {
+          "value": 3,
+          "label": "Hours"
+        },
+        "minutes": {
+          "value": 58,
+          "label": "Minutes"
+        },
+        "seconds": {
+          "value": 42,
+          "label": "Seconds"
+        }
+      },
+      "callToAction": {
+        "text": "Watch Video",
+        "type": "button"
+      }
+    },
+    "aboutAxxessSection": {
+      "title": "About Axxess",
+      "content": "Axxess is the leading technology innovator for healthcare at home, providing solutions that help improve care for more than 3 million patients worldwide. Trusted by more than 9,000 organizations, Axxess offers a complete suite of easy-to-use software solutions that empower home health, home care and hospice providers to grow their business while making lives better. The company's collaborative culture focused on innovation and excellence is recognized nationally as a “Best Place to Work.”",
+      "callToAction": {
+        "text": "Learn More",
+        "type": "button"
+      }
+    },
+    "scheduleSection": {
+      "title": "Schedule",
+      "days": [
+        {
+          "day": "Day 1",
+          "date": "Saturday, February 22",
+          "events": [
+            {
+              "time": "8:30 a.m. - 9:00 a.m.",
+              "title": "Lines Forms for Registration",
+              "description": "Space is limited. First come first serve.",
+              "location": "Outside of 1.100"
+            },
+            {
+              "time": "9:00 a.m. - 10:45 a.m.",
+              "title": "Company Expo",
+              "description": null,
+              "location": "ECSW 1.100"
+            },
+            {
+              "time": "9:00 a.m. - 11:00 a.m.",
+              "title": "Doors Open",
+              "description": "Hacker Check In",
+              "location": "ECSW 1.100"
+            },
+            {
+              "time": "10:00 a.m. - 11:00 a.m.",
+              "title": "Walk in Registration",
+              "description": null,
+              "location": "ECSW 1.100"
+            },
+            {
+              "time": "11:00 a.m. - 12:00 a.m.",
+              "title": "Opening Ceremony",
+              "description": null,
+              "location": "ECSW 1.315"
+            },
+            {
+              "time": "12:00 p.m.",
+              "title": "Hacking Begins!",
+              "description": null,
+              "location": null
+            },
+            {
+              "time": "12:00 p.m. - 1:00 p.m.",
+              "title": "Lunch",
+              "description": null,
+              "location": "ECSW 1.100"
+            },
+            {
+              "time": "12:00 p.m. - 8:00 p.m.",
+              "title": "Project Mentorship",
+              "description": null,
+              "location": "ECSW 1.315"
+            },
+            {
+              "time": "1:00 p.m. - 1:45 p.m.",
+              "title": "Workshop: Information Security and AI",
+              "description": "Danielle Riley, Axxess IT Operations Manager",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "2:00 p.m. - 4:00 p.m.",
+              "title": "Career Q&A Open Hour",
+              "description": null,
+              "location": "ECSW 1.365"
+            },
+            {
+              "time": "3:00 p.m. - 3:45 p.m.",
+              "title": "Workshop: Quality Assurance & Automation",
+              "description": "Sharada Kondavetti, Axxess Director of Quality Assurance",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "7:00 p.m. - 8:00 p.m.",
+              "title": "Dinner",
+              "description": null,
+              "location": "ECSW 1.100"
+            },
+            {
+              "time": "7:00 p.m. - 8:30 p.m.",
+              "title": "Magical & Mind-Bending Entertainment",
+              "description": "Walk Around Magic in the Atrium during dinner and a seated Performance",
+              "location": "ECSW 1.100 & ECSW 1.315"
+            },
+            {
+              "time": "9:00 p.m.",
+              "title": "Sweet Treats",
+              "description": null,
+              "location": "ECSW 1.100"
+            },
+            {
+              "time": "10:00 p.m.",
+              "title": "Quiet Hours",
+              "description": null,
+              "location": null
+            }
+          ]
+        },
+        {
+          "day": "Day 2",
+          "date": "Sunday, February 23",
+          "events": []
+        }
+      ]
+    },
+    "registrationCallToAction": {
+      "text": "Register Now",
+      "type": "button"
+    },
+    "faqSection": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "About or What is the Axxess Hackathon?",
+          "answer": "The Axxess Hackathon is a 30-hour weekend event focusing on Healthcare Innovation. This event encourages students to be innovative and think creatively through multiple challenges. Student attendees form teams of up to four members and work on a select challenge. Students are encouraged to build apps, propose new technology approaches and more. Students at all levels and all majors are welcomed and encouraged to attend. The world is run by cross disciplinary teams and students from different backgrounds can find great success through collaboration."
+        },
+        {
+          "question": "What's the Purpose?",
+          "answer": "Support student experiential learning focusing on Healthcare Innovation. Students will develop CS and non-CS student skills through hacking challenges. It is great practice to work in teams to tackle a problem at this event, as you would as a full-time employee after graduation. Students also have the opportunity to network with company contacts, learn through workshops and showcase their ideas developed throughout the event."
+        },
+        {
+          "question": "Why attend the Axxess Hackathon?",
+          "answer": "The Axxess Hackathon is an opportunity to learn more about the Healthcare Industry and dive into ideas to improve the delivery, data capture, or efficiency of care. Everyone is impacted by our health. The vast healthcare industry is an aggregation and integration of sectors within the economic system that provides goods and services to treat patients with curative, preventive, rehabilitative, and palliative care."
+        },
+        {
+          "question": "Who can attend?",
+          "answer": "Anyone can sign up to participate as a hacker at the Axxess Hackathon. While most Hackathon participants tend to be computer science majors, we welcome students from other majors to join us."
+        },
+        {
+          "question": "When and where is the Axxess Hackathon?",
+          "answer": "The 2025 Axxess Hackathon is Saturday, February 22, to Sunday, February 23. The in person event takes place in the Engineering and Computer Science West (ECSW) building at the University of Texas at Dallas. Check in and meals will be on the first floor in the Axxess Atrium."
+        },
+        {
+          "question": "Do I need to have coding experience?",
+          "answer": "No. The Axxess Hackathon is open to all majors and experience levels and would be the perfect place to work on your first project. Mentors and training workshops are available to support beginners. In addition to coding, teams will thrive with creativity and innovative ideas from students of all backgrounds."
+        },
+        {
+          "question": "How do I register?",
+          "answer": "Hacker and mentor registration is now open! Please refer to the registration links at the top of the page."
+        },
+        {
+          "question": "Can I participate if I do not attend UT Dallas?",
+          "answer": "Yes! All university students are welcome. Please refer to the registration links at the top of the page."
+        },
+        {
+          "question": "Can I participate if I am in high school?",
+          "answer": "Unfortunately, we are not able to accommodate anyone below the age of 18."
+        },
+        {
+          "question": "Can I work on my project before the hackathon?",
+          "answer": "All projects must begin at the Axxess Hackathon, but you are welcome to consider project ideas prior to the day of the event. Projects can range from solving personal, social, or business challenges through new, altered and innovative technologies."
+        },
+        {
+          "question": "Does it cost money to participate?",
+          "answer": "The Axxess Hackathon is free! The hacker experience includes food, drinks, snacks, and event swag, which will be handed out to attendees during the event."
+        },
+        {
+          "question": "How do teams work at the Axxess Hackathon?",
+          "answer": "Teams at the Axxess Hackathon can have up to four members. If you do not have a team, you can either work individually or form teams the day of the hackathon by meeting fellow hackers on the Discord or during team building events."
+        },
+        {
+          "question": "When does registration close?",
+          "answer": "Registration is now closed."
+        },
+        {
+          "question": "Will hardware be available?",
+          "answer": "The Axxess Hackathon will not be providing hardware, but we encourage you to use online hardware simulators."
+        },
+        {
+          "question": "What are the meal options offered?",
+          "answer": "We will provide lunch and dinner on Saturday and Breakfast and lunch on Sunday. We are planning for over 60% vegetarian meals."
+        },
+        {
+          "question": "Can I sleep at the Axxess Hackathon?",
+          "answer": "You are welcome to sleep at the Axxess Hackathon. The event will take place throughout the Engineering West Building. If you plan to stay overnight, bring all your necessities including pillows, blankets, and chargers."
+        }
+      ]
+    },
+    "footer": {
+      "title": "axxess hackathon",
+      "navigation": [
+        {
+          "text": "About",
+          "link": "#about"
+        },
+        {
+          "text": "Schedule",
+          "link": "#schedule"
+        },
+        {
+          "text": "FAQs",
+          "link": "#faqs"
+        }
+      ],
+      "legal": {
+        "copyright": "Copyright © 2025 Axxess",
+        "rights": "All Rights Reserved",
+        "privacyPolicy": "Privacy Policy"
+      }
+    }
+  }
+}

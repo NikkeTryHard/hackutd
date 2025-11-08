@@ -1,0 +1,78 @@
+{
+  "projectName": "Service2You",
+  "tagline": "Helping Texans help Texans",
+  "hackathon": "HackUTD VII",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "During this recent winter storm, we saw pipes burst, ceilings cave in, and many other things. Our goal is to connect homeowners in need with the people who can help them in numerous fields. We wanted to create a service that allows those looking for help to reach out to multiple people at the same time, removing the need to call many numbers to get the job done.",
+    "whatItDoes": "Our website allows those in need to connect with those who can help. We connect customers to plumbers, electricians, roofers, landscapers, gardeners, and carpenters to provide the most conclusive service. Those in need can fill out a form to get their necessary services, and those who can provide the service fill out a form as well to join our database of helpers. After a customer in need fills out the form, servicers will receive the information given that their service abilities match the necessary requirements. For example, if a customer needs plumbing service, the servicers who provide the plumbing service will receive the information. Servicers are then able to reach out to customers through the contact info. If you are a customer and do not hear from a servicer, click on \"view map\" to find servicers in your area to help you out. Their service and contact info have been provided for you to reach out to them. We use Google Oauth to track our customers and servicers information to provide the best services and to keep relevant parties accountable.",
+    "howWeBuiltIt": "We utilized HTML, PHP, and JavaScript to build our site. We concurrently developed the CockroachDB node cluster and configured it to our needs. ",
+    "challengesWeRanInto": {
+      "cockroachDBConnection": {
+        "title": "Secure CockroachDB Connection",
+        "description": "We weren't able to get the proper certificates to securely connect to the cockroach cloud, so in the end we wound up hosting a local cluster."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "flexibility": {
+        "title": "Flexible Web App Design",
+        "description": "Our web app is entirely flexible, so it can be viewed flawlessly on any device."
+      },
+      "systemIntegration": {
+        "title": "Tying Together Complex Systems",
+        "description": "We were able to tie together multiple complex systems to deliver this final product."
+      }
+    },
+    "whatWeLearned": "We learned many different languages like SQL and PHP, and we also learned how to interface with CockroachDB clusters. We also learned more about how to organize our project for collaboration and future improvement.",
+    "whatIsNext": "Our ultimate goal is to provide a seamless interface for the user to be matched with the best service provider based upon both the user's and the provider's availability."
+  },
+  "builtWith": [
+    "css",
+    "gimp",
+    "google-gmail-oauth",
+    "html",
+    "javascript",
+    "php"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "rdchan.github.io",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Statefarm"
+  ],
+  "team": [
+    {
+      "name": "rdchan Chandna",
+      "username": "rdchan Chandna",
+      "contribution": "I started with the design and implementation of our website's front end. It was my first time using Bootstrap and I really enjoyed picking up some more modern web skills. I also worked on hosting the website and database on a laptop running Linux, Apache, SQL, CockroachDB, and PHP"
+    },
+    {
+      "name": "Ashwin Somasundaram",
+      "username": "Ashwin Somasundaram",
+      "contribution": "I worked on passing information from our website to our database, by linking up Cockroachdb cloud server with the PHP forms created. This was my firsrt time developing code in PHP and using Cockroachdb, but it was an enriching experience."
+    },
+    {
+      "name": "hansika sundaresan",
+      "username": "hansika sundaresan",
+      "contribution": "I worked on the form for the website, the google sign-in oauth, and the faq section"
+    },
+    {
+      "name": "Jonathan Yu",
+      "username": "Jonathan Yu",
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Jonathan Yu",
+      "timestamp": "5 years ago",
+      "content": "Jonathan Yu started this project"
+    }
+  ],
+  "comments": []
+}

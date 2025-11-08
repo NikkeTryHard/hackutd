@@ -1,0 +1,70 @@
+{
+  "projectName": "AR-Bay",
+  "tagline": "Make selling fun again.",
+  "hackathon": "HackUTD VII",
+  "likes": 5,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "Selling something has become a painstakingly long task - from transferring photos to finding the right price, the idea of doing all that puts off new sellers from eBay. That is, until AR-Bay.",
+    "whatItDoes": "AR-Bay allows users to simply walk around their house, and tap on the items they feel they need to get sell, and instantly get an estimated valuation through the eBay APIs and ML Object Classification in 3D AR Space and automatically list all the items in eBay with their pictures when they are done.",
+    "howWeBuiltIt": "Built using the eBay API, Apple's ARKit, the power of Google Cloud Compute, Google Cloud Vision APIs, and more.",
+    "challengesWeRanInto": {
+      "apiInteraction": {
+        "title": "API Interaction and Cohesion",
+        "description": "Interacting between the multiple APIs to create a cohesive user experience all in AR was the hardest part. Time constraints were a huge issue as well."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "firstIOSProject": {
+        "title": "First iOS Project using Swift",
+        "description": "Had never used Swift before, and am fairly happy about the outcome as a first-time ios project."
+      }
+    }
+  },
+  "builtWith": [
+    "ebay",
+    "google-cloud",
+    "java",
+    "python",
+    "swift"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner General Hackathon",
+    "Winner eBay"
+  ],
+  "team": [
+    {
+      "name": "Gagan Bhat",
+      "username": "Gagan Bhat",
+      "contribution": "I designed, developed, and tested my AR solution that uses eBay's API suite and Google Cloud Vision/Compute."
+    }
+  ],
+  "likesBy": [
+    "Anjelica Avorque",
+    "Tejas Bogguram Vasudev",
+    "Vishwashri Sairam",
+    "Asad Kazani",
+    "Armaan Desai"
+  ],
+  "updates": [
+    {
+      "author": "Gagan Bhat",
+      "timestamp": "5 years ago",
+      "content": "Gagan Bhat started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Tejas Bogguram Vasudev",
+      "username": "tejasbv2001",
+      "timestamp": "5 years ago",
+      "content": "Best project in the entire Hackathon, you should have gotten first place. Would love to see you make more projects!"
+    }
+  ]
+}

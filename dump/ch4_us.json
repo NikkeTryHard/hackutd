@@ -1,0 +1,73 @@
+{
+  "projectName": "ch4 us",
+  "tagline": "Leak detection and origin modeling software for the 21st century. ch4 us—conserving habitats, for us.",
+  "hackathon": "HackUTD X",
+  "likes": 3,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired by the recent trend towards creating more environmentally sustainable business practices. Although technology is progressing, our environment is slowly deteriorating. It is becoming more and more essential to find a harmony between technology and sustainability, and we want to be part of the solution!",
+    "whatItDoes": "Our product, ch4 us, does many things. We are able to show a chart that showcases the change in methane concentration for a given sensor throughout the day. It shows predicted values, actual values, and an acceptable range for the values to be in. Anything out of this range is considered a critical value. Additionally, we have a map that demonstrates the dispersion of the methane gas, given wind speed. This allows us to identify which sensors fall in this range and what the concentration should be if there is a leakage. Finally, we have a reporting feature that lets employees pinpoint areas of concern. This is accessible to other employees and allows for there to be a clear visual of potential hazards.",
+    "howWeBuiltIt": "We built our solution through hard work, persistence, and learning. We were able to build the chart by using Javascript and the JS charting framework. We took in a CSV file, filled it with the expected and actual values, and coded an algorithm to plot them on the chart. We also used standard deviation to calculate the acceptable range of methane concentration. For reporting, we provided the user with a key that matched the location of the equipment to a point on the map. The user is then able to plot this point themselves and see it appear on the map in real-time. The user can plot as many points as desired. Finally, we used the Gaussian Plume Model to display the concentration of methane after being dispersed a certain distance. We used linear regression to find the expected change in sensor readings given the change in weather conditions. We modeled our data on a map.",
+    "challengesWeRanInto": "We struggled with modeling the Gaussian Plume model. None of us are Mechanical Engineering majors, so we had to spend time learning how the model worked. Also, none of us had worked with JavaScript, only one had worked with HTML, and only one had worked with Python. So for all of us, coding this solution involved learning at least one new language.",
+    "accomplishmentsWeAreProudOf": "We are extremely proud of our finished product. We got the Gaussian Plume model to work, we were able to display our chart using the data found via analytics, and our website is also interactive!",
+    "whatWeLearned": "For starters, we all learned how a Gaussian Plume Model works. We were also able to learn different data visualization tools and how to do web development. Not only that, we gained valuable experience in thinking under pressure and working quickly.",
+    "whatIsNext": "We have many plans that we would love to implement in the future! For the chart, we want to add a drop-down table to switch between all the sensors. Moreover, for the map, we would like to dynamically update the dispersion trail. For reporting, we would like to have the user just enter the location (not the coordinate) and have it plot the point. We have many exciting plans for the future, and we can't wait to see what's next!"
+  },
+  "builtWith": [
+    "javascript",
+    "pandas",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "ch4us.co",
+      "url": "http://ch4us.co"
+    },
+    {
+      "label": "www.canva.com",
+      "url": "http://www.canva.com"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner EOG Resources"
+  ],
+  "team": [
+    {
+      "name": "Z. Caleb Hernandez",
+      "username": null,
+      "contribution": "Much of my contribution was to the front end. I pulled together the data analysis done by my team members and organized it on the website. I also incorporated the manual leak reporting tool.\n\nI worked with Reiki Hingorani to find the right values to use for the Gaussian Plume Model that would fit our given data.\n\nI also worked on the marketing and presentation of our product, including editing the marketing video that can be found on our slideshow presentation."
+    },
+    {
+      "name": "Michael Hellman",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Reiki Hingorani",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Kanchan Javalkar",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Reiki Hingorani",
+    "Z. Caleb Hernandez",
+    "Michael Hellman"
+  ],
+  "updates": [
+    {
+      "author": "Michael Hellman",
+      "timestamp": "2 years ago",
+      "content": "Michael Hellman started this project"
+    }
+  ],
+  "comments": []
+}

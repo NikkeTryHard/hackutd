@@ -1,0 +1,90 @@
+{
+  "projectName": "Recover Together",
+  "tagline": "Has a storm or other natural disaster made it impossible to access the necessities? This web application can direct you to the important resources you need.",
+  "hackathon": "HackUTD VII",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "A few weeks ago, a massive winter storm hit Texas. The storm damaged the state's power grid and subsequently deprived many Texans of power, water, and other necessities. This app was created with the intent to streamline the recovery process for these types of disasters.",
+    "whatItDoes": "Our web application provides users with the ability to search for supply centers for power, water, and other necessities using a map derived from Google Maps. Suppliers can also add their own supply centers to the map so that other users can see them. To prevent abuse, authentication is required to access these features.",
+    "howWeBuiltIt": "At the beginning of the hacking period, we split into 2 groups to work on the front-end and the back-end respectively. We used Google Cloud extensively. On the front-end, we used React along with the Google Maps API to create an easy to use UI. We used a Mongo Database with Express on the back-end to store information about user credentials and supply centers. We leveraged Firebase to incorporate authentication for our users who wish to create events. We later reconvened to focus more on the front-end and styling. We lastly deployed our solution using Google Cloud Compute Engine and associated with a domain.",
+    "challengesWeRanInto": {
+      "lackOfKnowledge": {
+        "title": "Lack of Back-End and UI Knowledge",
+        "description": "Going into the development of the web application, we collectively had little working knowledge with back-end development and UIs in general."
+      },
+      "mapBuilding": {
+        "title": "Building the Map",
+        "description": "Building the map, in general, was also difficult."
+      },
+      "scopeManagement": {
+        "title": "Determining Viable Functionality",
+        "description": "In addition, determining what functionality we could viably add to the application within the time period was a bit challenging, as we had some ambitious ideas that we could unfortunately not implement."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "fullStackSolution": {
+        "title": "Working Full-Stack Solution",
+        "description": "We are particularly proud of the fact that we were able to create a working full-stack solution under a 24 hour period, as there is a lot of moving parts in such a project. Knowledge of web development among our group varied from little to none, so we think it's even more impressive that we were able to work with React and APIs as well as we did."
+      }
+    },
+    "whatWeLearned": "For most of us, this was the first full-stack solution that we worked on. Because of this, we learned a lot regarding not only the front-end and the back-end, but also how to develop these components in tandem. In specific, we learned a lot concerning APIs, React, and databases.",
+    "whatIsNext": "In the future, we hope to add the ability for users to donate to suppliers. We also want to add custom icons to the map pertaining to the types of resources corresponding supply centers provided. It also may be beneficial to add more types of search options to our map interface so users can find all supply centers by a certain organization for instance."
+  },
+  "builtWith": [
+    "express.js",
+    "google-cloud",
+    "google-maps",
+    "javascript",
+    "mongodb",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo 1",
+      "url": null
+    },
+    {
+      "label": "GitHub Repo 2",
+      "url": null
+    },
+    {
+      "label": "recovertogether.tech",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH Best use of Google Cloud"
+  ],
+  "team": [
+    {
+      "name": "Joseph Barsis",
+      "username": "Joseph Barsis",
+      "contribution": "I worked on the Maps UI and the implementation of Google Maps APIs. This involved creating the display and info windows from data pulled from the backend."
+    },
+    {
+      "name": "Private user",
+      "username": "Private user",
+      "contribution": "I started with building and styling the frontend using React plus Material UI. I also learned a lot about Google Cloud through this project. I spent a while integrating the frontend, backend, and Maps API. Then, I spent the remainder of my time working with Firebase for authentication, and finally, I deployed our project using the Cloud Compute Engine."
+    },
+    {
+      "name": "Varin Sikand",
+      "username": "Varin Sikand",
+      "contribution": "I fully developed the backend, utilizing MongoDB, Node, and Express to store all nearby events and transmit that data through custom APIs. This was the first time developing a backend that was then deployed, but I also learned a lot about React and front-end development towards the latter half."
+    },
+    {
+      "name": "Ryan Aspenleiter",
+      "username": "Ryan Aspenleiter",
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Ryan Aspenleiter",
+      "timestamp": "5 years ago",
+      "content": "Ryan Aspenleiter started this project"
+    }
+  ],
+  "comments": []
+}

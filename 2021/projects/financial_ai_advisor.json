@@ -1,0 +1,79 @@
+{
+  "projectName": "Financial AI Advisor",
+  "tagline": "Have you ever felt lost on whether or not to invest in a stock? The Financial AI Advisor lets you know where to put your money!",
+  "hackathon": "HackUTD VIII",
+  "likes": 5,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "The stock market and investing has always been hard to get into because of the vast knowledge needed to make smart financial decisions. Our interests in the world of artificial intelligence and our desire to be a part of the investment world has propelled us to build a service that not only makes investing more accessible for us, but for anyone else as well.",
+    "whatItDoes": "The Financial AI Advisor uses historical stock prices and sentiment analysis on Twitter tweets to let you know where to invest your money! Upon entering our publicly available website, users can submit a comma-separated list of stock symbols and be greeted with statistics, projections, recommendations, and graphs of the stock(s) that the user has inputted based on data from two-weeks leading up to the present and using this data to project stock prices two weeks into the future.",
+    "howWeBuiltIt": "We are using datasets of Twitter tweets related to stocks and historical stock prices to train our machine learning model. It utilizes Twitter's API to collect recent tweets regarding a stock, the Alpha Vantage API to retrieve the most recent stock prices for a given stock, Python to create machine learning models, perform sentiment analysis on tweets, and facilitate backend development , and HTML and CSS to design a frontend webpage to display recommendations to users in an intuitive and graphical way.",
+    "challengesWeRanInto": "The Twitter API had a rate limit, limiting the amount of testing we could do and prevented us from creating our own comprehensive custom dataset of Twitter tweets. The datasets of Twitter tweets and historical stock prices we used both had narrow time frames for their events, resulting in a difficulty connecting Twitter tweets to historical stock prices and complications in extracting comprehensive time-based attributes when performing feature engineering.",
+    "accomplishmentsWeAreProudOf": "We are proud of hosting a working and constructive website, especially after having to pivot the problem we were trying to solve halfway through this hackathon due to the unforeseen difficulties around data collection and data processing. We are also proud of discovering useful attributes for input to our machine learning model after performing feature engineering on datasets that are inherently limited in their time frames.",
+    "whatWeLearned": "We have learned that in many cases, the data preprocessing of raw data into usable data is the bottleneck in any data-driven projects, API's can sometimes be in-comprehensive and unreliable, and that front end HTML is harder than it looks when the entire team got a combined 16 hours of sleep the night before and the lead front end developer hasn't slept for 30 hours (centering a div is really hard guys).",
+    "whatIsNext": "Well hopefully we'll get some sleep first, so there's that. We're really excited about adding more creative features to the training model such as more comprehensive volatility and trend measures, trendiness of tweets/articles regarding stocks and tweets from a stock's stakeholders and public figures, and personalized user attributes like a user's investment history and risk aversion. If this project becomes popular enough, we plan to host our project on more powerful, scalable cloud architectures such as AWS to allow for our service to serve high demand with minimal downtime."
+  },
+  "builtWith": [
+    "alpha-vantage",
+    "bootstrap",
+    "css",
+    "heroku",
+    "html",
+    "intellij-idea",
+    "matplotlib",
+    "pandas",
+    "pycharm",
+    "python",
+    "scikit-learn",
+    "twitter",
+    "visual-studio"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Goldman Sachs: Investment Strategy"
+  ],
+  "team": [
+    {
+      "name": "Anita Luo",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Vincent Viray",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Mike Xie",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Michael Villordon",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Christian Duffee",
+    "Anita Luo",
+    "Vincent Viray",
+    "Michael Villordon",
+    "Kyung Min"
+  ],
+  "updates": [
+    {
+      "author": "Anita Luo",
+      "timestamp": "4 years ago",
+      "content": "Anita Luo started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Christian Duffee",
+      "username": "champfish",
+      "timestamp": "4 years ago",
+      "content": "First!!!11!!!!"
+    }
+  ]
+}

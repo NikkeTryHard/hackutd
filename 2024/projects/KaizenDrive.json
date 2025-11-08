@@ -1,0 +1,72 @@
+{
+  "projectName": "-KaizenDrive",
+  "tagline": "Data to thrive, keeping Toyota’s edge alive.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 5,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "When creating KaizenDrive, we wanted to make things simple. Often times engineers spend lots of time setting up local environments, installing, and dealing with countless painful technology errors. We make it simple for you, use KaizenDrive and fly through car data for the past 4 years.",
+    "whatItDoes": "KaizenData offers multiple customizations and services for engineers to use. The app starts off with an interactive dashboard giving a summary of some of Toyota's product suite. Engineers can also compare Toyota specifics to their competitors to show off a little bit. If engineers want to dive deep they can create their own dashboards from scratch and make their own analyses. Lastly, if they want to dive deep without having the hassle of coding at all, they can simply ask our in-house RAG chatbot to query the dataset for them and generate some insights.",
+    "howWeBuiltIt": "The app was built using Streamlit, OpenAI API, SentenceTransformer, Pinata, and more.",
+    "challenges": "We ran into challenges with our RAG Chatbot as we wanted to originally go with an open source solution. However, implementing the open source model was computationally expensive and could not be trained within the timeframe of the hackathon.",
+    "accomplishments": "We're proud of our first ever time using streamlit and making a rag chatbot.",
+    "whatWeLearned": "We learned different AI techniques, streamlit development, and data analysis techniques.",
+    "whatsNext": "Conduct predictive analysis using current driving trends\nAdd more accurate graph representations as the data had lots of missing values"
+  },
+  "builtWith": [
+    "nextjs",
+    "numpy",
+    "openai",
+    "pandas",
+    "pinata",
+    "seaborn",
+    "sentencetransformers",
+    "streamlit"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "drive.google.com",
+      "url": "https://drive.google.com/file/d/1nkwRa3rXJTAPIj3rUWGBAlpBo9JDQbNq/view?usp=sharing"
+    }
+  ],
+  "prizes": [
+    "Winner Toyota"
+  ],
+  "team": [
+    {
+      "name": "Sruti Karthikeyan",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Sriram Sendhil",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Nihanth Attaluri",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rujvi Doppalapudi",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Sruti Karthikeyan",
+    "Nihanth Attaluri",
+    "Lavanya Bansal",
+    "Sriram Sendhil",
+    "Kacie Yee"
+  ],
+  "updates": [
+    {
+      "author": "Sruti Karthikeyan",
+      "timestamp": "12 months ago",
+      "content": "Sruti Karthikeyan started this project"
+    }
+  ],
+  "comments": []
+}

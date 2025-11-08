@@ -1,0 +1,76 @@
+{
+  "projectName": "HackSpeech",
+  "tagline": "Improve your presentation skills by practicing your speech in a VR classroom!",
+  "hackathon": "HackUTD IX",
+  "likes": 10,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "Every student has felt anxious about an upcoming presentation. Even experienced speakers get nervous! In fact, public speaking is one of the most common fears. We understand that feeling, so we created an app to help combat this challenge. One of the ways to lessen the anxious feeling is to practice continuously. Our app enhances the practice!",
+    "whatItDoes": "The user can use the app to practice their speech by immersing in a VR classroom and speaking as if they were presenting in front of an audience. You are able to select between different levels of speech practice which add more or fewer distractions, as well as choose between the type of practice whether it be a classroom presentation or a table interview. After the selection is made, you are transported to a virtual environment where you can practice speaking while our speech analysis system tracks what you say and analyzes the use of filler words such as \"um,\" \"uh,\" and \"like\". While presenting you are also able to see your hands virtually and control each individual finger precisely. Once finished, the app lets you know the frequency of your filler words.",
+    "howWeBuiltIt": "We used Unity to create the VR experience and Python for speech recognition. Using the AWS Transcribe API, we translate your speech into text and keep track of the count of filler words that were said. Flask was also used to enable a REST API for the frontend to request. The tracking and transcribing are done in realtime as you are speaking.\n\nThe VR experience was created with the use of Unity and the oculus quest 2 VR Headset. With the Oculus interactions SDK, we were able to ditch the need for holding VR controllers by tracking your hands and using them as input for the application. We combined this hand tracking with Meta's Avatars SDK to track the pose of your hands and arms and apply that directly onto a virtual avatar for a more immersive experience. We are also able to generate random avatars and seat them in the environment to represent an audience.",
+    "challengesWeRanInto": "We faced many challenges when setting up the AWS credentials and CLI tool since it was crucial for us to use them to implement speech recognition. Working in parallel with Unity was also a major struggle since our app exceeds GitHub's storage limit, and there was no other tool that enabled us to easily contribute to the project like GitHub. In addition, none of us had much experience creating a server, and we had to learn Flask on the go in order to communicate with AWS speech transcription.",
+    "accomplishmentsWeAreProudOf": "Our biggest accomplishments include showcasing a realistic classroom through Unity and being able to use the AWS Transcribe API effectively! Connecting the backend server to Unity at runtime and transcribing speech in real-time is something we're really proud of achieving, and not to mention that the experience is all in VR!",
+    "whatWeLearned": "None of us had major experience with VR development, but we learned a lot about creating VR content. Moreover, we had to learn how to use the AWS Transcribe API since none of us were familiar with AWS.",
+    "whatIsNext": "One of our future goals for the app is to increase the data we are able to present to the user, based on their speech and movement behaviors. Another one is to allow other users to enter this VR classroom and provide input on the host user's speech."
+  },
+  "builtWith": [
+    "amazon-web-services",
+    "c#",
+    "oculus",
+    "python",
+    "unity"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner State Farm"
+  ],
+  "team": [
+    {
+      "name": "Farhan Jamil",
+      "username": "Farhan Jamil",
+      "contribution": null
+    },
+    {
+      "name": "Erik Rodriguez",
+      "username": "Erik Rodriguez",
+      "contribution": null
+    },
+    {
+      "name": "Kelly Shen",
+      "username": "Kelly Shen",
+      "contribution": null
+    },
+    {
+      "name": "Arielle Posadas",
+      "username": "Arielle Posadas",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "amin amin",
+    "Brad Johnson",
+    "Kelly Shen",
+    "Farhan Jamil",
+    "Shoaib Huq",
+    "Erik Rodriguez",
+    "Joshua Brown",
+    "Robert Cameron",
+    "Sruthi Suresh",
+    "Arielle Posadas"
+  ],
+  "updates": [
+    {
+      "author": "Arielle Posadas",
+      "timestamp": "3 years ago",
+      "content": "Arielle Posadas started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Shoaib Huq",
+      "username": "shoaibhuq",
+      "timestamp": "3 years ago",
+      "content": "This is so sick!"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "projectName": "JORGE.AI",
+  "tagline": "The updated equipment box enclosure is designed to notify technicians of any environmental issues that may pose a threat to crucial hardware and cause disruptions to clients' internet services.",
+  "hackathon": "HackUTD X",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Jorge our newborn rasberry pi.",
+    "whatItDoes": "Monitors the temperature within an enclosed environment and reacts appropriately. While analyzing the data to predict future weather failure conditions",
+    "howWeBuiltIt": "Arduino, python, Google Collab, Google Cloud, Rasberry Pi os",
+    "challengesWeRanInto": "Raspberry Pi cooperation, Color base thermal detection calibration",
+    "accomplishmentsWeAreProudOf": "Accomplish our goals and make the plan come to fruition without much deviation.",
+    "whatWeLearned": "C++, Hardware, Cloud, MondgoDB, Ardunino.",
+    "whatIsNext": "Find out next time"
+  },
+  "builtWith": [
+    "c++",
+    "python"
+  ],
+  "tryItOutLinks": [],
+  "prizes": [
+    "Winner Frontier"
+  ],
+  "team": [
+    {
+      "name": "janetzuluu Zulu",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "ariana rodriguez",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "JonathonDavis Davis",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "jrasche2013-tamu",
+    "JonathonDavis Davis"
+  ],
+  "updates": [
+    {
+      "author": "ariana rodriguez",
+      "timestamp": "2 years ago",
+      "content": "ariana rodriguez started this project"
+    }
+  ],
+  "comments": []
+}

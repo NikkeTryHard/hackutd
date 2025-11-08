@@ -1,0 +1,82 @@
+{
+  "projectName": "TheraTree",
+  "tagline": "We gamified the recovery process, making a scary situation fun and easy for young children that otherwise wouldn't be able to handle it.",
+  "hackathon": "Axxess Hackathon 2025",
+  "likes": 3,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "The inspiration behind TheraTree came from the need to enhance patient engagement in rehabilitation. Traditional physical therapy often lacks interactive, motivating elements that encourage continuous patient participation, especially in a home setting. We wanted to develop a solution that blends technology, personalized care, and gamification to make the rehabilitation process more engaging and effective.",
+    "whatItDoes": "TheraTree is a rehabilitation device designed to assist in elbow joint recovery. It is controlled by the opposite hand and raises or lowers the forearm based on the angle between the thumb and finger of the other hand. Real-time data is recorded over 15-second intervals and displayed through an interactive game. The device helps educate patients, track their progress, and motivates them with gamified feedback, including a heat map and a progress tree that either thrives or withers based on the patient’s improvement.",
+    "howWeBuiltIt": "We built TheraTree using 3D-printed parts for a lightweight and customizable design. The device is powered by an Arduino with a continuous motor, which controls the up-and-down movement of the forearm. The backend of the system runs on Python, where we leveraged Pygame for the game interface, Pandas for data analysis, and Mediapipe to train a model that collects 15-second long datasets to generate real-time feedback. The interactive data visualizations, like the heat map and progress tree, were created using Python libraries for easy understanding of the patient’s progress.",
+    "challengesWeRanInto": "During the construction of the arm rehabilitation device, we encountered several challenges in both hardware selection and integration. Prototyping with different sensors proved difficult as we evaluated various options for accurate motion tracking and data allocation. Initially, we experimented with the MS61 servo motor and stepper motors, but limitations in control precision and responsiveness led us to ultimately select the Hitec HSR-1425CR continuous rotation servo for its smoother operation. Down-selecting 3D models for the arm rehab structure also posed difficulties, as we had to balance mechanical stability, weight, and ergonomic design. Additionally, integrating MediaPipe for real-time movement tracking with direct control over the arm exoskeleton was complex, requiring extensive troubleshooting to achieve seamless communication between software and hardware. Front-end and back-end development further added to the challenge, as debugging and integrating the interface with hardware components required significant effort to ensure reliable performance and user-friendly interaction.",
+    "accomplishmentsWeAreProudOf": "We are incredibly proud of the real-time interactive feedback system we developed, which combines data analysis, gamification, and machine learning to create a personalized rehabilitation experience. The heat map and progress tree are unique features that visually motivate patients by tracking their improvements. Our ability to use 3D printing to design the device and keep it cost-effective while ensuring functionality has also been a significant accomplishment.",
+    "whatWeLearned": "Throughout this project, we learned a great deal about hardware-software integration, machine learning, and how to apply real-time data visualization in a practical setting. We also learned the importance of patient-centric design, ensuring that the device not only provides therapeutic benefits but also keeps the patient engaged and motivated. The process also taught us the value of cross-disciplinary collaboration, especially in merging biomechanics with gaming technology.",
+    "whatIsNext": "Moving forward, we plan to enhance the accuracy of the data collection model by expanding its capabilities to incorporate other joint movements beyond the elbow. We also aim to refine the game interface to make it even more engaging and rewarding for patients. TheraTree will continue to evolve with additional patient feedback and we’re exploring ways to make the device even more accessible and effective for home healthcare. Ultimately, we envision TheraTree becoming a standard tool for at-home rehabilitation, helping patients stay motivated and recover effectively."
+  },
+  "builtWith": [
+    "3dprinting",
+    "arduino",
+    "csv",
+    "mediapipe",
+    "numpy",
+    "os",
+    "pandas",
+    "pygame",
+    "python",
+    "pytz",
+    "subproccess",
+    "time",
+    "tkinter"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Overall Prize - First Place"
+  ],
+  "team": [
+    {
+      "name": "Simar Rekhi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Shashwat Singh",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Harsh Patel",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Deklen Nates",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Aadesh Senthilkumar",
+    "Shashwat Singh",
+    "Simar Rekhi"
+  ],
+  "updates": [
+    {
+      "author": "Deklen Nates",
+      "timestamp": "9 months ago",
+      "content": "Deklen Nates started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Aadesh Senthilkumar",
+      "username": "AaduMaadu",
+      "timestamp": "9 months ago",
+      "content": "Amazing project! #TalkTuahTree"
+    }
+  ]
+}

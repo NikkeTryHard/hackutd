@@ -1,0 +1,61 @@
+{
+  "projectName": "Finteach",
+  "tagline": "FinTeach: Fun, easy finance education tool for students at schools with inadequate resources or funding to teach about personal finance. Interactive, and accessible on any device.",
+  "hackathon": "HackUTD X",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our group members have varying interest in finance and all noticed that there is a significant lack of fun or accessible information about different financial concepts for younger audiences, especially students whose schools may not have adequate funding to provide financial education classes or resources.",
+    "whatItDoes": "We decided on our project, FinTeach, to target these type of students, with two main goals: 1.) Provide financial education in a way that is accessible to younger students (middle or high school) 2.) Make it fun",
+    "howWeBuiltIt": "We wanted our app to be as accessible as possible to any user, so we decided to utilize Flutter. That way, no matter what kind of device (laptop, phone, etc.) the users are given the option to use the app in the way that most suits them.",
+    "challengesWeRanInto": "The 11 hour drive from Ames, IA to Dallas, TX\nWe had a few ideas for a project coming in to the hackathon, but turns out none of them fit the sponsor challenges, so we had to completely pivot and come up with something new\nWorking with a new technology (Flutter) was daunting at first\nSince we've never really worked with Flutter, we had some weird issues / difficulties with deployment\nCouldn't find white boards to plan our project",
+    "accomplishmentsWeAreProudOf": "Diving into and learning about a new technology (Flutter)\nThinking about and developing our design with our app's target audience in mind\nFinding a white board (we searched for so long)",
+    "whatWeLearned": "Our group hadn't really used Flutter in the past, so we gained a lot of experience working with Flutter, Dart and Material to build out different parts of the UI.",
+    "whatIsNext": "Features we would add if we had more time:\n\nFurther tailor the question generation process to match the user's skill level\nSub-modules for each topic to provide the user a more in-depth experience\nDictation option for those with visual impairments, etc.\nVIDEO LINK: https://drive.google.com/file/d/1hZmCazRQlxKS7rSqXwI9n6g1rNE8YnQp/view"
+  },
+  "builtWith": [
+    "flutter",
+    "material",
+    "vercel"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "hackutd-six.vercel.app",
+      "url": "https://hackutd-six.vercel.app"
+    }
+  ],
+  "prizes": [
+    "Winner Fidelity"
+  ],
+  "team": [
+    {
+      "name": "Kyle Goben",
+      "username": null,
+      "contribution": "I coded the entire app"
+    },
+    {
+      "name": "Logan Jorgensen",
+      "username": null,
+      "contribution": "I worked mostly on aspects of the frontend / Flutter app. I tried to get the app deployed as well, tried to deploy the web version to Firebase but none of us had experience doing it for Flutter, only things like React / NextJS / Svelte."
+    },
+    {
+      "name": "Andrew Ritchie",
+      "username": null,
+      "contribution": "Computer Science @ Iowa State University\nI coded more of the app then Kyle"
+    },
+    {
+      "name": "Chris Tague",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Kyle Goben",
+      "timestamp": "2 years ago",
+      "content": "Kyle Goben started this project"
+    }
+  ],
+  "comments": []
+}

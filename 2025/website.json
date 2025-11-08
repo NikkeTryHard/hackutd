@@ -1,0 +1,441 @@
+{
+  "website": {
+    "title": "HackUTD 2025",
+    "header": {
+      "navigation": [
+        {
+          "text": "Home",
+          "link": "#home"
+        },
+        {
+          "text": "Schedule",
+          "link": "#schedule"
+        },
+        {
+          "text": "FAQ",
+          "link": "#faq"
+        },
+        {
+          "text": "Livestream",
+          "link": "#livestream"
+        },
+        {
+          "text": "Hackerpack",
+          "link": "#hackerpack"
+        }
+      ],
+      "signInButton": {
+        "text": "Sign In",
+        "link": "#signin"
+      }
+    },
+    "heroSection": {
+      "mlhSeason": "Major League Hacking 2026 Hackathon Season",
+      "eventName": "HackUTD 2025",
+      "date": "Nov 8-9",
+      "decorativeElements": [
+        "Poyo",
+        "Back Left Cloud",
+        "Back Right Cloud",
+        "Pink Flower Tree"
+      ]
+    },
+    "aboutSection": {
+      "title": "What Is HackUTD?",
+      "logoText": "HackUTD",
+      "description": "HackUTD, the largest 24 hour university hackathon in North America, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds from universities all over the US come together, form teams around a problem or idea, and collaboratively build a unique solution from scratch. Whether youre a frequent hackathon attendee or just getting started, we'd love to see what you can make!",
+      "decorativeElements": [
+        "Fox",
+        "BirdGust"
+      ]
+    },
+    "statisticsSection": {
+      "introText": "At our last hackathon, we had the pleasure of hosting...",
+      "stats": [
+        {
+          "value": "1200+",
+          "label": "Hackers"
+        },
+        {
+          "value": "30+",
+          "label": "Universities"
+        },
+        {
+          "value": "200+",
+          "label": "Projects"
+        }
+      ],
+      "callToAction": {
+        "text": "See our Teaser",
+        "link": "#teaser"
+      }
+    },
+    "countdownSection": {
+      "decorativeElements": [
+        "Cliff",
+        "Countdown banner",
+        "Decorative background shape"
+      ],
+      "countdown": {
+        "days": [
+          "0",
+          "1"
+        ],
+        "hours": [
+          "0",
+          "2"
+        ],
+        "minutes": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    "keynoteSpeakerSection": {
+      "bannerText": "Keynote Speaker Banner",
+      "title": "Keynote Speaker",
+      "speaker": {
+        "name": "Sonny Li",
+        "image": "Sonny Li",
+        "title": "Founder & Chief Vibes Officer",
+        "bio": "Sonny is the founder of Codédex, a new gamified learning platform empowering 1M+ learners to lvl up their tech skills. Previously, he spent five years leading the curriculum team at Codecademy and taught CS at Columbia, NYU, and CUNY."
+      }
+    },
+    "preEventsSection": {
+      "preEvents": {
+        "title": "Pre-Events!",
+        "status": "Stay tuned!"
+      },
+      "sponsorEvents": {
+        "title": "Sponsor Events!",
+        "status": "Stay tuned!"
+      }
+    },
+    "scheduleSection": {
+      "title": "What to Expect Day Of?",
+      "filters": [
+        "All",
+        "Required",
+        "Sponsor",
+        "Food",
+        "Workshop",
+        "Social"
+      ],
+      "days": [
+        {
+          "dayTitle": "Day 1: Saturday",
+          "events": [
+            {
+              "time": "8:00am CST",
+              "name": "Hacker Check-In",
+              "category": "Required",
+              "location": "ECSW Front Door"
+            },
+            {
+              "time": "8:00am CST",
+              "name": "Sponsor Fair",
+              "category": "Sponsor",
+              "location": "ESCW Atrium"
+            },
+            {
+              "time": "10:45am CST",
+              "name": "Opening Ceremony",
+              "category": "Required",
+              "location": "ATC Lecture Hall (ATC 1.102)"
+            },
+            {
+              "time": "12:00pm CST",
+              "name": "Hacking Starts",
+              "category": "Required",
+              "location": "UTD"
+            },
+            {
+              "time": "12:00pm CST",
+              "name": "Lunch",
+              "category": "Food",
+              "location": "ECSW Courtyard"
+            },
+            {
+              "time": "12:30pm CST",
+              "name": "Team Building",
+              "category": "Social",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "1:00pm CST",
+              "name": "PNC Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.315"
+            },
+            {
+              "time": "1:55pm CST",
+              "name": "T-Mobile Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.315"
+            },
+            {
+              "time": "2:45pm CST",
+              "name": "Goldman Sachs Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "3:40pm CST",
+              "name": "StateFarm Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "4:35pm CST",
+              "name": "NMC^2 Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "5:30pm CST",
+              "name": "EOG Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "6:30pm CST",
+              "name": "MLH Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "7:00pm CST",
+              "name": "Typing Competition",
+              "category": "Social",
+              "location": "ESCW 1.365"
+            },
+            {
+              "time": "7:30pm CST",
+              "name": "Dinner",
+              "category": "Food",
+              "location": "ESCW Atrium"
+            },
+            {
+              "time": "7:30pm CST",
+              "name": "WEHack Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "9:30pm CST",
+              "name": "Karaoke",
+              "category": "Social",
+              "location": "ESCW 1.355"
+            },
+            {
+              "time": "10:00pm CST",
+              "name": "Hackathon Organizer Meetup",
+              "category": "Social",
+              "location": "ECSW 1.315"
+            },
+            {
+              "time": "10:45pm CST",
+              "name": "Estimathon",
+              "category": "Social",
+              "location": "ESCW 1.365"
+            },
+            {
+              "time": "11:00pm CST",
+              "name": "Register your team on Devpost!",
+              "category": "Required",
+              "location": "Devpost"
+            },
+            {
+              "time": "11:30pm CST",
+              "name": "Midnight Snack",
+              "category": "Food",
+              "location": "ECSW Atrium"
+            }
+          ]
+        },
+        {
+          "dayTitle": "Day 2: Sunday",
+          "events": [
+            {
+              "time": "12:00am CST",
+              "name": "PNC Presents HackUTD Olympics",
+              "category": "Social",
+              "location": "ECSW 1.315"
+            },
+            {
+              "time": "12:00am CST",
+              "name": "Dev Hours",
+              "category": "Social",
+              "location": "ESCW 1.365"
+            },
+            {
+              "time": "12:30am CST",
+              "name": "World's Watch Party",
+              "category": "Social",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "9:00am CST",
+              "name": "Breakfast",
+              "category": "Food",
+              "location": "ESCW Atrium"
+            },
+            {
+              "time": "9:00am CST",
+              "name": "Dog Petting",
+              "category": "Social",
+              "location": "ESCW 2.325"
+            },
+            {
+              "time": "12:00pm CST",
+              "name": "Project Submission Deadline",
+              "category": "Required",
+              "location": "Devpost"
+            },
+            {
+              "time": "12:00pm CST",
+              "name": "Lunch",
+              "category": "Food",
+              "location": "ECSW Atrium"
+            },
+            {
+              "time": "1:00pm CST",
+              "name": "Project Expo",
+              "category": "Required",
+              "location": "ESCW & ECSS"
+            },
+            {
+              "time": "5:00pm CST",
+              "name": "Closing Ceremony",
+              "category": "Required",
+              "location": "ATC Lecture Hall (ATC 1.102)"
+            }
+          ]
+        }
+      ],
+      "closingNote": "More Events Coming Soon"
+    },
+    "faqSection": {
+      "title": "FAQ",
+      "contactInfo": "Can`t find what you`re looking for? Connect with our team at hello@hackutd.co",
+      "callToAction": {
+        "text": "Ask A Question!",
+        "link": "mailto:hello@hackutd.co"
+      },
+      "questions": [
+        {
+          "question": "What is a hackathon?",
+          "answer": "A hackathon is a 24-hour competition where you and up to 3 teammates build a software project from scratch and compete against other groups for prizes. Sponsors will also provide workshops, events, and activities throughout the weekend to help you learn more about the field of technology!"
+        },
+        {
+          "question": "Where will it be?",
+          "answer": "HackUTD will be hosted at... You guessed it: UT Dallas! Parking and other logistical details for attendees will be provided closer to the hackathon date."
+        },
+        {
+          "question": "Does HackUTD cover travel?",
+          "answer": "HackUTD does do travel reimbursement! Check our policies here!"
+        },
+        {
+          "question": "Can I participate if I have never hacked?",
+          "answer": "Everyone is welcome to come, and no experience is necessary to attend! We will even be hosting workshops to introduce new hackers to industry programs and technologies."
+        },
+        {
+          "question": "When do applications close?",
+          "answer": "Applications will close on October 18th."
+        },
+        {
+          "question": "What do I need to bring?",
+          "answer": "You just need to bring a laptop, charger, and a hacking spirit to participate! We also recommend having a compiler, packages, or any packaging tools ready beforehand. We will be providing internet connectivity, and will also have free food throughout the event!"
+        },
+        {
+          "question": "What should I build?",
+          "answer": "Anything you want! You can try to solve a sponsor challenge or submit a project for the HackUTD awards!"
+        },
+        {
+          "question": "Does HackUTD accept walk-ins?",
+          "answer": "Historically HackUTD has taken limited walk-ins. We anticipate to take walk-ins again this year but will be subject to venue capacity!"
+        },
+        {
+          "question": "When is HackUTD 2025?",
+          "answer": "November 8th and 9th!"
+        },
+        {
+          "question": "Free swag? pls?",
+          "answer": "We will have custom HackUTD 2025 swag for all participants along with gear provided by our sponsors! And free food!"
+        },
+        {
+          "question": "What if I don't have a team?",
+          "answer": "We will have a team building session at the start of the hackathon for those who need help finding one! You can also choose to work on projects by yourself."
+        },
+        {
+          "question": "How much does it cost?",
+          "answer": "HackUTD 2025 will be completely free to hackers!"
+        },
+        {
+          "question": "What are the general rules?",
+          "answer": "Your project must be built entirely over the course of the weekend. No previous projects or code may be used. Have fun! Your behavior at this event is subject to the MLH Code of Conduct as well as any applicable UT Dallas guidelines."
+        },
+        {
+          "question": "Can I volunteer?",
+          "answer": "Mentor and volunteer applications will be opening soon! Follow us on social media to be notified when applications open."
+        }
+      ]
+    },
+    "sponsorshipSection": {
+      "title": "interested in sponsoring?",
+      "description": "If you would like to sponsor HackUTD, please reach out to us at hello@hackutd.co",
+      "contactEmail": "hello@hackutd.co"
+    },
+    "footer": {
+      "title": "HackUTD 2025",
+      "contactUs": {
+        "title": "Contact Us",
+        "socials": [
+          {
+            "platform": "Instagram",
+            "link": "#"
+          },
+          {
+            "platform": "LinkedIn",
+            "link": "#"
+          },
+          {
+            "platform": "Email",
+            "link": "mailto:hello@hackutd.co"
+          }
+        ]
+      },
+      "otherHackathons": {
+        "title": "Other Hackathons",
+        "list": [
+          "WEHack",
+          "HackTX",
+          "TAMUHack",
+          "HackUTA",
+          "HackUNT",
+          "RowdyHacks"
+        ]
+      },
+      "organizerInfo": {
+        "title": "Learn more",
+        "description": "Check out HackUTD’s organizer website"
+      },
+      "credits": [
+        "Designed by HackUTD",
+        "HackPortal developed with <3 HackUTD and ACM Development"
+      ],
+      "sourceCodeLink": {
+        "text": "Source Code",
+        "link": "#"
+      },
+      "newsletter": {
+        "title": "Follow our Newsletter",
+        "form": {
+          "placeholder": "Email",
+          "buttonText": "Subscribe"
+        }
+      },
+      "copyright": "All Copyrights are reserved by HackUTD <3"
+    }
+  }
+}

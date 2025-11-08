@@ -1,0 +1,73 @@
+{
+  "projectName": "TexasRelief",
+  "tagline": "Texas Relief puts all the information any Texan may need to overcome hardship during the disaster. Disaster relief, hotlines, news, and many more services are all available at a touch of an icon.",
+  "hackathon": "HackUTD VII",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired by the recent crisis of the Texas Snowstorm and the frustration that followed the calamity. Especially having a first-hand perspective of how people are suffering in Texas due to the Storm.",
+    "whatItDoes": "The app conglomerates any and all of the information that might be needed for Texans who are suffering from the disaster. This makes it easy for ordinary people to easily find the information that will help them.",
+    "howWeBuiltIt": "We used Flutter with a combination of Google Cloud services to provide fast and responsive UI and service ALso used multiple API's to help make it a successful project",
+    "challengesWeRanInto": {
+      "cockroachDBFailure": {
+        "title": "CockroachDB Failure",
+        "description": "CockroachDB not working even after several hours of trial and error, hence we had to shift our database to Google cloud to make a better application"
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "uiAndCommunication": {
+        "title": "UI and Team Communication",
+        "description": "The UI, and the fact that we were able to communicate, even though we live hundred's of miles away from each other"
+      }
+    },
+    "whatWeLearned": "More functional UI building, Cloud storage",
+    "whatIsNext": "Texas Relief is planning to implement an AI into the personalized survey so that the information provided to the user will be of better quality."
+  },
+  "builtWith": [
+    "firebase",
+    "firestore",
+    "flutter",
+    "google-cloud",
+    "news-api"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Statefarm"
+  ],
+  "team": [
+    {
+      "name": "Tejas Bogguram Vasudev",
+      "username": "Tejas Bogguram Vasudev",
+      "contribution": "I worked on the page detailing and logic behind how the app works, This was the first time using advanced organization and UI tools that were available in Flutter."
+    },
+    {
+      "name": "Tarun Rex",
+      "username": "Tarun Rex",
+      "contribution": "I worked on the research and design of the app. My goal was to have quality valid information and a nice looking UI."
+    },
+    {
+      "name": "Rajmeet Juneja",
+      "username": "Rajmeet Juneja",
+      "contribution": "I worked on the front-end and data of the application. My goal was to ensure that the app was intuitive and easy to follow."
+    }
+  ],
+  "likesBy": [
+    "Rajmeet Juneja",
+    "Tarun Rex",
+    "Tejas Bogguram Vasudev",
+    "Isaac Brooks"
+  ],
+  "updates": [
+    {
+      "author": "Tejas Bogguram Vasudev",
+      "timestamp": "5 years ago",
+      "content": "Tejas Bogguram Vasudev started this project"
+    }
+  ],
+  "comments": []
+}

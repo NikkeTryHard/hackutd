@@ -1,0 +1,68 @@
+{
+  "projectName": "Materna",
+  "tagline": "Materna offers AI-driven insights, symptom tracking, and expert-backed health guidance for your pregnancy. Log symptoms, get 24/7 chatbot support, and stay informed with wellness tips—all in one app!",
+  "hackathon": "Axxess Hackathon 2025",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Materna was inspired by the need for a comprehensive and supportive platform that helps expectant mothers track their symptoms, moods, and overall well-being. Many pregnancy apps focus on basic tracking, but we wanted to provide real-time feedback, expert-backed insights, and personalized wellness tips to empower mothers throughout their journey.",
+    "whatItDoes": "Materna is an all-in-one pregnancy symptom tracker and wellness hub. It allows users to log symptoms, track moods, and receive instant feedback on whether a symptom is normal or requires medical attention. It also offers nutrition guidance, meal plans, and safe prenatal exercise recommendations to support a healthy pregnancy.",
+    "howWeBuiltIt": "We developed Materna using HTML, CSS, Python, and JavaScript to ensure a seamless and interactive user experience. GitHub was used for version control and collaboration, allowing efficient team workflow. Our focus was on secure authentication, real-time symptom feedback, and an intuitive UI to make pregnancy tracking effortless and informative.",
+    "challengesWeRanInto": "One of the biggest challenges was ensuring smooth navigation between different pages, especially for tracking logs and interactive recipe pages. Designing an intuitive symptom feedback system was another hurdle, as we had to ensure that medical information was clear, user-friendly, and easy to understand.",
+    "accomplishmentsWeAreProudOf": "We successfully built a fully functional pregnancy wellness platform that not only tracks symptoms but also provides real-time insights and self-care solutions. The seamless UI, engaging wellness features, and interactive recipe navigation make Materna a valuable tool for expectant mothers.",
+    "whatWeLearned": "Through this project, we gained a deeper understanding of UI/UX best practices, efficient symptom tracking logic, and integrating interactive elements like video-based wellness tips and nutrition guidance. We also improved our skills in authentication and data management for personalized user experiences.",
+    "whatIsNext": "We aim to integrate healthcare providers for regular symptom monitoring and expert guidance. A community space will allow mothers to share experiences, seek support, and connect with others in a safe environment. Additionally, we plan to introduce transition care for new mothers, including baby growth tracking and postpartum wellness features to support them beyond pregnancy."
+  },
+  "builtWith": [
+    "css",
+    "flask",
+    "html5",
+    "javascript",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Overall Prize - Second Place"
+  ],
+  "team": [
+    {
+      "name": "Kavimayil P K",
+      "username": null,
+      "contribution": "I developed the backend code for the chatbot that provides 24/7 support, ensuring seamless and efficient user interactions."
+    },
+    {
+      "name": "Shriya Kalyan",
+      "username": null,
+      "contribution": "I worked on designing and developing 4 of the pages of our website and also backend chatbot integration as well as login/sign up."
+    },
+    {
+      "name": "Vaishnavi Siravuri",
+      "username": null,
+      "contribution": "Im interested in making tangible impact in the world with the solutions I build as well empowering female coders in technology. I worked on the Front end creating webpages using HTML, CSS and Javascript and we designed various features like Mood & Symptom tracking, recipe catalogue, videos for wellness etc."
+    },
+    {
+      "name": "Jacian Wynn",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Vaishnavi Siravuri",
+    "Shriya Kalyan",
+    "Bhargavi Uttarker",
+    "Kavimayil P K"
+  ],
+  "updates": [
+    {
+      "author": "Shriya Kalyan",
+      "timestamp": "9 months ago",
+      "content": "Shriya Kalyan started this project"
+    }
+  ],
+  "comments": []
+}

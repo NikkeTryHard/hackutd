@@ -1,0 +1,106 @@
+{
+  "projectName": "Forkast",
+  "tagline": "Wondering how healthy your meals are? Upload a picture of your food, and we’ll tell you exactly what nutrients are in it! See what you’ve eaten all week and understand how you can live healthier.",
+  "hackathon": "Axxess Hackathon 2025",
+  "likes": 1,
+  "commentsCount": 1,
+  "story": {
+    "whyUseForkast": "Lots of apps exist that scan the barcodes of grocery store products and track your nutrition, diet habits, etc. However, there is no place to go to get accurate, quick, and easy nutrition information for home-cooked, restaurant-style, or, for students, dining-hall meals. Thats where Forkast comes in. Unlike traditional nutrition-tracking apps that rely on barcode scanning, Forkast uses AI to analyze images of food in places where nutrition information is often unavailable. Just snap a picture, and Forkast instantly identifies your meal, provides detailed nutrition insights, and tracks your eating habits over time. With an integrated chatbot, you can ask questions about macros, calories, or even meal suggestions based on your diet goals. Whether you’re a student navigating dining hall options or someone who enjoys cooking at home, Forkast ensures you get accurate, personalized nutrition data—without the guesswork.",
+    "whatIsForkast": {
+      "secureAuthentication": "Ensures user privacy with encrypted data flows, leveraging a serverless architecture on Amazon Web Services (AWS) for scalability and reliability.",
+      "aiPoweredInsights": "NomBot, your secure, accurate, personal nutrition assistant, answers questions about meal composition, macros, and dietary trends in real time trained on 1 billion tokens through llama-3.2.",
+      "instantMealRecognition": "Uses Python and open artificial intelligence models, such as llama-vision-3.2, to analyze home-cooked, restaurant-style, and dining hall meals, providing accurate nutrition breakdowns without the need for barcodes.",
+      "personalizedDashboard": "Stores your meal history and nutrition data to help identify trends, set goals, and make informed dietary decisions using high detail charts."
+    },
+    "frameworkAndTechStack": {
+      "amazonWebServices": "We use a cloud-focused and secure, serverless setup on AWS to handle authentication, data storage, and processing, ensuring scalability and security.",
+      "llamaImageRecognitionAndChatBot": "Leveraging computer vision models, our app identifies meals from user-uploaded images and extracts nutritional information. Additionally, using natural language processing (NLP) and machine learning, NomBot provides real-time responses to nutrition-related queries.",
+      "reactNativeAndRecharts": "Front-end developed with React Native, ensuring a smooth cross-platform experience for iOS and Android users that is scaleable for future needs, with Recharts for dynamic nutrition data visualizations.",
+      "usdaFoodDataCentralAPI": "Retrieves accurate nutritional information from an extensive database of food items to enhance meal analysis.",
+      "multer": "Handles image uploads efficiently, enabling secure and fast processing of user-submitted meal photos."
+    },
+    "challengesWeFaced": {
+      "pythonBackendIntegration": "Integrating the Flask-based backend with NomBot AI presented unexpected challenges, particularly in optimizing response times and API communication.",
+      "awsLambdaSetup": "Setting up AWS Lambda functions for the first time required overcoming hurdles in serverless deployment and event-driven execution.",
+      "imageRecognitionModel": "Training a large, custom food recognition model proved too time-consuming for our current scope, leading us to explore alternative solutions.",
+      "foodDataCentralAPI": "Sorting through USDA’s FoodData Central API to extract relevant and structured nutrition data required extensive filtering and optimization."
+    },
+    "biggestAccomplishments": {
+      "dataEncryption": "Successfully implemented secure image processing and data processing pipeline, ensuring user privacy and protection.",
+      "uiUxDesignAndDashboard": "Built an intuitive, user-friendly frontend with React Native and Recharts, providing a seamless experience for meal tracking.",
+      "firstServerlessDeployment": "Successfully deployed a serverless architecture on AWS for the first time."
+    },
+    "whatIsNext": {
+      "bloodDataIntegration": "Enable users to upload blood test data from doctors to receive personalized dietary recommendations.",
+      "customDietAndHealthPreferences": "Allow users to set custom health requirements and dietary restrictions for more tailored nutrition tracking.",
+      "medicalDataSharing": "Provide an option to securely share nutrient information and eating history with physicians, aiding in yearly check-ups or medical consultations.",
+      "trainingOurOwnAIModel": "Develop and train a custom food recognition model, improving accuracy and expanding support for a wider variety of home-cooked meals."
+    }
+  },
+  "builtWith": [
+    "aws-api-gateway",
+    "aws-dynamodb",
+    "aws-lambda",
+    "css",
+    "flask",
+    "html",
+    "llamma-vision",
+    "multer",
+    "numpy",
+    "ollama",
+    "opencv",
+    "python",
+    "react",
+    "recharts",
+    "usda-fooddata-central"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Challenge Winner Prize- Streamlining Documentation and Inventory Management"
+  ],
+  "team": [
+    {
+      "name": "Allen Zheng",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Ishita Saran",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Prerita Babarjung",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Sai Chauhan",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Lily"
+  ],
+  "updates": [
+    {
+      "author": "Sai Chauhan",
+      "timestamp": "9 months ago",
+      "content": "Sai Chauhan started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Lily",
+      "username": "so-miscellaneous-ly",
+      "timestamp": "9 months ago",
+      "content": "This is so well-made and useful!"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "projectName": "Data Pattern Observatory",
+  "tagline": "Data is power",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired to by Title Sponsor PNC Bank's problem statement: As organizations increasingly rely on data to drive decision-making, ensuring a clear understanding of how data is created, accessed, moved, and used is critical for security, performance, and governance. Yet, many organizations struggle to maintain visibility into these data flows, leading to inefficiencies, security risks, and compliance challenges. We challenge you to design an innovative solution that enhances the observability of data patterns throughout its lifecycle. Your solution should allow organizations to monitor and analyze how data is created, accessed, moved, and used – with business context.",
+    "whatItDoes": "Data Pattern Observatory combines real-time data tracking with statistical modeling to not only monitor but also predict data flow patterns. It uses historical data and statistical analysis to identify trends, detect anomalies, and predict future data movement patterns, helping organizations proactively manage their data infrastructure.",
+    "howWeBuiltIt": "We built the system using:\n\nMongoDB, Elasticsearch, and TimescaleDB for different aspects of data tracking Python for backend processing and pattern detection Statistical models for pattern prediction Streamlit for an interactive dashboard Docker for containerization Redis for real-time monitoring",
+    "challenges": "Handling different types of data patterns. Dealing with varying data volumes and patterns across different timeframes",
+    "accomplishments": "Created a functioning data observability system from scratch Successfully implemented statistical modeling for pattern prediction Built an intuitive interface that visualizes both current and predicted patterns",
+    "whatWeLearned": "The value of combining real-time monitoring with predictive analytics The importance of data observability in modern systems",
+    "whatsNext": "We have created a crewai based agent that can predict a market crisis based on data patterns We also have an ensemble of ML models in mind that perform risk management We also have a Random Forest Regressor based data flow pattern prediction system Our future goal is to integrate these into the current working application"
+  },
+  "builtWith": [
+    "elasticsearch",
+    "mongodb",
+    "python",
+    "redis"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner PNC Bank"
+  ],
+  "team": [
+    {
+      "name": "siddhu neehal rapeti",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Abhirup Mukherjee",
+      "username": null,
+      "contribution": "I am totally not a bot"
+    }
+  ],
+  "likesBy": [
+    "Abhirup Mukherjee",
+    "siddhu neehal rapeti"
+  ],
+  "updates": [
+    {
+      "author": "Abhirup Mukherjee",
+      "timestamp": "12 months ago",
+      "content": "Abhirup Mukherjee started this project"
+    }
+  ],
+  "comments": []
+}

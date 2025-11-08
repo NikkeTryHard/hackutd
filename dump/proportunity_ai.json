@@ -1,0 +1,80 @@
+{
+  "projectName": "Proportunity AI",
+  "tagline": "A Better Way To Buy A Home | Our product streamlines the homebuying process through algorithms and Generative AI. We also offer suggestions and improvements to start your homeowner journey.",
+  "hackathon": "HackUTD X",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our journey began with a common yet often unaddressed pain point in society: the complexities of purchasing a home. We wanted to empower aspiring homeowners with personalized financial tips and clear, actionable steps towards achieving their dream of home ownership.",
+    "whatItDoes": "We’ve harnessed the power of modern web technologies and AI to develop an intuitive, responsive website that simplifies the home-buying experience. Our platform offers users personalized insights into what it takes to purchase a home through forms and utilizing OpenAI's API. By inputting basic financial data, users can receive a comprehensive analysis of their potential buying power and projected financial commitments, enhanced by guidelines, suggestions, and stories.",
+    "howWeBuiltIt": {
+      "summary": "We’ve harnessed the power of modern web technologies and AI to develop an intuitive, responsive website that simplifies the home-buying experience. Our platform offers users personalized insights into what it takes to purchase a home through several components and utilizing OpenAI's API. By inputting basic financial data, users can receive a comprehensive analysis of their potential buying power and projected financial commitments, enhanced by guidelines, suggestions, and stories. This project was a deep dive into full-stack development and AI application. We learned to integrate front-end frameworks with back-end services more smoothly and how to utilize AI not just as a tool but as an integral part of user experience. Moreover, we discovered the importance of user-centric design and iterative testing to ensure that complex data is presented in a user-friendly manner. In the future, we plan to incorporate more predictive analytics into our platform. We're looking at integrating real-time housing market data to provide users with up-to-date advice on when to buy. Additionally, we’re exploring the addition of a feature that could suggest the best types of loans based on the user's unique financial situation using AI-driven simulations. The aim is to evolve our platform into a comprehensive personal housing advisor.",
+      "frontend": "Frontend using React and TailwindCSS: On the client side, we wielded React for its support and TailwindCSS for its flexibility. React’s component-based architecture allowed us to build a dynamic, single-page application that is visually appealing. TailwindCSS enabled us to craft a sleek, responsive design that adapts to various devices, ensuring accessibility and ease of use.",
+      "backend": "Backend (Flask): We employed Flask for our backend, as it’s simplicity and ability to easily connect with our React App made it great for dealing with APIs, data processing, and serving the AI-generated content.",
+      "dataAnalysis": "Data Analysis with pandas, Matplotlib, and Plotly: For the data analysis aspect, pandas provided us with the ability to read in the csv file and helped us to manipulate data and perform complex calculations. Matplotlib and Plotly was our pick for turning this data into visually appealing and informative graphs that provide insights at a glance.",
+      "aiIntegration": "AI Integration with OpenAI's GPT-4: Integrating OpenAI's GPT-4 API provides insightful responses. for the user through its natural language processing abilities. We built a Chatbot using it that is able to help the user with basic questions and needs."
+    },
+    "challengesWeRanInto": "Integrating multiple technologies was as challenging as it was exciting. We tackled issues around cross-platform compatibility, especially ensuring that data flowed seamlessly between Flask and React. Getting TailwindCSS to play nicely with dynamic components also took some finesse. Furthermore, the use of pandas and Matplotlib in the back end required careful attention to manage resources efficiently.",
+    "accomplishmentsWeAreProudOf": "We take pride in our project's user interface, as it has a very modern and responsive design. We also had no prior experience with many of the technologies we used like flask and tailwind, so implementing those was a huge success for us.",
+    "whatWeLearned": "This project was a deep dive into full-stack development and AI application. We learned to integrate front-end frameworks with back-end services more smoothly and how to utilize AI not just as a tool but as an integral part of user experience. Moreover, we discovered the importance of user-centric design and iterative testing to ensure that complex data is presented in a user-friendly manner.",
+    "whatIsNext": "In the future, we plan to incorporate more predictive analytics into our platform. We're looking at integrating real-time housing market data to provide users with up-to-date advice on when to buy. Additionally, we’re exploring the addition of a feature that could suggest the best types of loans based on the user's unique financial situation using AI-driven simulations. The aim is to evolve our platform into a comprehensive personal housing advisor."
+  },
+  "builtWith": [
+    "css",
+    "flask",
+    "framer",
+    "gpt",
+    "html",
+    "javascript",
+    "matplotlib",
+    "openai",
+    "pandas",
+    "plotly",
+    "python",
+    "react",
+    "tailwind",
+    "vite"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH – Best Use of Auth0"
+  ],
+  "team": [
+    {
+      "name": "Omar Ahmad",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "saad makda",
+      "username": null,
+      "contribution": "CS Student at UT Dallas"
+    },
+    {
+      "name": "Faizul Anis",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Omer A.",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Faizul Anis"
+  ],
+  "updates": [
+    {
+      "author": "Omar Ahmad",
+      "timestamp": "2 years ago",
+      "content": "Omar Ahmad started this project"
+    }
+  ],
+  "comments": []
+}

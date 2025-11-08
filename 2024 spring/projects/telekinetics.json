@@ -1,0 +1,73 @@
+{
+  "projectName": "TeleKinetics",
+  "tagline": "Physical Therapy: Anytime, Anywhere. TeleKinetics allows a user to do physical therapy recommended by their doctor right from there home.",
+  "hackathon": "Axxess Hackathon 2024",
+  "likes": 6,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "One of our members, Syed tore his ACL while playing basketball a few years ago. Physical therapy was a challenge for him because he could not drive. TeleKinetics promises to relieve this burden by providing a fast, easy, and convenient way to do physical therapy.",
+    "whatItDoes": "TeleKinetics provides a complete database of exercises and exercises prescribed by your doctor. It uses Machine Learning to analyze your form to ensure you do the exercise correctly. It then gives you a report that tracks your progress and tells you how to improve. You then can share your progress with your doctor directly through the app. Your doctor then can tailor your exercise specifically to you and your progress.",
+    "howWeBuiltIt": "We fully designed the blueprint using FIGMA and then implemented our ideas using HTML, Tailwind CSS, and JavaScript. We used TensorFlow and Python for the back end that integrated with the front end. We also leveraged AI models, PoseNet and MoveNet, to create a function that tracked body movement and created a skeleton model of the customer to help provide feedback on the user's form.",
+    "challenges": "We spent a long time deciding what tech stack to use for the Front End. We tried using React Native and Flutter, but there was a large learning curve. We then settled on using a progressive web application because we are more familiar with web development.",
+    "accomplishments": "We efficiently implemented and optimized a state-of-the-art AI model that detected body features and then created a skeleton model. We were able to leverage this feature and use it to compare that of the customer to help ensure proper form when completing crucial physical therapy exercises.",
+    "whatWeLearned": "We learn the process of software development in a team environment. We had to gauge each other's capabilities and adjust our plans as we went. We also learned how to use a progressive web application to implement a mobile app. Everyone on the team said that they were now more confident in app development.",
+    "whatsNext": "We would like to add TeleKinetics to more platforms such as implementing wearable technologies that track your heart rate and how much you are shaking to make sure you do not over-strain yourself. We also discuss a voice assistant and voice activation to make the app easier to use hand-free. We also plan on adding a live feature that gives the user feedback on their form in real time to help improve it with visual and audio cues to accommodate the elderly and disabled."
+  },
+  "builtWith": [
+    "css",
+    "html",
+    "javascript",
+    "movenet",
+    "posenet",
+    "python",
+    "tailwind",
+    "tensorflow"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Challenge Winner Prize- Artificial Intelligence"
+  ],
+  "team": [
+    {
+      "name": "Syed Kazmi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Tagan Ramsey",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Jashanpreet Singh",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Oscar Lay",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Spencer Miller",
+    "Usman Shafi",
+    "Omar Abubeker",
+    "Tagan Ramsey",
+    "Syed Kazmi",
+    "Jashanpreet Singh"
+  ],
+  "updates": [
+    {
+      "author": "Tagan Ramsey",
+      "timestamp": "2 years ago",
+      "content": "Tagan Ramsey started this project"
+    }
+  ],
+  "comments": []
+}

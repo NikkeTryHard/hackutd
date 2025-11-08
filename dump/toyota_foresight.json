@@ -1,0 +1,71 @@
+{
+  "projectName": "Toyota Foresight",
+  "tagline": "Did you know your car is suffering?",
+  "hackathon": "HackUTD X",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our team was inspired as daily EV users to create a valuable product for better experience of owning an electric vehicle. With the growing EV production, we saw significant tech opportunities that can drastically improve lives.",
+    "whatItDoes": "Toyota Foresight is a model that predicts component failures, which allows customers to appoint timely maintenance of their car services. With our predictions this decreases future breakdowns and ensures the safety of the passengers.",
+    "howWeBuiltIt": "We used React, Node.js, Express.js, MongoDB, and Auth0 to develop the application. To simulate car models and service failures over time, we used MatLab to produce charts with realistic variations to measure the different service failures. Our project is on GitHub and hosted on Netlify with a domain name from GoDaddy.",
+    "challengesWeRanInto": "Challenges included data simulation, VIN-based authentication, and deployment issues of the application.",
+    "accomplishmentsWeAreProudOf": "As a team we are proud of the high quality data that was simulated, which closely related to that of our researched papers showing higher credibility for our project. We were amazed by our design and easy interaction of the application.",
+    "whatWeLearned": "We gained expertise in MatLab, authentication tools, web and mobile app development, and database management.",
+    "whatIsNext": "The plan is to evolve Toyota Foresight into a full-scale app for real-time car data, prioritizing safety measures for passengers."
+  },
+  "builtWith": [
+    "auth0",
+    "css3",
+    "express.js",
+    "figma",
+    "github",
+    "godaddy",
+    "matlab",
+    "mongodb",
+    "netlify",
+    "node.js",
+    "react",
+    "react-native"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "itaintchristmasyet.us",
+      "url": "http://itaintchristmasyet.us"
+    },
+    {
+      "label": "toyotaforesight.netlify.app",
+      "url": "https://toyotaforesight.netlify.app"
+    }
+  ],
+  "prizes": [
+    "Winner MLH – Best Use of MATLAB"
+  ],
+  "team": [
+    {
+      "name": "Dhanush Pulavarthy",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rishikeshan Bharathi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Ansh Naikele",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Josh Basker"
+  ],
+  "updates": [
+    {
+      "author": "Dhanush Pulavarthy",
+      "timestamp": "2 years ago",
+      "content": "Dhanush Pulavarthy started this project"
+    }
+  ],
+  "comments": []
+}

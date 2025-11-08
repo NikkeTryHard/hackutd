@@ -1,0 +1,73 @@
+{
+  "projectName": "Bankwise",
+  "tagline": "All your banks all in one place!",
+  "hackathon": "HackUTD IX",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Our inspiration was derived from our personal experiences with juggling multiple different banking apps in order to control our finances. We decided to take a step forward and create an app that further simplifies your banking process while easing the experience of managing finances.",
+    "whatItDoes": "Our app serves as a banking portfolio and allows you to add multiple banking accounts from different banks onto one app. You can manage your finances with each bank without having to log in through multiple different apps. From checking your credit cards to viewing your bank statements every month, BankWise has it all.",
+    "howWeBuiltIt": "We developed BankWise from the bottom up. We started with the basics and developed high-fidelity wireframes that we adjusted continuously according to time constraints and framework limitations. In order to develop branding to even begin, we analyzed our competitors and implemented consistent patterns that we noticed across multiple financial service apps. However, we implemented a more modern and simplified approach to our app as we wanted these wireframes to reflect our main end goal: simplicity. Our app was coded using React Native. Because many of the elements in our design were vectors, we imported many of our assets as PNG files in order to ensure high resolution across platforms. Additionally, due to the multi-use nature of this app, we implemented stack navigation in order to easily complete user flow.",
+    "challengesWeRanInto": "For our backend, we faced many difficulties in working with API as we are not as experienced with it. Our app was built to simply call on an API from each banker and retrieve data about our user's bank account; however, the Capital One API's complexity made it difficult to pull basic information, especially as novice backend developers. We chose to take inspiration from the API and develop a more simplified one for the purpose of this app. In the future, though, we definitely plan to delve deeper into the Capital One API and properly integrate it with the functionality of our app. Implementing navigation was a challenge that our front-end team had problems with. We began with attempting tab navigation between pages, but we continuously ran into errors and despite debugging consistently, we weren't able to resolve the errors that came up. With the time constraint, we switched over to stack navigation. Due to the learning curve, we were only able to implement partial navigation, but we have done our best to ensure that this navigation is simple and easy to access so that our navigation bar doesn't become an overwhelming obstacle in the user experience of this app.",
+    "accomplishmentsWeAreProudOf": "We are very proud of our front end as the design and ease of use with each account look amazing to us. The different features added and the wireframes give our app ease of access between setting up your accounts. For our backend, we are very proud to have been able to work with APIs in a much more involved context. We were able to learn more about Capital One's API and though we didn't have the time to implement it, this has set our app up because we now know what our current app is capable of handling and given more time, we will definitely be able to integrate a more complex API.",
+    "whatWeLearned": "For our back-end team, we learned much more about API as we had more hands-on experience with it. In addition to that, we were able to learn how to integrate our front-end and back-end together using APIs. For our front-end team, we learned about different types of navigation and the benefits and issues that can come up while implementing it. We'll be able to make a more educated decision on how to best go about implementing user flow and providing an overall good experience with our app in the future!",
+    "whatIsNext": "In terms of future developments, we would like to keep the simplicity of the app while allowing users to access it more and more as we continue to develop updates. Sometime in the future, we would like to be able to integrate an even more simplified version of the app into a multi-tool platform such as RingCentral, so that we are able to come to our users rather than them having to download yet another app. Additionally, we'd like to expand internationally--by connecting with banks across the world, BankWise will serve as a hub for everything related to financials. This will come with added functionality for a currency conversion (according to current rates) and a section for documentation to aid users with international bank accounts in streamlining their banking process."
+  },
+  "builtWith": [
+    "capital-one-api",
+    "figma",
+    "jsx",
+    "react-native"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "www.figma.com",
+      "url": "https://www.figma.com"
+    },
+    {
+      "label": "docs.google.com",
+      "url": "https://docs.google.com"
+    }
+  ],
+  "prizes": [
+    "Winner Design Track"
+  ],
+  "team": [
+    {
+      "name": "Abhishek Madhavan",
+      "username": "Abhishek Madhavan",
+      "contribution": null
+    },
+    {
+      "name": "Abel Thomas",
+      "username": "Abel Thomas",
+      "contribution": null
+    },
+    {
+      "name": "Manasi Vipat",
+      "username": "Manasi Vipat",
+      "contribution": null
+    },
+    {
+      "name": "Shaz Kumar",
+      "username": "Shaz Kumar",
+      "contribution": "My name is Shaswat Kumar, you can call me Shaz. I am pursuing a Bachelor's Degree in Computer Science at the University of Texas at Dallas."
+    }
+  ],
+  "likesBy": [
+    "Shaz Kumar",
+    "Abhishek Madhavan"
+  ],
+  "updates": [
+    {
+      "author": "Abhishek Madhavan",
+      "timestamp": "3 years ago",
+      "content": "Abhishek Madhavan started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

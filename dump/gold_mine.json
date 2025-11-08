@@ -1,0 +1,72 @@
+{
+  "projectName": "Gold Mine",
+  "tagline": "Crawling the web and financial data to accurately predict company performance",
+  "hackathon": "HackUTD X",
+  "likes": 3,
+  "commentsCount": 0,
+  "story": {
+    "note": "If you just want to see a demo of the project, skip to the 1 minute point in the video",
+    "inspiration": "We were inspired by Goldman Sachs' prompt to explore various alternative data sources such as sentiment from social media and openly available stock data. Additionally, we all really wanted to explore the field of generative AI and thought that this challenge was the perfect place to do so.",
+    "whatItDoes": "Gold Mine crawls the web for social media sentiment as well as earnings reports of various companies to give investment advice on a stock by stock basis. Gold Mine crawls reddit, youtube, twitter, and the news for sentiment scores. It also scrapes companies 10-Q and 10-K forms from the sec's website. It combines these into a Base Stock Score which is then adjusted for macroeconomic conditions through our Macro Indicators section of the Stats Engine. All of this data is displayed on a dashboard so users can make informed investment decisions.",
+    "howWeBuiltIt": "We built it using FastAPI for the backend, MongoDB atlas as a database, which was hosted on Google Cloud. The frontend was made using ChakraUI and web scraping was done through various social media API's as well as web crawling through get requests.",
+    "challengesWeRanInto": "It was difficult finding free high quality data sources, so we had to spend extra time wrangling with those. Twitter recently made their api a lot more strict, as well as yfinance and earnings reports requiring paid access.",
+    "accomplishmentsWeAreProudOf": "We're proud of finding a way to scrape earnings reports for free as well as finding workarounds for the other api issues through caching in the mongodb database.",
+    "whatWeLearned": "We learned how to web scrape as well as cache api query results to avoid rate limits. We also read about stock valuation prediction papers, such as lazy prices, which expanded our financial knowledge.",
+    "whatIsNext": "Next, we'd like to look at more research papers and see how we can incorporate those findings into our investor dashboard as well. We would also like to make a backtesting framework to more accurately showcase the effectiveness of each strategy"
+  },
+  "builtWith": [
+    "chakraui",
+    "fastapi",
+    "google-cloud",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Goldman Sachs"
+  ],
+  "team": [
+    {
+      "name": "Nikhil Narvekar",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Raghav Pillai",
+      "username": null,
+      "contribution": "cs @ utd"
+    },
+    {
+      "name": "Jacqueline Wu",
+      "username": null,
+      "contribution": "cs @ utd"
+    },
+    {
+      "name": "Allison Chiang",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Kanishk Garg",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Pavlo Bondarenko",
+    "Manish Mallik",
+    "Jacqueline Wu"
+  ],
+  "updates": [
+    {
+      "author": "Kanishk Garg",
+      "timestamp": "2 years ago",
+      "content": "Kanishk Garg started this project"
+    }
+  ],
+  "comments": []
+}

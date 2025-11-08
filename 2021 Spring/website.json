@@ -1,0 +1,247 @@
+{
+  "event_name": "HackUTD VII: The VII Seas",
+  "season": "Major League Hacking 2021 Hackathon Season",
+  "header": {
+    "welcome_message": "Thank you for coming! We hope to see you next HackUTD!",
+    "links": [
+      {
+        "text": "Sign up for our newsletter",
+        "url": null
+      },
+      {
+        "text": "Devpost",
+        "url": null
+      }
+    ]
+  },
+  "about": {
+    "title": "What is HackUTD?",
+    "description": "HackUTD, the largest university hackathon in North Texas, is a weekend long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make."
+  },
+  "schedule": {
+    "title": "SCHEDULE",
+    "days": [
+      {
+        "name": "Day 1",
+        "events": []
+      },
+      {
+        "name": "Day 2",
+        "events": []
+      }
+    ]
+  },
+  "speakers": {
+    "title": "THE SPEAKERS",
+    "list": [
+      {
+        "name": "Arjun Dugal",
+        "avatar_placeholder": "Avatar",
+        "bio": "As the Chief Technology Officer for Capital One’s FinancialServices division, Arjun’s responsibilities include technology, data, the Garage, Capital One’s DFW innovation center, and DataLabs, Capital One’s India office focused on building cutting-edge data products. Arjun’s organization is reimagining the auto finance business by leveraging machine learning, artificial intelligence (AI) and next-generation data to develop breakthrough innovations and deliver transformative customer experiences."
+      },
+      {
+        "name": "Chander Dhall",
+        "avatar_placeholder": "Avatar",
+        "bio": "Chander Dhall, CEO of Cazton, is a ten-time awarded Microsoft MVP, Google Developer Expert and world-renowned technology leader in architecting and implementing solutions. He's also a voracious and highly-respected speaker. He has keynoted and delivered hands-on workshops at top conferences including Microsoft TechEd, Google DevFest, Azure Dev Days, NDC London, DevSum Sweden, BuildStuff, Lithuania, MVP Mix.",
+        "action_link": {
+          "text": "Learn More",
+          "url": null
+        }
+      },
+      {
+        "name": "DeWayne Griffin",
+        "avatar_placeholder": "Avatar",
+        "bio": "DeWayne Griffin is the current Vice President and Chief Data Officer at State Farm. Through a myriad of leadership roles, he has taken the company to new heights through innovations in data management, people and process improvement, complex project life-cycle oversight, and strategic marketing and research."
+      }
+    ]
+  },
+  "challenges": {
+    "title": "Challenges",
+    "list": [
+      {
+        "name": "General challenge",
+        "sponsor": "HackUTD",
+        "description": "HackUTD is excited to host its latest hackathon: HackUTD VII: The VII Seas! These prizes will be presented to the best projects that participate in the final judging phase at the closing ceremony.",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "Frameless 1440p 144Hz 1ms IPS Gaming Monitor",
+          "Sony 1000xm3 headphones",
+          "Polaroid Camera"
+        ]
+      },
+      {
+        "name": "Student Government Challenge (UTD Students Only)",
+        "sponsor": "Student Government",
+        "description": "With the pandemic shifting nearly everything to virtual formats, many people have started using platforms like Discord to stay in touch with friends and classmates alike. SG challenges you to make a helpful discord bot for classes!",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "Nintendo Switch",
+          "Megaboom 3 Speaker"
+        ]
+      },
+      {
+        "name": "UTD Office of Sustainability Challenge (UTD Students Only)",
+        "sponsor": "UTD Office of Sustainability",
+        "description": "Develop a mobile app that will help the UT Dallas members curb landfill waste through education and a waste-tracking system.",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "Ipad Eight Gen + Apple Pen",
+          "Solar Power Charger"
+        ]
+      },
+      {
+        "name": "Capital One Challenge",
+        "sponsor": "Capital One",
+        "description": "Capital One is offering prizes for the Best Financial Hack. This can be anything financially related, from building predictive financial models to crypto currency. One sure way to be entered for our prize is to use the Nessie API. If you're unsure if your idea is eligible, please ask one of the Capital One mentors. To learn more: api.nessieisreal.com",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "$250 for each member of the winning team"
+        ]
+      },
+      {
+        "name": "eBay Challenge",
+        "sponsor": "eBay",
+        "description": "eBay makes it easy to buy and sell on eBay from anywhere online. We want to see innovation and creativity, and will award awesome prizes for the best use of the eBay APIs! Please note that you will need an eBay Developer Account in order to access the eBay APIs. Don't have one? We've got you covered; check the #ebay-1 channel in the Discord for further details.",
+        "prize_categories_title": "Prizes will be in 3 categories:",
+        "prize_categories": [
+          "Innovation",
+          "Visual",
+          "Usefulness"
+        ],
+        "prizes_title": "Prizes",
+        "prizes": [
+          "$200 digital eBay gift card for each member of the winning team in each of the 3 categories"
+        ]
+      },
+      {
+        "name": "State Farm Challenge",
+        "sponsor": "State Farm",
+        "description": "State Farm is more than just an insurance company. It's a provider of solutions for your life, not just your stuff. State Farm is here to help life go right.® Your challenge is to provide a technical solution which can help the people of Texas bounce back from the winter storm.",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "Oculus Quest",
+          "Nintendo Switch",
+          "Raspberry Pi 4"
+        ]
+      },
+      {
+        "name": "SignaPay Challenge",
+        "sponsor": "SignaPay",
+        "description": "Create an application that can Webscrape the internet to identify illegal activity.",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "Shortlist for interviews for future interns and networking opportunities"
+        ]
+      },
+      {
+        "name": "MLH Challenge #1: Best use of Domain.com",
+        "sponsor": "MLH / Domain.com",
+        "description": "Register a .tech, .space, or .online domain name using Domain.com during the hackathon.",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "PowerSquare Qi Wireless Phone Charger & Domain.com Backpack"
+        ]
+      },
+      {
+        "name": "MLH Challenge #2: Best use of google cloud",
+        "sponsor": "MLH / Google Cloud",
+        "description": "Build your project with a suite of secure storage, powerful compute, and integrated data analytics by Google Cloud. See full list of products at g.co/cloud",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "If winning team members are in the US, they will receive a Google Cloud Swag Bag. If international, they will recieve a Google-branded Parkland backpack"
+        ]
+      },
+      {
+        "name": "MLH Challenge #3: Best hardware hack by digi key",
+        "sponsor": "MLH / Digi-Key",
+        "description": "Using your preferred hardware or hardware emulator, build a hack for your chance to win a Grove Beginner Kit, with an embedded Arduino compatible board.",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "Grove Beginner Kit, for each member of two winning teams!"
+        ]
+      },
+      {
+        "name": "MLH Challenge #4: Best use of CockroachDB",
+        "sponsor": "MLH / CockroachDB",
+        "description": "Build your hackathon project on CockroachDB's open source and indestructible SQL database. What's more, ALL projects submitted that use CockroachDB will receive a free t-shirt!",
+        "prizes_title": "Prizes",
+        "prizes": [
+          "3D Printing Pen for each member of the winning team"
+        ],
+        "additional_reward": "Everyone who submits gets a Free T-Shirt!"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "list": [
+      {
+        "question": "What is a hackathon?",
+        "answer": "A hackathon is a 24-hour competition where you and up to 3 of teammates can build a software project from scratch and submit it for prizes. Sponsors will be providing workshops, events, and a bunch of activities throughout the weekend for you to learn and innovate!"
+      },
+      {
+        "question": "I have never hacked before, can I still participate?",
+        "answer": "That’s totally okay! No experience is required to attend a hackathon. We will be hosting a series of workshops to get hackers introduced to new programs and technology. And you’ll be able to find a team at the event!"
+      },
+      {
+        "question": "What if I don’t have a team?",
+        "answer": "We’ll be having a teambuilding session at the start of the event to help those who don’t have teams! If you want your team to consist of just you, that's ok too!"
+      },
+      {
+        "question": "Do I need any materials?",
+        "answer": "You’ll just need a laptop and internet to participate! A compiler, packages, or any large packaging tools are also recommended to have ready beforehand too!"
+      },
+      {
+        "question": "When is HackUTD VII Seas?",
+        "answer": "February 27th-28th, 2021"
+      },
+      {
+        "question": "When is registration?",
+        "answer": "Registration opened on November 6th, 2020 and ends February 18th, 2021"
+      },
+      {
+        "question": "What’s the cost?",
+        "answer": "There is no cost! Completely free to hackers!"
+      },
+      {
+        "question": "Virtual hackathon? How does that work?",
+        "answer": "The HackUTD Team has been hard at work to bring you the best possible hackathon experience virtually! We will be using a virtual platform to bring as much of the fun of an in-person hackathon as possible to your homes!"
+      },
+      {
+        "question": "What are the general rules?",
+        "answer": "The whole project must be built over the course of the weekend, you can’t demo anything you didn’t build, and everyone that attends the event (participants, mentors, volunteers, etc) must abide to the MLH code of conduct."
+      },
+      {
+        "question": "Can I use past projects?",
+        "answer": "It wouldn’t be a hackathon if it wasn’t new! You may not submit a project that you’ve used for other hackathons and you cannot submit your project from HackUTD VII to other hackathons."
+      },
+      {
+        "question": "But what should I build?",
+        "answer": "You can build anything you want! Sponsors will be providing challenges for you to solve or you can submit something for the HackUTD awards. You can do both as well!"
+      },
+      {
+        "question": "What about Hardware Projects?",
+        "answer": "Unfortunately we cannot provide hardware this year. If you have the hardware and materials you are more than welcome to still submit hardware projects!"
+      },
+      {
+        "question": "What about volunteering?",
+        "answer": "Mentor and volunteer applications are closed."
+      },
+      {
+        "question": "Will there still be swag?",
+        "answer": "Swag will be given out to participants by mail to those that submit a project and live in the continental USA."
+      }
+    ]
+  },
+  "contact": {
+    "prompt": "Questions? Contact us!",
+    "email": "hello@hackutd.co"
+  },
+  "sponsors_section": {
+    "title": "SPONSORS",
+    "note": "Sponsor logos were present on the website but not provided in the text."
+  },
+  "footer": {
+    "text": "Made with 🐠 by HackUTD."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "projectName": "Stellar",
+  "tagline": "A Blast of Positivity :)",
+  "hackathon": "HackUTD IX",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "It's becoming increasingly common for people to feel isolated now more than ever despite having a plethora of different means of communication readily available for users to connect with others anywhere at anytime. According to a 2022 study on Social Disconnectedness and Perceived Isolation conducted by the American Heart Association, social isolation and loneliness are associated with about a 30% increased risk of heart attack, stroke, or death. The paper also describes Gen Z as the \"loneliest generation.\" With both these physical and mental health problems combined, we felt motivated to build an application to help not only connect users regardless of distance or time, but that also addressed some of the current issues seen in some of today's already existing social media platforms.",
+    "whatItDoes": "Our web app is designed to provide users a more personal connection with their friends through \"shooting stars\" or personalized daily messages/responses that complete a constellation! Each day, users are prompted with a question or positive message to send to their friends. Each time both a user and their friend share their responses with each other, they gain a star in a randomized constellation that users can collect as badges to fill their night sky page and share with others. Through the utilization of gamification alongside a shared goal with another person, we hope users feel a greater motivation to stay connected with friends on a personal level, rather than displaying a skewed version of their life to a follower base. The app also includes other fun features such as daily fun facts about space, a countdown until the user's next meetup with their friend, and the option to share ideas for activities to do together!",
+    "howWeBuiltIt": "When building Stellar, our team used JavaScript, HTML, CSS and React.JS to create the website. We also learned how to use fetch API's, Firebase for user authentication, as well as Figma when designing the mobile app.",
+    "challengesWeRanInto": "Throughout the development of Stellar, each of our members had to learn new technologies to work on and complete our respective tasks. As we knew we'd be working on certain feature simultaneously, we also made it a point to learn about proper folder structure and file/route organization to avoid confusion and inefficiency toward the end of the project's development. Time management was the most obvious challenge we knew we'd be facing, but we also didn't anticipate how long it would take to get stand alone features to work on their own before integrating them with the rest of the website. Many hours were spent trying numerous solutions, however, after sharing ideas and possible solutions, we were able to help each other and finally complete a finished product.",
+    "accomplishmentsWeAreProudOf": "As this was our members' first Hackathon, we're all extremely proud of each other for not only learning how to use this tech stack in 24 hours, but also simply being able to put together a project that we're all proud of and feel passionate about in such a short amount of time! We were able to swiftly delegate roles while learning about the project development cycle. After seeing both our website that we created from scratch as well as an incredible app prototype, we all definitely felt inspired to continue learning, building, and working on projects we feel passionate about!",
+    "whatWeLearned": "As members with little to no experience in web development and technical project creation, each of our members definitely gained a greater understanding of what goes into creating a website that both looks appealing, is intuitive to use, and has actual functionality. We also learned how each other worked under pressure, allowing us to delegate roles based off of our strengths while still also being able to recognize and improve upon our weaknesses.",
+    "whatIsNext": "We'd love to continue working on this project as we all think it's a super fun idea that brings a creative solution to one of the biggest issues plaguing the next generation today. As we continue to recover from the Covid-19 pandemic, we think it's important to recognize some of the major flaws in our daily lives that were exposed over the past few years. One of those being a devastating mental health crisis with social isolation, fabricated facades, and lack of overall genuine connections. We look forward to continuing improving the website, finalizing different features, and turning it into a functional mobile app!"
+  },
+  "builtWith": [
+    "css",
+    "figma",
+    "firebase",
+    "html",
+    "javascript",
+    "react.js"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "bnk5hr.csb.app",
+      "url": "https://bnk5hr.csb.app"
+    },
+    {
+      "label": "docs.google.com",
+      "url": "https://docs.google.com"
+    }
+  ],
+  "prizes": [
+    "Winner Beginner Track"
+  ],
+  "team": [
+    {
+      "name": "Bradley Mixon",
+      "username": "Bradley Mixon",
+      "contribution": "Computer Science @ UTD"
+    },
+    {
+      "name": "shannonmcarter18 Carter",
+      "username": "shannonmcarter18 Carter",
+      "contribution": null
+    },
+    {
+      "name": "Jaszmine DeFranco",
+      "username": "Jaszmine DeFranco",
+      "contribution": "Computer Science at UTD"
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "Jaszmine DeFranco",
+      "timestamp": "3 years ago",
+      "content": "Jaszmine DeFranco started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

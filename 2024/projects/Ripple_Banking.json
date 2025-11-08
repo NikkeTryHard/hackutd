@@ -1,0 +1,63 @@
+{
+  "projectName": "Ripple Banking",
+  "tagline": "Making big name bank loans accessible locally through trusted micro-banking hubs",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Access to reliable financial services remains a significant challenge for unbanked and underbanked individuals, particularly in rural and underserved areas. As of 2023, approximately 5.6 million U.S. households were unbanked. In rural communities, the scarcity of bank branches exacerbates this issue. Residents often have to travel long distances to access banking services, leading many to rely on alternative financial services like payday lenders and check-cashing outlets, which can be costly and less secure.\n\nOn the other hand, the National Endowment for Financial Education conducted two surveys to assess consumer trust in financial institutions before and after the banking crises in March 2023. The first survey, conducted in February 2023, found that 45% of U.S. adults agreed with the statement, \"I have faith and confidence in the financial system.\" After the banking crises, a follow-up survey in April 2023 showed a decline to 39% agreement, indicating a decrease in confidence.\n\nHow can we tackle peoples distrust in the banking industry and expand availability of financial services to unbanked and underbanked individuals?",
+    "whatItDoes": "By allowing small business owners to act as \"microbanks,\" our product is able to bridge this gap between community trust and the security of large, established banks. Our product offers a pop-up microbanking service via a full-stack application that connects:\n\nConsumers who want to bank with trusted institutions but lack direct access.\nSmall business owners who can act as intermediaries, taking loans from large banks to offer banking services to their communities.\nThe app allows:\nConsumers to locate and choose nearby microbanks through a user-friendly map interface.\nLenders to apply for loans from major banks and manage their lending operations.\nAI-powered background checks for both borrowers and lenders, ensuring trust and compliance.",
+    "impact": "Increased Financial Inclusion\nProvides unbanked and underbanked individuals access to financial services, empowering them to save, borrow, and transact securely.\nHelps bridge the gap for rural and underserved communities lacking physical bank branches.\nCommunity Empowerment\nLeverages the trust small business owners have in their local communities, fostering stronger local economic relationships.\nEmpowers small business owners to play a pivotal role in community development.\nEconomic Growth\nEncourages circulation of money within communities, boosting local economies.\nFacilitates access to loans and credit, enabling individuals and small businesses to grow.\nEnhanced Trust and Security\nBuilds on the inherent trust between small business owners and their communities.\nIncorporates AI-powered background checks to ensure compliance and mitigate fraud",
+    "howWeBuiltIt": "Python, JavaScript, HTML/CSS, Machine Learning, Data Analysis, Mapping API's, Market API's, Databases",
+    "challenges": "Integrating our python backend into our frontend\nCollecting the data\nCustomizing the Google Map API",
+    "accomplishments": "Frontend development (the ui is really nice)\nML model + heat map development\nIntegration of frontend with backend and database",
+    "whatWeLearned": "Frontend Development\nLoan Application Process\nFinancial Terms\nMicrobanking",
+    "whatsNext": "Enhance AI Models, add more features, market our product"
+  },
+  "builtWith": [
+    "css",
+    "flask",
+    "html",
+    "javascript",
+    "ml",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner General"
+  ],
+  "team": [
+    {
+      "name": "Yeshas Nath",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Neil Agrawal",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Ajay Jayanth",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "David Roh",
+    "Yeshas Nath"
+  ],
+  "updates": [
+    {
+      "author": "Yeshas Nath",
+      "timestamp": "12 months ago",
+      "content": "Yeshas Nath started this project"
+    }
+  ],
+  "comments": []
+}

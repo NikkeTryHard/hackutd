@@ -1,0 +1,70 @@
+{
+  "projectName": "Toyota Trips",
+  "tagline": "Want to keep track of your friends and family's locations while on a trip? Our app will help you figure out your friends and/or family members' locations through their vehicles instead of chat.",
+  "hackathon": "HackUTD IX",
+  "likes": 7,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "When searching for convoys, it can not only be a struggle just to find one but nearly impossible to find one with a sense of community. We all share a love of cars and exploring beautiful locations with one another, which led us to develop a platform where drivers can browse upcoming trips and view details of each trip.",
+    "whatItDoes": "Toyota Trips is a multifaceted app whose main function is to share upcoming trips with those in the Toyota family. Any Toyota driver can register for the app with a very simple verification process. Users can browse drivers created by others or make their own adventures. One of the biggest value propositions of Toyota Trips is the ability to remain connected and communicate during trips. Anything from needing gas to wanting to eat can easily be shared with all drivers participating in the event. Lost a driver? No problem, all active drivers during a trip can view the progress of their fellow drivers.",
+    "howWeBuiltIt": "Swift is the basis for Toyota Trips. We made use of the MapKit API to integrate Apple Maps information directly into the app to allow users to explore trips and guide them along trips of their own. The design process took place in a collaborative Figma environment which allowed for rapid prototyping and refined final products. Collaboration was key to our success. We all helped one another solve technical problems and gave helpful input into key design decisions.",
+    "challengesWeRanInto": "Our initial development track had us using Flutter, however, after trying to set up an Android studio environment and experiencing troubles, we quickly pivoted to Swift. This decision was ultimately the right one for the team but posed challenges as not all of us have a Mac. Our next key roadblock was the implementation of paths between two locations in MapKit. The conversion of addresses into coordinates messed with the pathing algorithm.",
+    "accomplishmentsWeAreProudOf": "Our use of the MapKit API is what we are most proud of. To implement such a large feature where none of us had previous experience and still create such a powerful tool is impressive. We are also proud of our UI/UX design. Its seamless design and user-friendly interface allows users to easily plan and join trips, which was one of our initial goals. We couldn’t be happier with what we created together.",
+    "whatWeLearned": "Besides learning how to use Figma, Xcode, and MapKit we learned how to effectively share assets and ideas in a rapidly developing environment. Dedicating considerable time to planning our app before beginning developing proved invaluable to the overall production experience. Unlike our past Hackathon experiences, we learned how to have fun and remain stress-free while working on a project we are all passionate about.",
+    "whatIsNext": "There are many exciting features yet to be implemented in Toyota Trips! This includes using geocoding to allow users to see a fully integrated Apple Maps on the Toyota Trips app, a chat feature to discuss important information while on a trip, as well as a blog feature that will show details on upcoming and past trips."
+  },
+  "builtWith": [
+    "figma",
+    "mapkit",
+    "swift",
+    "xcode"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Toyota"
+  ],
+  "team": [
+    {
+      "name": "Manish Mallik",
+      "username": "Manish Mallik",
+      "contribution": "I worked on designing the screens in Figma and used those to help design some of the screens in Swift for Toyota Trips."
+    },
+    {
+      "name": "Rohit Ramarathinam",
+      "username": "Rohit Ramarathinam",
+      "contribution": "I worked on integration of Apple Maps to Toyota Trips, making use of MapKit API and forward geocoding to convert addresses into coordinates."
+    },
+    {
+      "name": "Nathan Crawford",
+      "username": "Nathan Crawford",
+      "contribution": null
+    },
+    {
+      "name": "Pramith Prasanna",
+      "username": "Pramith Prasanna",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Manish Mallik",
+    "Nathan Crawford",
+    "preeti_mohite",
+    "Pramith Prasanna",
+    "Shoaib Huq",
+    "Aarian Ahsan",
+    "Nirranjan Akilan"
+  ],
+  "updates": [
+    {
+      "author": "Manish Mallik",
+      "timestamp": "3 years ago",
+      "content": "Manish Mallik started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

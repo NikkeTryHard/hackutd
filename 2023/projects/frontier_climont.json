@@ -1,0 +1,55 @@
+{
+  "projectName": "Frontier ClimONT",
+  "tagline": "Keeping your ONT at stable temperatures all year long",
+  "hackathon": "HackUTD X",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Optical fiber boxes are installed outside of the house to establish an external connection. As the boxes are outside, they are in different and sometimes extreme environmental conditions all year round. We set out to design an enclosure that would both control the temperature and prevent any extreme weather from getting inside.",
+    "whatItDoes": "Our design expands on the current IP67 box that holds the ONT. It incorporates a dual chamber design which protects it from extreme weather while allowing heat exchange. The design has three heatsinks around the ONT, TEC pads, and two fans which circulate the air through the outside chamber. The system contains a low-power microcontroller to control the fans and TECs.",
+    "howWeBuiltIt": "We created the design in Fusion360 to allow us to accurately model the ambient temperatures and air flow. Through iterative design, we have narrowed down a good heatsink configuration.",
+    "challengesWeRanInto": "The biggest challenge we ran into was the speed of iterative design. Each simulation we ran took more than 30 minutes which slowed down our ability to improve the design. We also ran into thermal issues as we are not experienced in thermal design.",
+    "accomplishmentsWeAreProudOf": "We are proud of coming up with a dual chamber IP67 design with extreme temperature control.",
+    "whatWeLearned": "We learned how to use Fusion360 for simulations and acquired experience on how to build thermally efficient systems.",
+    "whatIsNext": "We are hoping this system will be adopted by Frontier."
+  },
+  "builtWith": [
+    "autodesk-fusion-360"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "youtu.be",
+      "url": "https://youtu.be"
+    },
+    {
+      "label": "a360.co",
+      "url": "https://a360.co"
+    }
+  ],
+  "prizes": [
+    "Winner Frontier"
+  ],
+  "team": [
+    {
+      "name": "Adam Szumski",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Charlie Mahana",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Alexis Kaufman"
+  ],
+  "updates": [
+    {
+      "author": "Adam Szumski",
+      "timestamp": "2 years ago",
+      "content": "Adam Szumski started this project"
+    }
+  ],
+  "comments": []
+}

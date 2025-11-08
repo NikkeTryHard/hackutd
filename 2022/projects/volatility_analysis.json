@@ -1,0 +1,60 @@
+{
+  "projectName": "VolatilityAnalysis",
+  "tagline": "Tracking the volatility of future returns based on portfolio allocation.",
+  "hackathon": "HackUTD IX",
+  "likes": 2,
+  "commentsCount": 0,
+  "story": {
+    "description": "For this project we created a dashboard to visualize relative risk between different classes of securities. The dashboard also allows a user to analyze the relative risk of their portfolio based on their allocation to different classes of securities and compare to different allocations.\n\nThis dashboard is deployed on AWS using AWS Amplify and the backend is hosted on AWS Lambda and connected to the front end using API Gateway. This makes our app 100% serverless allowing for practically unlimited scalability and high availability."
+  },
+  "builtWith": [
+    "amazon-web-services",
+    "lambda",
+    "python",
+    "react",
+    "rest"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Goldman Sachs"
+  ],
+  "team": [
+    {
+      "name": "Nahyan Munawar",
+      "username": "Nahyan Munawar",
+      "contribution": null
+    },
+    {
+      "name": "saakethkoka Koka",
+      "username": "saakethkoka Koka",
+      "contribution": null
+    },
+    {
+      "name": "Ifrit Maruf",
+      "username": "Ifrit Maruf",
+      "contribution": null
+    },
+    {
+      "name": "Hamza Khawaja",
+      "username": "Hamza Khawaja",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Hamza Khawaja",
+    "Nahyan Munawar"
+  ],
+  "updates": [
+    {
+      "author": "saakethkoka Koka",
+      "timestamp": "3 years ago",
+      "content": "saakethkoka Koka started this project\n\nLeave feedback in the comments!"
+    }
+  ],
+  "comments": []
+}

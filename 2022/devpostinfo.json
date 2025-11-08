@@ -1,0 +1,410 @@
+{
+  "website": "Devpost",
+  "page": {
+    "header": {
+      "brand": "Devpost",
+      "navigation": [
+        "Join a hackathon",
+        "Host a hackathon",
+        "Resources"
+      ],
+      "userActions": [
+        "Log in",
+        "Sign up"
+      ]
+    },
+    "hackathon": {
+      "name": "HackUTD IX",
+      "navigationTabs": [
+        "Overview",
+        "My projects",
+        "Participants (680)",
+        "Rules",
+        "Project gallery",
+        "Updates",
+        "Discussions"
+      ],
+      "overview": {
+        "title": "HackUTD IX",
+        "tagline": "Blast off at HackUTD IX",
+        "status": "This hackathon has ended",
+        "postEventActions": [
+          "Find more hackathons",
+          "View the winners"
+        ],
+        "details": {
+          "participation": {
+            "title": "Who can participate",
+            "rules": [
+              "Above legal age of majority in country of residence",
+              "College students only",
+              "All countries/territories, excluding standard exceptions"
+            ],
+            "links": [
+              "View full rules",
+              "View schedule"
+            ]
+          },
+          "schedule": {
+            "dates": "Nov 12 – 13, 2022",
+            "location": "ECSW @ UT Dallas",
+            "type": "Public"
+          },
+          "statistics": {
+            "prize_pool": "$59,773 in prizes",
+            "participant_count": "680 participants"
+          },
+          "organizer": "hackutd",
+          "tags": [
+            "Beginner Friendly",
+            "Open Ended",
+            "Social Good"
+          ]
+        },
+        "description": "HackUTD, the largest university hackathon in Texas, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make.",
+        "prize_note": "Note on Prizes: Each member of the winning teams will get a prize",
+        "requirements": {
+          "title": "Requirements",
+          "list": [
+            "Every Sponsor prize a hacker wants to be judged on must be tagged in the devpost submission."
+          ]
+        },
+        "prizes": {
+          "title": "Prizes",
+          "total_value": "$59,773 in prizes",
+          "categories": [
+            {
+              "name": "HackUTD General",
+              "winner_count": "3 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "iPad Mini"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "27\" ASUS Computer Monitors"
+                },
+                {
+                  "place": "3rd Place",
+                  "reward": "AirPods Pro"
+                }
+              ]
+            },
+            {
+              "name": "Toyota",
+              "winner_count": "3 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "JBL Live Pro + TWS & 12 Months of Sirius XM Subscription & Toyota Supercharged Backpack ($125 value)"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "JBL Clip 4 & 6 Months of Sirius XM Subscription"
+                },
+                {
+                  "place": "3rd Place",
+                  "reward": "JBL Go 3 & 6 Months of Sirius XM Subscription"
+                }
+              ]
+            },
+            {
+              "name": "Goldman Sachs",
+              "winner_count": "4 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "AirPods Max"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "Apple TV"
+                },
+                {
+                  "place": "3rd Place",
+                  "reward": "$35 Grubhub Giftcard"
+                }
+              ]
+            },
+            {
+              "name": "State Farm",
+              "winner_count": "3 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "34” LG Ultrawide Monitor"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "iPad 64GB"
+                },
+                {
+                  "place": "3rd Place",
+                  "reward": "Beats Studio 3"
+                }
+              ]
+            },
+            {
+              "name": "EOG Resources",
+              "winner_count": "2 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "DJI Mini SE"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "Skullcandy Crusher Evo Bluetooth Headphones"
+                }
+              ]
+            },
+            {
+              "name": "RingCentral",
+              "winner_count": "2 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "Apple AirPods Pro + Carrying Case"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "$150 Amazon gift card"
+                }
+              ]
+            },
+            {
+              "name": "CBRE",
+              "winner_count": "3 winners",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "$125 Amazon e-gift card"
+                },
+                {
+                  "place": "2nd Place",
+                  "reward": "$75 Amazon e-gift card"
+                },
+                {
+                  "place": "3rd Place",
+                  "reward": "$50 Amazon e-gift card"
+                }
+              ]
+            },
+            {
+              "name": "Capital One",
+              "winner_count": "1 winner",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "$250 Amazon Gift Cards"
+                }
+              ]
+            },
+            {
+              "name": "Hardware Track",
+              "winner_count": "1 winner",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "Ender 3 3-D Printers"
+                }
+              ]
+            },
+            {
+              "name": "Beginner Track",
+              "winner_count": "1 winner",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "JBL Flip 5"
+                }
+              ]
+            },
+            {
+              "name": "Design Track",
+              "winner_count": "1 winner",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "Wacom Drawing Tablet"
+                }
+              ]
+            },
+            {
+              "name": "Nebula Labs",
+              "winner_count": "1 winner",
+              "placements": [
+                {
+                  "place": "1st Place",
+                  "reward": "USB Microphone"
+                }
+              ]
+            },
+            {
+              "name": "Best Use of Auth0 [MLH]",
+              "winner_count": "1 winner",
+              "description": "Auth0 wants your applications to be secure! Use any of the Auth0 APIs for a chance to win some exclusive swag, including a 12oz tumbler, Rubik's Cube, and sticker! Why spend hours building features like social sign-in, Multi-Factor Authentication, and passwordless log-in when you can enable them through Auth0 straight out of the box? Save some time on your hack and set yourself up for a big win. It doesn't take much to get started. Auth0 is free to try, no credit card required, with up to 7,000 free active users and unlimited log-ins. Make your new account today!"
+            },
+            {
+              "name": "Best use of Google Cloud [MLH]",
+              "winner_count": "1 winner",
+              "description": "Build your hackathon project with a suite of secure storage, powerful compute, and integrated data analytics products provided by Google Cloud. See full list of products here: g.co/cloud. Winners will receive a Google Cloud branded backpack!"
+            },
+            {
+              "name": "Best Domain Name from Domain.com [MLH]",
+              "winner_count": "1 winner",
+              "description": "Register a .Tech domain name using Domain.com during the weekend for your chance to win a Domain.com branded backpack for you and each member of your team! Each team may submit one entry per person on the team. The more creative the domain the better!"
+            },
+            {
+              "name": "Best Use of Velo by Wix [MLH]",
+              "winner_count": "1 winner",
+              "description": "We know how difficult it can be to create a phenomenal website in a short period of time, especially when it comes to hackathons. Velo by Wix cuts down your development without sacrificing on functionality! With a built-in database and fully customizable JavaScript front-end and back-end, you can develop a full-stack application directly in your browser. With Velo, all the tools you need are conveniently located in one platform! Build your hackathon project with Velo by Wix for a chance to win Wacom Drawing Tablets for you and each of your teammates."
+            },
+            {
+              "name": "Best Sustainability Hack sponsored by Avanade [MLH]",
+              "winner_count": "1 winner",
+              "description": "Avanade has put sustainable tech at the forefront of their ongoing mission! Sustainability is about conserving an ecological balance by avoiding depletion of natural resources and focusing efforts to reduce and improve the environmental impact of technology, processes, and operations on our planet and society. For your hackathon project, we want you to make a genuine human impact using your ingenuity to address sustainability through an innovative use of technology. Demonstrate how you can create a more sustainable future and help the environment. As an added bonus, the team with the best sustainability hack will be rewarded with awesome lego sets!"
+            }
+          ]
+        },
+        "judges": {
+          "title": "Judges",
+          "list": [
+            {
+              "name": "Vishvak Bandi"
+            },
+            {
+              "name": "Vishvak Bandi"
+            }
+          ]
+        },
+        "judging_criteria": {
+          "title": "Judging Criteria",
+          "criteria": [
+            {
+              "name": "Technology",
+              "description": "How difficult is the hack?"
+            },
+            {
+              "name": "Design",
+              "description": "How was the user experience?"
+            },
+            {
+              "name": "Learning",
+              "description": "Have you worked something similar or is this new?"
+            },
+            {
+              "name": "Completion",
+              "description": "Does it work?"
+            }
+          ],
+          "presentation_instructions": {
+            "icon": "Gavel",
+            "text": "For general judging, present your project to the judge for 3-5 minutes about your app, how you built it, your challenges, and a demo"
+          },
+          "contact_info": "Questions? Email the hackathon manager"
+        },
+        "sponsors": {
+          "title": "Hackathon sponsors",
+          "list": [
+            "Toyota",
+            "State Farm",
+            "EOG Resources",
+            "Goldman Sachs",
+            "CBRE",
+            "Texas Instruments",
+            "Axxess",
+            "Ring Central",
+            "Capital One",
+            "L3Harris",
+            "Fidelity Investments",
+            "MLH"
+          ]
+        },
+        "recaptcha_notice": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+      },
+      "rules": {
+        "title": "Rules",
+        "introduction": "We follow the MLH rules, MLH Code of Conduct, and UTD Code of Conduct.",
+        "eligibility": "Directors, Organizers, Volunteers, Mentors, Sponsors, Vendors, and anyone affiliated with operations behind HackUTD are NOT eligible to submit a project.",
+        "project_rules": [
+          "All projects must be started at HackUTD. Prior ideas are fine, but no pre-existing projects.",
+          "Maximum Team Size of 4 for prizes.",
+          "All Team members must be added to the Devpost submission.",
+          "Must be submitted before the 12 pm deadline. This is a HARD stop and submissions after this time will NOT be considered."
+        ]
+      }
+    },
+    "similar_hackathons": {
+      "title": "Similar hackathons",
+      "list": [
+        {
+          "location": "Online",
+          "name": "Student Innovators Without Borders Hacks (Students; Open Ended)",
+          "time_left": "about 1 month left",
+          "dates": "Aug 17 - Dec 19, 2025",
+          "prizes": "$1,600 in prizes",
+          "participants": "469 participants"
+        },
+        {
+          "location": "Online",
+          "name": "EY Techathon 6.0",
+          "time_left": "8 days left",
+          "dates": "Nov 03 - 15, 2025",
+          "prizes": "₹ 500,000 in prizes",
+          "participants": "66 participants"
+        }
+      ]
+    },
+    "footer": {
+      "brand": "Devpost",
+      "sections": [
+        {
+          "title": "About",
+          "links": [
+            "Careers",
+            "Contact",
+            "Help"
+          ]
+        },
+        {
+          "title": "Hackathons",
+          "links": [
+            "Browse hackathons",
+            "Explore projects",
+            "Host a hackathon",
+            "Hackathon guides"
+          ]
+        },
+        {
+          "title": "Portfolio",
+          "links": [
+            "Your projects",
+            "Your hackathons",
+            "Settings"
+          ]
+        },
+        {
+          "title": "Connect",
+          "links": [
+            "Twitter",
+            "Discord",
+            "Facebook",
+            "LinkedIn"
+          ]
+        }
+      ],
+      "legal": {
+        "copyright": "© 2025 Devpost, Inc. All rights reserved.",
+        "links": [
+          "Community guidelines",
+          "Security",
+          "CA notice",
+          "Privacy policy",
+          "Terms of service"
+        ]
+      }
+    }
+  }
+}

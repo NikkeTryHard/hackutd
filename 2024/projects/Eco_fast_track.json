@@ -1,0 +1,85 @@
+{
+  "projectName": "Eco Fast Track",
+  "tagline": "A smart water management tool that helps households and property managers optimize water usage, save on utilities, and promote conservation through personalized insights and community-driven data.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "After conducting research on the primary expenses faced by property managers, we identified faulty water gauges as a significant issue. Property managers often depend on tenants to report problems or must coordinate inconvenient check-ins to identify issues. To address this, we developed an intuitive web application designed to streamline the process, allowing property managers to proactively manage water usage without awkward tenant interactions. At the same time, tenants gain an engaging, community-focused experience that promotes sustainability. Drawing inspiration from the popularity of visually appealing and personalized data presentations, we aimed to create a solution that’s both practical and fun—combining functionality with a touch of a \"Spotify Wrapped\" vibe to make data meaningful and enjoyable.",
+    "whatItDoes": "Our tool uses smart gauge sensors to monitor water temperature and flow, providing real-time insights into usage. It aggregates data over time, compares it to global benchmarks, and uses AI to offer personalized water-saving recommendations. Property managers can proactively address inefficiencies, while tenants receive automated email alerts if their usage exceeds the average. With an optional community-sharing feature and engaging, user-friendly visuals, the platform promotes accountability, sustainability, and collaboration.",
+    "impact": null,
+    "howWeBuiltIt": "Using the IoT grover kit (specifically the temperature, potentiometer, and an LCD) as our smart gauge sensor to provide the data to a webpage via serial. On the software end python, Node.Js, Gemini, Pinata, and Next.Js are used to give tenants personal advice based on their own sensor aggregations and for plot development.",
+    "challenges": "Originally planning to use wifi module however a successful connection was very rare\nSpent 3 hours trying to get the LCD to turn on and it turned out being due to an incompatible arduino board with the grove kit.\n3D printed encasement did not fit all components so there was a bit of improvising there.",
+    "accomplishments": "Getting past all of the challenges\nFinding a solution that incorporated gathering a community and using software, hardware and data presentation.",
+    "whatWeLearned": "How to work with a wifi module, to account for clearance next time when Cad-ding a part, and lastly how to debug IoT devices.",
+    "whatsNext": "Incorporating other renewable elements like using solar to encourage a minimized use of electricity when it comes to natural lighting. This includes, Incorporating renewable solutions, such as solar power, to reduce electricity consumption by maximizing natural lighting. Another feature is a drop in water pressure may indicate a leak and detect pressure spikes from freezing expansion."
+  },
+  "builtWith": [
+    "3d-printer",
+    "arduino",
+    "c++",
+    "cad",
+    "canva",
+    "figma",
+    "gemini",
+    "iot",
+    "next.js",
+    "node.js",
+    "pinata",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "Figma",
+      "url": "https://www.figma.com"
+    },
+    {
+      "label": "Canva",
+      "url": "https://www.canva.com"
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Veolia",
+    "Winner CBRE"
+  ],
+  "team": [
+    {
+      "name": "Srinidhi Malladi",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Allison Pham",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "meyli1 Colmenero",
+      "username": "meyli1",
+      "contribution": null
+    },
+    {
+      "name": "Fernando Portillo",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "meyli1 Colmenero",
+    "Aadesh Senthilkumar",
+    "Trí Phạm",
+    "Srinidhi Malladi"
+  ],
+  "updates": [
+    {
+      "author": "Srinidhi Malladi",
+      "timestamp": "12 months ago",
+      "content": "Srinidhi Malladi started this project"
+    }
+  ],
+  "comments": []
+}

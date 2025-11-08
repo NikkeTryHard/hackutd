@@ -1,0 +1,83 @@
+{
+  "projectName": "Smart Sign",
+  "tagline": "Alert anyone with a few clicks away.",
+  "hackathon": "HackUTD VII",
+  "likes": 0,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "We were inspired by the recent Winter Storm that occurred in Texas. We were concerned about people's inability to reach to loved ones or emergency services during power outages.",
+    "whatItDoes": "Using a low powered emergency communication device , we can send and receive data from the web app.",
+    "howWeBuiltIt": "We built our project using an ESP-8266 with on board Arduino code that talks to a web app hosted on firebase.",
+    "challengesWeRanInto": {
+      "apiConnection": {
+        "title": "API Connection to Web Server",
+        "description": "We faced a major challenge in establishing API connection to the web server."
+      },
+      "hardwareAssembly": {
+        "title": "Lack of Soldering Iron",
+        "description": "Also, we did not have a soldering iron which hindered ability to connect the electrical components in a professional manner."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "integrationAndMotive": {
+        "title": "Low Cost Integration and Motive",
+        "description": "We are proud of our low cost hardware and software integration. Also, we are proud of our motive, for we saw how many people struggled with lack of electricity in Texas. Our team also worked with many technologies with which group members were not familiar with."
+      }
+    },
+    "whatWeLearned": "We learned how to make http request from a micro controller. We also learned how to control APIs using a hardware.",
+    "whatIsNext": "We want to integrate weather, google calendar and capital bank APIs in our web app."
+  },
+  "builtWith": [
+    "arduino",
+    "css",
+    "firebase",
+    "google-cloud-hosting",
+    "html",
+    "javascript",
+    "twilio"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "morseproject-98f0c.firebaseapp.com",
+      "url": null
+    },
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner MLH Best Hardware Hack Sponsored by Digi-Key"
+  ],
+  "team": [
+    {
+      "name": "mariam joseph",
+      "username": "mariam joseph",
+      "contribution": "With the help of my team members, I learned how to create our Smart Sign website using html and css. Through this project, I was also able to gain an exposure to Firebase application."
+    },
+    {
+      "name": "Leonardo Acioli Arruda Sampaio",
+      "username": "Leonardo Acioli Arruda Sampaio",
+      "contribution": "I used a lot of back-end, and dealing with APIs and HTTP requests was something new for me"
+    },
+    {
+      "name": "Ved Sharma",
+      "username": "Ved Sharma",
+      "contribution": null
+    },
+    {
+      "name": "A8s S",
+      "username": "A8s S",
+      "contribution": null
+    }
+  ],
+  "likesBy": [],
+  "updates": [
+    {
+      "author": "mariam joseph",
+      "timestamp": "5 years ago",
+      "content": "mariam joseph started this project"
+    }
+  ],
+  "comments": []
+}

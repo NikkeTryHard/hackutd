@@ -1,0 +1,70 @@
+{
+  "projectName": "Whizzard",
+  "tagline": "Whizzard is an at-home urine analysis metric that acts to detect health problems regarding important kidney, liver, & prostate, functions. It uses GPT4 to provide additional insights based on symptoms",
+  "hackathon": "Axxess Hackathon 2024",
+  "likes": 4,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Without getting into much personal detail, my father recently spent the better half of last year undergoing daily picc line treatments as a result of a bacterial infection that could have been detected early on with the right guidance and knowledge. Through countless urologist visits and second opinions (reaching our deductible) he finally was able to receive an accurate diagnosis and receive treatment. Our product aims to provide a complete and comprehensive approach at urinary monitoring.",
+    "whatItDoes": "Whizzard is a urine monitoring app that additionally allows users to receive AI insights based on symptoms they are having. Users can upload a top down image from their toilet or from a cup. Our AI based algorithm divides the image into a grid and selects both the centermost and most prevalent pixels RGB values. These values are then standardized by first converting to HSV, then lowering black point and increasing the saturation. This enables shadows to be reduced and was the most efficient during our lemonade/orange/cranberry juice testing. We then developed a sorting algorithm to determine how healthy the user's urine is. If the user has additional concerns, they can talk to Dr. Whizz, our GPT powered urologist companion that may provide answers, possible diagnoses, or overall concerns they should discuss during their next clinic visit.",
+    "howWeBuiltIt": "The backend was developed using a simple python script. We use flask and react to communicate back and forth and most importantly send the image from the front end to the back end. The python script uses openCV, kmeans, and numpy for image processing. We used a GPT4 framework to prompt and give our chatbot a persona. We also created a figma mockup for our mobile design.",
+    "challenges": "We had many roadblocks implementing the GPT model. We were initially going to implement Googles AI Gemini but we had a lot of different dependency issues that we just werent able to find solutions for. Due to our teams lack of front-end development experience, we encountered many difficulties creating a working website.",
+    "accomplishments": "We are most proud of our color standardization algorithm that detects hues and accurately estimates the color and depth of the users images. We were initially afraid that the shadows would greatly skew our result, but we were able to work around that by developing a python script that aided us in reducing shadows and color inconsistencies . While it seems simple at first, shadows are a huge problem and greatly affect the interpretation of how colors are perceived - specifically a comparatively low quality image like a phone camera. (For example the color of the dress meme back in 2015.)",
+    "whatWeLearned": "This project was a great learning experience for all of us, by using react.js and flask we were able to familiarize ourselves with front-end development, a challenge none of us ever face before.",
+    "whatsNext": "Whizzard would like to implement its features onto iOS and Android to provide easier access and greater functionality. We also would like to develop and train a dedicated AI model to ensure a more accurate reading and diagnosis. Potential early illness detection such as diabetes, UTIs, pregnancy where Whizzard can track pee frequency and color and make estimations."
+  },
+  "builtWith": [
+    "css",
+    "figma",
+    "flask",
+    "gpt",
+    "html",
+    "python",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Challenge Winner Prize- Mobile"
+  ],
+  "team": [
+    {
+      "name": "Matt Limsiaco",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Caedon Ewing",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rohan Sanyal",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "RafidN Nasery",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Rohan Sanyal",
+    "Matt Limsiaco",
+    "Caedon Ewing",
+    "RafidN Nasery"
+  ],
+  "updates": [
+    {
+      "author": "Rohan Sanyal",
+      "timestamp": "2 years ago",
+      "content": "Rohan Sanyal started this project"
+    }
+  ],
+  "comments": []
+}

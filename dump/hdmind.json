@@ -1,0 +1,70 @@
+{
+  "projectName": "HDMind",
+  "tagline": "Leverage immersive VR with brain EEG to enhance focus for children with ADHD.",
+  "hackathon": "HackUTD X",
+  "likes": 3,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Approximately 9.8% (6 million) of US children ages 3 to 17 are diagnosed with ADHD, leaving a considerable impact on their education, career, and day-to-day life. Many interventions are pharmacological or require expensive therapy sessions. We wanted to build an application to aid these children by leveraging VR and a wearable brain EEG band in a cost-efficient way delivered at the comfort of their homes.",
+    "whatItDoes": "The app initially baselines the brainwave pattern of the user and recommends activities to reach the target brainwave pattern, which is determined by implementing machine learning on the baseline. The app then sends this data into the Quest VR to tailor a game to improve the user's focus.",
+    "howWeBuiltIt": "The data is acquired through the Muse EEG headband, the data is then streamed through API calls to GCP's DataFlow. The data is then stored on MongoDB Atlas. We built a VR game using Unreal for Meta Quest, and as the attention gets better when Muse senses the game is designed to go smoother and faster. As this delivers an immersive game experience, the user's focus increases faster.",
+    "challengesWeRanInto": "We had some trouble with the Unreal engine because it was relatively new to all us. We also spent some time trying to figure out the data streaming.",
+    "accomplishmentsWeAreProudOf": "We're proud that we were able to deliver the data on our website in an understandable way from the Muse band. We're also happy with the progress we have on our VR game.",
+    "whatWeLearned": "We learned how to use Unreal, GCP, and python.",
+    "whatIsNext": "Next, HDMind will focus on building more VR challenges tailored to fit the user's needs and improve their focus."
+  },
+  "builtWith": [
+    "api",
+    "dataflow",
+    "godaddy",
+    "google-cloud",
+    "machine-learning",
+    "mongodb",
+    "python",
+    "unreal-engine",
+    "vr"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    },
+    {
+      "label": "hackutdx.hdmind.us",
+      "url": "http://hackutdx.hdmind.us"
+    }
+  ],
+  "prizes": [
+    "Winner MLH – Best Use of MongoDB Atlas"
+  ],
+  "team": [
+    {
+      "name": "Shreya Karthikeyan",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rohith Karthikeyan",
+      "username": null,
+      "contribution": "CS & Math @ UT Austin"
+    },
+    {
+      "name": "Pragnasri Vellanki",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Karthikeyan Rajamani",
+    "Akhil Ghosh",
+    "Shreya Karthikeyan"
+  ],
+  "updates": [
+    {
+      "author": "Shreya Karthikeyan",
+      "timestamp": "2 years ago",
+      "content": "Shreya Karthikeyan started this project"
+    }
+  ],
+  "comments": []
+}

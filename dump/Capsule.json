@@ -1,0 +1,63 @@
+{
+  "projectName": "Capsule",
+  "tagline": "Imagine you are in an emergency, instead of fumbling through scattered files or outdated papers, you simply scan a NFC card or scan a QR Code and find exactly what you are looking for all in one page!",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 2,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "I came up with the idea for Capsule because my family takes turns taking him to his doctor appointments and each time a file goes missing.. So I thought about creating a file storage through a secure link. But it expanded from there when I realized you can do so much more!",
+    "whatItDoes": "Capsule, allows you to upload data into a \"capsule\" and retrieve it very quickly via URL, NFC, or QR Codes. This allows the user to store these unique links, anywhere they want! For example, you could print out the QR code and scale it down and put it behind a pet tag so the information is accessible to anyone with a smartphone. You can also do many other things with it for instance, uploading files into a specific capsule for later and storing it inside your wallet. (By using an NFC card)",
+    "howWeBuiltIt": "We built it using Next.JS, TailwindCSS, ShadCN, Pinata, and QRCode!",
+    "challenges": "Some challenges we ran into at first was figuring out how to group icons, json, and document files all together.",
+    "accomplishments": "I am very proud we did this just using Pinata itself, by adding metadata to each file we could see who it belonged to and how to group them that way!",
+    "whatWeLearned": "We about how signed URLs work and what it does.",
+    "whatsNext": "We want to improve Capsule's UI/UX, enhance security (allowing users to enter in passwords for their Capsule for better security) and also add a feature where when someone view s the card the emergency contact gets alerted."
+  },
+  "builtWith": [
+    "nextjs",
+    "pinata",
+    "shadcn",
+    "tailwind"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "capsule-liart.vercel.app",
+      "url": "http://capsule-liart.vercel.app"
+    }
+  ],
+  "prizes": [
+    "Winner Pinata"
+  ],
+  "team": [
+    {
+      "name": "Erick Le",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Annel Suarez",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Ubaidullah Khan",
+    "Kevin Wang"
+  ],
+  "updates": [
+    {
+      "author": "Erick Le",
+      "timestamp": "12 months ago",
+      "content": "Erick Le started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Joe Malatesta",
+      "username": "joemmalatesta",
+      "timestamp": "12 months ago",
+      "text": "Banger :smiley_cat: honestly very useful",
+      "replies": []
+    }
+  ]
+}

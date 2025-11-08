@@ -1,0 +1,75 @@
+{
+  "projectName": "Alignify",
+  "tagline": "Flow with ease, bend with care, Alignify's guidance gets you there.",
+  "hackathon": "Axxess Hackathon 2025",
+  "likes": 1,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Alignify was inspired by a desire to bring the healing and balance of yoga into the homes of everyone—especially our elderly and homecare patients. We recognized that many seniors face challenges in maintaining mobility and overall well-being due to limited access to physical therapy and group classes. Alignify combines cutting-edge AI-driven pose detection with personalized guidance to create a yoga experience that is both safe and engaging. By focusing on homecare, we aim to empower users to practice yoga confidently, knowing they have a virtual coach guiding them every step of the way.",
+    "whatItDoes": "Alignify is an immersive and interactive yoga application that leverages your device’s camera to monitor and assess your yoga poses in real time. Using AI-powered feedback, the app provides personalized guidance by comparing your movements to a set of pre-calibrated reference poses, helping you adjust your form for better alignment. With both voice and visual cues, Alignify ensures you maintain proper balance through spoken instructions and on-screen overlays. Before starting a session, users can calibrate the app by capturing three standard poses, which serve as personalized benchmarks tailored to their body and ability. Designed with a homecare focus, particularly for the elderly, Alignify emphasizes gentle movements and safety, allowing users to experience the benefits of yoga without the need for strenuous exercise.",
+    "howWeBuiltIt": {
+      "description": "Alignify is a full-stack application built with a blend of innovative technologies:",
+      "frontend": "Developed using Pyqt5, our user interface is intuitive and accessible. The calibration page allows users to capture reference images easily, while the live pose feed uses the device’s camera to provide real-time feedback.",
+      "backend": "The server is powered by Flask and integrates MediaPipe for pose detection and analysis. This backend processes images, compares user poses to the reference benchmarks, and returns actionable feedback.",
+      "augmentedRealityAndAI": "By leveraging MediaPipe and custom algorithms, we overlay reference landmarks on the user’s video feed, ensuring accurate and immediate pose correction.",
+      "voiceIntegration": "Originally, we explored third-party TTS APIs, but eventually integrated a built‑in voice feedback system using pyttsx3 for a reliable and offline experience—perfect for homecare scenarios."
+    },
+    "challengesWeRanInto": "Throughout the development of Alignify, we encountered several challenges that required careful problem-solving and optimization. One major hurdle was hardware variability, as ensuring consistent performance across different devices and varying camera qualities proved difficult. To address this, we optimized our image processing pipeline to accommodate a wide range of hardware capabilities. Delivering real-time feedback was another challenge, particularly for users with limited mobility. Fine-tuning the AI model and adjusting movement detection thresholds were necessary to provide accurate and timely guidance. Additionally, designing a user-friendly interface for elderly users required a focus on accessibility, incorporating simplicity, large buttons, and clear instructions to enhance navigation. Finally, integrating a reliable calibration phase that could adapt to individual differences was complex but essential for personalizing the yoga experience, ensuring each user received tailored feedback based on their unique movements and abilities.",
+    "accomplishmentsWeAreProudOf": {
+      "realTimePoseCorrection": "The integration of MediaPipe and custom algorithms has resulted in a robust real-time pose correction system that empowers users to improve their form safely at home.",
+      "accessibility": "We’ve created an intuitive and user-friendly interface specifically designed for elderly users and those in homecare, making yoga accessible to a wider audience.",
+      "offlineFunctionality": "By relying on local processing and offline TTS, Alignify can operate without constant internet connectivity, ensuring a smooth and uninterrupted experience."
+    },
+    "whatWeLearned": "Balancing AI with a human touch was one of the key challenges in developing Alignify. Ensuring that technology complemented rather than overwhelmed the user experience required careful design, and through this process, we gained valuable insights into how AI can support health and wellness in a meaningful way. The iterative nature of development played a crucial role, as continuous calibration, testing, and refinement highlighted the importance of user feedback, particularly for homecare applications. Additionally, integrating multiple technologies—augmented reality, AI, voice synthesis, and real-time video processing—deepened our understanding of how to create a seamless and effective solution that enhances the yoga experience without feeling intrusive or overly complex.",
+    "whatIsNext": "Looking ahead, we have several plans to enhance Alignify and make it even more effective for users of all abilities. One key improvement is expanding the pose library to include more yoga poses and personalized workout routines, allowing us to cater to a broader range of fitness levels. Additionally, integrating remote monitoring and telehealth features could enable healthcare professionals to track user progress and adjust routines as needed, making Alignify a valuable tool for therapists and rehabilitation programs. To foster engagement and motivation, we aim to introduce community features that let users share their progress, join virtual classes, and connect with others. We’re also exploring advanced machine learning models to refine our feedback loop, providing not just real-time corrections but also personalized modifications for users with specific mobility challenges."
+  },
+  "builtWith": [
+    "flask",
+    "javascript",
+    "mediapipe",
+    "opencv",
+    "python"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": "https://github.com/jxv210016/Alignify"
+    }
+  ],
+  "prizes": [
+    "Winner Challenge Winner Prize- Patient Engagement"
+  ],
+  "team": [
+    {
+      "name": "Renjit Joseph",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Aditya Bapanapalli",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Harsha Sirigina",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Jay Vanam",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Anuradha Sirigina"
+  ],
+  "updates": [
+    {
+      "author": "Aditya Bapanapalli",
+      "timestamp": "9 months ago",
+      "content": "Aditya Bapanapalli started this project"
+    }
+  ],
+  "comments": []
+}

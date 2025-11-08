@@ -1,0 +1,76 @@
+{
+  "projectName": "InvestIQ",
+  "tagline": "InvestIQ simplifies investing for everyone, offering real-time insights, educational chatbot support, and custom algorithm creation—no coding needed. Learn, test, and invest confidently.",
+  "hackathon": "HackUTD 2024: Ripple Effect",
+  "likes": 6,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "Investing can be overwhelming for beginners and non-technical individuals who understand the market but lack the skills to code or analyze data effectively. We envisioned a platform that empowers these users by simplifying the complexities of the stock market while making algorithmic trading more accessible. Leveraging lightning-fast AI technology, our goal is to create a seamless experience for anyone to explore, learn, and implement investment strategies in real-time.",
+    "whatItDoes": "InvestIQ is a powerful financial insights platform designed to cater to:\n\nBeginners: Users new to the stock market can learn investing principles through engaging, interactive conversations.\nNon-technical investors: Those with market knowledge but no coding skills can create, test, and refine trading strategies effortlessly.\nKey features include:\n\nSimplified Education: The platform breaks down complex market concepts into easy-to-understand explanations, making it beginner-friendly.\nNatural Language Strategy Building: Users can describe trading ideas in plain language, and the platform translates these into functional strategies.\nReal-Time Testing: Strategies are tested in a simulated environment with realistic market data.\nActionable Feedback: The system provides clear, helpful recommendations to refine and improve strategies, ensuring users grow in confidence and capability.\nGraph Integration with Vision Models: Generates performance graphs and seamlessly integrates them into Llama 90B Vision, enhancing visual analysis with cutting-edge image modeling.",
+    "howWeBuiltIt": "We used a combination of cutting-edge technologies to bring InvestIQ to life:\n\nSambaNova Cloud: Enabled high-speed data processing and real-time AI responses, ensuring an efficient and responsive user experience. Used their Llama 90B Vision to incorporate performance graphs into image models, leveraging vision-based AI to ensure the graphs show an upward and positive trend. Used their Llama 3.1 8B model for the main chatbots.\nAutogen: Served as the backbone for building autonomous agents that guide users through strategy creation, testing, and refinement.\nCohere: Utilized for embedding functions, enabling the system to process natural language inputs and translate them into actionable insights.\nPerplexity: Enhanced the educational tools and strategy testing environment with data-driven contextual insights.\nNext.js: Built a clean, intuitive frontend featuring drag-and-drop tools and interactive prompts.\nFlask: Supported backend operations for user input processing, algorithm testing, and delivering real-time feedback.",
+    "challenges": "Translating natural language trading ideas into precise algorithms without overwhelming users with technical jargon.\nBalancing educational content for beginners with the functional needs of experienced investors.\nDelivering actionable, easy-to-understand feedback while maintaining realistic simulations based on market data.\nIntegrating graph data seamlessly with vision models to provide advanced visual insights.",
+    "accomplishments": "Building a platform that empowers non-technical users to create, test, and refine trading strategies without needing to write code.\nSuccessfully integrating graph outputs into Llama 90B Vision for state-of-the-art data visualization.\nLeveraging high-speed AI technology to deliver real-time insights and feedback for strategy testing.\nSimplifying financial education by combining interactivity with actionable recommendations.\nDeveloping a scalable, beginner-friendly solution that bridges the gap between financial knowledge and algorithmic trading.",
+    "whatWeLearned": "Designing for non-technical users requires deep empathy and a focus on simplicity without sacrificing functionality.\nReal-time AI capabilities can transform how users interact with complex systems like financial markets.\nLeveraging advanced vision models such as Llama 90B Vision opens new possibilities for visual data representation.\nIterative testing with diverse users was essential for refining the platform to meet the needs of both beginners and experienced investors.",
+    "whatsNext": "Community Sharing: Enable users to share and explore trading strategies created by others.\nPredictive Analytics: Add advanced AI capabilities to provide market performance predictions for user strategies.\nLive Trading Integration: Allow users to connect their strategies to real-world trading platforms securely and efficiently.\nCustom AI Models: Tailor the platform to specific industries or trading styles based on user feedback."
+  },
+  "builtWith": [
+    "autogen",
+    "cohere",
+    "flask",
+    "next.js",
+    "perplexity",
+    "sambanova"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "submittedTo": [
+    "Lightning Fast AI Hackathon",
+    "HackUTD 2024: Ripple Effect"
+  ],
+  "prizes": [
+    "Winner First Place",
+    "Winner Infosys"
+  ],
+  "team": [
+    {
+      "name": "Sanjana Sathiya",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Keerthi V",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Krish Sharma",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Rohit Gogi",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Hung Hoang",
+    "Bharath Deva",
+    "Dedan Okware",
+    "Rohit Gogi",
+    "Vasanth Mohan",
+    "DavidSantosTXUSA Santos"
+  ],
+  "updates": [
+    {
+      "author": "Keerthi V",
+      "timestamp": "12 months ago",
+      "content": "Keerthi V started this project"
+    }
+  ],
+  "comments": []
+}

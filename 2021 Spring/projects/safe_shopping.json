@@ -1,0 +1,78 @@
+{
+  "projectName": "Safe Shopping",
+  "tagline": "A web application gives you everything you need about a merchant website to help you decide whether you should by products from them.",
+  "hackathon": "HackUTD VII",
+  "likes": 3,
+  "commentsCount": 1,
+  "story": {
+    "inspiration": "More and more people buy products from ecommerce website, especially during this pandemic. But not every site is safe and trustworthy, we may get faulty products from a site we purchase and never get our refunds back. This web application is built to help users make better decision every time they want to buy products from an ecommerce site.",
+    "whatItDoes": "This web application gets URL from user and display important information including ip address, location of server, location of ip address, and more importantly, the reviews from other users regarding this merchant website. It also comes with a simple extension for users to quickly look at some of these information.",
+    "howWeBuiltIt": "We use React to build front-end; express js and other node js packages are used to power the application. Data are stored on MongoDB Atlas",
+    "challengesWeRanInto": {
+      "hiddenWhoIsRecord": {
+        "title": "Hidden WhoIs Records",
+        "description": "Some websites have their WhoIs record hidden, so we came up with the idea of showing all hidden elements of those websites."
+      }
+    },
+    "accomplishmentsWeAreProudOf": {
+      "successfulRun": {
+        "title": "Successful Application Run",
+        "description": "We're proud of everything we'd done for the last 24 hours, the application was able to run successfully."
+      }
+    },
+    "whatWeLearned": "We all learned a lot, problems kept appearing and we were able to learned from fixing all problems. Team collaboration is probably the best thing we learnt from this virtual hackathon."
+  },
+  "builtWith": [
+    "express.js",
+    "javascript",
+    "mongodb",
+    "node.js",
+    "react"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner SignaPay"
+  ],
+  "team": [
+    {
+      "name": "Nyan NGUYEN",
+      "username": "Nyan NGUYEN",
+      "contribution": "Full stack developer"
+    },
+    {
+      "name": "Kha Nguyen",
+      "username": "Kha Nguyen",
+      "contribution": null
+    },
+    {
+      "name": "Khang Nguyen",
+      "username": "Khang Nguyen",
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Shoaib Huq",
+    "Mohit Thakur",
+    "Duong Nguyen"
+  ],
+  "updates": [
+    {
+      "author": "Kha Nguyen",
+      "timestamp": "5 years ago",
+      "content": "Kha Nguyen started this project"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Mohit Thakur",
+      "username": "thakurmohit88",
+      "timestamp": "5 years ago",
+      "content": "Kindly share the application url."
+    }
+  ]
+}

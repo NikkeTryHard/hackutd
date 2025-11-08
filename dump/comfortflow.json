@@ -1,0 +1,74 @@
+{
+  "projectName": "ComfortFlow",
+  "tagline": "Comfort Flow: Elevating At-Home Care. Your smart companion for optimized comfort and well-being for your loved ones",
+  "hackathon": "Axxess Hackathon 2024",
+  "likes": 9,
+  "commentsCount": 0,
+  "story": {
+    "inspiration": "For many patients in hospice care or long-term at-home care, a big problem they face is bed sores and pressure ulcers due to lack of mobility. Family members may choose to care for their loved ones in hospice, or may not be able to access round-the-clock care.",
+    "whatItDoes": "This app uses artificial intelligence to give mobility tips and suggestions to the user (family of the patient) to prevent bed sores and pressure ulcers. The app integrates input from 10 pressure sensors over a span of 24 hours to monitor the movement of the patient in bed. If the patient does not move for 2 hours, the app notifies the user (family) to reposition the patient to take pressure off of certain pressure points. Using these sensors, the app also creates a pressure map of the bed, so that the user can identify areas of the body that are susceptible to pressure ulcers and must be given special attention. The app also tracks the patient's mobility over a span of 7 days. In addition to these primary features, the app also uses piezoelectric sensors to monitor the skin conductivity (sweat), temperature, and respiratory rate of the patient.",
+    "howWeBuiltIt": "The hardware components were simulated and built on TinkerCAD, a circuitry simulation software. The UI of the app was designed with a wireframe on Figma, and sample data sets were graphed on Excel and imported onto the wireframe. The color palette of the application was determined using complimentary colors on the color wheel. After the wireframe was completed, the application (front-end and back-end) was programmed on React Native. The front-end design was programmed using typescript, while the backend was programmed using Python.",
+    "challenges": "The team faced many challenges throughout the engineering process. First, it was difficult to find a hardware simulation software that was compatible with pressure sensors and piezoelectric sensors. To resolve this issue, we modified the functionality of the application to use sensors that were available on TinkerCAD. Another challenge the team faced was downloading the proper libraries to run the React Native app. Npm only worked on one teammate's computer, so the rest of the team made changes to the code and pushed to GitHub, while one teammate tested the code and debugged.",
+    "accomplishments": "We are extremely proud to have tackled an issue that no mainstream service has addressed. The application functionality and the screens we've made look like our design plan so we are happy that we could make a great looking and accessible app!",
+    "whatWeLearned": "We learned how to build a react native app along with typescript. We also learned how to use some hardware components such as Arduino boards and how to program those.",
+    "whatsNext": "A UI page for the patient to communicate if they completed their PT, or to communicate their mental health (gives a degree of independence to the patient). We also hope to expand our services in the bed itself to add more helpful technologies!"
+  },
+  "builtWith": [
+    "arduino",
+    "c++",
+    "python",
+    "react-native",
+    "ruby",
+    "typescript"
+  ],
+  "tryItOutLinks": [
+    {
+      "label": "GitHub Repo",
+      "url": null
+    }
+  ],
+  "prizes": [
+    "Winner Overall Prize - First Place"
+  ],
+  "team": [
+    {
+      "name": "Usman Shafi",
+      "username": null,
+      "contribution": "I worked on the components that were used in the App. I also used the components to build the different screens that were displayed on the app."
+    },
+    {
+      "name": "Sanjana-SKS Koratala",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Adam Absa",
+      "username": null,
+      "contribution": null
+    },
+    {
+      "name": "Shashwati Rajesh",
+      "username": null,
+      "contribution": null
+    }
+  ],
+  "likesBy": [
+    "Elena Paul",
+    "Kelly Zhou",
+    "Dan Nguyen",
+    "Shashwati Rajesh",
+    "Usman Shafi",
+    "Alex Thomas",
+    "Timothy Naumov",
+    "Sanjana-SKS Koratala",
+    "Adam Absa"
+  ],
+  "updates": [
+    {
+      "author": "Sanjana-SKS Koratala",
+      "timestamp": "2 years ago",
+      "content": "Sanjana-SKS Koratala started this project"
+    }
+  ],
+  "comments": []
+}

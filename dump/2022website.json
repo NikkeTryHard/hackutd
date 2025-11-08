@@ -1,0 +1,438 @@
+{
+  "website": {
+    "title": "HACKUTD IX",
+    "header": {
+      "logo": "Logo",
+      "navigation": [
+        {
+          "name": "Home"
+        },
+        {
+          "name": "Dashboard"
+        },
+        {
+          "name": "HackerPacks"
+        },
+        {
+          "name": "Schedule"
+        }
+      ],
+      "signInButton": "Sign in"
+    },
+    "hero": {
+      "superTitle": "Major League Hacking 2023 Hackathon Season",
+      "notificationPrompt": "Turn on push notifications to recieve announcements!",
+      "images": [
+        "Satellite",
+        "Satellite",
+        "Hero",
+        "Project Gallery",
+        "comet"
+      ]
+    },
+    "about": {
+      "title": "About",
+      "sections": [
+        {
+          "question": "🖥️ What is HackUTD?",
+          "answer": "HackUTD, the largest university hackathon in Texas, is a weekend-long event where students build apps, hardware, and more. HackUTD provides a venue for self-expression and creativity through technology. People with varying technical backgrounds from universities all over the US come together, form teams around a problem or idea, and collaboratively build a unique solution from scratch. Whether you're a frequent hackathon attendee or just getting started, we'd love to see what you can make!"
+        },
+        {
+          "question": "💫 What's the Purpose?",
+          "answer": "Develop CS & non-CS student relations and skills through hacking challenges. Showcase new technologies through workshops and connect passionate hackers with industry leaders who choose to participate in our hackathon!"
+        },
+        {
+          "question": "🎉 Why attend HackUTD?",
+          "answer": "HackUTD is a student-organized hackathon aimed at offering fellow students an outlet for self expression and welcoming everyone with or without experience! HackUTD hosts events that introduce key concepts and relevant topics that new hackers will find useful."
+        }
+      ]
+    },
+    "overview": {
+      "title": "Overview",
+      "image": "rocket",
+      "stats": [
+        {
+          "id": "01",
+          "label": "24 Hours"
+        },
+        {
+          "id": "02",
+          "label": "800+ Participants"
+        },
+        {
+          "id": "03",
+          "label": "100+ Projects"
+        },
+        {
+          "id": "04",
+          "label": "$30,000+ In Prizes"
+        }
+      ],
+      "closingImage": "comet"
+    },
+    "speakers": {
+      "title": "Speakers",
+      "image": "spaceman",
+      "speakerList": [
+        {
+          "name": "Tyler Brown",
+          "title": "Group Manager, Product Strategy and Future Mobility",
+          "bio": [
+            "Tyler is the Group Manager of Product Strategy and Future Mobility for Toyota Motor North America’s Connected Technologies division. In his role, Tyler supports strategy and management of Connected Technologies’ diverse product and service offerings as well as it’s push to delivering mobility solutions for all.",
+            "Tyler has also played a key role in Connected Technologies’ Connected Strategy and Business Development team where he’s leveraged many years of experience consulting in the automotive industry as well as with other Fortune 500 companies."
+          ]
+        },
+        {
+          "name": "Amol Patil",
+          "bio": [
+            "\"Amol has been at the Goldman Sachs for 10 years and has 22 years of technology leadership managing global software development and data engineering teams for Risk & Finance domains in Investment Banking. Amol attended University of Maryland for his Masters of Business Administration, Penn State for his Masters, and University of Mumbai for his bachelor’s. He has lead implementation of complex data warehouses and business intelligence applications in Financials and US Federal & State/Local Government verticals and has technical focus on Business Analytics, Business Intelligence and Data Sciences via comprehensive data analysis, integration and processing of large disparate datasets to extract high-value information, critical business KPIs & operational metrics."
+          ]
+        },
+        {
+          "name": "Alise Willoughby",
+          "title": "Olympian",
+          "bio": [
+            "Alise Willoughby is a World Champion and a Two-Time Olympic BMX Racer. She is a former state champion gymnast who later became the youngest competitor to win the American Bicycle Association national title at the age of 15. As of March 2021, she has won her 10th consecutive win at the USA Cycling National Championship.",
+            "Outside of competitions, Alise and her family became the driving force in transforming a vandalized city park into Pineview Park BMX, one of the country’s top BMX facilities."
+          ]
+        }
+      ]
+    },
+    "tracks": {
+      "title": "Tracks",
+      "image": "planet",
+      "trackList": [
+        {
+          "name": "Hardware Track",
+          "description": "Best use of custom electronics and hardware. Embedded development boards, sensors, and a few other essentials will be provided. You may also bring your own hardware.",
+          "prizes": [
+            "Ender 3 3-D Printers"
+          ]
+        },
+        {
+          "name": "Beginner Track",
+          "description": "Best project made by a team of beginner hackers. To qualify, at least 50% of your team members should be first-time or second-time hackers.",
+          "prizes": [
+            "JBL Flip 5"
+          ]
+        },
+        {
+          "name": "Design Track",
+          "description": "Best user experience / user interface design.",
+          "prizes": [
+            "Wacom Drawing Tablet"
+          ]
+        }
+      ]
+    },
+    "challenges": {
+      "title": "Challenges",
+      "challengeList": [
+        {
+          "sponsor": "Toyota",
+          "title": "Toyota Challenge",
+          "presentedBy": "Presented by Toyota",
+          "description": [
+            "In a world of connectivity and cool tech, customers want to extend amazing experiences into all aspects of their lives, including their experience associated with vehicles. Your mission, should you choose to accept it, is to build a solution to improve the end-to-end vehicle experience. Whether it is creating a convenience service, a modern mobility solution, focusing on social good or building a new and/or enhanced experience, we challenge you to start your impossible by building something Toyota and Lexus customers will LOVE."
+          ],
+          "resources": {
+            "connectedServices": [
+              {
+                "name": "Toyota Connected Services",
+                "url": "https://www.toyota.com/connected-services/"
+              },
+              {
+                "name": "Toyota App",
+                "url": "https://www.toyota.com/connected-services/toyotaapp/"
+              },
+              {
+                "name": "Lexus Connected Services",
+                "url": "https://www.lexus.com/drivers/resources/connected-technology"
+              }
+            ],
+            "publicDataSets": [
+              {
+                "name": "Computer Vision & Autonomous Driving",
+                "url": "https://wandb.ai/av-datasets/av-dataset/reportlist#404"
+              },
+              {
+                "name": "AV",
+                "url": "https://github.com/TRI-ML/DDAD"
+              },
+              {
+                "name": "Weather",
+                "url": "https://www.kaggle.com/datasets/noaa/gsod"
+              },
+              {
+                "name": "Trips",
+                "url": "https://www.kaggle.com/datasets/chicago/chicago-taxi-trips-bq"
+              }
+            ]
+          },
+          "prizes": [
+            "JBL Live Pro + TWS, 12 Months SXM Subscription",
+            "JBL Clip 4, 6 Months SXM Subscription",
+            "JBL Go 3, 6 Months SXM Subscription"
+          ]
+        },
+        {
+          "sponsor": "State Farm",
+          "title": "State Farm Challenge",
+          "presentedBy": "Presented by State Farm",
+          "description": [
+            "Like a good neighbor, State Farm is there!",
+            "As one of its core values, State Farm promotes and encourages positive involvement in our neighborhoods. Use technology to design a creative solution to a problem that your community currently faces.",
+            "You may use any tech stack at your disposal to design and implement your solution."
+          ],
+          "prizes": [
+            "34” LG Ultrawide Monitor",
+            "iPad 64GB",
+            "Beats Studio 3"
+          ]
+        },
+        {
+          "sponsor": "EOG Resources",
+          "title": "EOG Challenge",
+          "presentedBy": "Presented by EOG Resources",
+          "subTitle": "The Interstellar Asteroid Rush",
+          "description": [
+            "Greetings Travelers!",
+            "Welcome to Extra-planetary Orbital Geologists, as fledgling space drilling engineers you have been tasked with helping us optimize resource recovery from our new exploratory asteroid field through understanding and optimizing drilling efforts. Work together with your team to build an out of this world solution for analyzing and visualizing how we can maximize margins and in turn resource recovery in your asteroid play by helping future drilling engineers minimize expenditure to achieve maximal profits!",
+            "We have prepared some historic real-time measurements from a handful of previous asteroid drilling operations including some of the ways to calculate the costs associated with them and it’ll be up to your team to explore the data and evaluate the capital efficiency of the drill bits used in those operations.",
+            "Can your team determine which asteroid was the most economically drilled? Which drill bit is the most efficient? Can you find any correlations between the columns to better understand how each bit performs? Better yet can you use your findings to make decisions in real-time on when a bit should be abandoned and replaced for future drilling operations?",
+            "Work together to try and tackle these among many other potential ways to analyze the data to build an application, be it a web app, mobile app, or pure analysis tool to help better understand our drilling data so we can improve our asteroid mining speed, cost and efficiency to infinity and beyond."
+          ],
+          "contacts": {
+            "title": "You will be tasked with communicating your findings to the space board of Exploratory Orbital Geologists.",
+            "list": [
+              "Mark Metzger, Chief Space Manager of Software Optimizations",
+              "Mike Shin, Chairman of Lightspeed Data Engineering",
+              "Aaron Shaffer, Principal Developer of SpaceTime Tooling"
+            ]
+          },
+          "prizes": [
+            "DJI Mini SE",
+            "Skullcandy Crusher Evo Bluetooth Headphones"
+          ]
+        },
+        {
+          "sponsor": "Goldman Sachs",
+          "title": "Goldman Sachs Challenge",
+          "presentedBy": "Presented by Goldman Sachs",
+          "description": [
+            "GS Challenge statement: Build a risk analysis tool that someone would use when considering how to manage and invest their money. When people have money to invest, they will want to know – should I put this money into an investment that might be less risky but have a lower return, or would I rather have it in an investment that is higher risk, but higher reward?",
+            "The type of investment, along with other factors, will determine risk level. Your job is to create a tool that takes macroeconomic factors into consideration, specifically for investors in the United States."
+          ],
+          "resources": [
+            {
+              "name": "GS One-Pager",
+              "url": "https://workshop.hackutd.co/GS-One-Pager"
+            }
+          ],
+          "prizes": [
+            "Airpod Max",
+            "Apple TV",
+            "$35 Grubhub gift cards"
+          ]
+        },
+        {
+          "sponsor": "CBRE",
+          "title": "CBRE Challenge",
+          "presentedBy": "Presented by CBRE",
+          "description": [
+            "Develop a prototype to demonstrate how to improve Customer Experience (CX) by adopting AI/ML model on review comments from social media, contact centers, and feedback surveys that result in high customer satisfaction and loyalty."
+          ],
+          "testDataNote": "Test data needs: Use some publicly available data sets from your choice to model and identify Positive, Negative, or Neutral emotions.",
+          "businessBenefits": {
+            "title": "Business Benefits:",
+            "points": [
+              "Proactive measures to improve Customer Experience (CX)",
+              "Improve Products and Services",
+              "Monitor Brand Reputation"
+            ]
+          },
+          "prizes": [
+            "$125 Amazon e-gift card",
+            "$75 Amazon e-gift card",
+            "$50 Amazon e-gift card"
+          ]
+        },
+        {
+          "sponsor": "Ring Central",
+          "title": "Ring Central Challenge",
+          "presentedBy": "Presented by Ring Central",
+          "description": [
+            "RingCentral supports SaaS (software as a service) solutions by providing cloud-based telecommunication solutions for modern businesses.",
+            "Consider RingCentral’s current product and platforms, as well as the state of work today, and answer the question: What enhancements or improvements can be made to optimize our end-user experience?"
+          ],
+          "additionalInfo": {
+            "title": "Additional information to consider:",
+            "paragraphs": [
+              "RingCentral simplifies communications so businesses can connect with their teams from anywhere in the world. We do this by making it easy to set up, use, and manage business’ communications - all in one app. We unify calling, messaging, and meeting with employees, customers, and everyone in between.",
+              "Consider downloading our free product version to see for yourself how simple (and easy) unified communications can be!"
+            ]
+          },
+          "resources": [
+            {
+              "name": "General company info",
+              "url": "https://www.ringcentral.com/"
+            },
+            {
+              "name": "What is RingCentral?"
+            },
+            {
+              "name": "Who do we support?"
+            },
+            {
+              "name": "The RingCentral brag book"
+            },
+            {
+              "name": "RingCentral vs. Zoom"
+            },
+            {
+              "name": "RingCentral vs. 8x8"
+            },
+            {
+              "name": "RingCentral vs. Nextiva"
+            },
+            {
+              "name": "RingCentral vs. Cisco Webex"
+            },
+            {
+              "name": "RingCentral vs. Dialpad"
+            },
+            {
+              "name": "RingCentral vs. OpenPhone"
+            },
+            {
+              "name": "Developer website for open APIs",
+              "url": "https://developers.ringcentral.com/"
+            }
+          ],
+          "prizes": [
+            "Apple AirPod Pro + Carrying Case",
+            "$150 Amazon gift card"
+          ]
+        },
+        {
+          "sponsor": "Capital One",
+          "title": "Capital One Challenge",
+          "presentedBy": "Presented by Capital One",
+          "description": [
+            "Capital One would like to challenge HackUTD to create the best financial hack. Any hack involving money qualifies. Money impacts much of our lives and we would like to promote change for good."
+          ],
+          "prizes": [
+            "$250 Amazon gift Cards"
+          ]
+        },
+        {
+          "sponsor": "Nebula",
+          "title": "Nebula Labs Challenge",
+          "presentedBy": "Presented by Nebula",
+          "description": [
+            "We are looking for participants of the challenge to make a novel tool to help students at UTD making use of the Nebula API."
+          ],
+          "resources": [
+            {
+              "name": "Docs",
+              "url": "https://www.utdnebula.com/docs/maintainers/api-documentation"
+            }
+          ],
+          "prizes": [
+            "Blue Yeti USB Microphone",
+            "Server Rack (Raffle Prize)"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "image": "comet",
+      "expandAllButton": "Expand All",
+      "questions": [
+        {
+          "question": "What is a hackathon?",
+          "answer": "A hackathon is a 24-hour competition where you and up to 3 teammates build a software project from scratch and compete against other groups for prizes. Sponsors will also provide workshops, events, and activities throughout the weekend to help you learn more about the field of technology!"
+        },
+        {
+          "question": "What if I don’t have a team?",
+          "answer": "We will have a teambuilding session at the start of the hackathon for those who need help finding one! You can also choose to work on projects by yourself."
+        },
+        {
+          "question": "When is HackUTD IX?",
+          "answer": "November 12th and 13th!"
+        },
+        {
+          "question": "How much does it cost?",
+          "answer": "HackUTD IX will be completely free to hackers!"
+        },
+        {
+          "question": "What are the general rules?",
+          "answer": "Your project must be built entirely over the course of the weekend. No previous projects or code may be used. Have fun! Your behavior at this event is subject to the MLH Code of Conduct as well as any applicable UT Dallas guidelines."
+        },
+        {
+          "question": "Can I volunteer?",
+          "answer": "Mentor and volunteer applications will be opening soon! Follow us on social media to be notified when applications open."
+        },
+        {
+          "question": "Can I participate if I have never hacked?",
+          "answer": "Everyone is welcome to come, and no experience is necessary to attend! We will even be hosting workshops to introduce new hackers to industry programs and technologies."
+        },
+        {
+          "question": "What do I need to bring?",
+          "answer": "You just need to bring a laptop, charger, and a hacking spirit to participate! We also recommend having a compiler, packages, or any packaging tools ready beforehand. We will be providing internet connectivity, and will also have free food throughout the event!"
+        },
+        {
+          "question": "When is registration?",
+          "answer": "Registration began Aug 15th, and will remain open until October 31st. We encourage you to apply early since we do have limited spots."
+        },
+        {
+          "question": "Where will it be?",
+          "answer": "HackUTD will be hosted at... You guessed it: UT Dallas! Parking and other logistical details for attendees will be provided closer to the hackathon date."
+        },
+        {
+          "question": "What should I build?",
+          "answer": "Anything you want! You can try to solve a sponsor challenge or submit a project for the HackUTD awards!"
+        },
+        {
+          "question": "Free swag? pls?",
+          "answer": "We will have custom HackUTD IX swag for all participants along with gear provided by our sponsors! And free food!"
+        }
+      ]
+    },
+    "sponsors": {
+      "title": "Sponsors",
+      "sponsorImages": [
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage",
+        "sponsorImage"
+      ]
+    },
+    "footer": {
+      "organizerSiteLink": "Checkout HackUTD's organizer site",
+      "credits": [
+        "Designed by HackUTD",
+        "HackPortal developed with <3 by HackUTD and ACM Development"
+      ],
+      "links": [
+        {
+          "name": "Contact Us"
+        },
+        {
+          "name": "Code of Conduct"
+        }
+      ]
+    }
+  }
+}
