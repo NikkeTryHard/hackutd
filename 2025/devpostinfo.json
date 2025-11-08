@@ -34,7 +34,7 @@
       "navigation": [
         "Overview",
         "My projects",
-        "Participants (58)",
+        "Participants (186)",
         "Resources",
         "Rules",
         "Project gallery",
@@ -45,8 +45,8 @@
         "dates": "Nov 8 – 9, 2025",
         "location": "University of Texas at Dallas - ECSW",
         "type": "Public",
-        "prizes": "7 non-cash prizes",
-        "participants": 58
+        "prizes": "23 non-cash prizes",
+        "participants": 186
       },
       "tags": [
         "hackutd",
@@ -63,7 +63,7 @@
         ],
         "fullRulesLink": "View full rules"
       },
-      "submissionStatus": "Submissions open soon",
+      "submissionStatus": "about 22 hours to deadline",
       "scheduleLink": "View schedule",
       "tabs": {
         "overview": {
@@ -91,7 +91,7 @@
             }
           },
           "prizes": {
-            "summary": "7 non-cash prizes",
+            "summary": "23 non-cash prizes",
             "categories": [
               {
                 "name": "General Track",
@@ -100,6 +100,93 @@
                   { "place": "1st", "prize": "Mac M4 16GB" },
                   { "place": "2nd", "prize": "iPad Air 11\" M3 + Apple Pencil Pro" },
                   { "place": "3rd", "prize": "Lofree FlowLite 84 Keyboard" }
+                ]
+              },
+              {
+                "name": "PNC Bank",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "PlayStation 5 Slim" },
+                  { "place": "2nd", "prize": "Ray-ban Meta AI Sunglasses" },
+                  { "place": "3rd", "prize": "Yaber T1 Pro-Mini Smartphone Projector" }
+                ]
+              },
+              {
+                "name": "T-Mobile",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "iPhone 17" },
+                  { "place": "2nd", "prize": "iPad Air" },
+                  { "place": "3rd", "prize": "Beats Studio Pro Headphones" }
+                ]
+              },
+              {
+                "name": "StateFarm",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "HOVERair X1 Drone w/Camera" },
+                  { "place": "2nd", "prize": "Bose Earbuds" },
+                  { "place": "3rd", "prize": "Newsmy Portable Power Station" }
+                ]
+              },
+              {
+                "name": "Goldman Sachs",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "Apple Airpod Pros 3" },
+                  { "place": "2nd", "prize": "Apple TV" },
+                  { "place": "3rd", "prize": "$50 Grub Hub gift card" }
+                ]
+              },
+              {
+                "name": "Toyota Financial Services",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "$500 Amazon Gift Card" },
+                  { "place": "2nd", "prize": "$350 Amazon Gift Card" },
+                  { "place": "3rd", "prize": "$150 Amazon Gift Card" }
+                ]
+              },
+              {
+                "name": "Northmark Compute & Cloud",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "Nintendo Switch 2" },
+                  { "place": "2nd", "prize": "Sony WH-1000XM5 Headphones" },
+                  { "place": "3rd", "prize": "DJI Tello Drones" }
+                ]
+              },
+              {
+                "name": "Capital One",
+                "winnerCount": 1,
+                "awards": [
+                  { "place": "1st", "prize": "$300 Amazon Gift Card" }
+                ]
+              },
+              {
+                "name": "Nvidia",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "3 RTX 5080 GPUs + 3 NVIDIA Logo Hats" },
+                  { "place": "2nd", "prize": "2 RTX 5080 GPUs + 3 NVIDIA Backpacks + 3 $100 Brev Credits" },
+                  { "place": "3rd", "prize": "3 NVIDIA Backpacks + 3 $200 Brev Credits" }
+                ]
+              },
+              {
+                "name": "CBRE",
+                "winnerCount": 3,
+                "awards": [
+                  { "place": "1st", "prize": "$250 Amazon Gift Card" },
+                  { "place": "2nd", "prize": "$150 Amazon Gift Card" },
+                  { "place": "3rd", "prize": "$75 Amazon Gift Card" }
+                ]
+              },
+              {
+                "name": "EOG Resources",
+                "winnerCount": 2,
+                "awards": [
+                  { "place": "1st", "prize": "Nintendo Switch 2" },
+                  { "place": "2nd", "prize": "Ninja Cremi" }
                 ]
               },
               {
@@ -126,13 +213,43 @@
                 "name": "Guided Track",
                 "winnerCount": 1,
                 "awards": [{ "place": "1st", "prize": "Nord VPN 1 year subscription" }]
+              },
+              {
+                "name": "Best Use of Gemini API by MLH",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Google Swag kits" }]
+              },
+              {
+                "name": "Best Use of ElevenLabs by MLH",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Wireless Earbuds" }]
+              },
+              {
+                "name": "Best Use of Auth0",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "JBL Headphones" }]
+              },
+              {
+                "name": "Best Use of Solana",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "SenseCap Card Trackers" }]
+              },
+              {
+                "name": "Best Use of DigitalOcean Gradient AI by MLH",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Retro Wireless Mouse" }]
+              },
+              {
+                "name": "Best Use of Vultr",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Portable Screens" }]
+              },
+              {
+                "name": "Best Domain Name from GoDaddy Registry",
+                "winnerCount": 1,
+                "awards": [{ "place": "1st", "prize": "Digital Gift Card" }]
               }
-            ],
-            "sponsorPrizes": {
-              "title": "Sponsor Prizes",
-              "winnerCount": 1,
-              "note": "Check back here after opening ceremony for more information!"
-            }
+            ]
           },
           "judges": {
             "jury": [
@@ -254,7 +371,7 @@
         },
         {
           "level": "Gold",
-          "sponsors": ["Goldman Sachs", "StateFarm", "Northmark", "C2", "EOG Resources", "Toyota Financial Services"]
+          "sponsors": ["Goldman Sachs", "StateFarm", "Northmark C2", "EOG Resources", "Toyota Financial Services"]
         },
         {
           "level": "Silver",
@@ -274,14 +391,14 @@
         "timeLeft": "about 1 month left",
         "location": "Online",
         "prizes": "$1,600 in prizes",
-        "participants": 473
+        "participants": 485
       },
       {
-        "name": "EY Techathon 6.0",
-        "timeLeft": "7 days left",
-        "location": "Online",
-        "prizes": "₹ 500,000 in prizes",
-        "participants": 66
+        "name": "UB Hacking Fall 2025",
+        "timeLeft": "about 19 hours left",
+        "location": "University at Buffalo - Davis Hall",
+        "prizes": "$3,000 in prizes",
+        "participants": 203
       }
     ],
     "footer": {

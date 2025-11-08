@@ -79,15 +79,15 @@
       "countdown": {
         "days": [
           "0",
-          "1"
+          "0"
         ],
         "hours": [
           "0",
-          "2"
+          "0"
         ],
         "minutes": [
-          "4",
-          "4"
+          "0",
+          "0"
         ]
       }
     },
@@ -144,79 +144,79 @@
               "location": "ATC Lecture Hall (ATC 1.102)"
             },
             {
-              "time": "12:00pm CST",
+              "time": "12:45pm CST",
               "name": "Hacking Starts",
               "category": "Required",
               "location": "UTD"
             },
             {
-              "time": "12:00pm CST",
+              "time": "1:00pm CST",
               "name": "Lunch",
               "category": "Food",
               "location": "ECSW Courtyard"
             },
             {
-              "time": "12:30pm CST",
+              "time": "1:45pm CST",
               "name": "Team Building",
               "category": "Social",
               "location": "ECSW 1.355"
             },
             {
-              "time": "1:00pm CST",
+              "time": "2:00pm CST",
               "name": "PNC Workshop",
               "category": "Workshop",
               "location": "ECSW 1.315"
             },
             {
-              "time": "1:55pm CST",
+              "time": "2:55pm CST",
               "name": "T-Mobile Workshop",
               "category": "Workshop",
               "location": "ECSW 1.315"
             },
             {
-              "time": "2:45pm CST",
+              "time": "3:45pm CST",
               "name": "Goldman Sachs Workshop",
               "category": "Workshop",
               "location": "ECSW 1.355"
             },
             {
-              "time": "3:40pm CST",
+              "time": "4:40pm CST",
               "name": "StateFarm Workshop",
               "category": "Workshop",
               "location": "ECSW 1.355"
             },
             {
-              "time": "4:35pm CST",
+              "time": "5:35pm CST",
               "name": "NMC^2 Workshop",
               "category": "Workshop",
               "location": "ECSW 1.355"
             },
             {
-              "time": "5:30pm CST",
+              "time": "6:30pm CST",
               "name": "EOG Workshop",
               "category": "Workshop",
               "location": "ECSW 1.355"
             },
             {
-              "time": "6:30pm CST",
-              "name": "MLH Workshop",
-              "category": "Workshop",
-              "location": "ECSW 1.355"
-            },
-            {
               "time": "7:00pm CST",
-              "name": "Typing Competition",
-              "category": "Social",
-              "location": "ESCW 1.365"
-            },
-            {
-              "time": "7:30pm CST",
               "name": "Dinner",
               "category": "Food",
               "location": "ESCW Atrium"
             },
             {
               "time": "7:30pm CST",
+              "name": "MLH Workshop",
+              "category": "Workshop",
+              "location": "ECSW 1.355"
+            },
+            {
+              "time": "8:00pm CST",
+              "name": "Typing Competition",
+              "category": "Social",
+              "location": "ESCW 1.365"
+            },
+            {
+              "time": "8:30pm CST",
               "name": "WEHack Workshop",
               "category": "Workshop",
               "location": "ECSW 1.355"
@@ -315,6 +315,159 @@
       ],
       "closingNote": "More Events Coming Soon"
     },
+    "challengeTracksSection": {
+      "title": "Challenge Tracks",
+      "intro": "Participate in up to 2 of our challenge tracks",
+      "tracks": [
+        {
+          "presenter": "Capital One",
+          "title": "Capital One Challenge Track",
+          "description": "Our track is The Best Financial Hack! This is your chance to change the game in fintech. Whether it's an innovative payment solution, helping consumers shop smarter, making financing more accessible, or a creative way to improve financial literacy, we want to see your boldest ideas in action. The track is intentionally vague to let you bring your own creativity to it!",
+          "prizes": [
+            { "place": "1st", "prize": "$300 Amazon Gift Card" }
+          ]
+        },
+        {
+          "presenter": "HackUTD",
+          "title": "Best Beginner",
+          "description": "",
+          "prizes": [
+            { "place": "1st", "prize": "Anker Power Bank" }
+          ]
+        },
+        {
+          "presenter": "HackUTD",
+          "title": "Best Startup",
+          "description": "",
+          "prizes": [
+            { "place": "1st", "prize": "Phillips Hue Light Bar" }
+          ]
+        },
+        {
+          "presenter": "CBRE",
+          "title": "CBRE CHALLENGE TRACK",
+          "description": "How might we build an AI-powered assistant that transforms how people access and trust information in real estate? Your task is to create a smart AI system that helps CBRE professionals automatically find, summarize, or predict key insights from large volumes of property, market, or operational data, making decision-making faster, easier, and more reliable.",
+          "prizes": [
+            { "place": "1st", "prize": "$250 Amazon Gift Card" },
+            { "place": "2nd", "prize": "$150 Amazon Gift Card" },
+            { "place": "3rd", "prize": "$75 Amazon Gift Card" }
+          ]
+        },
+        {
+          "presenter": "T-Mobile",
+          "title": "T-Mobile Challenge Track",
+          "description": "Build the T-Mobile Customer Happiness Index — a real-time, data-driven solution that captures how customers feel about T-Mobile. Engineer a system that streams live sentiment, feedback, and network data to detect issues before they spread, highlight moments of delight, and empower teams to enhance the customer experience. Use your skills in data engineering, APIs, analytics, and visualization to turn customer emotion into actionable insight.",
+          "prizes": [
+            { "place": "1st", "prize": "iPhone" },
+            { "place": "2nd", "prize": "iPad" },
+            { "place": "3rd", "prize": "Beats Earbuds" }
+          ]
+        },
+        {
+          "presenter": "Nvidia",
+          "title": "NVIDIA CHALLENGE TRACK",
+          "description": "NVIDIA is excited to sponsor HackUTD this year, inviting teams to build with NVIDIA Nemotron and push beyond basic chatbots. The challenge focuses on intelligent agents capable of planning and executing multi-step workflows, integrating external tools and APIs, and solving real-world problems with meaningful impact. Participants will explore how AI can take action, not just respond; opening pathways to automation, research acceleration, creative production, and more. Projects must demonstrate: reasoning beyond single-prompt conversation, workflow orchestration across steps or services, tool and API integration for data or task execution, and clear practical value and applicability",
+          "prizes": [
+            { "place": "1st", "prize": "3 RTX 5080 GPUs and 3 Nvidia Logo Hats" },
+            { "place": "2nd", "prize": "2 RTX 5080 GPUs, 3 Nvidia Backpacks and 3 $100 Brev Credits" },
+            { "place": "3rd", "prize": "3 Nvidia Backpacks and 3 $200 Brev Credits" }
+          ]
+        },
+        {
+          "presenter": "NMC^2",
+          "title": "NMC^2 Challenge Track",
+          "description": "NMC² operates several data centers around the globe including a $2.8 billion high performance compute facility powering 400MW of compute. Data center technicians keep these massive computing facilities running 24/7 however their day-to-day work is full of challenges such as complex workflows, varied environments, and endless work orders that demand attention. Build a solution that helps technicians stay efficient, safe, and effective. We're looking for creative solutions that bring a fresh perspective and we encourage hackers to think outside of the box. Prizes: I’ve put in a request and am currently awaiting approval from HR leadership.",
+          "prizes": [
+            { "place": "1st", "prize": "Nintendo Switch 2" },
+            { "place": "2nd", "prize": "Sony WH-1000XM5 Headphones" },
+            { "place": "3rd", "prize": "DJI Tello Drones" }
+          ]
+        },
+        {
+          "presenter": "Goldman Sachs",
+          "title": "Goldman Sachs Challenge Track",
+          "description": "Traditional vendor and client onboarding processes are often manual, fragmented, and prone to inefficiencies, leading to significant delays, increased operational costs, and heightened security risks. These processes frequently lack robust privilege management, making it difficult to enforce the baseline control requirements. Furthermore, the absence of integrated fraud detection mechanisms during onboarding exposes organizations to financial losses and reputational damage from fraudulent entities or activities. A unified, intelligent solution is needed to streamline these critical business functions while bolstering security and compliance.",
+          "prizes": [
+            { "place": "1st", "prize": "Apple Airpod Pro 3" },
+            { "place": "2nd", "prize": "Apple TV" },
+            { "place": "3rd", "prize": "Grub Hub Gift Card" }
+          ]
+        },
+        {
+          "presenter": "Toyota",
+          "title": "Toyota Challenge Track",
+          "description": "Toyota is the leader in making some of the best-selling, fuel efficient and top-quality automobiles in the world. As part of the hackathon, develop a web or mobile solution that helps people to easily shop for Toyota’s vehicles by searching, comparing, and finding their dream cars based on several personal preferences including costs to finance and/or lease a vehicle.",
+          "prizes": [
+            { "place": "1st", "prize": "$500 Amazon Gift Card" },
+            { "place": "2nd", "prize": "$350 Amazon Gift Card" },
+            { "place": "3rd", "prize": "$150 Amazon Gift Card" }
+          ]
+        },
+        {
+          "presenter": "HackUTD",
+          "title": "HackUTD General Track",
+          "description": "",
+          "prizes": [
+            { "place": "1st", "prize": "MacBook M4 16gb RAM" },
+            { "place": "2nd", "prize": "iPad 11\" A16 + Apple Pencil 2nd Gen (USB-C)" },
+            { "place": "3rd", "prize": "FlowLite 84" }
+          ]
+        },
+        {
+          "presenter": "PNC",
+          "title": "PNC Challenge Track",
+          "description": "We challenge you to design an AI-powered productivity solution for Product Managers.",
+          "prizes": [
+            { "place": "1st", "prize": "PlayStation 5 Slim" },
+            { "place": "2nd", "prize": "Ray-Ban Meta AI Sunglasses" },
+            { "place": "3rd", "prize": "Yaber TI Pro-Mini Smartphone Projector" }
+          ]
+        },
+        {
+          "presenter": "StateFarm",
+          "title": "STATEFARM CHALLENGE TRACK",
+          "description": "In this 24-hour hackathon challenge, build a tool that compares responses from two versions of a service by sending the same request to both and identifying any differences in their outputs. You will design and implement your own example service and front end as needed. The service should support operations such as creating and retrieving data, with input and output structured in JSON. Some differences between versions—like generated IDs during creation—are expected and should be flagged as acceptable. Unexpected differences, such as mismatched fields or error statuses, indicate potential issues. Your tool must perform a deep comparison of the responses, clearly reporting all discrepancies while distinguishing expected from unexpected differences. Provide a concise summary highlighting any regressions or inconsistencies. This challenge tests your ability to design, implement, and validate service behavior across versions, ensuring smooth evolution and reliable upgrades.",
+          "prizes": [
+            { "place": "1st", "prize": "HOVERair X1 Drone w/camera" },
+            { "place": "2nd", "prize": "Bose earbuds" },
+            { "place": "3rd", "prize": "Newsmy Portable Power Station" }
+          ]
+        },
+        {
+          "presenter": "HackUTD",
+          "title": "Best Design",
+          "description": "",
+          "prizes": [
+            { "place": "1st", "prize": "Fujifilm Instax Mini SE Instant Camera with Bonus 10 pack Mini Film" }
+          ]
+        },
+        {
+          "presenter": "EOG",
+          "title": "EOG CHALLENGE TRACK",
+          "description": "Deep within Poyo’s Potion Factory, dozens of enchanted cauldrons bubble away, collecting potions from brewing towers spread across the facility. Each cauldron fills at its own pace before courier witches swoop in to haul the precious brews to the Enchanted Market. Every collection is logged using Potion Transport Tickets detailing how much potion was collected and when the journey finished. But lately, something’s amiss! Potion volumes don’t quite match the transport tickets, and rumors of unlogged potion drains are spreading through the halls. Your task is to develop a real-time Potion Flow Monitoring Dashboard that tracks potion levels across all cauldrons, identifies collection events, and checks the Potion Transport Tickets to detect any missing or unlogged potion. The system should automatically flag inconsistencies, identify suspicious activity, and help ensure every drop of potion is properly accounted for. More information can be found here",
+          "prizes": [
+            { "place": "1st", "prize": "Nintendo Switch 2" },
+            { "place": "2nd", "prize": "Ninja Cremi" }
+          ]
+        },
+        {
+          "presenter": "HackUTD",
+          "title": "Best Guided",
+          "description": "",
+          "prizes": [
+            { "place": "1st", "prize": "Nord VPN 1 year subscription" }
+          ]
+        },
+        {
+          "presenter": "HackUTD",
+          "title": "Best Hardware",
+          "description": "",
+          "prizes": [
+            { "place": "1st", "prize": "ELEGOO UNO Project Starter Kit" }
+          ]
+        }
+      ]
+    },
     "faqSection": {
       "title": "FAQ",
       "contactInfo": "Can`t find what you`re looking for? Connect with our team at hello@hackutd.co",
@@ -384,7 +537,32 @@
     "sponsorshipSection": {
       "title": "interested in sponsoring?",
       "description": "If you would like to sponsor HackUTD, please reach out to us at hello@hackutd.co",
-      "contactEmail": "hello@hackutd.co"
+      "contactEmail": "hello@hackutd.co",
+      "sponsors": {
+        "tiers": [
+          {
+            "level": "Title",
+            "sponsors": ["PNC Bank"]
+          },
+          {
+            "level": "Platinum",
+            "sponsors": ["T-Mobile"]
+          },
+          {
+            "level": "Gold",
+            "sponsors": ["Goldman Sachs", "StateFarm", "Northmark C2", "EOG Resources", "Toyota Financial Services"]
+          },
+          {
+            "level": "Silver",
+            "sponsors": ["Nvidia", "Capital One", "CBRE"]
+          },
+          {
+            "level": "Bronze",
+            "sponsors": ["Scale", "Cognizant"]
+          }
+        ],
+        "closingNote": "and more to come!"
+      }
     },
     "footer": {
       "title": "HackUTD 2025",
